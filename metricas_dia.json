@@ -1,10 +1,10 @@
 {
   "data": "2026-08-13",
   "primeira_atualizacao": "13/08/2026 11:41:21",
-  "ultima_atualizacao": "13/08/2026 11:41:21",
+  "ultima_atualizacao": "13/08/2026 11:49:34",
   "total_base_dia": 56,
-  "total_atual": 56,
-  "novos_produtos": 0,
+  "total_atual": 57,
+  "novos_produtos": 1,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501005084026",
@@ -89,6 +89,7 @@
     "SP12501100770011",
     "SP12501100770012",
     "SP12501100770026",
+    "SP12501100770036",
     "SP12501100770411",
     "SP12501100796007",
     "SP12501100796024",
@@ -122,10 +123,25 @@
     "SP12501116765043",
     "SP42501001064042"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501100770036"
+  ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501100770036",
+      "id_produto": "19834",
+      "nome": "RADIADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    }
+  ],
   "itens_subidos_hoje": [],
   "detalhes_skus_vistos_hoje": {
     "SP12501102470007": {
@@ -799,6 +815,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    "SP12501100770036": {
+      "sku": "SP12501100770036",
+      "id_produto": "19834",
+      "nome": "RADIADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   }
 }
