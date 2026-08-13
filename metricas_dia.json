@@ -1,11 +1,11 @@
 {
   "data": "2026-08-13",
   "primeira_atualizacao": "13/08/2026 11:41:21",
-  "ultima_atualizacao": "13/08/2026 15:21:34",
+  "ultima_atualizacao": "13/08/2026 15:51:11",
   "total_base_dia": 56,
-  "total_atual": 49,
+  "total_atual": 41,
   "novos_produtos": 9,
-  "total_subidos": 16,
+  "total_subidos": 24,
   "skus_base_dia": [
     "SP12501005084026",
     "SP12501009586019",
@@ -143,8 +143,13 @@
     "SP12501102276010"
   ],
   "skus_subidos_hoje": [
+    "SP12501005084026",
+    "SP12501014083027",
+    "SP12501015209027",
+    "SP12501015322015",
     "SP12501015322037",
     "SP12501015411010",
+    "SP12501015535024",
     "SP12501100656038",
     "SP12501100770011",
     "SP12501100770012",
@@ -153,16 +158,24 @@
     "SP12501100770411",
     "SP12501100788010",
     "SP12501100788027",
+    "SP12501100788037",
+    "SP12501100788038",
     "SP12501100796045",
     "SP12501100796505",
     "SP12501102276007",
+    "SP12501102276010",
     "SP12501102276032",
     "SP12501102276033",
     "SP12501102276034"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501005084026",
+    "SP12501014083027",
+    "SP12501015209027",
+    "SP12501015322015",
     "SP12501015322037",
     "SP12501015411010",
+    "SP12501015535024",
     "SP12501100656038",
     "SP12501100770011",
     "SP12501100770012",
@@ -171,9 +184,12 @@
     "SP12501100770411",
     "SP12501100788010",
     "SP12501100788027",
+    "SP12501100788037",
+    "SP12501100788038",
     "SP12501100796045",
     "SP12501100796505",
     "SP12501102276007",
+    "SP12501102276010",
     "SP12501102276032",
     "SP12501102276033",
     "SP12501102276034"
@@ -210,7 +226,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -254,11 +270,11 @@
     {
       "sku": "SP12501100788037",
       "id_produto": "19841",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FORD KA ONE 1.0 2003/2003",
       "marca": "FORD",
       "modelo_do_veiculo": "KA ONE 1.0",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -266,11 +282,11 @@
     {
       "sku": "SP12501100788038",
       "id_produto": "19842",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FORD KA ONE 1.0 2003/2003",
       "marca": "FORD",
       "modelo_do_veiculo": "KA ONE 1.0",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -278,17 +294,65 @@
     {
       "sku": "SP12501102276010",
       "id_produto": "19840",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA HONDA FIT EX 1.5 FLEX 16V 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501005084026",
+      "id_produto": "16233",
+      "nome": "MOTOR DE PARTIDA HONDA FIT LX 1.5 FLEXONE 16V AUT 2015/2015",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501014083027",
+      "id_produto": "17033",
+      "nome": "PAINEL DE INSTRUMENTOS chevrolet PRISMA SED. 1.0 2018/18",
+      "marca": "chevrolet",
+      "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501015209027",
+      "id_produto": "17034",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT ARGO DRIVE 1.3 8V FLEX 2019/19",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.3 8V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501015322015",
+      "id_produto": "17375",
+      "nome": "FAROL DIREITO HONDA FIT LX 1.5 FLEXONE 16V 5P MEC 2015/15",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
     {
       "sku": "SP12501015322037",
       "id_produto": "19213",
@@ -314,13 +378,25 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501015535024",
+      "id_produto": "18788",
+      "nome": "MÓDULO DE INJEÇÃO Peugeot EXPERT BUSINESS 1.6 DIESEL 2021",
+      "marca": "Peugeot",
+      "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501100656038",
       "id_produto": "19837",
       "nome": "RETROVISOR ESQUERDO VOLKSWAGEN GOL CITY 1.0 T. FLEX 07/08",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -410,6 +486,30 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501100788037",
+      "id_produto": "19841",
+      "nome": "RETROVISOR DIREITO FORD KA ONE 1.0 2003/2003",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA ONE 1.0",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501100788038",
+      "id_produto": "19842",
+      "nome": "RETROVISOR ESQUERDO FORD KA ONE 1.0 2003/2003",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA ONE 1.0",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501100796045",
       "id_produto": "19825",
       "nome": "TAMPA TRASEIRA FORD FIESTA PERSONNALITÉ 1.0 8V 2004/2005",
@@ -444,6 +544,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102276010",
+      "id_produto": "19840",
+      "nome": "CHAVE DE SETA HONDA FIT EX 1.5 FLEX 16V 2005/2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501102276032",
@@ -498,11 +610,11 @@
     "SP12501005084026": {
       "sku": "SP12501005084026",
       "id_produto": "16233",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA HONDA FIT LX 1.5 FLEXONE 16V AUT 2015/2015",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -738,11 +850,11 @@
     "SP12501014083027": {
       "sku": "SP12501014083027",
       "id_produto": "17033",
-      "nome": "PAINEL DE INSTRUMENTOS",
-      "marca": "GM",
+      "nome": "PAINEL DE INSTRUMENTOS chevrolet PRISMA SED. 1.0 2018/18",
+      "marca": "chevrolet",
       "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -798,11 +910,11 @@
     "SP12501015535024": {
       "sku": "SP12501015535024",
       "id_produto": "18788",
-      "nome": "MÓDULO DE INJEÇÃO",
-      "marca": "PGT",
+      "nome": "MÓDULO DE INJEÇÃO Peugeot EXPERT BUSINESS 1.6 DIESEL 2021",
+      "marca": "Peugeot",
       "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -846,11 +958,11 @@
     "SP12501015209027": {
       "sku": "SP12501015209027",
       "id_produto": "17034",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT ARGO DRIVE 1.3 8V FLEX 2019/19",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.3 8V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -1146,11 +1258,11 @@
     "SP12501015322015": {
       "sku": "SP12501015322015",
       "id_produto": "17375",
-      "nome": "FAROL DIREITO",
+      "nome": "FAROL DIREITO HONDA FIT LX 1.5 FLEXONE 16V 5P MEC 2015/15",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1198,7 +1310,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1218,11 +1330,11 @@
     "SP12501102276010": {
       "sku": "SP12501102276010",
       "id_produto": "19840",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA HONDA FIT EX 1.5 FLEX 16V 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -1242,11 +1354,11 @@
     "SP12501100788038": {
       "sku": "SP12501100788038",
       "id_produto": "19842",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FORD KA ONE 1.0 2003/2003",
       "marca": "FORD",
       "modelo_do_veiculo": "KA ONE 1.0",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1254,11 +1366,11 @@
     "SP12501100788037": {
       "sku": "SP12501100788037",
       "id_produto": "19841",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FORD KA ONE 1.0 2003/2003",
       "marca": "FORD",
       "modelo_do_veiculo": "KA ONE 1.0",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
