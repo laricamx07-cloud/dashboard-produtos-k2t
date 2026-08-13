@@ -1,11 +1,11 @@
 {
   "data": "2026-08-13",
   "primeira_atualizacao": "13/08/2026 11:41:21",
-  "ultima_atualizacao": "13/08/2026 17:21:15",
+  "ultima_atualizacao": "13/08/2026 17:51:16",
   "total_base_dia": 56,
-  "total_atual": 43,
-  "novos_produtos": 16,
-  "total_subidos": 29,
+  "total_atual": 46,
+  "novos_produtos": 20,
+  "total_subidos": 30,
   "skus_base_dia": [
     "SP12501005084026",
     "SP12501009586019",
@@ -72,6 +72,8 @@
     "SP12501009918013",
     "SP12501009918014",
     "SP12501014083027",
+    "SP12501014881002",
+    "SP12501014881003",
     "SP12501014903013",
     "SP12501014903014",
     "SP12501015209027",
@@ -105,11 +107,13 @@
     "SP12501100788027",
     "SP12501100788037",
     "SP12501100788038",
+    "SP12501100788400",
     "SP12501100796007",
     "SP12501100796024",
     "SP12501100796031",
     "SP12501100796038",
     "SP12501100796045",
+    "SP12501100796400",
     "SP12501100796505",
     "SP12501100834024",
     "SP12501100842007",
@@ -142,6 +146,8 @@
     "SP12501004304019",
     "SP12501009918013",
     "SP12501009918014",
+    "SP12501014881002",
+    "SP12501014881003",
     "SP12501014903013",
     "SP12501014903014",
     "SP12501015322037",
@@ -154,6 +160,8 @@
     "SP12501100788027",
     "SP12501100788037",
     "SP12501100788038",
+    "SP12501100788400",
+    "SP12501100796400",
     "SP12501102276010"
   ],
   "skus_subidos_hoje": [
@@ -165,6 +173,7 @@
     "SP12501015322037",
     "SP12501015411010",
     "SP12501015535024",
+    "SP12501016655411",
     "SP12501100656038",
     "SP12501100770011",
     "SP12501100770012",
@@ -196,6 +205,7 @@
     "SP12501015322037",
     "SP12501015411010",
     "SP12501015535024",
+    "SP12501016655411",
     "SP12501100656038",
     "SP12501100770011",
     "SP12501100770012",
@@ -249,6 +259,30 @@
       "nome": "DIFERENCIAL EIXO TRASEIRO",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE CUSTOM 2.0 4X4 TB DIESEL AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501014881002",
+      "id_produto": "19157",
+      "nome": "BLOCO DO MOTOR",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501014881003",
+      "id_produto": "19158",
+      "nome": "CABEÇOTE COM VÁLVULAS",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -318,11 +352,11 @@
     {
       "sku": "SP12501016655411",
       "id_produto": "18792",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT FREEMONT EMOT./PRECISION 2.4 2014/2015",
       "marca": "FIAT",
       "modelo_do_veiculo": "FREEMONT EMOT./PRECISION 2.4 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -398,6 +432,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501100788400",
+      "id_produto": "19843",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA ONE 1.0",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100796400",
+      "id_produto": "19844",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501102276010",
@@ -508,6 +566,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501016655411",
+      "id_produto": "18792",
+      "nome": "ELETROVENTILADOR FIAT FREEMONT EMOT./PRECISION 2.4 2014/2015",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FREEMONT EMOT./PRECISION 2.4 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501100656038",
@@ -1558,11 +1628,11 @@
     "SP12501016655411": {
       "sku": "SP12501016655411",
       "id_produto": "18792",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT FREEMONT EMOT./PRECISION 2.4 2014/2015",
       "marca": "FIAT",
       "modelo_do_veiculo": "FREEMONT EMOT./PRECISION 2.4 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1626,6 +1696,54 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    "SP12501100796400": {
+      "sku": "SP12501100796400",
+      "id_produto": "19844",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501014881002": {
+      "sku": "SP12501014881002",
+      "id_produto": "19157",
+      "nome": "BLOCO DO MOTOR",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    "SP12501014881003": {
+      "sku": "SP12501014881003",
+      "id_produto": "19158",
+      "nome": "CABEÇOTE COM VÁLVULAS",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501100788400": {
+      "sku": "SP12501100788400",
+      "id_produto": "19843",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA ONE 1.0",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
