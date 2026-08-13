@@ -1,11 +1,11 @@
 {
   "data": "2026-08-13",
   "primeira_atualizacao": "13/08/2026 11:41:21",
-  "ultima_atualizacao": "13/08/2026 12:51:42",
+  "ultima_atualizacao": "13/08/2026 13:21:15",
   "total_base_dia": 56,
-  "total_atual": 59,
+  "total_atual": 55,
   "novos_produtos": 7,
-  "total_subidos": 4,
+  "total_subidos": 8,
   "skus_base_dia": [
     "SP12501005084026",
     "SP12501009586019",
@@ -139,12 +139,20 @@
     "SP12501102276010"
   ],
   "skus_subidos_hoje": [
+    "SP12501100770011",
+    "SP12501100770012",
+    "SP12501100770026",
+    "SP12501100770036",
     "SP12501100770411",
     "SP12501100788010",
     "SP12501100788027",
     "SP12501100796505"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501100770011",
+    "SP12501100770012",
+    "SP12501100770026",
+    "SP12501100770036",
     "SP12501100770411",
     "SP12501100788010",
     "SP12501100788027",
@@ -190,11 +198,11 @@
     {
       "sku": "SP12501100770036",
       "id_produto": "19834",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FORD ECOSPORT XLS 1.6 FLEX 8V 5P 2005/2005",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -238,13 +246,61 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501100770011",
+      "id_produto": "19831",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FORD ECOSPORT 1.6 FLEX 2005/05",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100770012",
+      "id_produto": "19832",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FORD ECOSPORT XLS 1.6 2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100770026",
+      "id_produto": "19833",
+      "nome": "MOTOR DE PARTIDA FORD ECOSPORT XLS 1.6 FLEX 8V 5P 2005/05",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100770036",
+      "id_produto": "19834",
+      "nome": "RADIADOR FORD ECOSPORT XLS 1.6 FLEX 8V 5P 2005/2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501100770411",
       "id_produto": "19835",
       "nome": "ELETROVENTILADOR FORD ECOSPORT XLS 1.6 FLEX 8V 5P 2005",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -362,11 +418,11 @@
     "SP12501100770026": {
       "sku": "SP12501100770026",
       "id_produto": "19833",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FORD ECOSPORT XLS 1.6 FLEX 8V 5P 2005/05",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -422,11 +478,11 @@
     "SP12501100770012": {
       "sku": "SP12501100770012",
       "id_produto": "19832",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FORD ECOSPORT XLS 1.6 2005",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -438,7 +494,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -902,11 +958,11 @@
     "SP12501100770011": {
       "sku": "SP12501100770011",
       "id_produto": "19831",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FORD ECOSPORT 1.6 FLEX 2005/05",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -962,11 +1018,11 @@
     "SP12501100770036": {
       "sku": "SP12501100770036",
       "id_produto": "19834",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FORD ECOSPORT XLS 1.6 FLEX 8V 5P 2005/2005",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
