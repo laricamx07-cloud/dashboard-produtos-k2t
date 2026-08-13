@@ -1,11 +1,11 @@
 {
   "data": "2026-08-13",
   "primeira_atualizacao": "13/08/2026 11:41:21",
-  "ultima_atualizacao": "13/08/2026 14:53:43",
+  "ultima_atualizacao": "13/08/2026 15:21:34",
   "total_base_dia": 56,
-  "total_atual": 52,
+  "total_atual": 49,
   "novos_produtos": 9,
-  "total_subidos": 13,
+  "total_subidos": 16,
   "skus_base_dia": [
     "SP12501005084026",
     "SP12501009586019",
@@ -143,6 +143,9 @@
     "SP12501102276010"
   ],
   "skus_subidos_hoje": [
+    "SP12501015322037",
+    "SP12501015411010",
+    "SP12501100656038",
     "SP12501100770011",
     "SP12501100770012",
     "SP12501100770026",
@@ -158,6 +161,9 @@
     "SP12501102276034"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501015322037",
+    "SP12501015411010",
+    "SP12501100656038",
     "SP12501100770011",
     "SP12501100770012",
     "SP12501100770026",
@@ -176,11 +182,11 @@
     {
       "sku": "SP12501015322037",
       "id_produto": "19213",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO HONDA FIT LX 1.5 FLEXONE 16V 2015/2015",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -188,11 +194,11 @@
     {
       "sku": "SP12501015411010",
       "id_produto": "18783",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA TOYOTA ETIOS XLS 1.5 FLEX 16V 2013/2014",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XLS 1.5 FLEX 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -200,11 +206,11 @@
     {
       "sku": "SP12501100656038",
       "id_produto": "19837",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO VOLKSWAGEN GOL CITY 1.0 T. FLEX 07/08",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -283,6 +289,42 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501015322037",
+      "id_produto": "19213",
+      "nome": "RETROVISOR DIREITO HONDA FIT LX 1.5 FLEXONE 16V 2015/2015",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015411010",
+      "id_produto": "18783",
+      "nome": "CHAVE DE SETA TOYOTA ETIOS XLS 1.5 FLEX 16V 2013/2014",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS XLS 1.5 FLEX 16V 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501100656038",
+      "id_produto": "19837",
+      "nome": "RETROVISOR ESQUERDO VOLKSWAGEN GOL CITY 1.0 T. FLEX 07/08",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
     {
       "sku": "SP12501100770011",
       "id_produto": "19831",
@@ -1128,11 +1170,11 @@
     "SP12501015322037": {
       "sku": "SP12501015322037",
       "id_produto": "19213",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO HONDA FIT LX 1.5 FLEXONE 16V 2015/2015",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1140,11 +1182,11 @@
     "SP12501015411010": {
       "sku": "SP12501015411010",
       "id_produto": "18783",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA TOYOTA ETIOS XLS 1.5 FLEX 16V 2013/2014",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XLS 1.5 FLEX 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -1152,11 +1194,11 @@
     "SP12501100656038": {
       "sku": "SP12501100656038",
       "id_produto": "19837",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO VOLKSWAGEN GOL CITY 1.0 T. FLEX 07/08",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
