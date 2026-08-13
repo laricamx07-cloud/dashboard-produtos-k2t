@@ -1,11 +1,11 @@
 {
   "data": "2026-08-13",
   "primeira_atualizacao": "13/08/2026 11:41:21",
-  "ultima_atualizacao": "13/08/2026 13:21:15",
+  "ultima_atualizacao": "13/08/2026 13:51:12",
   "total_base_dia": 56,
-  "total_atual": 55,
+  "total_atual": 50,
   "novos_produtos": 7,
-  "total_subidos": 8,
+  "total_subidos": 13,
   "skus_base_dia": [
     "SP12501005084026",
     "SP12501009586019",
@@ -146,7 +146,12 @@
     "SP12501100770411",
     "SP12501100788010",
     "SP12501100788027",
-    "SP12501100796505"
+    "SP12501100796045",
+    "SP12501100796505",
+    "SP12501102276007",
+    "SP12501102276032",
+    "SP12501102276033",
+    "SP12501102276034"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501100770011",
@@ -156,7 +161,12 @@
     "SP12501100770411",
     "SP12501100788010",
     "SP12501100788027",
-    "SP12501100796505"
+    "SP12501100796045",
+    "SP12501100796505",
+    "SP12501102276007",
+    "SP12501102276032",
+    "SP12501102276033",
+    "SP12501102276034"
   ],
   "itens_novos_hoje": [
     {
@@ -330,6 +340,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501100796045",
+      "id_produto": "19825",
+      "nome": "TAMPA TRASEIRA FORD FIESTA PERSONNALITÉ 1.0 8V 2004/2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501100796505",
       "id_produto": "19836",
       "nome": "GRADE DO RADIADOR FORD FIESTA PERSONNALITÉ 1.0 2004/2005",
@@ -340,6 +362,54 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102276007",
+      "id_produto": "19826",
+      "nome": "CAPÔ HONDA FIT EX 1.5 FLEX 16V 5P MEC. 2005/2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102276032",
+      "id_produto": "19827",
+      "nome": "PORTA DIANTEIRA DIREITA HONDA FIT EX 1.5 FLEX 16V 2005/2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501102276033",
+      "id_produto": "19828",
+      "nome": "PORTA DIANTEIRA ESQUERDA HONDA FIT EX 1.5 FLEX 2005/2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501102276034",
+      "id_produto": "19829",
+      "nome": "PORTA TRASEIRA DIREITA HONDA FIT EX 1.5 FLEX 16V 2005/2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -430,11 +500,11 @@
     "SP12501102276033": {
       "sku": "SP12501102276033",
       "id_produto": "19828",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA HONDA FIT EX 1.5 FLEX 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -610,11 +680,11 @@
     "SP12501102276007": {
       "sku": "SP12501102276007",
       "id_produto": "19826",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ HONDA FIT EX 1.5 FLEX 16V 5P MEC. 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -730,11 +800,11 @@
     "SP12501102276032": {
       "sku": "SP12501102276032",
       "id_produto": "19827",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA HONDA FIT EX 1.5 FLEX 16V 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -766,11 +836,11 @@
     "SP12501102276034": {
       "sku": "SP12501102276034",
       "id_produto": "19829",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA HONDA FIT EX 1.5 FLEX 16V 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -826,11 +896,11 @@
     "SP12501100796045": {
       "sku": "SP12501100796045",
       "id_produto": "19825",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA FORD FIESTA PERSONNALITÉ 1.0 8V 2004/2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
