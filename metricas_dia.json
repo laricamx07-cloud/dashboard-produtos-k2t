@@ -1,10 +1,10 @@
 {
   "data": "2026-08-14",
   "primeira_atualizacao": "14/08/2026 00:23:55",
-  "ultima_atualizacao": "14/08/2026 15:01:56",
+  "ultima_atualizacao": "14/08/2026 15:21:19",
   "total_base_dia": 47,
-  "total_atual": 58,
-  "novos_produtos": 39,
+  "total_atual": 59,
+  "novos_produtos": 40,
   "total_subidos": 28,
   "skus_base_dia": [
     "SP12501004304019",
@@ -103,6 +103,7 @@
     "SP12501100672033",
     "SP12501100672035",
     "SP12501100672045",
+    "SP12501100672400",
     "SP12501100702004",
     "SP12501100702007",
     "SP12501100702032",
@@ -170,6 +171,7 @@
     "SP12501100672033",
     "SP12501100672035",
     "SP12501100672045",
+    "SP12501100672400",
     "SP12501100702004",
     "SP12501100702007",
     "SP12501100702032",
@@ -556,6 +558,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100672400",
+      "id_produto": "19877",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501100702004",
@@ -2083,6 +2097,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501100672400": {
+      "sku": "SP12501100672400",
+      "id_produto": "19877",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "10"
     }
   }
