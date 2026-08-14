@@ -1,10 +1,10 @@
 {
   "data": "2026-08-14",
   "primeira_atualizacao": "14/08/2026 00:23:55",
-  "ultima_atualizacao": "14/08/2026 08:21:17",
+  "ultima_atualizacao": "14/08/2026 08:53:29",
   "total_base_dia": 47,
-  "total_atual": 47,
-  "novos_produtos": 0,
+  "total_atual": 48,
+  "novos_produtos": 1,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004304019",
@@ -77,6 +77,7 @@
     "SP12501080469424",
     "SP12501080485026",
     "SP12501089229040",
+    "SP12501100702032",
     "SP12501100788004",
     "SP12501100788400",
     "SP12501100796004",
@@ -104,10 +105,25 @@
     "SP12501116765043",
     "SP42501001064042"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501100702032"
+  ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501100702032",
+      "id_produto": "19848",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    }
+  ],
   "itens_subidos_hoje": [],
   "detalhes_skus_vistos_hoje": {
     "SP42501001064042": {
@@ -673,6 +689,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
+    },
+    "SP12501100702032": {
+      "sku": "SP12501100702032",
+      "id_produto": "19848",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   }
 }
