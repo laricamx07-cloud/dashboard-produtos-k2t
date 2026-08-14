@@ -1,11 +1,11 @@
 {
   "data": "2026-08-14",
   "primeira_atualizacao": "14/08/2026 00:23:55",
-  "ultima_atualizacao": "14/08/2026 11:51:08",
+  "ultima_atualizacao": "14/08/2026 12:23:45",
   "total_base_dia": 47,
-  "total_atual": 70,
+  "total_atual": 69,
   "novos_produtos": 33,
-  "total_subidos": 10,
+  "total_subidos": 11,
   "skus_base_dia": [
     "SP12501004304019",
     "SP12501009648039",
@@ -180,6 +180,7 @@
     "SP12501100656045",
     "SP12501100702007",
     "SP12501100702032",
+    "SP12501100702033",
     "SP12501100788045",
     "SP12501102446045",
     "SP32501001245121"
@@ -192,6 +193,7 @@
     "SP12501100656045",
     "SP12501100702007",
     "SP12501100702032",
+    "SP12501100702033",
     "SP12501100788045",
     "SP12501102446045",
     "SP32501001245121"
@@ -488,11 +490,11 @@
     {
       "sku": "SP12501100702033",
       "id_produto": "19853",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT KWID ZEN 1.0 FLEX 12V 2018",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -671,6 +673,18 @@
       "sku": "SP12501100702032",
       "id_produto": "19848",
       "nome": "PORTA DIANTEIRA DIREITA RENAULT KWID ZEN 1.0 FLEX 12V 2018",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100702033",
+      "id_produto": "19853",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT KWID ZEN 1.0 FLEX 12V 2018",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
       "status": "Habilitado",
@@ -1440,11 +1454,11 @@
     "SP12501100702033": {
       "sku": "SP12501100702033",
       "id_produto": "19853",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT KWID ZEN 1.0 FLEX 12V 2018",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
