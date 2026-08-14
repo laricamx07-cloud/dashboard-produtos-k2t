@@ -1,11 +1,11 @@
 {
   "data": "2026-08-14",
   "primeira_atualizacao": "14/08/2026 00:23:55",
-  "ultima_atualizacao": "14/08/2026 16:33:10",
+  "ultima_atualizacao": "14/08/2026 16:51:07",
   "total_base_dia": 47,
-  "total_atual": 52,
+  "total_atual": 51,
   "novos_produtos": 40,
-  "total_subidos": 36,
+  "total_subidos": 37,
   "skus_base_dia": [
     "SP12501004304019",
     "SP12501009648039",
@@ -199,6 +199,7 @@
     "SP12501100648033",
     "SP12501100648035",
     "SP12501100648045",
+    "SP12501100656004",
     "SP12501100656010",
     "SP12501100656019",
     "SP12501100656024",
@@ -237,6 +238,7 @@
     "SP12501100648033",
     "SP12501100648035",
     "SP12501100648045",
+    "SP12501100656004",
     "SP12501100656010",
     "SP12501100656019",
     "SP12501100656024",
@@ -426,7 +428,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -888,6 +890,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100656004",
+      "id_produto": "19873",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2007/08",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501100656010",
@@ -2182,7 +2196,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
