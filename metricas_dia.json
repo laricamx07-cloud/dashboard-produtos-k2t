@@ -1,11 +1,11 @@
 {
   "data": "2026-08-14",
   "primeira_atualizacao": "14/08/2026 00:23:55",
-  "ultima_atualizacao": "14/08/2026 12:23:45",
+  "ultima_atualizacao": "14/08/2026 12:51:03",
   "total_base_dia": 47,
-  "total_atual": 69,
-  "novos_produtos": 33,
-  "total_subidos": 11,
+  "total_atual": 68,
+  "novos_produtos": 34,
+  "total_subidos": 13,
   "skus_base_dia": [
     "SP12501004304019",
     "SP12501009648039",
@@ -63,6 +63,7 @@
     "SP12501014881002",
     "SP12501014881003",
     "SP12501014903014",
+    "SP12501014920013",
     "SP12501014920014",
     "SP12501015268013",
     "SP12501015411026",
@@ -139,6 +140,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501010312030",
+    "SP12501014920013",
     "SP12501014920014",
     "SP12501015268013",
     "SP12501015527013",
@@ -181,6 +183,8 @@
     "SP12501100702007",
     "SP12501100702032",
     "SP12501100702033",
+    "SP12501100702034",
+    "SP12501100702035",
     "SP12501100788045",
     "SP12501102446045",
     "SP32501001245121"
@@ -194,6 +198,8 @@
     "SP12501100702007",
     "SP12501100702032",
     "SP12501100702033",
+    "SP12501100702034",
+    "SP12501100702035",
     "SP12501100788045",
     "SP12501102446045",
     "SP32501001245121"
@@ -210,6 +216,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501014920013",
+      "id_produto": "19113",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO FREEDOM 2.0 16V 4X4 TB DIESEL MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501014920014",
@@ -502,11 +520,11 @@
     {
       "sku": "SP12501100702034",
       "id_produto": "19854",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT KWID ZEN 1.0 FLEX 2018/2018",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -514,11 +532,11 @@
     {
       "sku": "SP12501100702035",
       "id_produto": "19855",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA RENAULT KWID ZEN 1.0 FLEX 12V 2018",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -691,6 +709,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100702034",
+      "id_produto": "19854",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT KWID ZEN 1.0 FLEX 2018/2018",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100702035",
+      "id_produto": "19855",
+      "nome": "PORTA TRASEIRA ESQUERDA RENAULT KWID ZEN 1.0 FLEX 12V 2018",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -1382,11 +1424,11 @@
     "SP12501100702034": {
       "sku": "SP12501100702034",
       "id_produto": "19854",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT KWID ZEN 1.0 FLEX 2018/2018",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1442,11 +1484,11 @@
     "SP12501100702035": {
       "sku": "SP12501100702035",
       "id_produto": "19855",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA RENAULT KWID ZEN 1.0 FLEX 12V 2018",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1690,6 +1732,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    "SP12501014920013": {
+      "sku": "SP12501014920013",
+      "id_produto": "19113",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO FREEDOM 2.0 16V 4X4 TB DIESEL MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     }
   }
 }
