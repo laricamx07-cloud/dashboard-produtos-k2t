@@ -1,10 +1,10 @@
 {
   "data": "2026-08-14",
   "primeira_atualizacao": "14/08/2026 00:23:55",
-  "ultima_atualizacao": "14/08/2026 09:51:05",
+  "ultima_atualizacao": "14/08/2026 10:21:16",
   "total_base_dia": 47,
-  "total_atual": 54,
-  "novos_produtos": 7,
+  "total_atual": 57,
+  "novos_produtos": 10,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004304019",
@@ -63,6 +63,7 @@
     "SP12501014881002",
     "SP12501014881003",
     "SP12501014903014",
+    "SP12501015268013",
     "SP12501015411026",
     "SP12501015624014",
     "SP12501041145437",
@@ -81,7 +82,9 @@
     "SP12501089229040",
     "SP12501100656045",
     "SP12501100702032",
+    "SP12501100702034",
     "SP12501100788004",
+    "SP12501100788026",
     "SP12501100788045",
     "SP12501100788400",
     "SP12501100796004",
@@ -113,9 +116,12 @@
   ],
   "skus_novos_hoje": [
     "SP12501010312030",
+    "SP12501015268013",
     "SP12501015624014",
     "SP12501100656045",
     "SP12501100702032",
+    "SP12501100702034",
+    "SP12501100788026",
     "SP12501100788045",
     "SP12501102446045",
     "SP32501001245121"
@@ -134,6 +140,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501015268013",
+      "id_produto": "19109",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE REBEL HURR 4 2.0 TB CD 4X4 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501015624014",
@@ -169,6 +187,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100702034",
+      "id_produto": "19854",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100788026",
+      "id_produto": "19856",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "10"
     },
     {
@@ -857,6 +899,42 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    "SP12501100702034": {
+      "sku": "SP12501100702034",
+      "id_produto": "19854",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501015268013": {
+      "sku": "SP12501015268013",
+      "id_produto": "19109",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE REBEL HURR 4 2.0 TB CD 4X4 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501100788026": {
+      "sku": "SP12501100788026",
+      "id_produto": "19856",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     }
   }
 }
