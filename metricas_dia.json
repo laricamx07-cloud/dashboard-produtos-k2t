@@ -1,11 +1,11 @@
 {
   "data": "2026-08-17",
   "primeira_atualizacao": "17/08/2026 08:22:08",
-  "ultima_atualizacao": "17/08/2026 09:51:01",
+  "ultima_atualizacao": "17/08/2026 10:04:52",
   "total_base_dia": 50,
-  "total_atual": 48,
+  "total_atual": 44,
   "novos_produtos": 3,
-  "total_subidos": 5,
+  "total_subidos": 9,
   "skus_base_dia": [
     "SP12501004304019",
     "SP12501009648039",
@@ -119,6 +119,10 @@
     "SP12501100702012"
   ],
   "skus_subidos_hoje": [
+    "SP12501014881002",
+    "SP12501014903014",
+    "SP12501100656036",
+    "SP12501100702012",
     "SP12501100788004",
     "SP12501100788400",
     "SP12501100796004",
@@ -126,6 +130,10 @@
     "SP12501100800004"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501014881002",
+    "SP12501014903014",
+    "SP12501100656036",
+    "SP12501100702012",
     "SP12501100788004",
     "SP12501100788400",
     "SP12501100796004",
@@ -136,11 +144,11 @@
     {
       "sku": "SP12501100656036",
       "id_produto": "19878",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2007/2008",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -160,17 +168,65 @@
     {
       "sku": "SP12501100702012",
       "id_produto": "19880",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO RENAULT KWID ZEN 1.0 FLEX 18",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501014881002",
+      "id_produto": "19157",
+      "nome": "BLOCO DO MOTOR JEEP COMPASS SPORT 2.0 4X2 FLEX 16V AUT 16/17",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501014903014",
+      "id_produto": "19036",
+      "nome": "DIFERENCIAL EIXO TRASEIRO RAM RAMPAGE LAR. HURR. 4 2.0 23/24",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE LAR. HURR. 4 2.0 TB CD 4X4 AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501100656036",
+      "id_produto": "19878",
+      "nome": "RADIADOR VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2007/2008",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501100702012",
+      "id_produto": "19880",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO RENAULT KWID ZEN 1.0 FLEX 18",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
     {
       "sku": "SP12501100788004",
       "id_produto": "19845",
@@ -452,11 +508,11 @@
     "SP12501014881002": {
       "sku": "SP12501014881002",
       "id_produto": "19157",
-      "nome": "BLOCO DO MOTOR",
+      "nome": "BLOCO DO MOTOR JEEP COMPASS SPORT 2.0 4X2 FLEX 16V AUT 16/17",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -584,11 +640,11 @@
     "SP12501014903014": {
       "sku": "SP12501014903014",
       "id_produto": "19036",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO RAM RAMPAGE LAR. HURR. 4 2.0 23/24",
       "marca": "RAM",
       "modelo_do_veiculo": "RAMPAGE LAR. HURR. 4 2.0 TB CD 4X4 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -836,11 +892,11 @@
     "SP12501100656036": {
       "sku": "SP12501100656036",
       "id_produto": "19878",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2007/2008",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -848,11 +904,11 @@
     "SP12501100702012": {
       "sku": "SP12501100702012",
       "id_produto": "19880",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO RENAULT KWID ZEN 1.0 FLEX 18",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
