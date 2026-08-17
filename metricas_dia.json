@@ -1,10 +1,10 @@
 {
   "data": "2026-08-17",
   "primeira_atualizacao": "17/08/2026 08:22:08",
-  "ultima_atualizacao": "17/08/2026 10:19:18",
+  "ultima_atualizacao": "17/08/2026 10:21:10",
   "total_base_dia": 50,
-  "total_atual": 42,
-  "novos_produtos": 5,
+  "total_atual": 43,
+  "novos_produtos": 6,
   "total_subidos": 13,
   "skus_base_dia": [
     "SP12501004304019",
@@ -86,6 +86,7 @@
     "SP12501100656036",
     "SP12501100656411",
     "SP12501100672035",
+    "SP12501100672036",
     "SP12501100702012",
     "SP12501100788004",
     "SP12501100788400",
@@ -119,6 +120,7 @@
     "SP12501100648004",
     "SP12501100656036",
     "SP12501100656411",
+    "SP12501100672036",
     "SP12501100702012",
     "SP12501100834026"
   ],
@@ -190,6 +192,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501100672036",
+      "id_produto": "19884",
+      "nome": "RADIADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501100702012",
       "id_produto": "19880",
       "nome": "CONDENSADOR DO AR-CONDICIONADO RENAULT KWID ZEN 1.0 FLEX 18",
@@ -258,7 +272,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONGITUDE 2.0 4X4 TB DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -944,7 +958,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONGITUDE 2.0 4X4 TB DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1032,6 +1046,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501100672036": {
+      "sku": "SP12501100672036",
+      "id_produto": "19884",
+      "nome": "RADIADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     }
   }
 }
