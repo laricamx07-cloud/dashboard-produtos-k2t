@@ -1,11 +1,11 @@
 {
   "data": "2026-08-17",
   "primeira_atualizacao": "17/08/2026 08:22:08",
-  "ultima_atualizacao": "17/08/2026 15:50:49",
+  "ultima_atualizacao": "17/08/2026 16:18:48",
   "total_base_dia": 50,
-  "total_atual": 46,
+  "total_atual": 39,
   "novos_produtos": 25,
-  "total_subidos": 29,
+  "total_subidos": 36,
   "skus_base_dia": [
     "SP12501004304019",
     "SP12501009648039",
@@ -164,9 +164,11 @@
   ],
   "skus_subidos_hoje": [
     "SP12501004304019",
+    "SP12501004371014",
     "SP12501009918013",
     "SP12501014881002",
     "SP12501014903014",
+    "SP12501014970013",
     "SP12501014970014",
     "SP12501015276013",
     "SP12501015411026",
@@ -174,19 +176,24 @@
     "SP12501041560026",
     "SP12501080248011",
     "SP12501100648004",
+    "SP12501100648029",
     "SP12501100648400",
     "SP12501100656036",
     "SP12501100656411",
     "SP12501100672004",
+    "SP12501100672024",
     "SP12501100672036",
     "SP12501100672411",
+    "SP12501100699027",
     "SP12501100699034",
     "SP12501100702012",
+    "SP12501100702024",
     "SP12501100702036",
     "SP12501100702411",
     "SP12501100788004",
     "SP12501100788400",
     "SP12501100796004",
+    "SP12501100796028",
     "SP12501100796400",
     "SP12501100800004",
     "SP12501100834026",
@@ -195,9 +202,11 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004304019",
+    "SP12501004371014",
     "SP12501009918013",
     "SP12501014881002",
     "SP12501014903014",
+    "SP12501014970013",
     "SP12501014970014",
     "SP12501015276013",
     "SP12501015411026",
@@ -205,19 +214,24 @@
     "SP12501041560026",
     "SP12501080248011",
     "SP12501100648004",
+    "SP12501100648029",
     "SP12501100648400",
     "SP12501100656036",
     "SP12501100656411",
     "SP12501100672004",
+    "SP12501100672024",
     "SP12501100672036",
     "SP12501100672411",
+    "SP12501100699027",
     "SP12501100699034",
     "SP12501100702012",
+    "SP12501100702024",
     "SP12501100702036",
     "SP12501100702411",
     "SP12501100788004",
     "SP12501100788400",
     "SP12501100796004",
+    "SP12501100796028",
     "SP12501100796400",
     "SP12501100800004",
     "SP12501100834026",
@@ -228,11 +242,11 @@
     {
       "sku": "SP12501004371014",
       "id_produto": "19081",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO FIAT TORO VOLCANO 2.0 16V 16/17",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO VOLCANO 2.0 16V 4X4 TB DIESEL AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -240,11 +254,11 @@
     {
       "sku": "SP12501014970013",
       "id_produto": "19107",
-      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP RENEGADE TRAILHAWK 2.0 18/19",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -288,11 +302,11 @@
     {
       "sku": "SP12501100648029",
       "id_produto": "19903",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -348,11 +362,11 @@
     {
       "sku": "SP12501100672024",
       "id_produto": "19904",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA TIT.PLUS 1.6 16V 2013/2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -384,11 +398,11 @@
     {
       "sku": "SP12501100699027",
       "id_produto": "19905",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS HYUNDAI HB20 SENSE 1.0 FLEX 20/21",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -420,11 +434,11 @@
     {
       "sku": "SP12501100702024",
       "id_produto": "19906",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT KWID ZEN 1.0 FLEX 12V 2018/2018",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -456,11 +470,11 @@
     {
       "sku": "SP12501100796028",
       "id_produto": "19907",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO FORD FIESTA PERSONNALITÉ 1.0 2004/2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -540,6 +554,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501004371014",
+      "id_produto": "19081",
+      "nome": "DIFERENCIAL EIXO TRASEIRO FIAT TORO VOLCANO 2.0 16V 16/17",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO VOLCANO 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501009918013",
       "id_produto": "19150",
       "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP RENEGADE CUSTOM 2.0 4X4 2018",
@@ -574,6 +600,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501014970013",
+      "id_produto": "19107",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP RENEGADE TRAILHAWK 2.0 18/19",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501014970014",
@@ -660,6 +698,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501100648029",
+      "id_produto": "19903",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT ARGO 1.0 6V FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501100648400",
       "id_produto": "19882",
       "nome": "MOTOR COMPLETO FIAT ARGO 1.0 6V FLEX 2021/2021",
@@ -708,6 +758,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501100672024",
+      "id_produto": "19904",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA TIT.PLUS 1.6 16V 2013/2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501100672036",
       "id_produto": "19884",
       "nome": "RADIADOR FORD FIESTA TIT.PLUS 1.6 16V FLEX AUT. 2013/2014",
@@ -732,6 +794,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501100699027",
+      "id_produto": "19905",
+      "nome": "PAINEL DE INSTRUMENTOS HYUNDAI HB20 SENSE 1.0 FLEX 20/21",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501100699034",
       "id_produto": "19890",
       "nome": "PORTA TRASEIRA DIREITA HYUNDAI HB20 SENSE 1.0 FLEX 2020/2021",
@@ -754,6 +828,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501100702024",
+      "id_produto": "19906",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT KWID ZEN 1.0 FLEX 12V 2018/2018",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501100702036",
@@ -814,6 +900,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100796028",
+      "id_produto": "19907",
+      "nome": "PARA-CHOQUE DIANTEIRO FORD FIESTA PERSONNALITÉ 1.0 2004/2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501100796400",
@@ -1648,11 +1746,11 @@
     "SP12501004371014": {
       "sku": "SP12501004371014",
       "id_produto": "19081",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO FIAT TORO VOLCANO 2.0 16V 16/17",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO VOLCANO 2.0 16V 4X4 TB DIESEL AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1660,11 +1758,11 @@
     "SP12501014970013": {
       "sku": "SP12501014970013",
       "id_produto": "19107",
-      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP RENEGADE TRAILHAWK 2.0 18/19",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1696,11 +1794,11 @@
     "SP12501100648029": {
       "sku": "SP12501100648029",
       "id_produto": "19903",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1708,11 +1806,11 @@
     "SP12501100702024": {
       "sku": "SP12501100702024",
       "id_produto": "19906",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT KWID ZEN 1.0 FLEX 12V 2018/2018",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1732,11 +1830,11 @@
     "SP12501100672024": {
       "sku": "SP12501100672024",
       "id_produto": "19904",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA TIT.PLUS 1.6 16V 2013/2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1756,11 +1854,11 @@
     "SP12501100699027": {
       "sku": "SP12501100699027",
       "id_produto": "19905",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS HYUNDAI HB20 SENSE 1.0 FLEX 20/21",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -1768,11 +1866,11 @@
     "SP12501100796028": {
       "sku": "SP12501100796028",
       "id_produto": "19907",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO FORD FIESTA PERSONNALITÉ 1.0 2004/2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
