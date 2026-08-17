@@ -1,11 +1,11 @@
 {
   "data": "2026-08-17",
   "primeira_atualizacao": "17/08/2026 08:22:08",
-  "ultima_atualizacao": "17/08/2026 10:04:52",
+  "ultima_atualizacao": "17/08/2026 10:19:18",
   "total_base_dia": 50,
-  "total_atual": 44,
-  "novos_produtos": 3,
-  "total_subidos": 9,
+  "total_atual": 42,
+  "novos_produtos": 5,
+  "total_subidos": 13,
   "skus_base_dia": [
     "SP12501004304019",
     "SP12501009648039",
@@ -82,6 +82,7 @@
     "SP12501080485026",
     "SP12501083808453",
     "SP12501089229040",
+    "SP12501100648004",
     "SP12501100656036",
     "SP12501100656411",
     "SP12501100672035",
@@ -92,6 +93,7 @@
     "SP12501100796400",
     "SP12501100800004",
     "SP12501100834024",
+    "SP12501100834026",
     "SP12501100842007",
     "SP12501102462007",
     "SP12501102470007",
@@ -114,13 +116,19 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [
+    "SP12501100648004",
     "SP12501100656036",
     "SP12501100656411",
-    "SP12501100702012"
+    "SP12501100702012",
+    "SP12501100834026"
   ],
   "skus_subidos_hoje": [
     "SP12501014881002",
     "SP12501014903014",
+    "SP12501015411026",
+    "SP12501015969013",
+    "SP12501041560026",
+    "SP12501080248011",
     "SP12501100656036",
     "SP12501100702012",
     "SP12501100788004",
@@ -132,6 +140,10 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501014881002",
     "SP12501014903014",
+    "SP12501015411026",
+    "SP12501015969013",
+    "SP12501041560026",
+    "SP12501080248011",
     "SP12501100656036",
     "SP12501100702012",
     "SP12501100788004",
@@ -141,6 +153,18 @@
     "SP12501100800004"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501100648004",
+      "id_produto": "19881",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501100656036",
       "id_produto": "19878",
@@ -176,6 +200,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501100834026",
+      "id_produto": "19888",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -198,10 +234,58 @@
       "marca": "RAM",
       "modelo_do_veiculo": "RAMPAGE LAR. HURR. 4 2.0 TB CD 4X4 AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501015411026",
+      "id_produto": "18784",
+      "nome": "MOTOR DE PARTIDA TOYOTA ETIOS XLS 1.5 FLEX 16V 5P MEC 13/14",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS XLS 1.5 FLEX 16V 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015969013",
+      "id_produto": "19115",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP RENEGADE LONGITUDE 2.0 18/19",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONGITUDE 2.0 4X4 TB DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501041560026",
+      "id_produto": "17697",
+      "nome": "MOTOR DE PARTIDA RENAULT CLIO CAMPUS HI-FLEX 1.0 16V 2009/10",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO CAMPUS HI-FLEX 1.0 16V 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501080248011",
+      "id_produto": "17692",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FIAT MOBI LIKE 1.0 FIRE FLEX",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501100656036",
@@ -556,11 +640,11 @@
     "SP12501080248011": {
       "sku": "SP12501080248011",
       "id_produto": "17692",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FIAT MOBI LIKE 1.0 FIRE FLEX",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -604,11 +688,11 @@
     "SP12501041560026": {
       "sku": "SP12501041560026",
       "id_produto": "17697",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA RENAULT CLIO CAMPUS HI-FLEX 1.0 16V 2009/10",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO CAMPUS HI-FLEX 1.0 16V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -644,7 +728,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "RAMPAGE LAR. HURR. 4 2.0 TB CD 4X4 AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -700,11 +784,11 @@
     "SP12501015411026": {
       "sku": "SP12501015411026",
       "id_produto": "18784",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA TOYOTA ETIOS XLS 1.5 FLEX 16V 5P MEC 13/14",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XLS 1.5 FLEX 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -860,7 +944,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONGITUDE 2.0 4X4 TB DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -924,6 +1008,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    "SP12501100648004": {
+      "sku": "SP12501100648004",
+      "id_produto": "19881",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501100834026": {
+      "sku": "SP12501100834026",
+      "id_produto": "19888",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
