@@ -1,11 +1,11 @@
 {
   "data": "2026-08-17",
   "primeira_atualizacao": "17/08/2026 08:22:08",
-  "ultima_atualizacao": "17/08/2026 16:18:48",
+  "ultima_atualizacao": "17/08/2026 16:20:56",
   "total_base_dia": 50,
-  "total_atual": 39,
-  "novos_produtos": 25,
-  "total_subidos": 36,
+  "total_atual": 38,
+  "novos_produtos": 26,
+  "total_subidos": 38,
   "skus_base_dia": [
     "SP12501004304019",
     "SP12501009648039",
@@ -92,6 +92,7 @@
     "SP12501100656036",
     "SP12501100656411",
     "SP12501100672004",
+    "SP12501100672010",
     "SP12501100672024",
     "SP12501100672035",
     "SP12501100672036",
@@ -146,6 +147,7 @@
     "SP12501100656036",
     "SP12501100656411",
     "SP12501100672004",
+    "SP12501100672010",
     "SP12501100672024",
     "SP12501100672036",
     "SP12501100672411",
@@ -197,7 +199,9 @@
     "SP12501100796400",
     "SP12501100800004",
     "SP12501100834026",
+    "SP12501102276026",
     "SP12501111720007",
+    "SP12501111720027",
     "SP12501111720045"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -235,7 +239,9 @@
     "SP12501100796400",
     "SP12501100800004",
     "SP12501100834026",
+    "SP12501102276026",
     "SP12501111720007",
+    "SP12501111720027",
     "SP12501111720045"
   ],
   "itens_novos_hoje": [
@@ -360,6 +366,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501100672010",
+      "id_produto": "19916",
+      "nome": "CHAVE DE SETA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501100672024",
       "id_produto": "19904",
       "nome": "MÓDULO DE INJEÇÃO FORD FIESTA TIT.PLUS 1.6 16V 2013/2014",
@@ -474,7 +492,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -494,11 +512,11 @@
     {
       "sku": "SP12501102276026",
       "id_produto": "19908",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA HONDA FIT EX 1.5 FLEX 16V 5P MEC. 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -518,11 +536,11 @@
     {
       "sku": "SP12501111720027",
       "id_produto": "19909",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN GOL CITY 1.0 T. FLEX 07/08",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -908,7 +926,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -950,6 +968,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501102276026",
+      "id_produto": "19908",
+      "nome": "MOTOR DE PARTIDA HONDA FIT EX 1.5 FLEX 16V 5P MEC. 2005/2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501111720007",
       "id_produto": "19891",
       "nome": "CAPÔ VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2007/2008",
@@ -960,6 +990,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111720027",
+      "id_produto": "19909",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN GOL CITY 1.0 T. FLEX 07/08",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501111720045",
@@ -1818,11 +1860,11 @@
     "SP12501111720027": {
       "sku": "SP12501111720027",
       "id_produto": "19909",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN GOL CITY 1.0 T. FLEX 07/08",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1842,11 +1884,11 @@
     "SP12501102276026": {
       "sku": "SP12501102276026",
       "id_produto": "19908",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA HONDA FIT EX 1.5 FLEX 16V 5P MEC. 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1870,10 +1912,22 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    "SP12501100672010": {
+      "sku": "SP12501100672010",
+      "id_produto": "19916",
+      "nome": "CHAVE DE SETA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     }
   }
 }
