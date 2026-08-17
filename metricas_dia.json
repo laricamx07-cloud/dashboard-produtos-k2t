@@ -1,11 +1,11 @@
 {
   "data": "2026-08-17",
   "primeira_atualizacao": "17/08/2026 08:22:08",
-  "ultima_atualizacao": "17/08/2026 08:48:54",
+  "ultima_atualizacao": "17/08/2026 08:50:50",
   "total_base_dia": 50,
-  "total_atual": 48,
+  "total_atual": 47,
   "novos_produtos": 0,
-  "total_subidos": 2,
+  "total_subidos": 3,
   "skus_base_dia": [
     "SP12501004304019",
     "SP12501009648039",
@@ -113,10 +113,12 @@
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
     "SP12501100796004",
+    "SP12501100796400",
     "SP12501100800004"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501100796004",
+    "SP12501100796400",
     "SP12501100800004"
   ],
   "itens_novos_hoje": [],
@@ -129,6 +131,18 @@
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100796400",
+      "id_produto": "19844",
+      "nome": "MOTOR COMPLETO FORD FIESTA PERSONNALITÉ 1.0 8V 5P 2004/2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -354,11 +368,11 @@
     "SP12501100796400": {
       "sku": "SP12501100796400",
       "id_produto": "19844",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FORD FIESTA PERSONNALITÉ 1.0 8V 5P 2004/2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
