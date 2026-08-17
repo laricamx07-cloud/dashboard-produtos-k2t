@@ -1,11 +1,11 @@
 {
   "data": "2026-08-17",
   "primeira_atualizacao": "17/08/2026 08:22:08",
-  "ultima_atualizacao": "17/08/2026 08:50:50",
+  "ultima_atualizacao": "17/08/2026 09:18:51",
   "total_base_dia": 50,
   "total_atual": 47,
-  "novos_produtos": 0,
-  "total_subidos": 3,
+  "novos_produtos": 2,
+  "total_subidos": 5,
   "skus_base_dia": [
     "SP12501004304019",
     "SP12501009648039",
@@ -82,7 +82,9 @@
     "SP12501080485026",
     "SP12501083808453",
     "SP12501089229040",
+    "SP12501100656036",
     "SP12501100672035",
+    "SP12501100702012",
     "SP12501100788004",
     "SP12501100788400",
     "SP12501100796004",
@@ -110,19 +112,75 @@
     "SP12501116765043",
     "SP42501001064042"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501100656036",
+    "SP12501100702012"
+  ],
   "skus_subidos_hoje": [
+    "SP12501100788004",
+    "SP12501100788400",
     "SP12501100796004",
     "SP12501100796400",
     "SP12501100800004"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501100788004",
+    "SP12501100788400",
     "SP12501100796004",
     "SP12501100796400",
     "SP12501100800004"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501100656036",
+      "id_produto": "19878",
+      "nome": "RADIADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501100702012",
+      "id_produto": "19880",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    }
+  ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501100788004",
+      "id_produto": "19845",
+      "nome": "CÂMBIO MANUAL FORD KA ONE 1.0 2003/2003",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA ONE 1.0",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100788400",
+      "id_produto": "19843",
+      "nome": "MOTOR COMPLETO FORD KA ONE 1.0 2003/2003",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA ONE 1.0",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501100796004",
       "id_produto": "19846",
@@ -142,7 +200,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -344,11 +402,11 @@
     "SP12501100788400": {
       "sku": "SP12501100788400",
       "id_produto": "19843",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FORD KA ONE 1.0 2003/2003",
       "marca": "FORD",
       "modelo_do_veiculo": "KA ONE 1.0",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -372,7 +430,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -548,11 +606,11 @@
     "SP12501100788004": {
       "sku": "SP12501100788004",
       "id_produto": "19845",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FORD KA ONE 1.0 2003/2003",
       "marca": "FORD",
       "modelo_do_veiculo": "KA ONE 1.0",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -692,10 +750,10 @@
     "SP12501014881003": {
       "sku": "SP12501014881003",
       "id_produto": "19158",
-      "nome": "CABEÇOTE COM VÁLVULAS",
+      "nome": "CABEÇOTE COM VÁLVULAS JEEP COMPASS SPORT 2.0 4X2 FLEX 16/17",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
@@ -760,6 +818,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    "SP12501100656036": {
+      "sku": "SP12501100656036",
+      "id_produto": "19878",
+      "nome": "RADIADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501100702012": {
+      "sku": "SP12501100702012",
+      "id_produto": "19880",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     }
   }
 }
