@@ -1,10 +1,10 @@
 {
   "data": "2026-08-17",
   "primeira_atualizacao": "17/08/2026 08:22:08",
-  "ultima_atualizacao": "17/08/2026 09:20:56",
+  "ultima_atualizacao": "17/08/2026 09:48:56",
   "total_base_dia": 50,
-  "total_atual": 47,
-  "novos_produtos": 2,
+  "total_atual": 48,
+  "novos_produtos": 3,
   "total_subidos": 5,
   "skus_base_dia": [
     "SP12501004304019",
@@ -83,6 +83,7 @@
     "SP12501083808453",
     "SP12501089229040",
     "SP12501100656036",
+    "SP12501100656411",
     "SP12501100672035",
     "SP12501100702012",
     "SP12501100788004",
@@ -114,6 +115,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501100656036",
+    "SP12501100656411",
     "SP12501100702012"
   ],
   "skus_subidos_hoje": [
@@ -136,7 +138,7 @@
       "id_produto": "19878",
       "nome": "RADIADOR",
       "marca": "VOLKSWAGEN",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -144,11 +146,23 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501100656411",
+      "id_produto": "19879",
+      "nome": "ELETROVENTILADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501100702012",
       "id_produto": "19880",
       "nome": "CONDENSADOR DO AR-CONDICIONADO",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -824,7 +838,7 @@
       "id_produto": "19878",
       "nome": "RADIADOR",
       "marca": "VOLKSWAGEN",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -836,11 +850,23 @@
       "id_produto": "19880",
       "nome": "CONDENSADOR DO AR-CONDICIONADO",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501100656411": {
+      "sku": "SP12501100656411",
+      "id_produto": "19879",
+      "nome": "ELETROVENTILADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "5"
     }
   }
