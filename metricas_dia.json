@@ -1,11 +1,11 @@
 {
   "data": "2026-08-18",
   "primeira_atualizacao": "18/08/2026 08:09:22",
-  "ultima_atualizacao": "18/08/2026 10:50:51",
+  "ultima_atualizacao": "18/08/2026 11:18:47",
   "total_base_dia": 87,
-  "total_atual": 60,
+  "total_atual": 57,
   "novos_produtos": 4,
-  "total_subidos": 31,
+  "total_subidos": 34,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501014881003",
@@ -225,6 +225,9 @@
     "SP12501100761032",
     "SP12501100761033",
     "SP12501100761036",
+    "SP12501100761037",
+    "SP12501100761038",
+    "SP12501100761400",
     "SP32501002896121"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -258,6 +261,9 @@
     "SP12501100761032",
     "SP12501100761033",
     "SP12501100761036",
+    "SP12501100761037",
+    "SP12501100761038",
+    "SP12501100761400",
     "SP32501002896121"
   ],
   "itens_novos_hoje": [
@@ -666,10 +672,46 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501100761037",
+      "id_produto": "19949",
+      "nome": "RETROVISOR DIREITO FORD KA 1.0 8V/1.0 8V ST FLEX 3P 2009/09",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501100761038",
+      "id_produto": "19950",
+      "nome": "RETROVISOR ESQUERDO FORD KA 1.0 8V/1.0 8V ST FLEX",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501100761400",
+      "id_produto": "19951",
+      "nome": "MOTOR COMPLETO FORD KA 1.0 8V/1.0 8V ST FLEX 3P 2009/2009",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP32501002896121",
@@ -904,11 +946,11 @@
     "SP12501100761400": {
       "sku": "SP12501100761400",
       "id_produto": "19951",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FORD KA 1.0 8V/1.0 8V ST FLEX 3P 2009/2009",
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1000,11 +1042,11 @@
     "SP12501100761037": {
       "sku": "SP12501100761037",
       "id_produto": "19949",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FORD KA 1.0 8V/1.0 8V ST FLEX 3P 2009/09",
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1156,11 +1198,11 @@
     "SP12501100761038": {
       "sku": "SP12501100761038",
       "id_produto": "19950",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FORD KA 1.0 8V/1.0 8V ST FLEX",
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1172,7 +1214,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
