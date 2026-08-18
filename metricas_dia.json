@@ -1,10 +1,10 @@
 {
   "data": "2026-08-18",
   "primeira_atualizacao": "18/08/2026 08:09:22",
-  "ultima_atualizacao": "18/08/2026 13:18:46",
+  "ultima_atualizacao": "18/08/2026 13:20:54",
   "total_base_dia": 87,
-  "total_atual": 83,
-  "novos_produtos": 52,
+  "total_atual": 84,
+  "novos_produtos": 53,
   "total_subidos": 56,
   "skus_base_dia": [
     "SP12501009648039",
@@ -172,6 +172,7 @@
     "SP12501100796411",
     "SP12501100800026",
     "SP12501100818001",
+    "SP12501100818004",
     "SP12501100818007",
     "SP12501100818026",
     "SP12501100818045",
@@ -262,6 +263,7 @@
     "SP12501100796026",
     "SP12501100800026",
     "SP12501100818001",
+    "SP12501100818004",
     "SP12501100818007",
     "SP12501100818026",
     "SP12501100818045",
@@ -498,7 +500,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -706,6 +708,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501100818004",
+      "id_produto": "20024",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501100818007",
@@ -1280,7 +1294,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3370,10 +3384,22 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    "SP12501100818004": {
+      "sku": "SP12501100818004",
+      "id_produto": "20024",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
