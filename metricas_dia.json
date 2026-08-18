@@ -1,11 +1,11 @@
 {
   "data": "2026-08-18",
   "primeira_atualizacao": "18/08/2026 08:09:22",
-  "ultima_atualizacao": "18/08/2026 10:48:48",
+  "ultima_atualizacao": "18/08/2026 10:50:51",
   "total_base_dia": 87,
-  "total_atual": 61,
+  "total_atual": 60,
   "novos_produtos": 4,
-  "total_subidos": 30,
+  "total_subidos": 31,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501014881003",
@@ -224,6 +224,7 @@
     "SP12501100761024",
     "SP12501100761032",
     "SP12501100761033",
+    "SP12501100761036",
     "SP32501002896121"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -256,6 +257,7 @@
     "SP12501100761024",
     "SP12501100761032",
     "SP12501100761033",
+    "SP12501100761036",
     "SP32501002896121"
   ],
   "itens_novos_hoje": [
@@ -652,10 +654,22 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100761036",
+      "id_produto": "19948",
+      "nome": "RADIADOR FORD KA 1.0 8V/1.0 8V ST FLEX 3P 2009/2009",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP32501002896121",
@@ -1154,11 +1168,11 @@
     "SP12501100761036": {
       "sku": "SP12501100761036",
       "id_produto": "19948",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FORD KA 1.0 8V/1.0 8V ST FLEX 3P 2009/2009",
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1698,7 +1712,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
