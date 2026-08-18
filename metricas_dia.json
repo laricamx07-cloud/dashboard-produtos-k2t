@@ -1,11 +1,11 @@
 {
   "data": "2026-08-18",
   "primeira_atualizacao": "18/08/2026 08:09:22",
-  "ultima_atualizacao": "18/08/2026 09:51:09",
+  "ultima_atualizacao": "18/08/2026 10:19:24",
   "total_base_dia": 87,
-  "total_atual": 78,
-  "novos_produtos": 0,
-  "total_subidos": 9,
+  "total_atual": 67,
+  "novos_produtos": 1,
+  "total_subidos": 21,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501014881003",
@@ -151,6 +151,7 @@
     "SP12501100842007",
     "SP12501102276036",
     "SP12501102276411",
+    "SP12501102276484",
     "SP12501102462007",
     "SP12501102470007",
     "SP12501102470030",
@@ -184,7 +185,9 @@
     "SP32501002896121",
     "SP42501001064042"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501102276484"
+  ],
   "skus_subidos_hoje": [
     "SP12501015268014",
     "SP12501055227010",
@@ -194,6 +197,18 @@
     "SP12501055227037",
     "SP12501055227038",
     "SP12501055227400",
+    "SP12501100648012",
+    "SP12501100648016",
+    "SP12501100648019",
+    "SP12501100648020",
+    "SP12501100648036",
+    "SP12501100648037",
+    "SP12501100648038",
+    "SP12501100648049",
+    "SP12501100648411",
+    "SP12501100648584",
+    "SP12501100672019",
+    "SP12501100672020",
     "SP32501002896121"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -205,9 +220,34 @@
     "SP12501055227037",
     "SP12501055227038",
     "SP12501055227400",
+    "SP12501100648012",
+    "SP12501100648016",
+    "SP12501100648019",
+    "SP12501100648020",
+    "SP12501100648036",
+    "SP12501100648037",
+    "SP12501100648038",
+    "SP12501100648049",
+    "SP12501100648411",
+    "SP12501100648584",
+    "SP12501100672019",
+    "SP12501100672020",
     "SP32501002896121"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501102276484",
+      "id_produto": "19970",
+      "nome": "PNEU TRASEIRO DIREITO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501015268014",
@@ -304,6 +344,150 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100648012",
+      "id_produto": "19927",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FIAT ARGO 1.0 FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501100648016",
+      "id_produto": "19928",
+      "nome": "FAROL ESQUERDO FIAT ARGO 1.0 6V FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100648019",
+      "id_produto": "19929",
+      "nome": "LANTERNA TRASEIRA DIREITA FIAT ARGO 1.0 6V FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501100648020",
+      "id_produto": "19930",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FIAT ARGO 1.0 6V FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501100648036",
+      "id_produto": "19931",
+      "nome": "RADIADOR FIAT ARGO 1.0 6V FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501100648037",
+      "id_produto": "19932",
+      "nome": "RETROVISOR DIREITO FIAT ARGO 1.0 6V FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501100648038",
+      "id_produto": "19933",
+      "nome": "RETROVISOR ESQUERDO FIAT ARGO 1.0 6V FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501100648049",
+      "id_produto": "19934",
+      "nome": "VOLANTE DO MOTORISTA FIAT ARGO 1.0 6V FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501100648411",
+      "id_produto": "19935",
+      "nome": "ELETROVENTILADOR FIAT ARGO 1.0 6V FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501100648584",
+      "id_produto": "19936",
+      "nome": "ALAVANCA DE MARCHA MANUAL FIAT ARGO 1.0 6V FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100672019",
+      "id_produto": "19937",
+      "nome": "LANTERNA TRASEIRA DIREITA FORD FIESTA TIT.PLUS 1.6 2013/2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501100672020",
+      "id_produto": "19938",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FORD FIESTA TIT.PLUS 1.6 2013/14",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP32501002896121",
@@ -418,11 +602,11 @@
     "SP12501100648049": {
       "sku": "SP12501100648049",
       "id_produto": "19934",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -430,11 +614,11 @@
     "SP12501100648012": {
       "sku": "SP12501100648012",
       "id_produto": "19927",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FIAT ARGO 1.0 FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -442,11 +626,11 @@
     "SP12501100648016": {
       "sku": "SP12501100648016",
       "id_produto": "19928",
-      "nome": "FAROL ESQUERDO",
+      "nome": "FAROL ESQUERDO FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -478,11 +662,11 @@
     "SP12501100672019": {
       "sku": "SP12501100672019",
       "id_produto": "19937",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA FORD FIESTA TIT.PLUS 1.6 2013/2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -490,11 +674,11 @@
     "SP12501100648584": {
       "sku": "SP12501100648584",
       "id_produto": "19936",
-      "nome": "ALAVANCA DE MARCHA MANUAL",
+      "nome": "ALAVANCA DE MARCHA MANUAL FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -502,11 +686,11 @@
     "SP12501100648036": {
       "sku": "SP12501100648036",
       "id_produto": "19931",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -658,11 +842,11 @@
     "SP12501100672020": {
       "sku": "SP12501100672020",
       "id_produto": "19938",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FORD FIESTA TIT.PLUS 1.6 2013/14",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -778,11 +962,11 @@
     "SP12501100648019": {
       "sku": "SP12501100648019",
       "id_produto": "19929",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -910,11 +1094,11 @@
     "SP12501100648411": {
       "sku": "SP12501100648411",
       "id_produto": "19935",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -1138,11 +1322,11 @@
     "SP12501100648037": {
       "sku": "SP12501100648037",
       "id_produto": "19932",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1294,11 +1478,11 @@
     "SP12501100648038": {
       "sku": "SP12501100648038",
       "id_produto": "19933",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1330,11 +1514,11 @@
     "SP12501100648020": {
       "sku": "SP12501100648020",
       "id_produto": "19930",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1362,6 +1546,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    "SP12501102276484": {
+      "sku": "SP12501102276484",
+      "id_produto": "19970",
+      "nome": "PNEU TRASEIRO DIREITO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     }
   }
 }
