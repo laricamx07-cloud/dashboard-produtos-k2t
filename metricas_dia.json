@@ -1,10 +1,10 @@
 {
   "data": "2026-08-18",
   "primeira_atualizacao": "18/08/2026 08:09:22",
-  "ultima_atualizacao": "18/08/2026 13:51:25",
+  "ultima_atualizacao": "18/08/2026 16:59:37",
   "total_base_dia": 87,
-  "total_atual": 77,
-  "novos_produtos": 54,
+  "total_atual": 82,
+  "novos_produtos": 59,
   "total_subidos": 64,
   "skus_base_dia": [
     "SP12501009648039",
@@ -115,6 +115,7 @@
     "SP12501055227038",
     "SP12501055227400",
     "SP12501056282045",
+    "SP12501056282400",
     "SP12501079959400",
     "SP12501080469019",
     "SP12501080469036",
@@ -141,6 +142,9 @@
     "SP12501100672019",
     "SP12501100672020",
     "SP12501100672026",
+    "SP12501100672029",
+    "SP12501100672030",
+    "SP12501100672034",
     "SP12501100672035",
     "SP12501100672037",
     "SP12501100672038",
@@ -218,6 +222,7 @@
     "SP12501111712031",
     "SP12501111712032",
     "SP12501111712034",
+    "SP12501111712400",
     "SP12501111720004",
     "SP12501111720010",
     "SP12501111720024",
@@ -242,6 +247,7 @@
     "SP12501055227011",
     "SP12501055227026",
     "SP12501056282045",
+    "SP12501056282400",
     "SP12501100648001",
     "SP12501100648011",
     "SP12501100648026",
@@ -249,6 +255,9 @@
     "SP12501100672001",
     "SP12501100672011",
     "SP12501100672026",
+    "SP12501100672029",
+    "SP12501100672030",
+    "SP12501100672034",
     "SP12501100699026",
     "SP12501100702001",
     "SP12501100702010",
@@ -288,6 +297,7 @@
     "SP12501111712031",
     "SP12501111712032",
     "SP12501111712034",
+    "SP12501111712400",
     "SP12501111739001",
     "SP12501111739004",
     "SP12501111739011",
@@ -464,6 +474,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501056282400",
+      "id_produto": "20030",
+      "nome": "MOTOR COMPLETO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 MI 8V FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501100648001",
       "id_produto": "19982",
       "nome": "ALTERNADOR",
@@ -546,6 +568,42 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501100672029",
+      "id_produto": "20026",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100672030",
+      "id_produto": "20027",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100672034",
+      "id_produto": "20028",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501100699026",
@@ -1013,6 +1071,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111712400",
+      "id_produto": "20029",
+      "nome": "MOTOR COMPLETO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -3537,6 +3607,66 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501100672034": {
+      "sku": "SP12501100672034",
+      "id_produto": "20028",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501100672030": {
+      "sku": "SP12501100672030",
+      "id_produto": "20027",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501111712400": {
+      "sku": "SP12501111712400",
+      "id_produto": "20029",
+      "nome": "MOTOR COMPLETO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501100672029": {
+      "sku": "SP12501100672029",
+      "id_produto": "20026",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501056282400": {
+      "sku": "SP12501056282400",
+      "id_produto": "20030",
+      "nome": "MOTOR COMPLETO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 MI 8V FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "10"
     }
   }
