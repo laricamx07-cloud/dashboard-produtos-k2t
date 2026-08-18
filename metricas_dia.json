@@ -1,11 +1,11 @@
 {
   "data": "2026-08-18",
   "primeira_atualizacao": "18/08/2026 08:09:22",
-  "ultima_atualizacao": "18/08/2026 08:51:05",
+  "ultima_atualizacao": "18/08/2026 09:19:01",
   "total_base_dia": 87,
-  "total_atual": 83,
+  "total_atual": 81,
   "novos_produtos": 0,
-  "total_subidos": 4,
+  "total_subidos": 6,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501014881003",
@@ -189,12 +189,16 @@
     "SP12501015268014",
     "SP12501055227010",
     "SP12501055227033",
+    "SP12501055227034",
+    "SP12501055227035",
     "SP32501002896121"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015268014",
     "SP12501055227010",
     "SP12501055227033",
+    "SP12501055227034",
+    "SP12501055227035",
     "SP32501002896121"
   ],
   "itens_novos_hoje": [],
@@ -236,6 +240,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501055227034",
+      "id_produto": "19922",
+      "nome": "PORTA TRASEIRA DIREITA VOLKSWAGEN VOYAGE TRENDLINE 1.6 15/16",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501055227035",
+      "id_produto": "19923",
+      "nome": "PORTA TRASEIRA ESQUERDA VOLKSWAGEN VOYAGE TRENDLINE 1.6 2016",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP32501002896121",
       "id_produto": "19235",
       "nome": "TURBINA RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 2019/2019",
@@ -252,11 +280,11 @@
     "SP12501055227034": {
       "sku": "SP12501055227034",
       "id_produto": "19922",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA VOLKSWAGEN VOYAGE TRENDLINE 1.6 15/16",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -336,11 +364,11 @@
     "SP12501055227035": {
       "sku": "SP12501055227035",
       "id_produto": "19923",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA VOLKSWAGEN VOYAGE TRENDLINE 1.6 2016",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
