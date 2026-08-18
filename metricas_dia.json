@@ -1,11 +1,11 @@
 {
   "data": "2026-08-18",
   "primeira_atualizacao": "18/08/2026 08:09:22",
-  "ultima_atualizacao": "18/08/2026 11:20:52",
+  "ultima_atualizacao": "18/08/2026 11:48:46",
   "total_base_dia": 87,
-  "total_atual": 56,
-  "novos_produtos": 4,
-  "total_subidos": 35,
+  "total_atual": 60,
+  "novos_produtos": 9,
+  "total_subidos": 36,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501014881003",
@@ -172,6 +172,11 @@
     "SP12501111348031",
     "SP12501111348035",
     "SP12501111526030",
+    "SP12501111704030",
+    "SP12501111704031",
+    "SP12501111704032",
+    "SP12501111704034",
+    "SP12501111704045",
     "SP12501111704400",
     "SP12501111720004",
     "SP12501111720010",
@@ -192,7 +197,12 @@
     "SP12501102276437",
     "SP12501102276483",
     "SP12501102276484",
-    "SP12501102276485"
+    "SP12501102276485",
+    "SP12501111704030",
+    "SP12501111704031",
+    "SP12501111704032",
+    "SP12501111704034",
+    "SP12501111704045"
   ],
   "skus_subidos_hoje": [
     "SP12501015268014",
@@ -229,6 +239,7 @@
     "SP12501100761038",
     "SP12501100761400",
     "SP12501100761411",
+    "SP12501100796411",
     "SP32501002896121"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -266,6 +277,7 @@
     "SP12501100761038",
     "SP12501100761400",
     "SP12501100761411",
+    "SP12501100796411",
     "SP32501002896121"
   ],
   "itens_novos_hoje": [
@@ -316,6 +328,66 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111704030",
+      "id_produto": "19973",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111704031",
+      "id_produto": "19974",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111704032",
+      "id_produto": "19975",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111704034",
+      "id_produto": "19976",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111704045",
+      "id_produto": "19977",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   ],
   "itens_subidos_hoje": [
@@ -722,10 +794,22 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501100796411",
+      "id_produto": "19953",
+      "nome": "ELETROVENTILADOR FORD FIESTA PERSONNALITÉ 1.0 2004/2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
     },
     {
       "sku": "SP32501002896121",
@@ -1008,11 +1092,11 @@
     "SP12501100796411": {
       "sku": "SP12501100796411",
       "id_produto": "19953",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FORD FIESTA PERSONNALITÉ 1.0 2004/2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -1744,7 +1828,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1832,6 +1916,66 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    "SP12501111704031": {
+      "sku": "SP12501111704031",
+      "id_produto": "19974",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501111704030": {
+      "sku": "SP12501111704030",
+      "id_produto": "19973",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501111704045": {
+      "sku": "SP12501111704045",
+      "id_produto": "19977",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501111704034": {
+      "sku": "SP12501111704034",
+      "id_produto": "19976",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501111704032": {
+      "sku": "SP12501111704032",
+      "id_produto": "19975",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
