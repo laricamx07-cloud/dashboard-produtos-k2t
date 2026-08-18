@@ -1,10 +1,10 @@
 {
   "data": "2026-08-18",
   "primeira_atualizacao": "18/08/2026 08:09:22",
-  "ultima_atualizacao": "18/08/2026 12:18:50",
+  "ultima_atualizacao": "18/08/2026 12:20:58",
   "total_base_dia": 87,
-  "total_atual": 60,
-  "novos_produtos": 16,
+  "total_atual": 65,
+  "novos_produtos": 21,
   "total_subidos": 43,
   "skus_base_dia": [
     "SP12501009648039",
@@ -106,12 +106,15 @@
     "SP12501042214033",
     "SP12501042273041",
     "SP12501055227010",
+    "SP12501055227011",
+    "SP12501055227026",
     "SP12501055227033",
     "SP12501055227034",
     "SP12501055227035",
     "SP12501055227037",
     "SP12501055227038",
     "SP12501055227400",
+    "SP12501056282045",
     "SP12501079959400",
     "SP12501080469019",
     "SP12501080469036",
@@ -136,6 +139,7 @@
     "SP12501100672038",
     "SP12501100699411",
     "SP12501100702001",
+    "SP12501100702027",
     "SP12501100702037",
     "SP12501100761001",
     "SP12501100761004",
@@ -177,6 +181,7 @@
     "SP12501111348031",
     "SP12501111348035",
     "SP12501111526030",
+    "SP12501111704001",
     "SP12501111704028",
     "SP12501111704030",
     "SP12501111704031",
@@ -201,7 +206,11 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [
+    "SP12501055227011",
+    "SP12501055227026",
+    "SP12501056282045",
     "SP12501100702001",
+    "SP12501100702027",
     "SP12501100761001",
     "SP12501100761026",
     "SP12501100800026",
@@ -210,6 +219,7 @@
     "SP12501102276483",
     "SP12501102276484",
     "SP12501102276485",
+    "SP12501111704001",
     "SP12501111704028",
     "SP12501111704030",
     "SP12501111704031",
@@ -310,6 +320,42 @@
   ],
   "itens_novos_hoje": [
     {
+      "sku": "SP12501055227011",
+      "id_produto": "19979",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501055227026",
+      "id_produto": "19980",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056282045",
+      "id_produto": "19981",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501100702001",
       "id_produto": "19991",
       "nome": "ALTERNADOR",
@@ -320,6 +366,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501100702027",
+      "id_produto": "19995",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501100761001",
@@ -415,6 +473,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111704001",
+      "id_produto": "20011",
+      "nome": "ALTERNADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "9"
     },
     {
@@ -1002,7 +1072,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1904,7 +1974,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2256,6 +2326,66 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501055227026": {
+      "sku": "SP12501055227026",
+      "id_produto": "19980",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501055227011": {
+      "sku": "SP12501055227011",
+      "id_produto": "19979",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501111704001": {
+      "sku": "SP12501111704001",
+      "id_produto": "20011",
+      "nome": "ALTERNADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    "SP12501100702027": {
+      "sku": "SP12501100702027",
+      "id_produto": "19995",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501056282045": {
+      "sku": "SP12501056282045",
+      "id_produto": "19981",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   }
 }
