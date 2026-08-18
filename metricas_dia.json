@@ -1,11 +1,11 @@
 {
   "data": "2026-08-18",
   "primeira_atualizacao": "18/08/2026 08:09:22",
-  "ultima_atualizacao": "18/08/2026 08:21:05",
+  "ultima_atualizacao": "18/08/2026 08:49:14",
   "total_base_dia": 87,
-  "total_atual": 85,
+  "total_atual": 83,
   "novos_produtos": 0,
-  "total_subidos": 2,
+  "total_subidos": 4,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501014881003",
@@ -187,10 +187,14 @@
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
     "SP12501015268014",
+    "SP12501055227010",
+    "SP12501055227033",
     "SP32501002896121"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015268014",
+    "SP12501055227010",
+    "SP12501055227033",
     "SP32501002896121"
   ],
   "itens_novos_hoje": [],
@@ -208,13 +212,37 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501055227010",
+      "id_produto": "19919",
+      "nome": "CHAVE DE SETA VOLKSWAGEN VOYAGE TRENDLINE 1.6 T.FLEX 15/16",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501055227033",
+      "id_produto": "19921",
+      "nome": "PORTA DIANTEIRA ESQUERDA VOLKSWAGEN VOYAGE TRENDLINE 1.6",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP32501002896121",
       "id_produto": "19235",
       "nome": "TURBINA RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 2019/2019",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -356,11 +384,11 @@
     "SP12501055227010": {
       "sku": "SP12501055227010",
       "id_produto": "19919",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA VOLKSWAGEN VOYAGE TRENDLINE 1.6 T.FLEX 15/16",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -744,7 +772,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1004,11 +1032,11 @@
     "SP12501055227033": {
       "sku": "SP12501055227033",
       "id_produto": "19921",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA VOLKSWAGEN VOYAGE TRENDLINE 1.6",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
