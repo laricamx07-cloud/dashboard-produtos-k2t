@@ -1,11 +1,11 @@
 {
   "data": "2026-08-19",
   "primeira_atualizacao": "19/08/2026 08:22:02",
-  "ultima_atualizacao": "19/08/2026 16:53:15",
+  "ultima_atualizacao": "19/08/2026 17:21:08",
   "total_base_dia": 102,
   "total_atual": 102,
-  "novos_produtos": 72,
-  "total_subidos": 67,
+  "novos_produtos": 74,
+  "total_subidos": 69,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501009853034",
@@ -195,6 +195,8 @@
     "SP12501100672029",
     "SP12501100672030",
     "SP12501100710004",
+    "SP12501100710032",
+    "SP12501100710033",
     "SP12501100710400",
     "SP12501100818001",
     "SP12501100818004",
@@ -328,6 +330,8 @@
     "SP12501100656448",
     "SP12501100656449",
     "SP12501100710004",
+    "SP12501100710032",
+    "SP12501100710033",
     "SP12501100710400",
     "SP12501100818016",
     "SP12501100818019",
@@ -398,6 +402,7 @@
     "SP12501108002039",
     "SP12501108002041",
     "SP12501108002042",
+    "SP12501109521019",
     "SP12501111704001",
     "SP12501111704010",
     "SP12501111704011",
@@ -418,6 +423,7 @@
     "SP12501111712411",
     "SP12501111739001",
     "SP12501111739004",
+    "SP12501111739010",
     "SP12501111739011",
     "SP12501111739019",
     "SP12501111739024",
@@ -467,6 +473,7 @@
     "SP12501108002039",
     "SP12501108002041",
     "SP12501108002042",
+    "SP12501109521019",
     "SP12501111704001",
     "SP12501111704010",
     "SP12501111704011",
@@ -487,6 +494,7 @@
     "SP12501111712411",
     "SP12501111739001",
     "SP12501111739004",
+    "SP12501111739010",
     "SP12501111739011",
     "SP12501111739019",
     "SP12501111739024",
@@ -992,6 +1000,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501100710032",
+      "id_produto": "20092",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100710033",
+      "id_produto": "20093",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501100710400",
       "id_produto": "20065",
       "nome": "MOTOR COMPLETO FIAT UNO MILLE 1.0 FIRE ECONOMY 2P 2007/2008",
@@ -1138,11 +1170,11 @@
     {
       "sku": "SP12501109521019",
       "id_produto": "14219",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA FIAT ARGO DRIVE GSR 1.3  2019/2019",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE GSR 1.3 8V FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
@@ -1810,6 +1842,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501109521019",
+      "id_produto": "14219",
+      "nome": "LANTERNA TRASEIRA DIREITA FIAT ARGO DRIVE GSR 1.3  2019/2019",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE GSR 1.3 8V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501111704001",
       "id_produto": "20011",
       "nome": "ALTERNADOR VOLKSWAGEN FOX ROCK IN RIO 1.6 MI TOTAL FLEX 2016",
@@ -2048,6 +2092,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111739010",
+      "id_produto": "20052",
+      "nome": "CHAVE DE SETA FIAT MOBI WAY ON 1.0 FIRE FLEX 5P. 2016/2017",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI WAY ON 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501111739011",
@@ -2666,11 +2722,11 @@
     "SP12501111739010": {
       "sku": "SP12501111739010",
       "id_produto": "20052",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA FIAT MOBI WAY ON 1.0 FIRE FLEX 5P. 2016/2017",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI WAY ON 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -3818,11 +3874,11 @@
     "SP12501109521019": {
       "sku": "SP12501109521019",
       "id_produto": "14219",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA FIAT ARGO DRIVE GSR 1.3  2019/2019",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE GSR 1.3 8V FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
@@ -4258,6 +4314,30 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
+    },
+    "SP12501100710032": {
+      "sku": "SP12501100710032",
+      "id_produto": "20092",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501100710033": {
+      "sku": "SP12501100710033",
+      "id_produto": "20093",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   }
 }
