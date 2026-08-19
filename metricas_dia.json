@@ -1,11 +1,11 @@
 {
   "data": "2026-08-19",
   "primeira_atualizacao": "19/08/2026 08:22:02",
-  "ultima_atualizacao": "19/08/2026 11:51:14",
+  "ultima_atualizacao": "19/08/2026 12:21:14",
   "total_base_dia": 102,
-  "total_atual": 103,
+  "total_atual": 102,
   "novos_produtos": 31,
-  "total_subidos": 30,
+  "total_subidos": 31,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501009853034",
@@ -291,6 +291,7 @@
     "SP12501100672029",
     "SP12501100672030",
     "SP12501100818004",
+    "SP12501100818007",
     "SP12501100818026",
     "SP12501100818045",
     "SP12501102446001",
@@ -323,6 +324,7 @@
     "SP12501100672029",
     "SP12501100672030",
     "SP12501100818004",
+    "SP12501100818007",
     "SP12501100818026",
     "SP12501100818045",
     "SP12501102446001",
@@ -860,6 +862,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100818007",
+      "id_produto": "20006",
+      "nome": "CAPÔ VOLKSWAGEN FOX CITY 1.0 MI TOTAL FLEX 8V 5P 2007/2007",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501100818026",
@@ -1862,11 +1876,11 @@
     "SP12501100818007": {
       "sku": "SP12501100818007",
       "id_produto": "20006",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ VOLKSWAGEN FOX CITY 1.0 MI TOTAL FLEX 8V 5P 2007/2007",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
