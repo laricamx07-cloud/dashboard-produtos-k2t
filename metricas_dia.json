@@ -1,11 +1,11 @@
 {
   "data": "2026-08-19",
   "primeira_atualizacao": "19/08/2026 08:22:02",
-  "ultima_atualizacao": "19/08/2026 15:50:58",
+  "ultima_atualizacao": "19/08/2026 16:21:01",
   "total_base_dia": 102,
-  "total_atual": 110,
+  "total_atual": 104,
   "novos_produtos": 72,
-  "total_subidos": 59,
+  "total_subidos": 65,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501009853034",
@@ -376,6 +376,8 @@
     "SP12501100656449",
     "SP12501100672029",
     "SP12501100672030",
+    "SP12501100710004",
+    "SP12501100710400",
     "SP12501100818001",
     "SP12501100818004",
     "SP12501100818007",
@@ -390,6 +392,8 @@
     "SP12501100818570",
     "SP12501102276011",
     "SP12501102446001",
+    "SP12501103019004",
+    "SP12501108002039",
     "SP12501108002041",
     "SP12501108002042",
     "SP12501111704001",
@@ -418,7 +422,9 @@
     "SP12501111739026",
     "SP12501111739027",
     "SP12501111739400",
+    "SP12501111739411",
     "SP12501111739584",
+    "SP12501116692400",
     "SP32501001210878"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -437,6 +443,8 @@
     "SP12501100656449",
     "SP12501100672029",
     "SP12501100672030",
+    "SP12501100710004",
+    "SP12501100710400",
     "SP12501100818001",
     "SP12501100818004",
     "SP12501100818007",
@@ -451,6 +459,8 @@
     "SP12501100818570",
     "SP12501102276011",
     "SP12501102446001",
+    "SP12501103019004",
+    "SP12501108002039",
     "SP12501108002041",
     "SP12501108002042",
     "SP12501111704001",
@@ -479,7 +489,9 @@
     "SP12501111739026",
     "SP12501111739027",
     "SP12501111739400",
+    "SP12501111739411",
     "SP12501111739584",
+    "SP12501116692400",
     "SP32501001210878"
   ],
   "itens_novos_hoje": [
@@ -966,11 +978,11 @@
     {
       "sku": "SP12501100710004",
       "id_produto": "20064",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FIAT UNO MILLE 1.0 FIRE ECONOMY 2P 2007/2008",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -978,11 +990,11 @@
     {
       "sku": "SP12501100710400",
       "id_produto": "20065",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FIAT UNO MILLE 1.0 FIRE ECONOMY 2P 2007/2008",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1074,11 +1086,11 @@
     {
       "sku": "SP12501103019004",
       "id_produto": "20066",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN FOX CROSSFOX 1.6 TOTAL FLEX 2013/14",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CROSSFOX 1.6 TOTAL FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1086,11 +1098,11 @@
     {
       "sku": "SP12501108002039",
       "id_produto": "20067",
-      "nome": "RODA DIANTEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 19 LAND ROVER RANGE ROVER SPORT",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "RANGE ROVER SPORT HSE 3.0 V6 TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -1302,11 +1314,11 @@
     {
       "sku": "SP12501111739411",
       "id_produto": "20062",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT MOBI WAY ON 1.0 FIRE FLEX 5P. 2016/17",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI WAY ON 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1326,11 +1338,11 @@
     {
       "sku": "SP12501116692400",
       "id_produto": "20063",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH LTZ 1.4 8V FLEXPOWER",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1530,6 +1542,30 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501100710004",
+      "id_produto": "20064",
+      "nome": "CÂMBIO MANUAL FIAT UNO MILLE 1.0 FIRE ECONOMY 2P 2007/2008",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100710400",
+      "id_produto": "20065",
+      "nome": "MOTOR COMPLETO FIAT UNO MILLE 1.0 FIRE ECONOMY 2P 2007/2008",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501100818001",
       "id_produto": "20005",
       "nome": "ALTERNADOR VOLKSWAGEN FOX CITY 1.0 MI TOTAL FLEX 8V 5P 2007",
@@ -1695,6 +1731,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103019004",
+      "id_produto": "20066",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN FOX CROSSFOX 1.6 TOTAL FLEX 2013/14",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CROSSFOX 1.6 TOTAL FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501108002039",
+      "id_produto": "20067",
+      "nome": "RODA LIGA LEVE ARO 19 LAND ROVER RANGE ROVER SPORT",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": "RANGE ROVER SPORT HSE 3.0 V6 TURBO",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "8"
     },
     {
@@ -2034,6 +2094,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501111739411",
+      "id_produto": "20062",
+      "nome": "ELETROVENTILADOR FIAT MOBI WAY ON 1.0 FIRE FLEX 5P. 2016/17",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI WAY ON 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501111739584",
       "id_produto": "20056",
       "nome": "ALAVANCA DE MARCHA MANUAL FIAT MOBI WAY ON 1.0 FIRE FLEX",
@@ -2044,6 +2116,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501116692400",
+      "id_produto": "20063",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH LTZ 1.4 8V FLEXPOWER",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP32501001210878",
@@ -3514,11 +3598,11 @@
     "SP12501111739411": {
       "sku": "SP12501111739411",
       "id_produto": "20062",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT MOBI WAY ON 1.0 FIRE FLEX 5P. 2016/17",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI WAY ON 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -3538,11 +3622,11 @@
     "SP12501116692400": {
       "sku": "SP12501116692400",
       "id_produto": "20063",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH LTZ 1.4 8V FLEXPOWER",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3574,11 +3658,11 @@
     "SP12501103019004": {
       "sku": "SP12501103019004",
       "id_produto": "20066",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN FOX CROSSFOX 1.6 TOTAL FLEX 2013/14",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CROSSFOX 1.6 TOTAL FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -3586,11 +3670,11 @@
     "SP12501100710400": {
       "sku": "SP12501100710400",
       "id_produto": "20065",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FIAT UNO MILLE 1.0 FIRE ECONOMY 2P 2007/2008",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3610,11 +3694,11 @@
     "SP12501100710004": {
       "sku": "SP12501100710004",
       "id_produto": "20064",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FIAT UNO MILLE 1.0 FIRE ECONOMY 2P 2007/2008",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3622,11 +3706,11 @@
     "SP12501108002039": {
       "sku": "SP12501108002039",
       "id_produto": "20067",
-      "nome": "RODA DIANTEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 19 LAND ROVER RANGE ROVER SPORT",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "RANGE ROVER SPORT HSE 3.0 V6 TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
