@@ -1,11 +1,11 @@
 {
   "data": "2026-08-19",
   "primeira_atualizacao": "19/08/2026 08:22:02",
-  "ultima_atualizacao": "19/08/2026 12:51:08",
+  "ultima_atualizacao": "19/08/2026 13:21:26",
   "total_base_dia": 102,
-  "total_atual": 98,
+  "total_atual": 93,
   "novos_produtos": 31,
-  "total_subidos": 35,
+  "total_subidos": 36,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501009853034",
@@ -297,6 +297,7 @@
     "SP12501100818016",
     "SP12501100818026",
     "SP12501100818045",
+    "SP12501100818570",
     "SP12501102276011",
     "SP12501102446001",
     "SP12501111704001",
@@ -334,6 +335,7 @@
     "SP12501100818016",
     "SP12501100818026",
     "SP12501100818045",
+    "SP12501100818570",
     "SP12501102276011",
     "SP12501102446001",
     "SP12501111704001",
@@ -488,11 +490,11 @@
     {
       "sku": "SP12501100818570",
       "id_produto": "20042",
-      "nome": "RÁDIO",
+      "nome": "RÁDIO VOLKSWAGEN FOX CITY 1.0 MI TOTAL FLEX 8V 5P 2007/2007",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -944,6 +946,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501100818570",
+      "id_produto": "20042",
+      "nome": "RÁDIO VOLKSWAGEN FOX CITY 1.0 MI TOTAL FLEX 8V 5P 2007/2007",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501102276011",
       "id_produto": "20009",
       "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT EX 1.5 FLEX 2005/06",
@@ -1313,7 +1327,7 @@
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "06",
       "qtd_images": "9"
     },
@@ -1733,7 +1747,7 @@
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "06",
       "qtd_images": "9"
     },
@@ -1769,7 +1783,7 @@
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "06",
       "qtd_images": "9"
     },
@@ -2237,7 +2251,7 @@
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "06",
       "qtd_images": "9"
     },
@@ -2448,11 +2462,11 @@
     "SP12501100818570": {
       "sku": "SP12501100818570",
       "id_produto": "20042",
-      "nome": "RÁDIO",
+      "nome": "RÁDIO VOLKSWAGEN FOX CITY 1.0 MI TOTAL FLEX 8V 5P 2007/2007",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
