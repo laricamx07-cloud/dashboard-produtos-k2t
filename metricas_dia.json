@@ -1,11 +1,11 @@
 {
   "data": "2026-08-19",
   "primeira_atualizacao": "19/08/2026 08:22:02",
-  "ultima_atualizacao": "19/08/2026 13:51:34",
+  "ultima_atualizacao": "19/08/2026 14:21:08",
   "total_base_dia": 102,
-  "total_atual": 77,
+  "total_atual": 75,
   "novos_produtos": 31,
-  "total_subidos": 52,
+  "total_subidos": 54,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501009853034",
@@ -301,6 +301,7 @@
     "SP12501100818020",
     "SP12501100818024",
     "SP12501100818026",
+    "SP12501100818036",
     "SP12501100818038",
     "SP12501100818045",
     "SP12501100818570",
@@ -309,6 +310,7 @@
     "SP12501111704001",
     "SP12501111704010",
     "SP12501111704011",
+    "SP12501111704012",
     "SP12501111704019",
     "SP12501111704024",
     "SP12501111704026",
@@ -355,6 +357,7 @@
     "SP12501100818020",
     "SP12501100818024",
     "SP12501100818026",
+    "SP12501100818036",
     "SP12501100818038",
     "SP12501100818045",
     "SP12501100818570",
@@ -363,6 +366,7 @@
     "SP12501111704001",
     "SP12501111704010",
     "SP12501111704011",
+    "SP12501111704012",
     "SP12501111704019",
     "SP12501111704024",
     "SP12501111704026",
@@ -498,11 +502,11 @@
     {
       "sku": "SP12501100818036",
       "id_produto": "20059",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR VOLKSWAGEN FOX CITY 1.0 MI TOTAL FLEX 8V 5P 2007",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -594,11 +598,11 @@
     {
       "sku": "SP12501111704012",
       "id_produto": "20060",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO VOLKSWAGEN FOX ROCK IN RIO",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1026,6 +1030,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501100818036",
+      "id_produto": "20059",
+      "nome": "RADIADOR VOLKSWAGEN FOX CITY 1.0 MI TOTAL FLEX 8V 5P 2007",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501100818038",
       "id_produto": "20040",
       "nome": "RETROVISOR ESQUERDO VOLKSWAGEN FOX CITY 1.0 MI TOTAL FLEX",
@@ -1120,6 +1136,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111704012",
+      "id_produto": "20060",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO VOLKSWAGEN FOX ROCK IN RIO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501111704019",
@@ -2818,11 +2846,11 @@
     "SP12501100818036": {
       "sku": "SP12501100818036",
       "id_produto": "20059",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR VOLKSWAGEN FOX CITY 1.0 MI TOTAL FLEX 8V 5P 2007",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -2854,11 +2882,11 @@
     "SP12501111704012": {
       "sku": "SP12501111704012",
       "id_produto": "20060",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO VOLKSWAGEN FOX ROCK IN RIO",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
