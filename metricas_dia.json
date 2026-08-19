@@ -1,11 +1,11 @@
 {
   "data": "2026-08-19",
   "primeira_atualizacao": "19/08/2026 08:22:02",
-  "ultima_atualizacao": "19/08/2026 09:23:16",
+  "ultima_atualizacao": "19/08/2026 09:51:05",
   "total_base_dia": 102,
-  "total_atual": 115,
-  "novos_produtos": 21,
-  "total_subidos": 8,
+  "total_atual": 114,
+  "novos_produtos": 24,
+  "total_subidos": 12,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501009853034",
@@ -153,6 +153,8 @@
     "SP12501088168004",
     "SP12501088338031",
     "SP12501089229040",
+    "SP12501100656448",
+    "SP12501100656449",
     "SP12501100672029",
     "SP12501100672030",
     "SP12501100818001",
@@ -226,6 +228,7 @@
     "SP12501111739411",
     "SP12501111739584",
     "SP12501116684400",
+    "SP12501116692400",
     "SP12501116765034",
     "SP12501116765039",
     "SP12501116765040",
@@ -237,6 +240,8 @@
   ],
   "skus_novos_hoje": [
     "SP12501056282411",
+    "SP12501100656448",
+    "SP12501100656449",
     "SP12501100818016",
     "SP12501100818019",
     "SP12501100818020",
@@ -256,7 +261,8 @@
     "SP12501111739024",
     "SP12501111739027",
     "SP12501111739411",
-    "SP12501111739584"
+    "SP12501111739584",
+    "SP12501116692400"
   ],
   "skus_subidos_hoje": [
     "SP12501015098400",
@@ -264,8 +270,12 @@
     "SP12501016760012",
     "SP12501016795400",
     "SP12501017341028",
+    "SP12501041730032",
     "SP12501042036032",
+    "SP12501056282400",
     "SP12501088168004",
+    "SP12501100672030",
+    "SP12501111712400",
     "SP32501001210878"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -274,8 +284,12 @@
     "SP12501016760012",
     "SP12501016795400",
     "SP12501017341028",
+    "SP12501041730032",
     "SP12501042036032",
+    "SP12501056282400",
     "SP12501088168004",
+    "SP12501100672030",
+    "SP12501111712400",
     "SP32501001210878"
   ],
   "itens_novos_hoje": [
@@ -289,6 +303,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501100656448",
+      "id_produto": "20057",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501100656449",
+      "id_produto": "20058",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "6"
     },
     {
@@ -344,7 +382,7 @@
       "id_produto": "20059",
       "nome": "RADIADOR",
       "marca": "VOLKSWAGEN",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FOX CITY 1.0 MI TOTAL FLEX 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -392,7 +430,7 @@
       "id_produto": "20060",
       "nome": "CONDENSADOR DO AR-CONDICIONADO",
       "marca": "VOLKSWAGEN",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -452,7 +490,7 @@
       "id_produto": "20061",
       "nome": "ELETROVENTILADOR",
       "marca": "VOLKSWAGEN",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -512,7 +550,7 @@
       "id_produto": "20062",
       "nome": "ELETROVENTILADOR",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "MOBI WAY ON 1.0 FIRE FLEX 5P.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -530,6 +568,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501116692400",
+      "id_produto": "20063",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -594,6 +644,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501041730032",
+      "id_produto": "12345",
+      "nome": "PORTA DIANT DIREITA PRATA CHEVROLET ONIX SEDAN PLUS LTZ 2022",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX SEDAN PLUS LTZ 1.0 12V TB FLEX MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501042036032",
       "id_produto": "8682",
       "nome": "PORTA DIANTEIRA DIR. PRETA CHEVROLET CLASSIC LIFE/LS 2013/14",
@@ -606,16 +668,52 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501056282400",
+      "id_produto": "20030",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN GOL CITY 1.0 MI 8V FLEX 2004/2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 MI 8V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501088168004",
       "id_produto": "11904",
       "nome": "CÂMBIO MANUAL FIAT UNO MILLE 1.0 FIRE ECONOMY 2007/2008",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501100672030",
+      "id_produto": "20027",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA TIT.PLUS 1.6 2013/14",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111712400",
+      "id_produto": "20029",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2009/10",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP32501001210878",
@@ -710,7 +808,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -914,10 +1012,10 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX SEDAN PLUS LTZ 1.0 12V TB FLEX MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
-      "qtd_images": "8"
+      "qtd_images": "10"
     },
     "SP12501014750032": {
       "sku": "SP12501014750032",
@@ -1006,11 +1104,11 @@
     "SP12501100672030": {
       "sku": "SP12501100672030",
       "id_produto": "20027",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA TIT.PLUS 1.6 2013/14",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1606,11 +1704,11 @@
     "SP12501111712400": {
       "sku": "SP12501111712400",
       "id_produto": "20029",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2009/10",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1750,11 +1848,11 @@
     "SP12501056282400": {
       "sku": "SP12501056282400",
       "id_produto": "20030",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN GOL CITY 1.0 MI 8V FLEX 2004/2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 MI 8V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2064,7 +2162,7 @@
       "id_produto": "20059",
       "nome": "RADIADOR",
       "marca": "VOLKSWAGEN",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FOX CITY 1.0 MI TOTAL FLEX 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -2076,7 +2174,7 @@
       "id_produto": "20061",
       "nome": "ELETROVENTILADOR",
       "marca": "VOLKSWAGEN",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -2088,7 +2186,7 @@
       "id_produto": "20062",
       "nome": "ELETROVENTILADOR",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "MOBI WAY ON 1.0 FIRE FLEX 5P.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -2100,12 +2198,48 @@
       "id_produto": "20060",
       "nome": "CONDENSADOR DO AR-CONDICIONADO",
       "marca": "VOLKSWAGEN",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    "SP12501116692400": {
+      "sku": "SP12501116692400",
+      "id_produto": "20063",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501100656449": {
+      "sku": "SP12501100656449",
+      "id_produto": "20058",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP12501100656448": {
+      "sku": "SP12501100656448",
+      "id_produto": "20057",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     }
   }
 }
