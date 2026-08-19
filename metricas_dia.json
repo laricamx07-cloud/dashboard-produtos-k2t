@@ -1,11 +1,11 @@
 {
   "data": "2026-08-19",
   "primeira_atualizacao": "19/08/2026 08:22:02",
-  "ultima_atualizacao": "19/08/2026 16:21:01",
+  "ultima_atualizacao": "19/08/2026 16:53:15",
   "total_base_dia": 102,
-  "total_atual": 104,
+  "total_atual": 102,
   "novos_produtos": 72,
-  "total_subidos": 65,
+  "total_subidos": 67,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501009853034",
@@ -363,6 +363,7 @@
   "skus_subidos_hoje": [
     "SP12501015098400",
     "SP12501015268015",
+    "SP12501016175033",
     "SP12501016760012",
     "SP12501016795400",
     "SP12501017341028",
@@ -371,6 +372,7 @@
     "SP12501056282400",
     "SP12501056282411",
     "SP12501080043029",
+    "SP12501080744400",
     "SP12501088168004",
     "SP12501100656448",
     "SP12501100656449",
@@ -430,6 +432,7 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501015098400",
     "SP12501015268015",
+    "SP12501016175033",
     "SP12501016760012",
     "SP12501016795400",
     "SP12501017341028",
@@ -438,6 +441,7 @@
     "SP12501056282400",
     "SP12501056282411",
     "SP12501080043029",
+    "SP12501080744400",
     "SP12501088168004",
     "SP12501100656448",
     "SP12501100656449",
@@ -790,7 +794,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -930,11 +934,11 @@
     {
       "sku": "SP12501080744400",
       "id_produto": "12833",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN FOX CITY 1.0 2004/2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0MI/ 1.0MI TOTAL FLEX 8V 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "6"
@@ -1386,6 +1390,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501016175033",
+      "id_produto": "4408",
+      "nome": "PORTA DIANTEIRA ESQUERDA JEEP COMPASS SPORT PRATA 2016/17",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501016760012",
       "id_produto": "31",
       "nome": "Condensador Ar Condicionado Fiat Toro Endurance 1.8 2019/20",
@@ -1480,6 +1496,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "4"
+    },
+    {
+      "sku": "SP12501080744400",
+      "id_produto": "12833",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN FOX CITY 1.0 2004/2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0MI/ 1.0MI TOTAL FLEX 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501088168004",
@@ -3802,11 +3830,11 @@
     "SP12501080744400": {
       "sku": "SP12501080744400",
       "id_produto": "12833",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN FOX CITY 1.0 2004/2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0MI/ 1.0MI TOTAL FLEX 8V 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "6"
@@ -3854,7 +3882,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
