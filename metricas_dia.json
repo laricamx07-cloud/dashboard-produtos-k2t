@@ -1,11 +1,11 @@
 {
   "data": "2026-08-19",
   "primeira_atualizacao": "19/08/2026 08:22:02",
-  "ultima_atualizacao": "19/08/2026 17:59:58",
+  "ultima_atualizacao": "19/08/2026 18:19:03",
   "total_base_dia": 102,
-  "total_atual": 95,
+  "total_atual": 91,
   "novos_produtos": 76,
-  "total_subidos": 78,
+  "total_subidos": 82,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501009853034",
@@ -369,8 +369,11 @@
     "SP42501003148936"
   ],
   "skus_subidos_hoje": [
+    "SP12501004665033",
+    "SP12501014881003",
     "SP12501015098400",
     "SP12501015268015",
+    "SP12501016175032",
     "SP12501016175033",
     "SP12501016760012",
     "SP12501016795400",
@@ -408,6 +411,7 @@
     "SP12501103019004",
     "SP12501103019032",
     "SP12501103019033",
+    "SP12501103027039",
     "SP12501108002039",
     "SP12501108002041",
     "SP12501108002042",
@@ -449,8 +453,11 @@
     "SP32501001210878"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501004665033",
+    "SP12501014881003",
     "SP12501015098400",
     "SP12501015268015",
+    "SP12501016175032",
     "SP12501016175033",
     "SP12501016760012",
     "SP12501016795400",
@@ -488,6 +495,7 @@
     "SP12501103019004",
     "SP12501103019032",
     "SP12501103019033",
+    "SP12501103027039",
     "SP12501108002039",
     "SP12501108002041",
     "SP12501108002042",
@@ -560,7 +568,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "13"
@@ -812,7 +820,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -1444,6 +1452,30 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501004665033",
+      "id_produto": "4537",
+      "nome": "PORTA DIANTEIRA ESQUERDA FIAT MOBI DRIVE GSR 1.0 BRANCO 2018",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "13"
+    },
+    {
+      "sku": "SP12501014881003",
+      "id_produto": "19158",
+      "nome": "CABEÇOTE COM VÁLVULAS JEEP COMPASS SPORT 2.0 4X2 FLEX 16/17",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501015098400",
       "id_produto": "481",
       "nome": "Motor Completo Fiat Palio 1.0 Economy Fire Flex 8v 2011/202",
@@ -1466,6 +1498,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501016175032",
+      "id_produto": "4380",
+      "nome": "PORTA DIANTEIRA DIREITA JEEP COMPASS SPORT CINZA 2.0 2017",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501016175033",
@@ -1910,6 +1954,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103027039",
+      "id_produto": "19433",
+      "nome": "RODA LIGA LEVE ARO 15 VOLKSWAGEN PARATI",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "PARATI 1.8 MI",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501108002039",
@@ -2484,7 +2540,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -3320,11 +3376,11 @@
     "SP12501103027039": {
       "sku": "SP12501103027039",
       "id_produto": "19433",
-      "nome": "RODA DIANTEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 15 VOLKSWAGEN PARATI",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "PARATI 1.8 MI",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -4200,7 +4256,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "13"
@@ -4272,7 +4328,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS SPORT 2.0 4X2 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
