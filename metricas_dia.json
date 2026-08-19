@@ -1,11 +1,11 @@
 {
   "data": "2026-08-19",
   "primeira_atualizacao": "19/08/2026 08:22:02",
-  "ultima_atualizacao": "19/08/2026 08:51:18",
+  "ultima_atualizacao": "19/08/2026 09:23:16",
   "total_base_dia": 102,
-  "total_atual": 114,
-  "novos_produtos": 17,
-  "total_subidos": 5,
+  "total_atual": 115,
+  "novos_produtos": 21,
+  "total_subidos": 8,
   "skus_base_dia": [
     "SP12501009648039",
     "SP12501009853034",
@@ -165,6 +165,7 @@
     "SP12501100818020",
     "SP12501100818024",
     "SP12501100818026",
+    "SP12501100818036",
     "SP12501100818038",
     "SP12501100818045",
     "SP12501100818480",
@@ -195,6 +196,7 @@
     "SP12501111704001",
     "SP12501111704010",
     "SP12501111704011",
+    "SP12501111704012",
     "SP12501111704019",
     "SP12501111704024",
     "SP12501111704026",
@@ -203,6 +205,7 @@
     "SP12501111704037",
     "SP12501111704038",
     "SP12501111704049",
+    "SP12501111704411",
     "SP12501111704570",
     "SP12501111712007",
     "SP12501111712030",
@@ -220,6 +223,7 @@
     "SP12501111739026",
     "SP12501111739027",
     "SP12501111739400",
+    "SP12501111739411",
     "SP12501111739584",
     "SP12501116684400",
     "SP12501116765034",
@@ -237,17 +241,21 @@
     "SP12501100818019",
     "SP12501100818020",
     "SP12501100818024",
+    "SP12501100818036",
     "SP12501100818038",
     "SP12501100818570",
     "SP12501111704010",
+    "SP12501111704012",
     "SP12501111704019",
     "SP12501111704024",
     "SP12501111704027",
     "SP12501111704037",
+    "SP12501111704411",
     "SP12501111712411",
     "SP12501111739019",
     "SP12501111739024",
     "SP12501111739027",
+    "SP12501111739411",
     "SP12501111739584"
   ],
   "skus_subidos_hoje": [
@@ -255,14 +263,20 @@
     "SP12501015268015",
     "SP12501016760012",
     "SP12501016795400",
-    "SP12501017341028"
+    "SP12501017341028",
+    "SP12501042036032",
+    "SP12501088168004",
+    "SP32501001210878"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015098400",
     "SP12501015268015",
     "SP12501016760012",
     "SP12501016795400",
-    "SP12501017341028"
+    "SP12501017341028",
+    "SP12501042036032",
+    "SP12501088168004",
+    "SP32501001210878"
   ],
   "itens_novos_hoje": [
     {
@@ -326,6 +340,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501100818036",
+      "id_produto": "20059",
+      "nome": "RADIADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501100818038",
       "id_produto": "20040",
       "nome": "RETROVISOR ESQUERDO",
@@ -360,6 +386,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111704012",
+      "id_produto": "20060",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501111704019",
@@ -410,6 +448,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501111704411",
+      "id_produto": "20061",
+      "nome": "ELETROVENTILADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501111712411",
       "id_produto": "20051",
       "nome": "ELETROVENTILADOR",
@@ -451,6 +501,18 @@
       "nome": "PAINEL DE INSTRUMENTOS",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI WAY ON 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111739411",
+      "id_produto": "20062",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -530,6 +592,42 @@
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501042036032",
+      "id_produto": "8682",
+      "nome": "PORTA DIANTEIRA DIR. PRETA CHEVROLET CLASSIC LIFE/LS 2013/14",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501088168004",
+      "id_produto": "11904",
+      "nome": "CÂMBIO MANUAL FIAT UNO MILLE 1.0 FIRE ECONOMY 2007/2008",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP32501001210878",
+      "id_produto": "8568",
+      "nome": "TAMPA TRASEIRA PRETA RAM 2500 LARAMIE 6.7 TDI CD 2016/17",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -608,11 +706,11 @@
     "SP12501088168004": {
       "sku": "SP12501088168004",
       "id_produto": "11904",
-      "nome": "Caixa Cambio Uno 1.0 Fire 2006 2007 a 2013",
+      "nome": "CÂMBIO MANUAL FIAT UNO MILLE 1.0 FIRE ECONOMY 2007/2008",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -624,7 +722,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
@@ -1140,7 +1238,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -1960,6 +2058,54 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501100818036": {
+      "sku": "SP12501100818036",
+      "id_produto": "20059",
+      "nome": "RADIADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501111704411": {
+      "sku": "SP12501111704411",
+      "id_produto": "20061",
+      "nome": "ELETROVENTILADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501111739411": {
+      "sku": "SP12501111739411",
+      "id_produto": "20062",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501111704012": {
+      "sku": "SP12501111704012",
+      "id_produto": "20060",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     }
   }
 }
