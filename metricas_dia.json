@@ -1,10 +1,10 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 10:51:08",
+  "ultima_atualizacao": "20/08/2026 11:21:13",
   "total_base_dia": 91,
-  "total_atual": 97,
-  "novos_produtos": 8,
+  "total_atual": 103,
+  "novos_produtos": 14,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
@@ -124,6 +124,7 @@
     "SP12501014806045",
     "SP12501014970419",
     "SP12501015144026",
+    "SP12501015322026",
     "SP12501015527034",
     "SP12501015543012",
     "SP12501015586034",
@@ -175,6 +176,8 @@
     "SP12501100710033",
     "SP12501100834024",
     "SP12501100842007",
+    "SP12501102276030",
+    "SP12501102276031",
     "SP12501102462007",
     "SP12501102470007",
     "SP12501102470030",
@@ -183,6 +186,8 @@
     "SP12501102527007",
     "SP12501102527032",
     "SP12501102888007",
+    "SP12501103019030",
+    "SP12501103019031",
     "SP12501103167007",
     "SP12501104520032",
     "SP12501105631026",
@@ -197,18 +202,25 @@
     "SP12501116765041",
     "SP12501116765042",
     "SP12501116765043",
+    "SP32501001245078",
     "SP42501001064042",
     "SP42501003148936"
   ],
   "skus_novos_hoje": [
     "SP12501014970419",
     "SP12501015144026",
+    "SP12501015322026",
     "SP12501015543012",
     "SP12501017066026",
     "SP12501040823400",
     "SP12501041196001",
     "SP12501079959004",
-    "SP12501079959411"
+    "SP12501079959411",
+    "SP12501102276030",
+    "SP12501102276031",
+    "SP12501103019030",
+    "SP12501103019031",
+    "SP32501001245078"
   ],
   "skus_subidos_hoje": [
     "SP12501005246001",
@@ -237,6 +249,18 @@
       "nome": "MOTOR DE PARTIDA",
       "marca": "PGT",
       "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015322026",
+      "id_produto": "18619",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -314,6 +338,66 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501102276030",
+      "id_produto": "20098",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102276031",
+      "id_produto": "20099",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103019030",
+      "id_produto": "20100",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103019031",
+      "id_produto": "20101",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP32501001245078",
+      "id_produto": "18692",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "DODGE / RAM 2500 TROPIVAN 5.9 SLT TDI 4X",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -1530,6 +1614,78 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501015322026": {
+      "sku": "SP12501015322026",
+      "id_produto": "18619",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501103019030": {
+      "sku": "SP12501103019030",
+      "id_produto": "20100",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501102276031": {
+      "sku": "SP12501102276031",
+      "id_produto": "20099",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501103019031": {
+      "sku": "SP12501103019031",
+      "id_produto": "20101",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501102276030": {
+      "sku": "SP12501102276030",
+      "id_produto": "20098",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP32501001245078": {
+      "sku": "SP32501001245078",
+      "id_produto": "18692",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "DODGE / RAM 2500 TROPIVAN 5.9 SLT TDI 4X",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
