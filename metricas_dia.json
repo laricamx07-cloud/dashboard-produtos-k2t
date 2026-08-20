@@ -1,11 +1,11 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 08:21:33",
+  "ultima_atualizacao": "20/08/2026 08:51:11",
   "total_base_dia": 91,
-  "total_atual": 91,
+  "total_atual": 90,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 1,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -193,10 +193,27 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501005246001"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501005246001"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501005246001",
+      "id_produto": "4803",
+      "nome": "ALTERNADOR PEUGEOT 2008 ALLURE 1.6 FLEX 2021/22",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 ALLURE 1.6 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "10"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501080469019": {
       "sku": "SP12501080469019",
@@ -561,11 +578,11 @@
     "SP12501005246001": {
       "sku": "SP12501005246001",
       "id_produto": "4803",
-      "nome": "ALTERNADOR PEUGEOT 2008 ALLURE 1.6 2021/22",
+      "nome": "ALTERNADOR PEUGEOT 2008 ALLURE 1.6 FLEX 2021/22",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
