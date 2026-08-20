@@ -1,11 +1,11 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 08:51:11",
+  "ultima_atualizacao": "20/08/2026 09:21:17",
   "total_base_dia": 91,
-  "total_atual": 90,
+  "total_atual": 89,
   "novos_produtos": 0,
-  "total_subidos": 1,
+  "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -194,10 +194,12 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
-    "SP12501005246001"
+    "SP12501005246001",
+    "SP12501010401035"
   ],
   "skus_subidos_status_ml_hoje": [
-    "SP12501005246001"
+    "SP12501005246001",
+    "SP12501010401035"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
@@ -212,6 +214,18 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501010401035",
+      "id_produto": "7565",
+      "nome": "PORTA TRASEIRA ESQUERDA VOLKSWAGEN GOL NOVO 1.6 MI T 2012/13",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL (NOVO) 1.6 MI TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1194,7 +1208,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL (NOVO) 1.6 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
