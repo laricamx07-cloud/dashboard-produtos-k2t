@@ -1,11 +1,11 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 15:51:08",
+  "ultima_atualizacao": "20/08/2026 16:21:08",
   "total_base_dia": 91,
-  "total_atual": 134,
-  "novos_produtos": 45,
-  "total_subidos": 2,
+  "total_atual": 137,
+  "novos_produtos": 49,
+  "total_subidos": 3,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -121,6 +121,8 @@
     "SP12501010177026",
     "SP12501010312034",
     "SP12501010401035",
+    "SP12501014040027",
+    "SP12501014059037",
     "SP12501014075026",
     "SP12501014075048",
     "SP12501014121034",
@@ -136,11 +138,13 @@
     "SP12501015322026",
     "SP12501015322038",
     "SP12501015330038",
+    "SP12501015381038",
     "SP12501015527034",
     "SP12501015543012",
     "SP12501015586034",
     "SP12501015608020",
     "SP12501015608026",
+    "SP12501015608037",
     "SP12501015616026",
     "SP12501015632011",
     "SP12501015730034",
@@ -241,6 +245,8 @@
     "SP12501009586026",
     "SP12501009888026",
     "SP12501010177026",
+    "SP12501014040027",
+    "SP12501014059037",
     "SP12501014075026",
     "SP12501014075048",
     "SP12501014970419",
@@ -252,9 +258,11 @@
     "SP12501015322026",
     "SP12501015322038",
     "SP12501015330038",
+    "SP12501015381038",
     "SP12501015543012",
     "SP12501015608020",
     "SP12501015608026",
+    "SP12501015608037",
     "SP12501015616026",
     "SP12501015632011",
     "SP12501017066026",
@@ -286,11 +294,13 @@
   ],
   "skus_subidos_hoje": [
     "SP12501005246001",
-    "SP12501010401035"
+    "SP12501010401035",
+    "SP12501111704004"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501005246001",
-    "SP12501010401035"
+    "SP12501010401035",
+    "SP12501111704004"
   ],
   "itens_novos_hoje": [
     {
@@ -328,6 +338,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501014040027",
+      "id_produto": "18889",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501014059037",
+      "id_produto": "19023",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501014075026",
@@ -462,6 +496,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501015381038",
+      "id_produto": "18782",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501015543012",
       "id_produto": "1089",
       "nome": "CONDENSADOR AR CONDICIONADO FIAT GRAND SIENA 2017/18",
@@ -495,6 +541,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015608037",
+      "id_produto": "19222",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "9"
     },
     {
@@ -800,11 +858,11 @@
     {
       "sku": "SP12501111704004",
       "id_produto": "20110",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN FOX ROCK IN RIO 1.6 MI TOTAL FLEX",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -858,6 +916,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111704004",
+      "id_produto": "20110",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN FOX ROCK IN RIO 1.6 MI TOTAL FLEX",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -2472,11 +2542,11 @@
     "SP12501111704004": {
       "sku": "SP12501111704004",
       "id_produto": "20110",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN FOX ROCK IN RIO 1.6 MI TOTAL FLEX",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2492,6 +2562,54 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501015608037": {
+      "sku": "SP12501015608037",
+      "id_produto": "19222",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501014040027": {
+      "sku": "SP12501014040027",
+      "id_produto": "18889",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501014059037": {
+      "sku": "SP12501014059037",
+      "id_produto": "19023",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501015381038": {
+      "sku": "SP12501015381038",
+      "id_produto": "18782",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   }
 }
