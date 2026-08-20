@@ -1,10 +1,10 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 09:51:13",
+  "ultima_atualizacao": "20/08/2026 10:21:11",
   "total_base_dia": 91,
-  "total_atual": 89,
-  "novos_produtos": 0,
+  "total_atual": 93,
+  "novos_produtos": 4,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
@@ -123,6 +123,7 @@
     "SP12501014750034",
     "SP12501014806045",
     "SP12501015527034",
+    "SP12501015543012",
     "SP12501015586034",
     "SP12501015730034",
     "SP12501015829045",
@@ -131,6 +132,7 @@
     "SP12501016116032",
     "SP12501016590045",
     "SP12501017414032",
+    "SP12501040823400",
     "SP12501041145437",
     "SP12501041501034",
     "SP12501041668035",
@@ -145,7 +147,9 @@
     "SP12501057513032",
     "SP12501079924032",
     "SP12501079924033",
+    "SP12501079959004",
     "SP12501079959400",
+    "SP12501079959411",
     "SP12501079975034",
     "SP12501080183035",
     "SP12501080329032",
@@ -192,7 +196,12 @@
     "SP42501001064042",
     "SP42501003148936"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501015543012",
+    "SP12501040823400",
+    "SP12501079959004",
+    "SP12501079959411"
+  ],
   "skus_subidos_hoje": [
     "SP12501005246001",
     "SP12501010401035"
@@ -201,7 +210,56 @@
     "SP12501005246001",
     "SP12501010401035"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501015543012",
+      "id_produto": "1089",
+      "nome": "CONDENSADOR AR CONDICIONADO FIAT GRAND SIENA 2017/18",
+      "marca": "Fiat",
+      "modelo_do_veiculo": "Grand Siena Attractive 1.0 Flex 8V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501040823400",
+      "id_produto": "7194",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH LTZ 1.4 2012/2013",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501079959004",
+      "id_produto": "8344",
+      "nome": "CÂMBIO AUTOMATICO WR-V EX 1.5 FLEXONE 16V AUT 2019/2019",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501079959411",
+      "id_produto": "8376",
+      "nome": "ELETROVENTILADOR HONDA WR-V EX 1.5 FLEXONE 16V 5P AUT 2019",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "5"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501005246001",
@@ -1320,6 +1378,54 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
+    },
+    "SP12501079959004": {
+      "sku": "SP12501079959004",
+      "id_produto": "8344",
+      "nome": "CÂMBIO AUTOMATICO WR-V EX 1.5 FLEXONE 16V AUT 2019/2019",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "9"
+    },
+    "SP12501040823400": {
+      "sku": "SP12501040823400",
+      "id_produto": "7194",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH LTZ 1.4 2012/2013",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "8"
+    },
+    "SP12501079959411": {
+      "sku": "SP12501079959411",
+      "id_produto": "8376",
+      "nome": "ELETROVENTILADOR HONDA WR-V EX 1.5 FLEXONE 16V 5P AUT 2019",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "5"
+    },
+    "SP12501015543012": {
+      "sku": "SP12501015543012",
+      "id_produto": "1089",
+      "nome": "CONDENSADOR AR CONDICIONADO FIAT GRAND SIENA 2017/18",
+      "marca": "Fiat",
+      "modelo_do_veiculo": "Grand Siena Attractive 1.0 Flex 8V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
     }
   }
 }
