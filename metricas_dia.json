@@ -1,10 +1,10 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 11:50:55",
+  "ultima_atualizacao": "20/08/2026 12:20:57",
   "total_base_dia": 91,
-  "total_atual": 108,
-  "novos_produtos": 19,
+  "total_atual": 110,
+  "novos_produtos": 21,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
@@ -129,6 +129,7 @@
     "SP12501015527034",
     "SP12501015543012",
     "SP12501015586034",
+    "SP12501015616026",
     "SP12501015632011",
     "SP12501015730034",
     "SP12501015829045",
@@ -209,6 +210,7 @@
     "SP12501116765043",
     "SP32501001245078",
     "SP42501001064042",
+    "SP42501003148077",
     "SP42501003148936"
   ],
   "skus_novos_hoje": [
@@ -217,6 +219,7 @@
     "SP12501015292026",
     "SP12501015322026",
     "SP12501015543012",
+    "SP12501015616026",
     "SP12501015632011",
     "SP12501017066026",
     "SP12501017481026",
@@ -230,7 +233,8 @@
     "SP12501102276031",
     "SP12501103019030",
     "SP12501103019031",
-    "SP32501001245078"
+    "SP32501001245078",
+    "SP42501003148077"
   ],
   "skus_subidos_hoje": [
     "SP12501005246001",
@@ -300,6 +304,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501015616026",
+      "id_produto": "18621",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS TRAILHAWK 2.0 4X4 DIES. 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501015632011",
@@ -468,6 +484,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP42501003148077",
+      "id_produto": "19055",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "DUCATO MINIBUS 2.3 ME DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     }
   ],
   "itens_subidos_hoje": [
@@ -1811,6 +1839,30 @@
       "nome": "COMPRESSOR DO AR-CONDICIONADO",
       "marca": "FIAT",
       "modelo_do_veiculo": "FIORINO ENDURANCE EVO 1.4 FLEX 8V 2P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP42501003148077": {
+      "sku": "SP42501003148077",
+      "id_produto": "19055",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "DUCATO MINIBUS 2.3 ME DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501015616026": {
+      "sku": "SP12501015616026",
+      "id_produto": "18621",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS TRAILHAWK 2.0 4X4 DIES. 16V AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
