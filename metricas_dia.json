@@ -1,10 +1,10 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 12:20:57",
+  "ultima_atualizacao": "20/08/2026 12:50:52",
   "total_base_dia": 91,
-  "total_atual": 110,
-  "novos_produtos": 21,
+  "total_atual": 113,
+  "novos_produtos": 24,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
@@ -109,6 +109,7 @@
     "SP12501005246001",
     "SP12501005300033",
     "SP12501005300035",
+    "SP12501009586026",
     "SP12501009648039",
     "SP12501009713035",
     "SP12501009730035",
@@ -116,8 +117,10 @@
     "SP12501009853034",
     "SP12501009888034",
     "SP12501009950033",
+    "SP12501010177026",
     "SP12501010312034",
     "SP12501010401035",
+    "SP12501014075026",
     "SP12501014121034",
     "SP12501014750032",
     "SP12501014750034",
@@ -214,6 +217,9 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [
+    "SP12501009586026",
+    "SP12501010177026",
+    "SP12501014075026",
     "SP12501014970419",
     "SP12501015144026",
     "SP12501015292026",
@@ -245,6 +251,42 @@
     "SP12501010401035"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501009586026",
+      "id_produto": "18611",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 1.0M COMFOR",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501010177026",
+      "id_produto": "18612",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "GRAND SIENA ATTRAC. 1.4 EVO F.FLEX 8V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501014075026",
+      "id_produto": "18613",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501014970419",
       "id_produto": "13678",
@@ -1868,6 +1910,42 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501010177026": {
+      "sku": "SP12501010177026",
+      "id_produto": "18612",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "GRAND SIENA ATTRAC. 1.4 EVO F.FLEX 8V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501009586026": {
+      "sku": "SP12501009586026",
+      "id_produto": "18611",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 1.0M COMFOR",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501014075026": {
+      "sku": "SP12501014075026",
+      "id_produto": "18613",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   }
 }
