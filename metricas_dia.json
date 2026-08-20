@@ -1,10 +1,10 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 12:50:52",
+  "ultima_atualizacao": "20/08/2026 13:21:11",
   "total_base_dia": 91,
-  "total_atual": 113,
-  "novos_produtos": 24,
+  "total_atual": 115,
+  "novos_produtos": 26,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
@@ -127,11 +127,13 @@
     "SP12501014806045",
     "SP12501014970419",
     "SP12501015144026",
+    "SP12501015233026",
     "SP12501015292026",
     "SP12501015322026",
     "SP12501015527034",
     "SP12501015543012",
     "SP12501015586034",
+    "SP12501015608026",
     "SP12501015616026",
     "SP12501015632011",
     "SP12501015730034",
@@ -222,9 +224,11 @@
     "SP12501014075026",
     "SP12501014970419",
     "SP12501015144026",
+    "SP12501015233026",
     "SP12501015292026",
     "SP12501015322026",
     "SP12501015543012",
+    "SP12501015608026",
     "SP12501015616026",
     "SP12501015632011",
     "SP12501017066026",
@@ -312,6 +316,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501015233026",
+      "id_produto": "18617",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "VERSA SL 1.6 16V FLEX FUEL 4P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501015292026",
       "id_produto": "19054",
       "nome": "MOTOR DE PARTIDA",
@@ -346,6 +362,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501015608026",
+      "id_produto": "18620",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501015616026",
@@ -1946,6 +1974,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    "SP12501015608026": {
+      "sku": "SP12501015608026",
+      "id_produto": "18620",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501015233026": {
+      "sku": "SP12501015233026",
+      "id_produto": "18617",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "VERSA SL 1.6 16V FLEX FUEL 4P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   }
 }
