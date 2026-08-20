@@ -1,10 +1,10 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 13:51:16",
+  "ultima_atualizacao": "20/08/2026 14:21:12",
   "total_base_dia": 91,
-  "total_atual": 119,
-  "novos_produtos": 30,
+  "total_atual": 121,
+  "novos_produtos": 32,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
@@ -131,6 +131,7 @@
     "SP12501015144026",
     "SP12501015233026",
     "SP12501015292026",
+    "SP12501015322011",
     "SP12501015322026",
     "SP12501015527034",
     "SP12501015543012",
@@ -182,6 +183,7 @@
     "SP12501084480034",
     "SP12501084480035",
     "SP12501084529026",
+    "SP12501084774411",
     "SP12501084790035",
     "SP12501088338031",
     "SP12501089229040",
@@ -232,6 +234,7 @@
     "SP12501015144026",
     "SP12501015233026",
     "SP12501015292026",
+    "SP12501015322011",
     "SP12501015322026",
     "SP12501015543012",
     "SP12501015608026",
@@ -245,6 +248,7 @@
     "SP12501079959004",
     "SP12501079959411",
     "SP12501084529026",
+    "SP12501084774411",
     "SP12501100710030",
     "SP12501100710031",
     "SP12501102276030",
@@ -370,6 +374,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501015322011",
+      "id_produto": "19168",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501015322026",
@@ -526,6 +542,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501084774411",
+      "id_produto": "15990",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501100710030",
@@ -2102,6 +2130,30 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
+    },
+    "SP12501015322011": {
+      "sku": "SP12501015322011",
+      "id_produto": "19168",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501084774411": {
+      "sku": "SP12501084774411",
+      "id_produto": "15990",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "5"
     }
   }
 }
