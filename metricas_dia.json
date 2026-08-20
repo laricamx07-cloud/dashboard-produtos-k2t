@@ -1,10 +1,10 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 13:21:11",
+  "ultima_atualizacao": "20/08/2026 13:51:16",
   "total_base_dia": 91,
-  "total_atual": 115,
-  "novos_produtos": 26,
+  "total_atual": 119,
+  "novos_produtos": 30,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
@@ -115,12 +115,14 @@
     "SP12501009730035",
     "SP12501009802034",
     "SP12501009853034",
+    "SP12501009888026",
     "SP12501009888034",
     "SP12501009950033",
     "SP12501010177026",
     "SP12501010312034",
     "SP12501010401035",
     "SP12501014075026",
+    "SP12501014075048",
     "SP12501014121034",
     "SP12501014750032",
     "SP12501014750034",
@@ -143,6 +145,7 @@
     "SP12501016116032",
     "SP12501016590045",
     "SP12501017066026",
+    "SP12501017090024",
     "SP12501017414032",
     "SP12501017481026",
     "SP12501040823400",
@@ -178,6 +181,7 @@
     "SP12501083948034",
     "SP12501084480034",
     "SP12501084480035",
+    "SP12501084529026",
     "SP12501084790035",
     "SP12501088338031",
     "SP12501089229040",
@@ -220,8 +224,10 @@
   ],
   "skus_novos_hoje": [
     "SP12501009586026",
+    "SP12501009888026",
     "SP12501010177026",
     "SP12501014075026",
+    "SP12501014075048",
     "SP12501014970419",
     "SP12501015144026",
     "SP12501015233026",
@@ -232,11 +238,13 @@
     "SP12501015616026",
     "SP12501015632011",
     "SP12501017066026",
+    "SP12501017090024",
     "SP12501017481026",
     "SP12501040823400",
     "SP12501041196001",
     "SP12501079959004",
     "SP12501079959411",
+    "SP12501084529026",
     "SP12501100710030",
     "SP12501100710031",
     "SP12501102276030",
@@ -268,6 +276,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501009888026",
+      "id_produto": "17695",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "GM",
+      "modelo_do_veiculo": "COBALT GRAPHITE 1.8 8V ECONO.FLEX 4P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501010177026",
       "id_produto": "18612",
       "nome": "MOTOR DE PARTIDA",
@@ -290,6 +310,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501014075048",
+      "id_produto": "19053",
+      "nome": "TURBINA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501014970419",
@@ -412,6 +444,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501017090024",
+      "id_produto": "17250",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "500 CABRIO DUALOGIC FLEX 1.4 8V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501017481026",
       "id_produto": "18623",
       "nome": "MOTOR DE PARTIDA",
@@ -470,6 +514,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501084529026",
+      "id_produto": "11092",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "JETTA COMFORTLINE 2.0 T.FLEX 8V 4P TIPT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501100710030",
@@ -1998,6 +2054,54 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501009888026": {
+      "sku": "SP12501009888026",
+      "id_produto": "17695",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "GM",
+      "modelo_do_veiculo": "COBALT GRAPHITE 1.8 8V ECONO.FLEX 4P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    "SP12501014075048": {
+      "sku": "SP12501014075048",
+      "id_produto": "19053",
+      "nome": "TURBINA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501017090024": {
+      "sku": "SP12501017090024",
+      "id_produto": "17250",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "500 CABRIO DUALOGIC FLEX 1.4 8V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP12501084529026": {
+      "sku": "SP12501084529026",
+      "id_produto": "11092",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "JETTA COMFORTLINE 2.0 T.FLEX 8V 4P TIPT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "7"
     }
   }
 }
