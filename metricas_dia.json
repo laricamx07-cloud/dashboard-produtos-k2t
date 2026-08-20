@@ -1,10 +1,10 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 14:21:12",
+  "ultima_atualizacao": "20/08/2026 14:51:15",
   "total_base_dia": 91,
-  "total_atual": 121,
-  "novos_produtos": 32,
+  "total_atual": 122,
+  "novos_produtos": 33,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
@@ -129,6 +129,7 @@
     "SP12501014806045",
     "SP12501014970419",
     "SP12501015144026",
+    "SP12501015195049",
     "SP12501015233026",
     "SP12501015292026",
     "SP12501015322011",
@@ -232,6 +233,7 @@
     "SP12501014075048",
     "SP12501014970419",
     "SP12501015144026",
+    "SP12501015195049",
     "SP12501015233026",
     "SP12501015292026",
     "SP12501015322011",
@@ -350,6 +352,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015195049",
+      "id_produto": "17239",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "TOKIO MARINE SEGURAD",
+      "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501015233026",
@@ -2154,6 +2168,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
+    },
+    "SP12501015195049": {
+      "sku": "SP12501015195049",
+      "id_produto": "17239",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "TOKIO MARINE SEGURAD",
+      "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     }
   }
 }
