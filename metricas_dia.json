@@ -1,10 +1,10 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 14:51:15",
+  "ultima_atualizacao": "20/08/2026 15:21:11",
   "total_base_dia": 91,
-  "total_atual": 122,
-  "novos_produtos": 33,
+  "total_atual": 126,
+  "novos_produtos": 37,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
@@ -134,9 +134,12 @@
     "SP12501015292026",
     "SP12501015322011",
     "SP12501015322026",
+    "SP12501015322038",
+    "SP12501015330038",
     "SP12501015527034",
     "SP12501015543012",
     "SP12501015586034",
+    "SP12501015608020",
     "SP12501015608026",
     "SP12501015616026",
     "SP12501015632011",
@@ -196,6 +199,7 @@
     "SP12501100842007",
     "SP12501102276030",
     "SP12501102276031",
+    "SP12501102446004",
     "SP12501102462007",
     "SP12501102470007",
     "SP12501102470030",
@@ -238,7 +242,10 @@
     "SP12501015292026",
     "SP12501015322011",
     "SP12501015322026",
+    "SP12501015322038",
+    "SP12501015330038",
     "SP12501015543012",
+    "SP12501015608020",
     "SP12501015608026",
     "SP12501015616026",
     "SP12501015632011",
@@ -255,6 +262,7 @@
     "SP12501100710031",
     "SP12501102276030",
     "SP12501102276031",
+    "SP12501102446004",
     "SP12501103019030",
     "SP12501103019031",
     "SP32501001245078",
@@ -414,6 +422,30 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501015322038",
+      "id_produto": "17376",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015330038",
+      "id_produto": "19214",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH JOY 1.0 8V FLEX 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501015543012",
       "id_produto": "1089",
       "nome": "CONDENSADOR AR CONDICIONADO FIAT GRAND SIENA 2017/18",
@@ -424,6 +456,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501015608020",
+      "id_produto": "19221",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501015608026",
@@ -616,6 +660,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102446004",
+      "id_produto": "20108",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103019030",
@@ -2180,6 +2236,54 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    "SP12501015330038": {
+      "sku": "SP12501015330038",
+      "id_produto": "19214",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH JOY 1.0 8V FLEX 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501015322038": {
+      "sku": "SP12501015322038",
+      "id_produto": "17376",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501015608020": {
+      "sku": "SP12501015608020",
+      "id_produto": "19221",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501102446004": {
+      "sku": "SP12501102446004",
+      "id_produto": "20108",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     }
   }
 }
