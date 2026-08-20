@@ -1,10 +1,10 @@
 {
   "data": "2026-08-20",
   "primeira_atualizacao": "20/08/2026 08:21:33",
-  "ultima_atualizacao": "20/08/2026 16:51:12",
+  "ultima_atualizacao": "20/08/2026 17:21:13",
   "total_base_dia": 91,
-  "total_atual": 136,
-  "novos_produtos": 53,
+  "total_atual": 141,
+  "novos_produtos": 58,
   "total_subidos": 8,
   "skus_base_dia": [
     "SP12501004550032",
@@ -173,6 +173,7 @@
     "SP12501054310034",
     "SP12501054409007",
     "SP12501056282004",
+    "SP12501056282026",
     "SP12501057513032",
     "SP12501079924032",
     "SP12501079924033",
@@ -201,6 +202,7 @@
     "SP12501100680004",
     "SP12501100699001",
     "SP12501100699004",
+    "SP12501100710001",
     "SP12501100710030",
     "SP12501100710031",
     "SP12501100710032",
@@ -232,8 +234,11 @@
     "SP12501111348031",
     "SP12501111348035",
     "SP12501111690004",
+    "SP12501111690026",
+    "SP12501111690400",
     "SP12501111704004",
     "SP12501116684400",
+    "SP12501116692001",
     "SP12501116765034",
     "SP12501116765039",
     "SP12501116765040",
@@ -277,6 +282,7 @@
     "SP12501040823400",
     "SP12501041196001",
     "SP12501056282004",
+    "SP12501056282026",
     "SP12501079959004",
     "SP12501079959411",
     "SP12501084529026",
@@ -284,6 +290,7 @@
     "SP12501100680004",
     "SP12501100699001",
     "SP12501100699004",
+    "SP12501100710001",
     "SP12501100710030",
     "SP12501100710031",
     "SP12501100788007",
@@ -296,7 +303,10 @@
     "SP12501103019030",
     "SP12501103019031",
     "SP12501111690004",
+    "SP12501111690026",
+    "SP12501111690400",
     "SP12501111704004",
+    "SP12501116692001",
     "SP32501001245078",
     "SP42501003148077"
   ],
@@ -694,6 +704,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501056282026",
+      "id_produto": "20114",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501079959004",
       "id_produto": "8344",
       "nome": "CÂMBIO AUTOMATICO WR-V EX 1.5 FLEXONE 16V AUT 2019/2019",
@@ -776,6 +798,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501100710001",
+      "id_produto": "20116",
+      "nome": "ALTERNADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501100710030",
@@ -922,6 +956,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501111690026",
+      "id_produto": "20122",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111690400",
+      "id_produto": "20125",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501111704004",
       "id_produto": "20110",
       "nome": "CÂMBIO MANUAL VOLKSWAGEN FOX ROCK IN RIO 1.6 MI TOTAL FLEX",
@@ -931,6 +989,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501116692001",
+      "id_produto": "20128",
+      "nome": "ALTERNADOR",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -2784,6 +2854,66 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501111690400": {
+      "sku": "SP12501111690400",
+      "id_produto": "20125",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501111690026": {
+      "sku": "SP12501111690026",
+      "id_produto": "20122",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501100710001": {
+      "sku": "SP12501100710001",
+      "id_produto": "20116",
+      "nome": "ALTERNADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501116692001": {
+      "sku": "SP12501116692001",
+      "id_produto": "20128",
+      "nome": "ALTERNADOR",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501056282026": {
+      "sku": "SP12501056282026",
+      "id_produto": "20114",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     }
   }
 }
