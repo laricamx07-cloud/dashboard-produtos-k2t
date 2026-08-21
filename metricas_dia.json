@@ -1,11 +1,11 @@
 {
   "data": "2026-08-21",
   "primeira_atualizacao": "21/08/2026 08:21:11",
-  "ultima_atualizacao": "21/08/2026 16:51:24",
+  "ultima_atualizacao": "21/08/2026 17:21:18",
   "total_base_dia": 157,
-  "total_atual": 128,
-  "novos_produtos": 52,
-  "total_subidos": 81,
+  "total_atual": 127,
+  "novos_produtos": 53,
+  "total_subidos": 83,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -259,6 +259,7 @@
     "SP12501084480035",
     "SP12501084529026",
     "SP12501084774411",
+    "SP12501084790033",
     "SP12501084790035",
     "SP12501088338031",
     "SP12501089229040",
@@ -377,6 +378,7 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [
+    "SP12501084790033",
     "SP12501100672049",
     "SP12501100710010",
     "SP12501100710024",
@@ -476,6 +478,7 @@
     "SP12501102276030",
     "SP12501102276031",
     "SP12501102276049",
+    "SP12501102446400",
     "SP12501102454049",
     "SP12501102462049",
     "SP12501102489049",
@@ -488,6 +491,7 @@
     "SP12501103019030",
     "SP12501103019031",
     "SP12501103167049",
+    "SP12501103485010",
     "SP12501103485024",
     "SP12501103485027",
     "SP12501103485037",
@@ -559,6 +563,7 @@
     "SP12501102276030",
     "SP12501102276031",
     "SP12501102276049",
+    "SP12501102446400",
     "SP12501102454049",
     "SP12501102462049",
     "SP12501102489049",
@@ -571,6 +576,7 @@
     "SP12501103019030",
     "SP12501103019031",
     "SP12501103167049",
+    "SP12501103485010",
     "SP12501103485024",
     "SP12501103485027",
     "SP12501103485037",
@@ -597,6 +603,18 @@
     "SP42501003148077"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501084790033",
+      "id_produto": "9468",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
+    },
     {
       "sku": "SP12501100672049",
       "id_produto": "20144",
@@ -888,11 +906,11 @@
     {
       "sku": "SP12501103485010",
       "id_produto": "20188",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CHEVROLET ASTRA ELEGANCE 2.0 FLEXPOWER 05/05",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -904,7 +922,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1764,6 +1782,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501102446400",
+      "id_produto": "20142",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN GOL 1.6 MI/ 1.6I 2P 1996/1997",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI/ 1.6I 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501102454049",
       "id_produto": "20148",
       "nome": "VOLANTE DO MOTORISTA JEEP RENEGADE SPORT 1.8 4X2 FLEX 2021",
@@ -1908,13 +1938,25 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501103485010",
+      "id_produto": "20188",
+      "nome": "CHAVE DE SETA CHEVROLET ASTRA ELEGANCE 2.0 FLEXPOWER 05/05",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103485024",
       "id_produto": "20191",
       "nome": "MÓDULO DE INJEÇÃO CHEVROLET ASTRA ELEGANCE 2.0 2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -2752,11 +2794,11 @@
     "SP12501102446400": {
       "sku": "SP12501102446400",
       "id_produto": "20142",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN GOL 1.6 MI/ 1.6I 2P 1996/1997",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI/ 1.6I 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -4612,11 +4654,11 @@
     "SP12501103485010": {
       "sku": "SP12501103485010",
       "id_produto": "20188",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CHEVROLET ASTRA ELEGANCE 2.0 FLEXPOWER 05/05",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -4628,7 +4670,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -4704,6 +4746,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    "SP12501084790033": {
+      "sku": "SP12501084790033",
+      "id_produto": "9468",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
     }
   }
 }
