@@ -1,11 +1,11 @@
 {
   "data": "2026-08-21",
   "primeira_atualizacao": "21/08/2026 08:21:11",
-  "ultima_atualizacao": "21/08/2026 17:57:18",
+  "ultima_atualizacao": "21/08/2026 17:59:33",
   "total_base_dia": 157,
-  "total_atual": 121,
+  "total_atual": 120,
   "novos_produtos": 58,
-  "total_subidos": 94,
+  "total_subidos": 95,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -528,6 +528,7 @@
     "SP12501111712010",
     "SP12501111712024",
     "SP12501111712027",
+    "SP12501111712036",
     "SP12501111712037",
     "SP12501111712038",
     "SP12501111712049",
@@ -624,6 +625,7 @@
     "SP12501111712010",
     "SP12501111712024",
     "SP12501111712027",
+    "SP12501111712036",
     "SP12501111712037",
     "SP12501111712038",
     "SP12501111712049",
@@ -1880,7 +1882,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -2349,6 +2351,18 @@
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111712036",
+      "id_produto": "20135",
+      "nome": "RADIADOR VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2009/2010",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -3238,7 +3252,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -3690,11 +3704,11 @@
     "SP12501111712036": {
       "sku": "SP12501111712036",
       "id_produto": "20135",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2009/2010",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
