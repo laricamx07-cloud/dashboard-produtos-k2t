@@ -1,11 +1,11 @@
 {
   "data": "2026-08-21",
   "primeira_atualizacao": "21/08/2026 08:21:11",
-  "ultima_atualizacao": "21/08/2026 09:21:19",
+  "ultima_atualizacao": "21/08/2026 09:51:53",
   "total_base_dia": 157,
-  "total_atual": 143,
+  "total_atual": 136,
   "novos_produtos": 0,
-  "total_subidos": 14,
+  "total_subidos": 21,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -334,12 +334,19 @@
     "SP12501015144026",
     "SP12501015195049",
     "SP12501015233026",
+    "SP12501015292010",
+    "SP12501015322026",
     "SP12501015322038",
+    "SP12501015608026",
+    "SP12501015616026",
+    "SP12501017066026",
     "SP12501017090024",
+    "SP12501017481026",
     "SP12501079959004",
     "SP12501079959411",
     "SP12501084529026",
-    "SP12501084774411"
+    "SP12501084774411",
+    "SP32501001245078"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501009586026",
@@ -350,12 +357,19 @@
     "SP12501015144026",
     "SP12501015195049",
     "SP12501015233026",
+    "SP12501015292010",
+    "SP12501015322026",
     "SP12501015322038",
+    "SP12501015608026",
+    "SP12501015616026",
+    "SP12501017066026",
     "SP12501017090024",
+    "SP12501017481026",
     "SP12501079959004",
     "SP12501079959411",
     "SP12501084529026",
-    "SP12501084774411"
+    "SP12501084774411",
+    "SP32501001245078"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
@@ -456,6 +470,30 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501015292010",
+      "id_produto": "18780",
+      "nome": "CHAVE DE SETA HONDA FIT EX/S 1.5 FLEX/FLEXONE 16V AUT 14/15",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501015322026",
+      "id_produto": "18619",
+      "nome": "MOTOR DE PARTIDA HONDA FIT LX 1.5 FLEXONE 16V 5P MEC 2015",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501015322038",
       "id_produto": "17376",
       "nome": "RETROVISOR ESQUERDO HONDA FIT LX 1.5 FLEXONE 16V 5P MEC 2015",
@@ -468,6 +506,42 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501015608026",
+      "id_produto": "18620",
+      "nome": "MOTOR DE PARTIDA NISSAN KICKS SV 1.6 16V FLEXSTAR 2017/2018",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015616026",
+      "id_produto": "18621",
+      "nome": "MOTOR DE PARTIDA JEEP COMPASS TRAILHAWK 2.0 4X4 AUT. 2018/19",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS TRAILHAWK 2.0 4X4 DIES. 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501017066026",
+      "id_produto": "18622",
+      "nome": "MOTOR DE PARTIDA Volkswagen T-CROSS HIG. 250 TSI 1.4",
+      "marca": "Volkswagen",
+      "modelo_do_veiculo": "T-CROSS HIG. 250 TSI 1.4 FLEX 16V 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501017090024",
       "id_produto": "17250",
       "nome": "MÓDULO DE INJEÇÃO FIAT 500 CABRIO DUALOGIC FLEX 1.4 2014/15",
@@ -478,6 +552,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501017481026",
+      "id_produto": "18623",
+      "nome": "MOTOR DE PARTIDA HONDA HR-V EXL 1.8 FLEXONE 16V 2019/2020",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "HR-V EXL 1.8 FLEXONE 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501079959004",
@@ -526,6 +612,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP32501001245078",
+      "id_produto": "18692",
+      "nome": "MOTOR DE PARTIDA RAM DODGE / RAM 2500 TROPIVAN 5.9 SLT 2008",
+      "marca": "RAM",
+      "modelo_do_veiculo": "DODGE / RAM 2500 TROPIVAN 5.9 SLT TDI 4X",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -760,11 +858,11 @@
     "SP12501015608026": {
       "sku": "SP12501015608026",
       "id_produto": "18620",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA NISSAN KICKS SV 1.6 16V FLEXSTAR 2017/2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1360,11 +1458,11 @@
     "SP12501015322026": {
       "sku": "SP12501015322026",
       "id_produto": "18619",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA HONDA FIT LX 1.5 FLEXONE 16V 5P MEC 2015",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1456,11 +1554,11 @@
     "SP12501017066026": {
       "sku": "SP12501017066026",
       "id_produto": "18622",
-      "nome": "MOTOR DE PARTIDA",
-      "marca": "VW",
+      "nome": "MOTOR DE PARTIDA Volkswagen T-CROSS HIG. 250 TSI 1.4",
+      "marca": "Volkswagen",
       "modelo_do_veiculo": "T-CROSS HIG. 250 TSI 1.4 FLEX 16V 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1564,11 +1662,11 @@
     "SP32501001245078": {
       "sku": "SP32501001245078",
       "id_produto": "18692",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA RAM DODGE / RAM 2500 TROPIVAN 5.9 SLT 2008",
       "marca": "RAM",
       "modelo_do_veiculo": "DODGE / RAM 2500 TROPIVAN 5.9 SLT TDI 4X",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1792,11 +1890,11 @@
     "SP12501017481026": {
       "sku": "SP12501017481026",
       "id_produto": "18623",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA HONDA HR-V EXL 1.8 FLEXONE 16V 2019/2020",
       "marca": "HONDA",
       "modelo_do_veiculo": "HR-V EXL 1.8 FLEXONE 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1828,11 +1926,11 @@
     "SP12501015616026": {
       "sku": "SP12501015616026",
       "id_produto": "18621",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA JEEP COMPASS TRAILHAWK 2.0 4X4 AUT. 2018/19",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS TRAILHAWK 2.0 4X4 DIES. 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2188,11 +2286,11 @@
     "SP12501015292010": {
       "sku": "SP12501015292010",
       "id_produto": "18780",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA HONDA FIT EX/S 1.5 FLEX/FLEXONE 16V AUT 14/15",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
