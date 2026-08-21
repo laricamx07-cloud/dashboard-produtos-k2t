@@ -1,10 +1,10 @@
 {
   "data": "2026-08-21",
   "primeira_atualizacao": "21/08/2026 08:21:11",
-  "ultima_atualizacao": "21/08/2026 09:51:53",
+  "ultima_atualizacao": "21/08/2026 10:21:11",
   "total_base_dia": 157,
-  "total_atual": 136,
-  "novos_produtos": 0,
+  "total_atual": 143,
+  "novos_produtos": 7,
   "total_subidos": 21,
   "skus_base_dia": [
     "SP12501004550032",
@@ -278,13 +278,19 @@
     "SP12501100818400",
     "SP12501100834024",
     "SP12501100842007",
+    "SP12501100842585",
     "SP12501102276030",
     "SP12501102276031",
     "SP12501102276400",
     "SP12501102446400",
+    "SP12501102454049",
     "SP12501102462007",
     "SP12501102470007",
     "SP12501102470030",
+    "SP12501102489049",
+    "SP12501102497437",
+    "SP12501102497484",
+    "SP12501102500585",
     "SP12501102519033",
     "SP12501102519045",
     "SP12501102527007",
@@ -313,6 +319,7 @@
     "SP12501116684400",
     "SP12501116692001",
     "SP12501116692026",
+    "SP12501116692424",
     "SP12501116765034",
     "SP12501116765039",
     "SP12501116765040",
@@ -324,7 +331,15 @@
     "SP42501003148077",
     "SP42501003148936"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501100842585",
+    "SP12501102454049",
+    "SP12501102489049",
+    "SP12501102497437",
+    "SP12501102497484",
+    "SP12501102500585",
+    "SP12501116692424"
+  ],
   "skus_subidos_hoje": [
     "SP12501009586026",
     "SP12501009888026",
@@ -371,7 +386,92 @@
     "SP12501084774411",
     "SP32501001245078"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501100842585",
+      "id_produto": "20146",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501102454049",
+      "id_produto": "20148",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102489049",
+      "id_produto": "20152",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501102497437",
+      "id_produto": "20155",
+      "nome": "PNEU DIANTEIRO DIREITO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501102497484",
+      "id_produto": "20157",
+      "nome": "PNEU TRASEIRO DIREITO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501102500585",
+      "id_produto": "20159",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501116692424",
+      "id_produto": "20167",
+      "nome": "MULTIMÍDIA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501009586026",
@@ -2510,6 +2610,90 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "2"
+    },
+    "SP12501102454049": {
+      "sku": "SP12501102454049",
+      "id_produto": "20148",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501116692424": {
+      "sku": "SP12501116692424",
+      "id_produto": "20167",
+      "nome": "MULTIMÍDIA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501102500585": {
+      "sku": "SP12501102500585",
+      "id_produto": "20159",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501100842585": {
+      "sku": "SP12501100842585",
+      "id_produto": "20146",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501102497484": {
+      "sku": "SP12501102497484",
+      "id_produto": "20157",
+      "nome": "PNEU TRASEIRO DIREITO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501102497437": {
+      "sku": "SP12501102497437",
+      "id_produto": "20155",
+      "nome": "PNEU DIANTEIRO DIREITO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501102489049": {
+      "sku": "SP12501102489049",
+      "id_produto": "20152",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     }
   }
 }
