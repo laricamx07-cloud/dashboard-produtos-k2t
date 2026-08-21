@@ -1,10 +1,10 @@
 {
   "data": "2026-08-21",
   "primeira_atualizacao": "21/08/2026 08:21:11",
-  "ultima_atualizacao": "21/08/2026 15:17:23",
+  "ultima_atualizacao": "21/08/2026 15:21:31",
   "total_base_dia": 157,
-  "total_atual": 133,
-  "novos_produtos": 38,
+  "total_atual": 134,
+  "novos_produtos": 39,
   "total_subidos": 62,
   "skus_base_dia": [
     "SP12501004550032",
@@ -317,6 +317,7 @@
     "SP12501103019031",
     "SP12501103167007",
     "SP12501103167049",
+    "SP12501103523038",
     "SP12501104520032",
     "SP12501105631026",
     "SP12501109521034",
@@ -386,6 +387,7 @@
     "SP12501102527049",
     "SP12501102888049",
     "SP12501103167049",
+    "SP12501103523038",
     "SP12501111330437",
     "SP12501111330483",
     "SP12501111690024",
@@ -806,6 +808,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103523038",
+      "id_produto": "20200",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501111330437",
@@ -4074,6 +4088,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
+    },
+    "SP12501103523038": {
+      "sku": "SP12501103523038",
+      "id_produto": "20200",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     }
   }
 }
