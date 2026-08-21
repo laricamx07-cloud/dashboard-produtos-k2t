@@ -1,11 +1,11 @@
 {
   "data": "2026-08-21",
   "primeira_atualizacao": "21/08/2026 08:21:11",
-  "ultima_atualizacao": "21/08/2026 13:51:16",
+  "ultima_atualizacao": "21/08/2026 14:21:27",
   "total_base_dia": 157,
-  "total_atual": 136,
+  "total_atual": 133,
   "novos_produtos": 38,
-  "total_subidos": 59,
+  "total_subidos": 62,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -437,6 +437,7 @@
     "SP12501084529026",
     "SP12501084774411",
     "SP12501100672049",
+    "SP12501100710027",
     "SP12501100710030",
     "SP12501100710031",
     "SP12501100842049",
@@ -459,6 +460,8 @@
     "SP12501111712027",
     "SP12501111712037",
     "SP12501111712038",
+    "SP12501116692010",
+    "SP12501116692024",
     "SP12501116692027",
     "SP32501001245078",
     "SP42501003148077"
@@ -498,6 +501,7 @@
     "SP12501084529026",
     "SP12501084774411",
     "SP12501100672049",
+    "SP12501100710027",
     "SP12501100710030",
     "SP12501100710031",
     "SP12501100842049",
@@ -520,6 +524,8 @@
     "SP12501111712027",
     "SP12501111712037",
     "SP12501111712038",
+    "SP12501116692010",
+    "SP12501116692024",
     "SP12501116692027",
     "SP32501001245078",
     "SP42501003148077"
@@ -564,11 +570,11 @@
     {
       "sku": "SP12501100710027",
       "id_produto": "20178",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT UNO MILLE 1.0 FIRE ECONOMY",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -936,11 +942,11 @@
     {
       "sku": "SP12501116692010",
       "id_produto": "20176",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CHEVROLET ONIX HATCH LTZ 1.4 8V FLEXPOWER",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -948,11 +954,11 @@
     {
       "sku": "SP12501116692024",
       "id_produto": "20177",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LTZ 1.4 FLEXPOWER",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1392,6 +1398,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501100710027",
+      "id_produto": "20178",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT UNO MILLE 1.0 FIRE ECONOMY",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501100710030",
       "id_produto": "20096",
       "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT UNO MILLE 1.0 FIRE 2007/08",
@@ -1654,6 +1672,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501116692010",
+      "id_produto": "20176",
+      "nome": "CHAVE DE SETA CHEVROLET ONIX HATCH LTZ 1.4 8V FLEXPOWER",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501116692024",
+      "id_produto": "20177",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LTZ 1.4 FLEXPOWER",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501116692027",
@@ -3892,11 +3934,11 @@
     "SP12501116692010": {
       "sku": "SP12501116692010",
       "id_produto": "20176",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CHEVROLET ONIX HATCH LTZ 1.4 8V FLEXPOWER",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -3928,11 +3970,11 @@
     "SP12501116692024": {
       "sku": "SP12501116692024",
       "id_produto": "20177",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LTZ 1.4 FLEXPOWER",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -3988,11 +4030,11 @@
     "SP12501100710027": {
       "sku": "SP12501100710027",
       "id_produto": "20178",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT UNO MILLE 1.0 FIRE ECONOMY",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
