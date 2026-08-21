@@ -1,11 +1,11 @@
 {
   "data": "2026-08-21",
   "primeira_atualizacao": "21/08/2026 08:21:11",
-  "ultima_atualizacao": "21/08/2026 08:21:11",
+  "ultima_atualizacao": "21/08/2026 08:51:09",
   "total_base_dia": 157,
-  "total_atual": 157,
+  "total_atual": 152,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 5,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -325,10 +325,83 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501014970419",
+    "SP12501079959004",
+    "SP12501079959411",
+    "SP12501084529026",
+    "SP12501084774411"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501014970419",
+    "SP12501079959004",
+    "SP12501079959411",
+    "SP12501084529026",
+    "SP12501084774411"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501014970419",
+      "id_produto": "13678",
+      "nome": "CENTRAL MÓDULO DO AR-CONDICIONADO JEEP RENEGADE 2.0 2018/19",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501079959004",
+      "id_produto": "8344",
+      "nome": "CÂMBIO AUTOMATICO WR-V EX 1.5 FLEXONE 16V AUT 2019/2019",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501079959411",
+      "id_produto": "8376",
+      "nome": "ELETROVENTILADOR HONDA WR-V EX 1.5 FLEXONE 16V 5P AUT 2019",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501084529026",
+      "id_produto": "11092",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN JETTA COMFORTLINE 2.0 T.FLEX",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "JETTA COMFORTLINE 2.0 T.FLEX 8V 4P TIPT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501084774411",
+      "id_produto": "15990",
+      "nome": "ELETROVENTILADOR FIAT UNO MILLE WAY ECONOMY 1.0 F.FLEX 10/11",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "5"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501111712026": {
       "sku": "SP12501111712026",
@@ -588,8 +661,8 @@
       "nome": "CÂMBIO AUTOMATICO WR-V EX 1.5 FLEXONE 16V AUT 2019/2019",
       "marca": "HONDA",
       "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "9"
@@ -828,8 +901,8 @@
       "nome": "ELETROVENTILADOR HONDA WR-V EX 1.5 FLEXONE 16V 5P AUT 2019",
       "marca": "HONDA",
       "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
@@ -1413,11 +1486,11 @@
     "SP12501014970419": {
       "sku": "SP12501014970419",
       "id_produto": "13678",
-      "nome": "CENTRAL MÓDULO DO AR-CONDICIONADO",
+      "nome": "CENTRAL MÓDULO DO AR-CONDICIONADO JEEP RENEGADE 2.0 2018/19",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -1461,11 +1534,11 @@
     "SP12501084529026": {
       "sku": "SP12501084529026",
       "id_produto": "11092",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN JETTA COMFORTLINE 2.0 T.FLEX",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "JETTA COMFORTLINE 2.0 T.FLEX 8V 4P TIPT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
@@ -2133,11 +2206,11 @@
     "SP12501084774411": {
       "sku": "SP12501084774411",
       "id_produto": "15990",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT UNO MILLE WAY ECONOMY 1.0 F.FLEX 10/11",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
