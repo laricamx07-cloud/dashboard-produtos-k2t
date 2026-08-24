@@ -1,11 +1,11 @@
 {
   "data": "2026-08-24",
   "primeira_atualizacao": "24/08/2026 01:12:48",
-  "ultima_atualizacao": "24/08/2026 08:14:21",
+  "ultima_atualizacao": "24/08/2026 09:21:10",
   "total_base_dia": 120,
-  "total_atual": 120,
-  "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_atual": 116,
+  "novos_produtos": 1,
+  "total_subidos": 5,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -225,6 +225,7 @@
     "SP12501103485026",
     "SP12501103523001",
     "SP12501103523026",
+    "SP12501103523045",
     "SP12501104520032",
     "SP12501105631026",
     "SP12501109521034",
@@ -250,11 +251,99 @@
     "SP42501001064042",
     "SP42501003148936"
   ],
-  "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501103523045"
+  ],
+  "skus_subidos_hoje": [
+    "SP12501017317033",
+    "SP12501103485001",
+    "SP12501103485026",
+    "SP12501103523001",
+    "SP12501103523026"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501017317033",
+    "SP12501103485001",
+    "SP12501103485026",
+    "SP12501103523001",
+    "SP12501103523026"
+  ],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501103523045",
+      "id_produto": "20208",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    }
+  ],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501017317033",
+      "id_produto": "1273",
+      "nome": "PORTA DIANTEIRA ESQUERDA FIAT G SIENA ATTRAC 1.4 BRANCA 2013",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "GRAND SIENA ATTRAC. 1.4 EVO F.FLEX 8V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103485001",
+      "id_produto": "20201",
+      "nome": "ALTERNADOR CHEVROLET ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103485026",
+      "id_produto": "20202",
+      "nome": "MOTOR DE PARTIDA CHEVROLET ASTRA ELEGANCE 2.0 F.POWER 05/05",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103523001",
+      "id_produto": "20203",
+      "nome": "ALTERNADOR CHEVROLET CELTA SPIRIT 1.0 MPFI 8V F.POWER 06/07",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103523026",
+      "id_produto": "20204",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CELTA SPIRIT 1.0 F.POWER 06/07",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501116684400": {
       "sku": "SP12501116684400",
@@ -1043,10 +1132,10 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "GRAND SIENA ATTRAC. 1.4 EVO F.FLEX 8V",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "6"
+      "qtd_images": "7"
     },
     "SP12501079975034": {
       "sku": "SP12501079975034",
@@ -1171,11 +1260,11 @@
     "SP12501103523026": {
       "sku": "SP12501103523026",
       "id_produto": "20204",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CELTA SPIRIT 1.0 F.POWER 06/07",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1435,11 +1524,11 @@
     "SP12501103485001": {
       "sku": "SP12501103485001",
       "id_produto": "20201",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR CHEVROLET ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1495,11 +1584,11 @@
     "SP12501103485026": {
       "sku": "SP12501103485026",
       "id_produto": "20202",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET ASTRA ELEGANCE 2.0 F.POWER 05/05",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1615,11 +1704,11 @@
     "SP12501103523001": {
       "sku": "SP12501103523001",
       "id_produto": "20203",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR CHEVROLET CELTA SPIRIT 1.0 MPFI 8V F.POWER 06/07",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1695,6 +1784,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501103523045": {
+      "sku": "SP12501103523045",
+      "id_produto": "20208",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   }
 }
