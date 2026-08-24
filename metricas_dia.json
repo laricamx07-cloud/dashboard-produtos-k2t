@@ -1,10 +1,10 @@
 {
   "data": "2026-08-24",
   "primeira_atualizacao": "24/08/2026 01:12:48",
-  "ultima_atualizacao": "24/08/2026 17:12:35",
+  "ultima_atualizacao": "24/08/2026 17:21:09",
   "total_base_dia": 120,
-  "total_atual": 112,
-  "novos_produtos": 31,
+  "total_atual": 113,
+  "novos_produtos": 32,
   "total_subidos": 39,
   "skus_base_dia": [
     "SP12501004550032",
@@ -245,6 +245,7 @@
     "SP12501103493033",
     "SP12501103493034",
     "SP12501103493035",
+    "SP12501103515004",
     "SP12501103523001",
     "SP12501103523004",
     "SP12501103523007",
@@ -304,6 +305,7 @@
     "SP12501103493033",
     "SP12501103493034",
     "SP12501103493035",
+    "SP12501103515004",
     "SP12501103523004",
     "SP12501103523007",
     "SP12501103523032",
@@ -657,6 +659,18 @@
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103515004",
+      "id_produto": "20222",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3052,6 +3066,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    "SP12501103515004": {
+      "sku": "SP12501103515004",
+      "id_produto": "20222",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
