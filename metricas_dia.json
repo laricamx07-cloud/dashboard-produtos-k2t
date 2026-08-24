@@ -1,11 +1,11 @@
 {
   "data": "2026-08-24",
   "primeira_atualizacao": "24/08/2026 01:12:48",
-  "ultima_atualizacao": "24/08/2026 10:12:47",
+  "ultima_atualizacao": "24/08/2026 10:21:15",
   "total_base_dia": 120,
-  "total_atual": 109,
-  "novos_produtos": 4,
-  "total_subidos": 15,
+  "total_atual": 108,
+  "novos_produtos": 5,
+  "total_subidos": 17,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -223,6 +223,7 @@
     "SP12501103167007",
     "SP12501103485001",
     "SP12501103485026",
+    "SP12501103485400",
     "SP12501103523001",
     "SP12501103523007",
     "SP12501103523026",
@@ -255,6 +256,7 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [
+    "SP12501103485400",
     "SP12501103523007",
     "SP12501103523032",
     "SP12501103523033",
@@ -271,6 +273,8 @@
     "SP12501103485026",
     "SP12501103523001",
     "SP12501103523026",
+    "SP12501111690026",
+    "SP12501111690400",
     "SP12501111704016",
     "SP12501111712001",
     "SP12501111712026",
@@ -288,6 +292,8 @@
     "SP12501103485026",
     "SP12501103523001",
     "SP12501103523026",
+    "SP12501111690026",
+    "SP12501111690400",
     "SP12501111704016",
     "SP12501111712001",
     "SP12501111712026",
@@ -295,6 +301,18 @@
     "SP12501116692026"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501103485400",
+      "id_produto": "20214",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501103523007",
       "id_produto": "20205",
@@ -464,6 +482,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111690026",
+      "id_produto": "20122",
+      "nome": "MOTOR DE PARTIDA FIAT UNO MILLE FIRE ECONOMY 1.0 2P 2008/09",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE FIRE ECONOMY 1.0 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111690400",
+      "id_produto": "20125",
+      "nome": "MOTOR COMPLETO FIAT UNO MILLE FIRE ECONOMY 1.0 2008/2009",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE FIRE ECONOMY 1.0 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501111704016",
@@ -782,11 +824,11 @@
     "SP12501111690026": {
       "sku": "SP12501111690026",
       "id_produto": "20122",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FIAT UNO MILLE FIRE ECONOMY 1.0 2P 2008/09",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE FIRE ECONOMY 1.0 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1118,11 +1160,11 @@
     "SP12501111690400": {
       "sku": "SP12501111690400",
       "id_produto": "20125",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FIAT UNO MILLE FIRE ECONOMY 1.0 2008/2009",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE FIRE ECONOMY 1.0 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2009,6 +2051,18 @@
       "nome": "PORTA DIANTEIRA DIREITA",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501103485400": {
+      "sku": "SP12501103485400",
+      "id_produto": "20214",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
