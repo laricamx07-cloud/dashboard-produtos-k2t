@@ -1,11 +1,11 @@
 {
   "data": "2026-08-24",
   "primeira_atualizacao": "24/08/2026 01:12:48",
-  "ultima_atualizacao": "24/08/2026 14:02:12",
+  "ultima_atualizacao": "24/08/2026 16:10:39",
   "total_base_dia": 120,
-  "total_atual": 110,
-  "novos_produtos": 23,
-  "total_subidos": 33,
+  "total_atual": 107,
+  "novos_produtos": 26,
+  "total_subidos": 39,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -149,6 +149,9 @@
     "SP12501014750032",
     "SP12501014750034",
     "SP12501014806045",
+    "SP12501014814013",
+    "SP12501014849014",
+    "SP12501015292020",
     "SP12501015527034",
     "SP12501015586034",
     "SP12501015632002",
@@ -274,6 +277,9 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [
+    "SP12501014814013",
+    "SP12501014849014",
+    "SP12501015292020",
     "SP12501015632002",
     "SP12501057114045",
     "SP12501089210034",
@@ -299,7 +305,10 @@
     "SP32501002799121"
   ],
   "skus_subidos_hoje": [
+    "SP12501015632002",
     "SP12501017317033",
+    "SP12501057114045",
+    "SP12501089210034",
     "SP12501089229040",
     "SP12501100680400",
     "SP12501100699400",
@@ -316,6 +325,7 @@
     "SP12501103485045",
     "SP12501103485400",
     "SP12501103493033",
+    "SP12501103493034",
     "SP12501103493035",
     "SP12501103523001",
     "SP12501103523004",
@@ -331,10 +341,15 @@
     "SP12501111712001",
     "SP12501111712026",
     "SP12501116692001",
-    "SP12501116692026"
+    "SP12501116692026",
+    "SP32501000222121",
+    "SP32501002799121"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501015632002",
     "SP12501017317033",
+    "SP12501057114045",
+    "SP12501089210034",
     "SP12501089229040",
     "SP12501100680400",
     "SP12501100699400",
@@ -351,6 +366,7 @@
     "SP12501103485045",
     "SP12501103485400",
     "SP12501103493033",
+    "SP12501103493034",
     "SP12501103493035",
     "SP12501103523001",
     "SP12501103523004",
@@ -366,17 +382,55 @@
     "SP12501111712001",
     "SP12501111712026",
     "SP12501116692001",
-    "SP12501116692026"
+    "SP12501116692026",
+    "SP32501000222121",
+    "SP32501002799121"
   ],
   "itens_novos_hoje": [
     {
-      "sku": "SP12501015632002",
-      "id_produto": "19179",
-      "nome": "BLOCO DO MOTOR",
-      "marca": "FIAT",
-      "modelo_do_veiculo": "FIORINO ENDURANCE EVO 1.4 FLEX 8V 2P",
+      "sku": "SP12501014814013",
+      "id_produto": "19086",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501014849014",
+      "id_produto": "19089",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS TRAILHAWK TD350 2.0 4X4 DIE. AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501015292020",
+      "id_produto": "18988",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015632002",
+      "id_produto": "19179",
+      "nome": "BLOCO DO MOTOR FIAT FIORINO ENDURANCE EVO 1.4 FLEX 8V 2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FIORINO ENDURANCE EVO 1.4 FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -384,11 +438,11 @@
     {
       "sku": "SP12501057114045",
       "id_produto": "13766",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA FIAT UNO MILLE 1.0 F.FLEX 2006/06",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "3"
@@ -396,11 +450,11 @@
     {
       "sku": "SP12501089210034",
       "id_produto": "18420",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA FORD FIESTA SEDAN 1.6 16V FLEX 2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SEDAN 1.6 16V FLEX MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -516,11 +570,11 @@
     {
       "sku": "SP12501103493034",
       "id_produto": "20221",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA VOLKSWAGEN GOL 1.6 MI TOTAL FLEX 2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -612,11 +666,11 @@
     {
       "sku": "SP32501000222121",
       "id_produto": "19233",
-      "nome": "TURBINA",
+      "nome": "TURBINA RAM RAM 2500 LARAMIE 6.7 2019/19",
       "marca": "RAM",
       "modelo_do_veiculo": "RAM 2500 LARAMIE 6.7",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -624,10 +678,10 @@
     {
       "sku": "SP32501002799021",
       "id_produto": "19199",
-      "nome": "CABEÇOTE COM VÁLVULAS",
+      "nome": "CABEÇOTE COM VÁLVULAS RAM RAM 2500 LARAMIE 6.7 2019/2019",
       "marca": "RAM",
       "modelo_do_veiculo": "RAM 2500 LARAMIE 6.7",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
@@ -636,17 +690,29 @@
     {
       "sku": "SP32501002799121",
       "id_produto": "19234",
-      "nome": "TURBINA",
+      "nome": "TURBINA RAM RAM 2500 LARAMIE 6.7 2019/2019",
       "marca": "RAM",
       "modelo_do_veiculo": "RAM 2500 LARAMIE 6.7",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501015632002",
+      "id_produto": "19179",
+      "nome": "BLOCO DO MOTOR FIAT FIORINO ENDURANCE EVO 1.4 FLEX 8V 2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FIORINO ENDURANCE EVO 1.4 FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501017317033",
       "id_produto": "1273",
@@ -657,6 +723,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501057114045",
+      "id_produto": "13766",
+      "nome": "TAMPA TRASEIRA FIAT UNO MILLE 1.0 F.FLEX 2006/06",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "3"
+    },
+    {
+      "sku": "SP12501089210034",
+      "id_produto": "18420",
+      "nome": "PORTA TRASEIRA DIREITA FORD FIESTA SEDAN 1.6 16V FLEX 2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA SEDAN 1.6 16V FLEX MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "7"
     },
     {
@@ -852,6 +942,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103493034",
+      "id_produto": "20221",
+      "nome": "PORTA TRASEIRA DIREITA VOLKSWAGEN GOL 1.6 MI TOTAL FLEX 2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103493035",
       "id_produto": "20217",
       "nome": "PORTA TRASEIRA ESQUERDA VOLKSWAGEN GOL 1.6 MI POWER TOTAL",
@@ -1042,6 +1144,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP32501000222121",
+      "id_produto": "19233",
+      "nome": "TURBINA RAM RAM 2500 LARAMIE 6.7 2019/19",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAM 2500 LARAMIE 6.7",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP32501002799121",
+      "id_produto": "19234",
+      "nome": "TURBINA RAM RAM 2500 LARAMIE 6.7 2019/2019",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAM 2500 LARAMIE 6.7",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -2668,11 +2794,11 @@
     "SP12501103493034": {
       "sku": "SP12501103493034",
       "id_produto": "20221",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA VOLKSWAGEN GOL 1.6 MI TOTAL FLEX 2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2680,10 +2806,10 @@
     "SP32501002799021": {
       "sku": "SP32501002799021",
       "id_produto": "19199",
-      "nome": "CABEÇOTE COM VÁLVULAS",
+      "nome": "CABEÇOTE COM VÁLVULAS RAM RAM 2500 LARAMIE 6.7 2019/2019",
       "marca": "RAM",
       "modelo_do_veiculo": "RAM 2500 LARAMIE 6.7",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
@@ -2692,11 +2818,11 @@
     "SP32501002799121": {
       "sku": "SP32501002799121",
       "id_produto": "19234",
-      "nome": "TURBINA",
+      "nome": "TURBINA RAM RAM 2500 LARAMIE 6.7 2019/2019",
       "marca": "RAM",
       "modelo_do_veiculo": "RAM 2500 LARAMIE 6.7",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -2716,11 +2842,11 @@
     "SP12501057114045": {
       "sku": "SP12501057114045",
       "id_produto": "13766",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA FIAT UNO MILLE 1.0 F.FLEX 2006/06",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "3"
@@ -2728,11 +2854,11 @@
     "SP12501089210034": {
       "sku": "SP12501089210034",
       "id_produto": "18420",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA FORD FIESTA SEDAN 1.6 16V FLEX 2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SEDAN 1.6 16V FLEX MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -2740,11 +2866,11 @@
     "SP32501000222121": {
       "sku": "SP32501000222121",
       "id_produto": "19233",
-      "nome": "TURBINA",
+      "nome": "TURBINA RAM RAM 2500 LARAMIE 6.7 2019/19",
       "marca": "RAM",
       "modelo_do_veiculo": "RAM 2500 LARAMIE 6.7",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2752,14 +2878,50 @@
     "SP12501015632002": {
       "sku": "SP12501015632002",
       "id_produto": "19179",
-      "nome": "BLOCO DO MOTOR",
+      "nome": "BLOCO DO MOTOR FIAT FIORINO ENDURANCE EVO 1.4 FLEX 8V 2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "FIORINO ENDURANCE EVO 1.4 FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501014849014": {
+      "sku": "SP12501014849014",
+      "id_produto": "19089",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS TRAILHAWK TD350 2.0 4X4 DIE. AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    "SP12501014814013": {
+      "sku": "SP12501014814013",
+      "id_produto": "19086",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
-      "qtd_images": "8"
+      "qtd_images": "9"
+    },
+    "SP12501015292020": {
+      "sku": "SP12501015292020",
+      "id_produto": "18988",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   }
 }
