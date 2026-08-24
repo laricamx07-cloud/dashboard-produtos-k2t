@@ -1,11 +1,11 @@
 {
   "data": "2026-08-24",
   "primeira_atualizacao": "24/08/2026 01:12:48",
-  "ultima_atualizacao": "24/08/2026 09:51:12",
+  "ultima_atualizacao": "24/08/2026 10:12:47",
   "total_base_dia": 120,
-  "total_atual": 114,
+  "total_atual": 109,
   "novos_produtos": 4,
-  "total_subidos": 10,
+  "total_subidos": 15,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -270,7 +270,12 @@
     "SP12501103485001",
     "SP12501103485026",
     "SP12501103523001",
-    "SP12501103523026"
+    "SP12501103523026",
+    "SP12501111704016",
+    "SP12501111712001",
+    "SP12501111712026",
+    "SP12501116692001",
+    "SP12501116692026"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501017317033",
@@ -282,7 +287,12 @@
     "SP12501103485001",
     "SP12501103485026",
     "SP12501103523001",
-    "SP12501103523026"
+    "SP12501103523026",
+    "SP12501111704016",
+    "SP12501111712001",
+    "SP12501111712026",
+    "SP12501116692001",
+    "SP12501116692026"
   ],
   "itens_novos_hoje": [
     {
@@ -354,7 +364,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -454,6 +464,66 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111704016",
+      "id_produto": "20134",
+      "nome": "FAROL ESQUERDO VOLKSWAGEN FOX ROCK IN RIO 1.6 2015/2016",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111712001",
+      "id_produto": "20126",
+      "nome": "ALTERNADOR VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2009/2010",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111712026",
+      "id_produto": "20127",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN GOL CITY 1.0 T. FLEX 2009/2010",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501116692001",
+      "id_produto": "20128",
+      "nome": "ALTERNADOR CHEVROLET ONIX HATCH LTZ 1.4 8V FLEXPOWER",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501116692026",
+      "id_produto": "20129",
+      "nome": "MOTOR DE PARTIDA CHEVROLET ONIX HATCH LTZ 1.4 8V FLEXPOWER",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -728,7 +798,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -808,11 +878,11 @@
     "SP12501111712026": {
       "sku": "SP12501111712026",
       "id_produto": "20127",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN GOL CITY 1.0 T. FLEX 2009/2010",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -892,11 +962,11 @@
     "SP12501111712001": {
       "sku": "SP12501111712001",
       "id_produto": "20126",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2009/2010",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1588,11 +1658,11 @@
     "SP12501111704016": {
       "sku": "SP12501111704016",
       "id_produto": "20134",
-      "nome": "FAROL ESQUERDO",
+      "nome": "FAROL ESQUERDO VOLKSWAGEN FOX ROCK IN RIO 1.6 2015/2016",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1612,11 +1682,11 @@
     "SP12501116692026": {
       "sku": "SP12501116692026",
       "id_produto": "20129",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET ONIX HATCH LTZ 1.4 8V FLEXPOWER",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1780,11 +1850,11 @@
     "SP12501116692001": {
       "sku": "SP12501116692001",
       "id_produto": "20128",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR CHEVROLET ONIX HATCH LTZ 1.4 8V FLEXPOWER",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
