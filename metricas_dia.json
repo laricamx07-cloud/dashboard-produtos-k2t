@@ -1,10 +1,10 @@
 {
   "data": "2026-08-24",
   "primeira_atualizacao": "24/08/2026 01:12:48",
-  "ultima_atualizacao": "24/08/2026 16:51:08",
+  "ultima_atualizacao": "24/08/2026 17:12:35",
   "total_base_dia": 120,
-  "total_atual": 110,
-  "novos_produtos": 29,
+  "total_atual": 112,
+  "novos_produtos": 31,
   "total_subidos": 39,
   "skus_base_dia": [
     "SP12501004550032",
@@ -137,6 +137,7 @@
     "SP12501005238035",
     "SP12501005300033",
     "SP12501005300035",
+    "SP12501009586015",
     "SP12501009648039",
     "SP12501009713035",
     "SP12501009730035",
@@ -154,6 +155,7 @@
     "SP12501015209020",
     "SP12501015292016",
     "SP12501015292020",
+    "SP12501015403019",
     "SP12501015403020",
     "SP12501015527034",
     "SP12501015586034",
@@ -280,11 +282,13 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [
+    "SP12501009586015",
     "SP12501014814013",
     "SP12501014849014",
     "SP12501015209020",
     "SP12501015292016",
     "SP12501015292020",
+    "SP12501015403019",
     "SP12501015403020",
     "SP12501015632002",
     "SP12501057114045",
@@ -394,6 +398,18 @@
   ],
   "itens_novos_hoje": [
     {
+      "sku": "SP12501009586015",
+      "id_produto": "18980",
+      "nome": "FAROL DIREITO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 1.0M COMFOR",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501014814013",
       "id_produto": "19086",
       "nome": "DIFERENCIAL EIXO DIANTEIRO",
@@ -452,6 +468,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015403019",
+      "id_produto": "19218",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501015403020",
@@ -3000,6 +3028,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP12501009586015": {
+      "sku": "SP12501009586015",
+      "id_produto": "18980",
+      "nome": "FAROL DIREITO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 1.0M COMFOR",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501015403019": {
+      "sku": "SP12501015403019",
+      "id_produto": "19218",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   }
 }
