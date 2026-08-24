@@ -1,7 +1,7 @@
 {
   "data": "2026-08-24",
   "primeira_atualizacao": "24/08/2026 01:12:48",
-  "ultima_atualizacao": "24/08/2026 11:58:40",
+  "ultima_atualizacao": "24/08/2026 12:12:39",
   "total_base_dia": 120,
   "total_atual": 106,
   "novos_produtos": 14,
@@ -408,7 +408,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -686,7 +686,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2344,7 +2344,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
