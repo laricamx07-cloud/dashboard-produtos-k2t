@@ -1,11 +1,11 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 12:42:21",
+  "ultima_atualizacao": "25/08/2026 12:50:52",
   "total_base_dia": 126,
-  "total_atual": 106,
+  "total_atual": 105,
   "novos_produtos": 7,
-  "total_subidos": 27,
+  "total_subidos": 28,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -300,6 +300,7 @@
     "SP12501100800045",
     "SP12501100842045",
     "SP12501102462045",
+    "SP12501102497437",
     "SP12501102500045",
     "SP12501102527045",
     "SP12501102888045",
@@ -329,6 +330,7 @@
     "SP12501100800045",
     "SP12501100842045",
     "SP12501102462045",
+    "SP12501102497437",
     "SP12501102500045",
     "SP12501102527045",
     "SP12501102888045",
@@ -674,6 +676,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102497437",
+      "id_produto": "20155",
+      "nome": "PNEU 215/60 R17 96H PIRELLI SCORPION HT",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501102500045",
@@ -1304,11 +1318,11 @@
     "SP12501102497437": {
       "sku": "SP12501102497437",
       "id_produto": "20155",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 215/60 R17 96H PIRELLI SCORPION HT",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
