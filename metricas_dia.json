@@ -1,11 +1,11 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 09:21:06",
+  "ultima_atualizacao": "25/08/2026 09:42:44",
   "total_base_dia": 126,
-  "total_atual": 121,
-  "novos_produtos": 0,
-  "total_subidos": 5,
+  "total_atual": 119,
+  "novos_produtos": 1,
+  "total_subidos": 8,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -153,6 +153,7 @@
     "SP12501009950033",
     "SP12501010312034",
     "SP12501014040019",
+    "SP12501014105001",
     "SP12501014121034",
     "SP12501014750032",
     "SP12501014750034",
@@ -262,8 +263,13 @@
     "SP42501001064042",
     "SP42501003148936"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501014105001"
+  ],
   "skus_subidos_hoje": [
+    "SP12501055227045",
+    "SP12501100699045",
+    "SP12501100800045",
     "SP12501102462045",
     "SP12501102500045",
     "SP12501102527045",
@@ -271,14 +277,66 @@
     "SP12501103167045"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501055227045",
+    "SP12501100699045",
+    "SP12501100800045",
     "SP12501102462045",
     "SP12501102500045",
     "SP12501102527045",
     "SP12501102888045",
     "SP12501103167045"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501014105001",
+      "id_produto": "19156",
+      "nome": "ALTERNADOR",
+      "marca": "GM",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    }
+  ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501055227045",
+      "id_produto": "20223",
+      "nome": "TAMPA TRASEIRA VOLKSWAGEN VOYAGE TRENDLINE 1.6 T.FLEX 15/16",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100699045",
+      "id_produto": "20224",
+      "nome": "TAMPA TRASEIRA HYUNDAI HB20 SENSE 1.0 FLEX 12V MEC. 2020/21",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100800045",
+      "id_produto": "20225",
+      "nome": "TAMPA TRASEIRA CHEVROLET CORSA SEDAN CLASSIC 1.6 MPFI 02/03",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CORSA SEDAN CLASSIC 1.6 MPFI",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501102462045",
       "id_produto": "20227",
@@ -368,11 +426,11 @@
     "SP12501055227045": {
       "sku": "SP12501055227045",
       "id_produto": "20223",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA VOLKSWAGEN VOYAGE TRENDLINE 1.6 T.FLEX 15/16",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1496,11 +1554,11 @@
     "SP12501100800045": {
       "sku": "SP12501100800045",
       "id_produto": "20225",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA CHEVROLET CORSA SEDAN CLASSIC 1.6 MPFI 02/03",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN CLASSIC 1.6 MPFI",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1568,11 +1626,11 @@
     "SP12501100699045": {
       "sku": "SP12501100699045",
       "id_produto": "20224",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA HYUNDAI HB20 SENSE 1.0 FLEX 12V MEC. 2020/21",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1852,6 +1910,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    "SP12501014105001": {
+      "sku": "SP12501014105001",
+      "id_produto": "19156",
+      "nome": "ALTERNADOR",
+      "marca": "GM",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   }
 }
