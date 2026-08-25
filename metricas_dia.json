@@ -1,10 +1,10 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 13:20:53",
+  "ultima_atualizacao": "25/08/2026 13:42:20",
   "total_base_dia": 126,
-  "total_atual": 102,
-  "novos_produtos": 7,
+  "total_atual": 104,
+  "novos_produtos": 9,
   "total_subidos": 31,
   "skus_base_dia": [
     "SP12501004550032",
@@ -156,6 +156,7 @@
     "SP12501014083011",
     "SP12501014105001",
     "SP12501014105011",
+    "SP12501014105026",
     "SP12501014121034",
     "SP12501014750032",
     "SP12501014750034",
@@ -169,6 +170,7 @@
     "SP12501015403001",
     "SP12501015403019",
     "SP12501015403020",
+    "SP12501015403026",
     "SP12501015411011",
     "SP12501015527034",
     "SP12501015586034",
@@ -273,8 +275,10 @@
     "SP12501014083011",
     "SP12501014105001",
     "SP12501014105011",
+    "SP12501014105026",
     "SP12501015292011",
     "SP12501015403001",
+    "SP12501015403026",
     "SP12501015411011",
     "SP12501103396400"
   ],
@@ -382,6 +386,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501014105026",
+      "id_produto": "18984",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "GM",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501015292011",
       "id_produto": "18977",
       "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT EX/S 1.5 FLEX 14/15",
@@ -404,6 +420,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015403026",
+      "id_produto": "18978",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501015411011",
@@ -2399,6 +2427,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501015403026": {
+      "sku": "SP12501015403026",
+      "id_produto": "18978",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501014105026": {
+      "sku": "SP12501014105026",
+      "id_produto": "18984",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "GM",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "10"
     }
   }
