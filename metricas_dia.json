@@ -1,10 +1,10 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 10:12:42",
+  "ultima_atualizacao": "25/08/2026 10:21:13",
   "total_base_dia": 126,
-  "total_atual": 121,
-  "novos_produtos": 4,
+  "total_atual": 122,
+  "novos_produtos": 5,
   "total_subidos": 9,
   "skus_base_dia": [
     "SP12501004550032",
@@ -154,6 +154,7 @@
     "SP12501010312034",
     "SP12501014040019",
     "SP12501014105001",
+    "SP12501014105011",
     "SP12501014121034",
     "SP12501014750032",
     "SP12501014750034",
@@ -268,6 +269,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501014105001",
+    "SP12501014105011",
     "SP12501015292011",
     "SP12501015403001",
     "SP12501015411011"
@@ -299,6 +301,18 @@
       "sku": "SP12501014105001",
       "id_produto": "19156",
       "nome": "ALTERNADOR",
+      "marca": "GM",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501014105011",
+      "id_produto": "18976",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
       "marca": "GM",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
       "status": "Desabilitado",
@@ -2009,6 +2023,18 @@
       "nome": "ALTERNADOR",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501014105011": {
+      "sku": "SP12501014105011",
+      "id_produto": "18976",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "GM",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
