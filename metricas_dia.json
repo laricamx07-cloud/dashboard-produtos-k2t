@@ -1,11 +1,11 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 09:42:44",
+  "ultima_atualizacao": "25/08/2026 09:51:12",
   "total_base_dia": 126,
-  "total_atual": 119,
+  "total_atual": 118,
   "novos_produtos": 1,
-  "total_subidos": 8,
+  "total_subidos": 9,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -274,7 +274,8 @@
     "SP12501102500045",
     "SP12501102527045",
     "SP12501102888045",
-    "SP12501103167045"
+    "SP12501103167045",
+    "SP12501103515004"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501055227045",
@@ -284,7 +285,8 @@
     "SP12501102500045",
     "SP12501102527045",
     "SP12501102888045",
-    "SP12501103167045"
+    "SP12501103167045",
+    "SP12501103515004"
   ],
   "itens_novos_hoje": [
     {
@@ -396,6 +398,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103515004",
+      "id_produto": "20222",
+      "nome": "CÂMBIO MANUAL FIAT STRADA 1.3 MPI FIRE 8V 67CV CE 2003/2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1674,11 +1688,11 @@
     "SP12501103515004": {
       "sku": "SP12501103515004",
       "id_produto": "20222",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FIAT STRADA 1.3 MPI FIRE 8V 67CV CE 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
