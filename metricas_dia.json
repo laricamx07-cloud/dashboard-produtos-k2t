@@ -1,11 +1,11 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 12:23:51",
+  "ultima_atualizacao": "25/08/2026 12:42:21",
   "total_base_dia": 126,
-  "total_atual": 107,
-  "novos_produtos": 6,
-  "total_subidos": 25,
+  "total_atual": 106,
+  "novos_produtos": 7,
+  "total_subidos": 27,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -246,6 +246,7 @@
     "SP12501102888045",
     "SP12501103167007",
     "SP12501103167045",
+    "SP12501103396400",
     "SP12501103485034",
     "SP12501103485035",
     "SP12501103515004",
@@ -274,7 +275,8 @@
     "SP12501014105011",
     "SP12501015292011",
     "SP12501015403001",
-    "SP12501015411011"
+    "SP12501015411011",
+    "SP12501103396400"
   ],
   "skus_subidos_hoje": [
     "SP12501014040019",
@@ -296,12 +298,14 @@
     "SP12501055227045",
     "SP12501100699045",
     "SP12501100800045",
+    "SP12501100842045",
     "SP12501102462045",
     "SP12501102500045",
     "SP12501102527045",
     "SP12501102888045",
     "SP12501103167045",
-    "SP12501103515004"
+    "SP12501103515004",
+    "SP12501111330437"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501014040019",
@@ -323,12 +327,14 @@
     "SP12501055227045",
     "SP12501100699045",
     "SP12501100800045",
+    "SP12501100842045",
     "SP12501102462045",
     "SP12501102500045",
     "SP12501102527045",
     "SP12501102888045",
     "SP12501103167045",
-    "SP12501103515004"
+    "SP12501103515004",
+    "SP12501111330437"
   ],
   "itens_novos_hoje": [
     {
@@ -399,6 +405,18 @@
       "modelo_do_veiculo": "ETIOS XLS 1.5 FLEX 16V 5P MEC",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103396400",
+      "id_produto": "20238",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -634,6 +652,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501100842045",
+      "id_produto": "20226",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501102462045",
       "id_produto": "20227",
       "nome": "TAMPA TRASEIRA JEEP RENEGADE SPORT 1.8 4X2 FLEX 21/21",
@@ -704,6 +734,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111330437",
+      "id_produto": "20163",
+      "nome": "PNEU 205/60 R16 ROAD PERFORMANCE",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1406,11 +1448,11 @@
     "SP12501100842045": {
       "sku": "SP12501100842045",
       "id_produto": "20226",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1898,11 +1940,11 @@
     "SP12501111330437": {
       "sku": "SP12501111330437",
       "id_produto": "20163",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 205/60 R16 ROAD PERFORMANCE",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -2287,6 +2329,18 @@
       "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501103396400": {
+      "sku": "SP12501103396400",
+      "id_produto": "20238",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
