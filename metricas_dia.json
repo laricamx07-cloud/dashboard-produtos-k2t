@@ -1,11 +1,11 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 10:51:30",
+  "ultima_atualizacao": "25/08/2026 11:12:31",
   "total_base_dia": 126,
-  "total_atual": 121,
+  "total_atual": 118,
   "novos_produtos": 6,
-  "total_subidos": 11,
+  "total_subidos": 14,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -277,6 +277,9 @@
     "SP12501015411011"
   ],
   "skus_subidos_hoje": [
+    "SP12501014105001",
+    "SP12501014814013",
+    "SP12501014849014",
     "SP12501015292020",
     "SP12501054409007",
     "SP12501055227045",
@@ -290,6 +293,9 @@
     "SP12501103515004"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501014105001",
+    "SP12501014814013",
+    "SP12501014849014",
     "SP12501015292020",
     "SP12501054409007",
     "SP12501055227045",
@@ -318,11 +324,11 @@
     {
       "sku": "SP12501014105001",
       "id_produto": "19156",
-      "nome": "ALTERNADOR",
-      "marca": "GM",
+      "nome": "ALTERNADOR GM TRACKER PREMIER 1.2 TURBO 12V FLEX 20/21",
+      "marca": "Chevrolet",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -377,6 +383,42 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501014105001",
+      "id_produto": "19156",
+      "nome": "ALTERNADOR GM TRACKER PREMIER 1.2 TURBO 12V FLEX 20/21",
+      "marca": "Chevrolet",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501014814013",
+      "id_produto": "19086",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP RENEGADE LONGITUDE 1.8",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501014849014",
+      "id_produto": "19089",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP COMPASS TRAILHAWK TD350 2.0",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS TRAILHAWK TD350 2.0 4X4 DIE. AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501015292020",
       "id_produto": "18988",
@@ -1630,11 +1672,11 @@
     "SP12501014849014": {
       "sku": "SP12501014849014",
       "id_produto": "19089",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP COMPASS TRAILHAWK TD350 2.0",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS TRAILHAWK TD350 2.0 4X4 DIE. AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1918,11 +1960,11 @@
     "SP12501014814013": {
       "sku": "SP12501014814013",
       "id_produto": "19086",
-      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP RENEGADE LONGITUDE 1.8",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -2026,11 +2068,11 @@
     "SP12501014105001": {
       "sku": "SP12501014105001",
       "id_produto": "19156",
-      "nome": "ALTERNADOR",
-      "marca": "GM",
+      "nome": "ALTERNADOR GM TRACKER PREMIER 1.2 TURBO 12V FLEX 20/21",
+      "marca": "Chevrolet",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
