@@ -1,10 +1,10 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 16:42:41",
+  "ultima_atualizacao": "25/08/2026 17:12:41",
   "total_base_dia": 126,
-  "total_atual": 127,
-  "novos_produtos": 33,
+  "total_atual": 129,
+  "novos_produtos": 35,
   "total_subidos": 31,
   "skus_base_dia": [
     "SP12501004550032",
@@ -193,6 +193,7 @@
     "SP12501017414032",
     "SP12501041145437",
     "SP12501041501034",
+    "SP12501041617026",
     "SP12501041641028",
     "SP12501041668035",
     "SP12501041749039",
@@ -291,6 +292,7 @@
     "SP12501123095038",
     "SP32501002799021",
     "SP32501002896833",
+    "SP32501002896875",
     "SP42501001064042",
     "SP42501003148078",
     "SP42501003148936"
@@ -309,6 +311,7 @@
     "SP12501015403026",
     "SP12501015411011",
     "SP12501015969043",
+    "SP12501041617026",
     "SP12501041641028",
     "SP12501041838028",
     "SP12501041838029",
@@ -328,6 +331,7 @@
     "SP12501123095037",
     "SP12501123095038",
     "SP32501002896833",
+    "SP32501002896875",
     "SP42501003148078"
   ],
   "skus_subidos_hoje": [
@@ -552,6 +556,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501041617026",
+      "id_produto": "15592",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501041641028",
@@ -779,6 +795,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP32501002896875",
+      "id_produto": "17312",
+      "nome": "COLETOR ADMISSÃO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
       "qtd_images": "9"
     },
     {
@@ -3075,6 +3103,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "9"
+    },
+    "SP12501041617026": {
+      "sku": "SP12501041617026",
+      "id_produto": "15592",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP32501002896875": {
+      "sku": "SP32501002896875",
+      "id_produto": "17312",
+      "nome": "COLETOR ADMISSÃO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
       "qtd_images": "9"
     }
   }
