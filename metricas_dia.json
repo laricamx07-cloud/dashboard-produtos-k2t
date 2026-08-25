@@ -1,11 +1,11 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 08:51:16",
+  "ultima_atualizacao": "25/08/2026 09:12:38",
   "total_base_dia": 126,
-  "total_atual": 126,
+  "total_atual": 122,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 4,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -263,10 +263,69 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501102500045",
+    "SP12501102527045",
+    "SP12501102888045",
+    "SP12501103167045"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501102500045",
+    "SP12501102527045",
+    "SP12501102888045",
+    "SP12501103167045"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501102500045",
+      "id_produto": "20230",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE SPORT 1.8 4X2 FLEX 2021/21",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501102527045",
+      "id_produto": "20231",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102888045",
+      "id_produto": "20232",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021/21",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103167045",
+      "id_produto": "20233",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501014806045": {
       "sku": "SP12501014806045",
@@ -319,11 +378,11 @@
     "SP12501102527045": {
       "sku": "SP12501102527045",
       "id_produto": "20231",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1339,11 +1398,11 @@
     "SP12501102500045": {
       "sku": "SP12501102500045",
       "id_produto": "20230",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE SPORT 1.8 4X2 FLEX 2021/21",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1507,11 +1566,11 @@
     "SP12501102888045": {
       "sku": "SP12501102888045",
       "id_produto": "20232",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021/21",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1651,11 +1710,11 @@
     "SP12501103167045": {
       "sku": "SP12501103167045",
       "id_produto": "20233",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
