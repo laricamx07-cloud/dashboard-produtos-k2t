@@ -1,11 +1,11 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 10:42:43",
+  "ultima_atualizacao": "25/08/2026 10:51:30",
   "total_base_dia": 126,
-  "total_atual": 122,
+  "total_atual": 121,
   "novos_produtos": 6,
-  "total_subidos": 10,
+  "total_subidos": 11,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -278,6 +278,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501015292020",
+    "SP12501054409007",
     "SP12501055227045",
     "SP12501100699045",
     "SP12501100800045",
@@ -290,6 +291,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015292020",
+    "SP12501054409007",
     "SP12501055227045",
     "SP12501100699045",
     "SP12501100800045",
@@ -386,6 +388,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501054409007",
+      "id_produto": "19045",
+      "nome": "CAPÔ VOLKSWAGEN GOL CITY (TREND) 1.0 MI TOTAL FLEX 8V 11/12",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY (TREND) 1.0 MI TOTAL FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "3"
     },
     {
       "sku": "SP12501055227045",
@@ -980,11 +994,11 @@
     "SP12501054409007": {
       "sku": "SP12501054409007",
       "id_produto": "19045",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ VOLKSWAGEN GOL CITY (TREND) 1.0 MI TOTAL FLEX 8V 11/12",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY (TREND) 1.0 MI TOTAL FLEX 8V 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "3"
