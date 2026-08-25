@@ -1,10 +1,10 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 13:50:53",
+  "ultima_atualizacao": "25/08/2026 15:04:29",
   "total_base_dia": 126,
-  "total_atual": 103,
-  "novos_produtos": 9,
+  "total_atual": 104,
+  "novos_produtos": 10,
   "total_subidos": 31,
   "skus_base_dia": [
     "SP12501004550032",
@@ -167,6 +167,7 @@
     "SP12501015292011",
     "SP12501015292016",
     "SP12501015292020",
+    "SP12501015373019",
     "SP12501015403001",
     "SP12501015403019",
     "SP12501015403020",
@@ -277,6 +278,7 @@
     "SP12501014105011",
     "SP12501014105026",
     "SP12501015292011",
+    "SP12501015373019",
     "SP12501015403001",
     "SP12501015403026",
     "SP12501015411011",
@@ -407,6 +409,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501015373019",
+      "id_produto": "19215",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "8"
     },
     {
@@ -2452,6 +2466,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP12501015373019": {
+      "sku": "SP12501015373019",
+      "id_produto": "19215",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   }
 }
