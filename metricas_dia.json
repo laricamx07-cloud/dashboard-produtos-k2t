@@ -1,11 +1,11 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 10:21:13",
+  "ultima_atualizacao": "25/08/2026 10:42:43",
   "total_base_dia": 126,
   "total_atual": 122,
-  "novos_produtos": 5,
-  "total_subidos": 9,
+  "novos_produtos": 6,
+  "total_subidos": 10,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -153,6 +153,7 @@
     "SP12501009950033",
     "SP12501010312034",
     "SP12501014040019",
+    "SP12501014083011",
     "SP12501014105001",
     "SP12501014105011",
     "SP12501014121034",
@@ -268,6 +269,7 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [
+    "SP12501014083011",
     "SP12501014105001",
     "SP12501014105011",
     "SP12501015292011",
@@ -275,6 +277,7 @@
     "SP12501015411011"
   ],
   "skus_subidos_hoje": [
+    "SP12501015292020",
     "SP12501055227045",
     "SP12501100699045",
     "SP12501100800045",
@@ -286,6 +289,7 @@
     "SP12501103515004"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501015292020",
     "SP12501055227045",
     "SP12501100699045",
     "SP12501100800045",
@@ -297,6 +301,18 @@
     "SP12501103515004"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501014083011",
+      "id_produto": "18975",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "GM",
+      "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501014105001",
       "id_produto": "19156",
@@ -359,6 +375,18 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501015292020",
+      "id_produto": "18988",
+      "nome": "LANTERNA TRASEIRA ESQUERDA HONDA FIT EX/S 1.5 FLEX/FLEXONE",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501055227045",
       "id_produto": "20223",
@@ -1084,11 +1112,11 @@
     "SP12501015292020": {
       "sku": "SP12501015292020",
       "id_produto": "18988",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA HONDA FIT EX/S 1.5 FLEX/FLEXONE",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2039,6 +2067,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501014083011": {
+      "sku": "SP12501014083011",
+      "id_produto": "18975",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "GM",
+      "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     }
   }
