@@ -1,11 +1,11 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 11:51:04",
+  "ultima_atualizacao": "25/08/2026 12:12:27",
   "total_base_dia": 126,
-  "total_atual": 111,
+  "total_atual": 109,
   "novos_produtos": 6,
-  "total_subidos": 21,
+  "total_subidos": 23,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -277,10 +277,12 @@
     "SP12501015411011"
   ],
   "skus_subidos_hoje": [
+    "SP12501014040019",
     "SP12501014105001",
     "SP12501014814013",
     "SP12501014849014",
     "SP12501015209020",
+    "SP12501015292011",
     "SP12501015292016",
     "SP12501015292020",
     "SP12501015403001",
@@ -300,10 +302,12 @@
     "SP12501103515004"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501014040019",
     "SP12501014105001",
     "SP12501014814013",
     "SP12501014849014",
     "SP12501015209020",
+    "SP12501015292011",
     "SP12501015292016",
     "SP12501015292020",
     "SP12501015403001",
@@ -362,11 +366,11 @@
     {
       "sku": "SP12501015292011",
       "id_produto": "18977",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT EX/S 1.5 FLEX 14/15",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -397,6 +401,18 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501014040019",
+      "id_produto": "18982",
+      "nome": "LANTERNA TRASEIRA DIREITA FIAT STRADA WORKING HARD 1.4",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
     {
       "sku": "SP12501014105001",
       "id_produto": "19156",
@@ -444,6 +460,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015292011",
+      "id_produto": "18977",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT EX/S 1.5 FLEX 14/15",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501015292016",
@@ -1314,11 +1342,11 @@
     "SP12501014040019": {
       "sku": "SP12501014040019",
       "id_produto": "18982",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA FIAT STRADA WORKING HARD 1.4",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -2178,11 +2206,11 @@
     "SP12501015292011": {
       "sku": "SP12501015292011",
       "id_produto": "18977",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT EX/S 1.5 FLEX 14/15",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
