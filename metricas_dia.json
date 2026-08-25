@@ -1,9 +1,9 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 13:42:20",
+  "ultima_atualizacao": "25/08/2026 13:50:53",
   "total_base_dia": 126,
-  "total_atual": 104,
+  "total_atual": 103,
   "novos_produtos": 9,
   "total_subidos": 31,
   "skus_base_dia": [
@@ -911,9 +911,9 @@
       "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO CELEBRATION 1.0 FIRE FLEX 8V 4P",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "7",
       "qtd_images": "6"
     },
