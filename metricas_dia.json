@@ -1,10 +1,10 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 16:13:19",
+  "ultima_atualizacao": "25/08/2026 16:21:14",
   "total_base_dia": 126,
-  "total_atual": 122,
-  "novos_produtos": 28,
+  "total_atual": 123,
+  "novos_produtos": 29,
   "total_subidos": 31,
   "skus_base_dia": [
     "SP12501004550032",
@@ -284,6 +284,7 @@
     "SP12501123095024",
     "SP12501123095026",
     "SP12501123095027",
+    "SP12501123095038",
     "SP32501002799021",
     "SP32501002896833",
     "SP42501001064042",
@@ -317,6 +318,7 @@
     "SP12501123095024",
     "SP12501123095026",
     "SP12501123095027",
+    "SP12501123095038",
     "SP32501002896833",
     "SP42501003148078"
   ],
@@ -698,6 +700,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501123095038",
+      "id_produto": "20256",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "6"
     },
     {
       "sku": "SP32501002896833",
@@ -2945,6 +2959,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "9",
+      "qtd_images": "6"
+    },
+    "SP12501123095038": {
+      "sku": "SP12501123095038",
+      "id_produto": "20256",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
       "qtd_images": "6"
     }
   }
