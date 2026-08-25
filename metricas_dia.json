@@ -1,10 +1,10 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 15:51:09",
+  "ultima_atualizacao": "25/08/2026 16:13:19",
   "total_base_dia": 126,
-  "total_atual": 120,
-  "novos_produtos": 26,
+  "total_atual": 122,
+  "novos_produtos": 28,
   "total_subidos": 31,
   "skus_base_dia": [
     "SP12501004550032",
@@ -193,11 +193,13 @@
     "SP12501017414032",
     "SP12501041145437",
     "SP12501041501034",
+    "SP12501041641028",
     "SP12501041668035",
     "SP12501041749039",
     "SP12501041749040",
     "SP12501041749041",
     "SP12501041838028",
+    "SP12501041838029",
     "SP12501042214033",
     "SP12501042273041",
     "SP12501052953034",
@@ -302,7 +304,9 @@
     "SP12501015403026",
     "SP12501015411011",
     "SP12501015969043",
+    "SP12501041641028",
     "SP12501041838028",
+    "SP12501041838029",
     "SP12501103272004",
     "SP12501103396026",
     "SP12501103396400",
@@ -540,9 +544,33 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501041641028",
+      "id_produto": "10993",
+      "nome": "PARA-CHOQUE DIANTEIRO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "POLO SEDAN 1.6 MI TOTAL FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501041838028",
       "id_produto": "19466",
       "nome": "PARA-CHOQUE DIANTEIRO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501041838029",
+      "id_produto": "19467",
+      "nome": "PARA-CHOQUE TRASEIRO",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Desabilitado",
@@ -2894,6 +2922,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    "SP12501041838029": {
+      "sku": "SP12501041838029",
+      "id_produto": "19467",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    "SP12501041641028": {
+      "sku": "SP12501041641028",
+      "id_produto": "10993",
+      "nome": "PARA-CHOQUE DIANTEIRO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "POLO SEDAN 1.6 MI TOTAL FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
     }
   }
 }
