@@ -1,10 +1,10 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 15:12:37",
+  "ultima_atualizacao": "25/08/2026 15:21:09",
   "total_base_dia": 126,
-  "total_atual": 104,
-  "novos_produtos": 10,
+  "total_atual": 108,
+  "novos_produtos": 14,
   "total_subidos": 31,
   "skus_base_dia": [
     "SP12501004550032",
@@ -178,6 +178,7 @@
     "SP12501015608019",
     "SP12501015730034",
     "SP12501015829045",
+    "SP12501015969043",
     "SP12501016000032",
     "SP12501016000034",
     "SP12501016027033",
@@ -249,7 +250,9 @@
     "SP12501102888045",
     "SP12501103167007",
     "SP12501103167045",
+    "SP12501103272004",
     "SP12501103396400",
+    "SP12501103450001",
     "SP12501103485034",
     "SP12501103485035",
     "SP12501103515004",
@@ -270,6 +273,7 @@
     "SP12501116765043",
     "SP32501002799021",
     "SP42501001064042",
+    "SP42501003148078",
     "SP42501003148936"
   ],
   "skus_novos_hoje": [
@@ -282,7 +286,11 @@
     "SP12501015403001",
     "SP12501015403026",
     "SP12501015411011",
-    "SP12501103396400"
+    "SP12501015969043",
+    "SP12501103272004",
+    "SP12501103396400",
+    "SP12501103450001",
+    "SP42501003148078"
   ],
   "skus_subidos_hoje": [
     "SP12501009586015",
@@ -460,6 +468,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501015969043",
+      "id_produto": "18965",
+      "nome": "RODA SOBRES./ESTEPE",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONGITUDE 2.0 4X4 TB DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103272004",
+      "id_produto": "20239",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103396400",
       "id_produto": "20238",
       "nome": "MOTOR COMPLETO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
@@ -467,6 +499,30 @@
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103450001",
+      "id_produto": "20241",
+      "nome": "ALTERNADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP42501003148078",
+      "id_produto": "18990",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "DUCATO MINIBUS 2.3 ME DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2478,6 +2534,54 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    "SP12501015969043": {
+      "sku": "SP12501015969043",
+      "id_produto": "18965",
+      "nome": "RODA SOBRES./ESTEPE",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONGITUDE 2.0 4X4 TB DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501103272004": {
+      "sku": "SP12501103272004",
+      "id_produto": "20239",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501103450001": {
+      "sku": "SP12501103450001",
+      "id_produto": "20241",
+      "nome": "ALTERNADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    "SP42501003148078": {
+      "sku": "SP42501003148078",
+      "id_produto": "18990",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "DUCATO MINIBUS 2.3 ME DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
