@@ -1,11 +1,11 @@
 {
   "data": "2026-08-25",
   "primeira_atualizacao": "25/08/2026 08:22:48",
-  "ultima_atualizacao": "25/08/2026 12:12:27",
+  "ultima_atualizacao": "25/08/2026 12:23:51",
   "total_base_dia": 126,
-  "total_atual": 109,
+  "total_atual": 107,
   "novos_produtos": 6,
-  "total_subidos": 23,
+  "total_subidos": 25,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -278,7 +278,9 @@
   ],
   "skus_subidos_hoje": [
     "SP12501014040019",
+    "SP12501014083011",
     "SP12501014105001",
+    "SP12501014105011",
     "SP12501014814013",
     "SP12501014849014",
     "SP12501015209020",
@@ -303,7 +305,9 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501014040019",
+    "SP12501014083011",
     "SP12501014105001",
+    "SP12501014105011",
     "SP12501014814013",
     "SP12501014849014",
     "SP12501015209020",
@@ -330,11 +334,11 @@
     {
       "sku": "SP12501014083011",
       "id_produto": "18975",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
-      "marca": "GM",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET PRISMA SED. 1.0",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -354,11 +358,11 @@
     {
       "sku": "SP12501014105011",
       "id_produto": "18976",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
-      "marca": "GM",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET TRACKER PREMIER 1.2",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -414,10 +418,34 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501014083011",
+      "id_produto": "18975",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET PRISMA SED. 1.0",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501014105001",
       "id_produto": "19156",
       "nome": "ALTERNADOR GM TRACKER PREMIER 1.2 TURBO 12V FLEX 20/21",
       "marca": "Chevrolet",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501014105011",
+      "id_produto": "18976",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET TRACKER PREMIER 1.2",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
       "status": "Habilitado",
       "status_ml": "active",
@@ -516,7 +544,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1046,7 +1074,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -2242,11 +2270,11 @@
     "SP12501014105011": {
       "sku": "SP12501014105011",
       "id_produto": "18976",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
-      "marca": "GM",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET TRACKER PREMIER 1.2",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2254,11 +2282,11 @@
     "SP12501014083011": {
       "sku": "SP12501014083011",
       "id_produto": "18975",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
-      "marca": "GM",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET PRISMA SED. 1.0",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
