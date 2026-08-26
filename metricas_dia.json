@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 10:12:18",
+  "ultima_atualizacao": "26/08/2026 10:21:15",
   "total_base_dia": 144,
-  "total_atual": 156,
-  "novos_produtos": 12,
-  "total_subidos": 0,
+  "total_atual": 158,
+  "novos_produtos": 15,
+  "total_subidos": 1,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -268,9 +268,12 @@
     "SP12501103450001",
     "SP12501103450010",
     "SP12501103450026",
+    "SP12501103450032",
     "SP12501103477001",
     "SP12501103477026",
     "SP12501103477411",
+    "SP12501103485030",
+    "SP12501103485031",
     "SP12501103485034",
     "SP12501103485035",
     "SP12501103493001",
@@ -316,6 +319,9 @@
     "SP12501103388033",
     "SP12501103388035",
     "SP12501103396045",
+    "SP12501103450032",
+    "SP12501103485030",
+    "SP12501103485031",
     "SP12501105674011",
     "SP12501105836026",
     "SP12501109661026",
@@ -324,8 +330,12 @@
     "SP12501123354011",
     "SP52501000340824"
   ],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501103477411"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501103477411"
+  ],
   "itens_novos_hoje": [
     {
       "sku": "SP12501089970451",
@@ -385,6 +395,42 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103450032",
+      "id_produto": "20342",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103485030",
+      "id_produto": "20344",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103485031",
+      "id_produto": "20345",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "7"
     },
     {
@@ -472,7 +518,20 @@
       "qtd_images": "9"
     }
   ],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501103477411",
+      "id_produto": "20269",
+      "nome": "ELETROVENTILADOR HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009/2009",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501103396011": {
       "sku": "SP12501103396011",
@@ -1209,11 +1268,11 @@
     "SP12501103477411": {
       "sku": "SP12501103477411",
       "id_produto": "20269",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009/2009",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2345,6 +2404,42 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    "SP12501103485030": {
+      "sku": "SP12501103485030",
+      "id_produto": "20344",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501103450032": {
+      "sku": "SP12501103450032",
+      "id_produto": "20342",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    "SP12501103485031": {
+      "sku": "SP12501103485031",
+      "id_produto": "20345",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     }
   }
 }
