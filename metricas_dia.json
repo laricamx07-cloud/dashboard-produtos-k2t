@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 14:57:18",
+  "ultima_atualizacao": "26/08/2026 15:12:35",
   "total_base_dia": 144,
-  "total_atual": 150,
+  "total_atual": 147,
   "novos_produtos": 32,
-  "total_subidos": 26,
+  "total_subidos": 29,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -376,6 +376,7 @@
     "SP12501103450026",
     "SP12501103450032",
     "SP12501103450045",
+    "SP12501103477001",
     "SP12501103477411",
     "SP12501103485031",
     "SP12501103493012",
@@ -388,6 +389,8 @@
     "SP12501109670001",
     "SP12501121750449",
     "SP12501123095024",
+    "SP12501123095026",
+    "SP12501123095027",
     "SP12501123095038",
     "SP12501123354011",
     "SP52501000340824"
@@ -404,6 +407,7 @@
     "SP12501103450026",
     "SP12501103450032",
     "SP12501103450045",
+    "SP12501103477001",
     "SP12501103477411",
     "SP12501103485031",
     "SP12501103493012",
@@ -416,6 +420,8 @@
     "SP12501109670001",
     "SP12501121750449",
     "SP12501123095024",
+    "SP12501123095026",
+    "SP12501123095027",
     "SP12501123095038",
     "SP12501123354011",
     "SP52501000340824"
@@ -940,6 +946,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103477001",
+      "id_produto": "20249",
+      "nome": "ALTERNADOR HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009/2009",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103477411",
       "id_produto": "20269",
       "nome": "ELETROVENTILADOR HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009/2009",
@@ -970,7 +988,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1078,7 +1096,31 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501123095026",
+      "id_produto": "20247",
+      "nome": "MOTOR DE PARTIDA PEUGEOT 208 SPORT 1.6 FLEX 16V MEC. 16/17",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501123095027",
+      "id_produto": "20248",
+      "nome": "PAINEL DE INSTRUMENTOS PEUGEOT 208 SPORT 1.6 FLEX 16/17",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1344,7 +1386,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1688,11 +1730,11 @@
     "SP12501103477001": {
       "sku": "SP12501103477001",
       "id_produto": "20249",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009/2009",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1988,11 +2030,11 @@
     "SP12501123095026": {
       "sku": "SP12501123095026",
       "id_produto": "20247",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA PEUGEOT 208 SPORT 1.6 FLEX 16V MEC. 16/17",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -2252,11 +2294,11 @@
     "SP12501123095027": {
       "sku": "SP12501123095027",
       "id_produto": "20248",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS PEUGEOT 208 SPORT 1.6 FLEX 16/17",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2544,7 +2586,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
