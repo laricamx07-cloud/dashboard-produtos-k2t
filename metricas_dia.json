@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 16:42:48",
+  "ultima_atualizacao": "26/08/2026 16:51:32",
   "total_base_dia": 144,
-  "total_atual": 145,
+  "total_atual": 144,
   "novos_produtos": 51,
-  "total_subidos": 50,
+  "total_subidos": 51,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -433,6 +433,7 @@
     "SP12501103450032",
     "SP12501103450045",
     "SP12501103477001",
+    "SP12501103477026",
     "SP12501103477411",
     "SP12501103485031",
     "SP12501103493001",
@@ -485,6 +486,7 @@
     "SP12501103450032",
     "SP12501103450045",
     "SP12501103477001",
+    "SP12501103477026",
     "SP12501103477411",
     "SP12501103485031",
     "SP12501103493001",
@@ -1482,6 +1484,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501103477026",
+      "id_produto": "20265",
+      "nome": "MOTOR DE PARTIDA HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009/2009",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501103477411",
       "id_produto": "20269",
       "nome": "ELETROVENTILADOR HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009/2009",
@@ -1524,7 +1538,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2378,7 +2392,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2530,11 +2544,11 @@
     "SP12501103477026": {
       "sku": "SP12501103477026",
       "id_produto": "20265",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009/2009",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
