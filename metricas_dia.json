@@ -1,10 +1,10 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 15:21:45",
+  "ultima_atualizacao": "26/08/2026 15:27:15",
   "total_base_dia": 144,
-  "total_atual": 148,
-  "novos_produtos": 34,
+  "total_atual": 150,
+  "novos_produtos": 36,
   "total_subidos": 30,
   "skus_base_dia": [
     "SP12501004550032",
@@ -276,7 +276,9 @@
     "SP12501103396045",
     "SP12501103396570",
     "SP12501103400007",
+    "SP12501103400032",
     "SP12501103400033",
+    "SP12501103400035",
     "SP12501103400400",
     "SP12501103450001",
     "SP12501103450004",
@@ -349,7 +351,9 @@
     "SP12501103388400",
     "SP12501103396045",
     "SP12501103400007",
+    "SP12501103400032",
     "SP12501103400033",
+    "SP12501103400035",
     "SP12501103400400",
     "SP12501103450004",
     "SP12501103450032",
@@ -626,6 +630,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103400032",
+      "id_produto": "20359",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103400033",
       "id_produto": "20360",
       "nome": "PORTA DIANTEIRA ESQUERDA",
@@ -636,6 +652,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103400035",
+      "id_produto": "20362",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103400400",
@@ -3340,6 +3368,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    "SP12501103400032": {
+      "sku": "SP12501103400032",
+      "id_produto": "20359",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501103400035": {
+      "sku": "SP12501103400035",
+      "id_produto": "20362",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     }
   }
 }
