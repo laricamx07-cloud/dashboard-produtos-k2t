@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 14:42:35",
+  "ultima_atualizacao": "26/08/2026 14:51:38",
   "total_base_dia": 144,
-  "total_atual": 155,
+  "total_atual": 153,
   "novos_produtos": 32,
-  "total_subidos": 21,
+  "total_subidos": 23,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -371,6 +371,7 @@
     "SP12501103272004",
     "SP12501103272010",
     "SP12501103400400",
+    "SP12501103450001",
     "SP12501103450026",
     "SP12501103450032",
     "SP12501103450045",
@@ -384,6 +385,7 @@
     "SP12501109661026",
     "SP12501109670001",
     "SP12501121750449",
+    "SP12501123095038",
     "SP12501123354011",
     "SP52501000340824"
   ],
@@ -394,6 +396,7 @@
     "SP12501103272004",
     "SP12501103272010",
     "SP12501103400400",
+    "SP12501103450001",
     "SP12501103450026",
     "SP12501103450032",
     "SP12501103450045",
@@ -407,6 +410,7 @@
     "SP12501109661026",
     "SP12501109670001",
     "SP12501121750449",
+    "SP12501123095038",
     "SP12501123354011",
     "SP52501000340824"
   ],
@@ -852,7 +856,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -868,6 +872,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103450001",
+      "id_produto": "20241",
+      "nome": "Alternador Ka Fiesta Courier Ecosport 1.0 1.6 Zetec 00/07",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103450026",
@@ -1026,6 +1042,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501123095038",
+      "id_produto": "20256",
+      "nome": "RETROVISOR ESQUERDO PEUGEOT 208 SPORT 1.6 FLEX 16V 2016/2017",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501123354011",
       "id_produto": "20338",
       "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET SPIN LTZ 1.8 ECONO",
@@ -1114,11 +1142,11 @@
     "SP12501103450001": {
       "sku": "SP12501103450001",
       "id_produto": "20241",
-      "nome": "ALTERNADOR",
+      "nome": "Alternador Ka Fiesta Courier Ecosport 1.0 1.6 Zetec 00/07",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1226,7 +1254,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1582,11 +1610,11 @@
     "SP12501123095038": {
       "sku": "SP12501123095038",
       "id_produto": "20256",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO PEUGEOT 208 SPORT 1.6 FLEX 16V 2016/2017",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
