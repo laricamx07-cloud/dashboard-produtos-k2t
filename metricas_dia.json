@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 16:51:32",
+  "ultima_atualizacao": "26/08/2026 16:57:12",
   "total_base_dia": 144,
-  "total_atual": 144,
+  "total_atual": 142,
   "novos_produtos": 51,
-  "total_subidos": 51,
+  "total_subidos": 53,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -411,6 +411,7 @@
     "SP12501041838028",
     "SP12501041838029",
     "SP12501042281001",
+    "SP12501080159004",
     "SP12501080280004",
     "SP12501089245424",
     "SP12501102462007",
@@ -447,6 +448,7 @@
     "SP12501109661026",
     "SP12501109670001",
     "SP12501111348031",
+    "SP12501111348035",
     "SP12501121750449",
     "SP12501123095024",
     "SP12501123095026",
@@ -464,6 +466,7 @@
     "SP12501041838028",
     "SP12501041838029",
     "SP12501042281001",
+    "SP12501080159004",
     "SP12501080280004",
     "SP12501089245424",
     "SP12501102462007",
@@ -500,6 +503,7 @@
     "SP12501109661026",
     "SP12501109670001",
     "SP12501111348031",
+    "SP12501111348035",
     "SP12501121750449",
     "SP12501123095024",
     "SP12501123095026",
@@ -584,11 +588,11 @@
     {
       "sku": "SP12501080159004",
       "id_produto": "19102",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FIAT UNO VIVACE/RUA 1.0 EVO FIRE FLEX 8V 15/16",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO VIVACE/RUA 1.0 EVO FIRE FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -1220,6 +1224,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501080159004",
+      "id_produto": "19102",
+      "nome": "CÂMBIO MANUAL FIAT UNO VIVACE/RUA 1.0 EVO FIRE FLEX 8V 15/16",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO VIVACE/RUA 1.0 EVO FIRE FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501080280004",
       "id_produto": "19103",
       "nome": "CÂMBIO MANUAL CHEVROLET ONIX HATCH JOY 1.0 8V FLEX 2018",
@@ -1650,6 +1666,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111348035",
+      "id_produto": "19723",
+      "nome": "PORTA TRASEIRA ESQUERDA VOLKSWAGEN GOLF GLX 2.0 4P 1996",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOLF GLX 2.0 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501121750449",
@@ -2256,11 +2284,11 @@
     "SP12501111348035": {
       "sku": "SP12501111348035",
       "id_produto": "19723",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA VOLKSWAGEN GOLF GLX 2.0 4P 1996",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOLF GLX 2.0 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -3720,11 +3748,11 @@
     "SP12501080159004": {
       "sku": "SP12501080159004",
       "id_produto": "19102",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FIAT UNO VIVACE/RUA 1.0 EVO FIRE FLEX 8V 15/16",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO VIVACE/RUA 1.0 EVO FIRE FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
