@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 16:14:40",
+  "ultima_atualizacao": "26/08/2026 16:20:53",
   "total_base_dia": 144,
   "total_atual": 146,
-  "novos_produtos": 44,
-  "total_subidos": 42,
+  "novos_produtos": 46,
+  "total_subidos": 44,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -267,6 +267,7 @@
     "SP12501103272024",
     "SP12501103272026",
     "SP12501103272036",
+    "SP12501103370032",
     "SP12501103370033",
     "SP12501103370045",
     "SP12501103388033",
@@ -287,6 +288,7 @@
     "SP12501103400035",
     "SP12501103400400",
     "SP12501103426032",
+    "SP12501103426033",
     "SP12501103450001",
     "SP12501103450004",
     "SP12501103450010",
@@ -354,6 +356,7 @@
     "SP12501089245424",
     "SP12501089970451",
     "SP12501103272007",
+    "SP12501103370032",
     "SP12501103370033",
     "SP12501103370045",
     "SP12501103388033",
@@ -370,6 +373,7 @@
     "SP12501103400035",
     "SP12501103400400",
     "SP12501103426032",
+    "SP12501103426033",
     "SP12501103450004",
     "SP12501103450032",
     "SP12501103450045",
@@ -390,11 +394,13 @@
   ],
   "skus_subidos_hoje": [
     "SP12501015284010",
+    "SP12501015373019",
     "SP12501015608010",
     "SP12501016540423",
     "SP12501041838028",
     "SP12501041838029",
     "SP12501042281001",
+    "SP12501089245424",
     "SP12501102462007",
     "SP12501102527007",
     "SP12501103167007",
@@ -434,11 +440,13 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015284010",
+    "SP12501015373019",
     "SP12501015608010",
     "SP12501016540423",
     "SP12501041838028",
     "SP12501041838029",
     "SP12501042281001",
+    "SP12501089245424",
     "SP12501102462007",
     "SP12501102527007",
     "SP12501103167007",
@@ -576,11 +584,11 @@
     {
       "sku": "SP12501089245424",
       "id_produto": "20341",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA PEUGEOT 2008 ALLURE 1.6 16V AUT 2023/2024",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -608,6 +616,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103370032",
+      "id_produto": "20365",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103370033",
@@ -800,6 +820,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103426033",
+      "id_produto": "20371",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103450004",
@@ -1020,6 +1052,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501015373019",
+      "id_produto": "19215",
+      "nome": "LANTERNA TRASEIRA DIREITA TOYOTA COROLLA 2.0 FLEX 17/18",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501015608010",
       "id_produto": "17245",
       "nome": "CHAVE DE SETA NISSAN KICKS SV 1.6 16V FLEXSTAR AUT 2017/18",
@@ -1050,7 +1094,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1078,6 +1122,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501089245424",
+      "id_produto": "20341",
+      "nome": "MULTIMÍDIA PEUGEOT 2008 ALLURE 1.6 16V AUT 2023/2024",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501102462007",
@@ -2780,7 +2836,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -2944,11 +3000,11 @@
     "SP12501015373019": {
       "sku": "SP12501015373019",
       "id_produto": "19215",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA TOYOTA COROLLA 2.0 FLEX 17/18",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -3484,11 +3540,11 @@
     "SP12501089245424": {
       "sku": "SP12501089245424",
       "id_produto": "20341",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA PEUGEOT 2008 ALLURE 1.6 16V AUT 2023/2024",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -3768,6 +3824,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501103426033": {
+      "sku": "SP12501103426033",
+      "id_produto": "20371",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501103370032": {
+      "sku": "SP12501103370032",
+      "id_produto": "20365",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
