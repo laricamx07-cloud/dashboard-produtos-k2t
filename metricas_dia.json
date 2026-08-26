@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 16:20:53",
+  "ultima_atualizacao": "26/08/2026 16:26:56",
   "total_base_dia": 144,
-  "total_atual": 146,
-  "novos_produtos": 46,
-  "total_subidos": 44,
+  "total_atual": 144,
+  "novos_produtos": 47,
+  "total_subidos": 47,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -289,6 +289,7 @@
     "SP12501103400400",
     "SP12501103426032",
     "SP12501103426033",
+    "SP12501103426035",
     "SP12501103450001",
     "SP12501103450004",
     "SP12501103450010",
@@ -374,6 +375,7 @@
     "SP12501103400400",
     "SP12501103426032",
     "SP12501103426033",
+    "SP12501103426035",
     "SP12501103450004",
     "SP12501103450032",
     "SP12501103450045",
@@ -393,6 +395,7 @@
     "SP52501000340824"
   ],
   "skus_subidos_hoje": [
+    "SP12501014059010",
     "SP12501015284010",
     "SP12501015373019",
     "SP12501015608010",
@@ -408,6 +411,7 @@
     "SP12501103272010",
     "SP12501103388400",
     "SP12501103396026",
+    "SP12501103396045",
     "SP12501103400007",
     "SP12501103400032",
     "SP12501103400033",
@@ -421,6 +425,7 @@
     "SP12501103477411",
     "SP12501103485031",
     "SP12501103493001",
+    "SP12501103493011",
     "SP12501103493012",
     "SP12501103493031",
     "SP12501103493411",
@@ -439,6 +444,7 @@
     "SP52501000340824"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501014059010",
     "SP12501015284010",
     "SP12501015373019",
     "SP12501015608010",
@@ -454,6 +460,7 @@
     "SP12501103272010",
     "SP12501103388400",
     "SP12501103396026",
+    "SP12501103396045",
     "SP12501103400007",
     "SP12501103400032",
     "SP12501103400033",
@@ -467,6 +474,7 @@
     "SP12501103477411",
     "SP12501103485031",
     "SP12501103493001",
+    "SP12501103493011",
     "SP12501103493012",
     "SP12501103493031",
     "SP12501103493411",
@@ -588,7 +596,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -704,11 +712,11 @@
     {
       "sku": "SP12501103396045",
       "id_produto": "20323",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -825,6 +833,18 @@
       "sku": "SP12501103426033",
       "id_produto": "20371",
       "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103426035",
+      "id_produto": "20373",
+      "nome": "PORTA TRASEIRA ESQUERDA",
       "marca": "HONDA",
       "modelo_do_veiculo": null,
       "status": "Desabilitado",
@@ -1040,6 +1060,18 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501014059010",
+      "id_produto": "19154",
+      "nome": "CHAVE DE SETA CHEVROLET ONIX HATCH LT 1.4 8V FLEXPOWER 12/13",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501015284010",
       "id_produto": "17240",
       "nome": "CHAVE DE SETA GM ONIX HATCH ACTIV 1.4 8V FLEX AUT 2017/18",
@@ -1058,7 +1090,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1130,7 +1162,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1218,6 +1250,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103396045",
+      "id_produto": "20323",
+      "nome": "TAMPA TRASEIRA CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501103400007",
@@ -1367,6 +1411,18 @@
       "sku": "SP12501103493001",
       "id_produto": "20250",
       "nome": "ALTERNADOR VOLKSWAGEN GOL 1.6 MI POWER TOTAL FLEX 8V 2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103493011",
+      "id_produto": "20266",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO VOLKSWAGEN GOL 1.6 T.FLEX 2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
       "status": "Habilitado",
@@ -2220,11 +2276,11 @@
     "SP12501103493011": {
       "sku": "SP12501103493011",
       "id_produto": "20266",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO VOLKSWAGEN GOL 1.6 T.FLEX 2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -3004,7 +3060,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -3024,11 +3080,11 @@
     "SP12501014059010": {
       "sku": "SP12501014059010",
       "id_produto": "19154",
-      "nome": "CHAVE DE SETA",
-      "marca": "GM",
+      "nome": "CHAVE DE SETA CHEVROLET ONIX HATCH LT 1.4 8V FLEXPOWER 12/13",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3336,11 +3392,11 @@
     "SP12501103396045": {
       "sku": "SP12501103396045",
       "id_produto": "20323",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -3544,7 +3600,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -3847,6 +3903,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501103426035": {
+      "sku": "SP12501103426035",
+      "id_produto": "20373",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     }
   }
