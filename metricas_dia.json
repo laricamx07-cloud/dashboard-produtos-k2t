@@ -1,7 +1,7 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 12:29:35",
+  "ultima_atualizacao": "26/08/2026 12:42:46",
   "total_base_dia": 144,
   "total_atual": 169,
   "novos_produtos": 31,
@@ -698,7 +698,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "BRAVO ESSENCE DUALOGIC 1.8 16V E.TORQ",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -820,7 +820,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "BRAVO ESSENCE DUALOGIC 1.8 16V E.TORQ",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -2694,7 +2694,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "BRAVO ESSENCE DUALOGIC 1.8 16V E.TORQ",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
