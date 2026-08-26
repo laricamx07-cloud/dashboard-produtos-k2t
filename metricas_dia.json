@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 11:29:17",
+  "ultima_atualizacao": "26/08/2026 11:43:09",
   "total_base_dia": 144,
-  "total_atual": 167,
-  "novos_produtos": 25,
-  "total_subidos": 2,
+  "total_atual": 169,
+  "novos_produtos": 28,
+  "total_subidos": 3,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -181,6 +181,7 @@
     "SP12501015403026",
     "SP12501015527034",
     "SP12501015586034",
+    "SP12501015608010",
     "SP12501015730034",
     "SP12501015829045",
     "SP12501015969043",
@@ -217,6 +218,7 @@
     "SP12501079975034",
     "SP12501080159004",
     "SP12501080183035",
+    "SP12501080280004",
     "SP12501080329032",
     "SP12501080353034",
     "SP12501080353035",
@@ -316,6 +318,7 @@
     "SP12501123095037",
     "SP12501123095038",
     "SP12501123354011",
+    "SP32501002896829",
     "SP32501002896833",
     "SP32501002896875",
     "SP42501001064042",
@@ -324,9 +327,11 @@
     "SP52501000340824"
   ],
   "skus_novos_hoje": [
+    "SP12501015608010",
     "SP12501041250004",
     "SP12501042281001",
     "SP12501080159004",
+    "SP12501080280004",
     "SP12501089245424",
     "SP12501089970451",
     "SP12501103272007",
@@ -348,17 +353,32 @@
     "SP12501109670001",
     "SP12501121750449",
     "SP12501123354011",
+    "SP32501002896829",
     "SP52501000340824"
   ],
   "skus_subidos_hoje": [
     "SP12501103272004",
-    "SP12501103477411"
+    "SP12501103477411",
+    "SP12501105674011"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501103272004",
-    "SP12501103477411"
+    "SP12501103477411",
+    "SP12501105674011"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501015608010",
+      "id_produto": "17245",
+      "nome": "CHAVE DE SETA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501041250004",
       "id_produto": "19101",
@@ -394,6 +414,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501080280004",
+      "id_produto": "19103",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH JOY 1.0 8V FLEX 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501089245424",
@@ -460,7 +492,7 @@
       "id_produto": "20349",
       "nome": "MOTOR COMPLETO",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -484,7 +516,7 @@
       "id_produto": "20350",
       "nome": "MOTOR COMPLETO",
       "marca": "HONDA",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -578,11 +610,11 @@
     {
       "sku": "SP12501105674011",
       "id_produto": "20325",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET CELTA SPIRIT/LT 1.0",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -648,6 +680,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP32501002896829",
+      "id_produto": "17310",
+      "nome": "FAROL DE NEBLINA ESQUERDO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP52501000340824",
       "id_produto": "20340",
       "nome": "COMPRESSOR DO AR-CONDICIONADO",
@@ -684,6 +728,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501105674011",
+      "id_produto": "20325",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET CELTA SPIRIT/LT 1.0",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -2502,11 +2558,11 @@
     "SP12501105674011": {
       "sku": "SP12501105674011",
       "id_produto": "20325",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET CELTA SPIRIT/LT 1.0",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2684,7 +2740,7 @@
       "id_produto": "20350",
       "nome": "MOTOR COMPLETO",
       "marca": "HONDA",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -2696,7 +2752,7 @@
       "id_produto": "20349",
       "nome": "MOTOR COMPLETO",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -2714,6 +2770,42 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501080280004": {
+      "sku": "SP12501080280004",
+      "id_produto": "19103",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH JOY 1.0 8V FLEX 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP32501002896829": {
+      "sku": "SP32501002896829",
+      "id_produto": "17310",
+      "nome": "FAROL DE NEBLINA ESQUERDO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501015608010": {
+      "sku": "SP12501015608010",
+      "id_produto": "17245",
+      "nome": "CHAVE DE SETA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     }
   }
 }
