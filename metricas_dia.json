@@ -1,10 +1,10 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 09:29:35",
+  "ultima_atualizacao": "26/08/2026 09:42:38",
   "total_base_dia": 144,
-  "total_atual": 147,
-  "novos_produtos": 3,
+  "total_atual": 148,
+  "novos_produtos": 4,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004550032",
@@ -261,6 +261,7 @@
     "SP12501103396011",
     "SP12501103396026",
     "SP12501103396027",
+    "SP12501103396045",
     "SP12501103396570",
     "SP12501103450001",
     "SP12501103450010",
@@ -304,6 +305,7 @@
   "skus_novos_hoje": [
     "SP12501103388033",
     "SP12501103388035",
+    "SP12501103396045",
     "SP52501000340824"
   ],
   "skus_subidos_hoje": [],
@@ -314,7 +316,7 @@
       "id_produto": "20321",
       "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -326,7 +328,7 @@
       "id_produto": "20322",
       "nome": "PORTA TRASEIRA ESQUERDA",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -334,11 +336,23 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103396045",
+      "id_produto": "20323",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP52501000340824",
       "id_produto": "20340",
       "nome": "COMPRESSOR DO AR-CONDICIONADO",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "ECOSPORT XLT 2.0 16V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -2081,7 +2095,7 @@
       "id_produto": "20322",
       "nome": "PORTA TRASEIRA ESQUERDA",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -2093,7 +2107,7 @@
       "id_produto": "20340",
       "nome": "COMPRESSOR DO AR-CONDICIONADO",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "ECOSPORT XLT 2.0 16V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -2105,12 +2119,24 @@
       "id_produto": "20321",
       "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501103396045": {
+      "sku": "SP12501103396045",
+      "id_produto": "20323",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   }
 }
