@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 10:57:07",
+  "ultima_atualizacao": "26/08/2026 11:12:41",
   "total_base_dia": 144,
-  "total_atual": 163,
-  "novos_produtos": 20,
-  "total_subidos": 1,
+  "total_atual": 164,
+  "novos_produtos": 22,
+  "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -214,6 +214,7 @@
     "SP12501079924033",
     "SP12501079959400",
     "SP12501079975034",
+    "SP12501080159004",
     "SP12501080183035",
     "SP12501080329032",
     "SP12501080353034",
@@ -231,6 +232,7 @@
     "SP12501084790033",
     "SP12501084790035",
     "SP12501088338031",
+    "SP12501089245424",
     "SP12501089970451",
     "SP12501089989035",
     "SP12501100710032",
@@ -320,6 +322,8 @@
   ],
   "skus_novos_hoje": [
     "SP12501042281001",
+    "SP12501080159004",
+    "SP12501089245424",
     "SP12501089970451",
     "SP12501103272007",
     "SP12501103388033",
@@ -341,9 +345,11 @@
     "SP52501000340824"
   ],
   "skus_subidos_hoje": [
+    "SP12501103272004",
     "SP12501103477411"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501103272004",
     "SP12501103477411"
   ],
   "itens_novos_hoje": [
@@ -358,6 +364,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501080159004",
+      "id_produto": "19102",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO VIVACE/RUA 1.0 EVO FIRE FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501089245424",
+      "id_produto": "20341",
+      "nome": "MULTIMÍDIA",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501089970451",
@@ -589,6 +619,18 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501103272004",
+      "id_produto": "20239",
+      "nome": "CÂMBIO MANUAL CHEVROLET MONTANA LS 1.4 ECONOFLEX 8V 2011",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501103477411",
       "id_produto": "20269",
@@ -1434,11 +1476,11 @@
     "SP12501103272004": {
       "sku": "SP12501103272004",
       "id_produto": "20239",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET MONTANA LS 1.4 ECONOFLEX 8V 2011",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2570,6 +2612,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    "SP12501089245424": {
+      "sku": "SP12501089245424",
+      "id_produto": "20341",
+      "nome": "MULTIMÍDIA",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    "SP12501080159004": {
+      "sku": "SP12501080159004",
+      "id_produto": "19102",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO VIVACE/RUA 1.0 EVO FIRE FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     }
   }
 }
