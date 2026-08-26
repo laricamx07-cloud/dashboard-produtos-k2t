@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 15:42:27",
+  "ultima_atualizacao": "26/08/2026 15:51:02",
   "total_base_dia": 144,
-  "total_atual": 155,
+  "total_atual": 153,
   "novos_produtos": 43,
-  "total_subidos": 32,
+  "total_subidos": 34,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -391,9 +391,11 @@
     "SP12501015608010",
     "SP12501016540423",
     "SP12501042281001",
+    "SP12501103167007",
     "SP12501103272004",
     "SP12501103272010",
     "SP12501103396026",
+    "SP12501103400033",
     "SP12501103400400",
     "SP12501103450001",
     "SP12501103450004",
@@ -425,9 +427,11 @@
     "SP12501015608010",
     "SP12501016540423",
     "SP12501042281001",
+    "SP12501103167007",
     "SP12501103272004",
     "SP12501103272010",
     "SP12501103396026",
+    "SP12501103400033",
     "SP12501103400400",
     "SP12501103450001",
     "SP12501103450004",
@@ -722,11 +726,11 @@
     {
       "sku": "SP12501103400033",
       "id_produto": "20360",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA HONDA FIT LX 1.4 FLEX 2005/2006 MEC",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1022,6 +1026,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103167007",
+      "id_produto": "19787",
+      "nome": "CAPÔ JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V AUT. 2021/2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103272004",
       "id_produto": "20239",
       "nome": "CÂMBIO MANUAL CHEVROLET MONTANA LS 1.4 ECONOFLEX 8V 2011",
@@ -1056,6 +1072,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103400033",
+      "id_produto": "20360",
+      "nome": "PORTA DIANTEIRA ESQUERDA HONDA FIT LX 1.4 FLEX 2005/2006 MEC",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103400400",
@@ -2478,11 +2506,11 @@
     "SP12501103167007": {
       "sku": "SP12501103167007",
       "id_produto": "19787",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V AUT. 2021/2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -3474,11 +3502,11 @@
     "SP12501103400033": {
       "sku": "SP12501103400033",
       "id_produto": "20360",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA HONDA FIT LX 1.4 FLEX 2005/2006 MEC",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
