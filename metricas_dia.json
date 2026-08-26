@@ -1,10 +1,10 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 09:20:59",
+  "ultima_atualizacao": "26/08/2026 09:29:35",
   "total_base_dia": 144,
-  "total_atual": 145,
-  "novos_produtos": 1,
+  "total_atual": 147,
+  "novos_produtos": 3,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004550032",
@@ -256,6 +256,7 @@
     "SP12501103272024",
     "SP12501103272026",
     "SP12501103272036",
+    "SP12501103388033",
     "SP12501103388035",
     "SP12501103396011",
     "SP12501103396026",
@@ -297,14 +298,29 @@
     "SP32501002896875",
     "SP42501001064042",
     "SP42501003148078",
-    "SP42501003148936"
+    "SP42501003148936",
+    "SP52501000340824"
   ],
   "skus_novos_hoje": [
-    "SP12501103388035"
+    "SP12501103388033",
+    "SP12501103388035",
+    "SP52501000340824"
   ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501103388033",
+      "id_produto": "20321",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501103388035",
       "id_produto": "20322",
@@ -316,6 +332,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP52501000340824",
+      "id_produto": "20340",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   ],
   "itens_subidos_hoje": [],
@@ -2058,6 +2086,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP52501000340824": {
+      "sku": "SP52501000340824",
+      "id_produto": "20340",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501103388033": {
+      "sku": "SP12501103388033",
+      "id_produto": "20321",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "10"
     }
   }
