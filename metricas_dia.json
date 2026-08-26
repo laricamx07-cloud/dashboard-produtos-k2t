@@ -1,10 +1,10 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 09:42:38",
+  "ultima_atualizacao": "26/08/2026 09:51:03",
   "total_base_dia": 144,
-  "total_atual": 148,
-  "novos_produtos": 4,
+  "total_atual": 149,
+  "novos_produtos": 5,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004550032",
@@ -251,6 +251,7 @@
     "SP12501102888007",
     "SP12501103167007",
     "SP12501103272004",
+    "SP12501103272007",
     "SP12501103272010",
     "SP12501103272011",
     "SP12501103272024",
@@ -303,6 +304,7 @@
     "SP52501000340824"
   ],
   "skus_novos_hoje": [
+    "SP12501103272007",
     "SP12501103388033",
     "SP12501103388035",
     "SP12501103396045",
@@ -311,6 +313,18 @@
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501103272007",
+      "id_produto": "20320",
+      "nome": "CAPÔ",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501103388033",
       "id_produto": "20321",
@@ -2136,6 +2150,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501103272007": {
+      "sku": "SP12501103272007",
+      "id_produto": "20320",
+      "nome": "CAPÔ",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
       "qtd_images": "7"
     }
   }
