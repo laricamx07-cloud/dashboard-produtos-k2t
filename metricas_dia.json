@@ -1,10 +1,10 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 11:52:10",
+  "ultima_atualizacao": "26/08/2026 11:56:57",
   "total_base_dia": 144,
-  "total_atual": 168,
-  "novos_produtos": 29,
+  "total_atual": 169,
+  "novos_produtos": 30,
   "total_subidos": 5,
   "skus_base_dia": [
     "SP12501004550032",
@@ -190,6 +190,7 @@
     "SP12501016000034",
     "SP12501016027033",
     "SP12501016116032",
+    "SP12501016540423",
     "SP12501016590045",
     "SP12501016779033",
     "SP12501016779035",
@@ -330,6 +331,7 @@
   "skus_novos_hoje": [
     "SP12501015284010",
     "SP12501015608010",
+    "SP12501016540423",
     "SP12501041250004",
     "SP12501042281001",
     "SP12501080159004",
@@ -396,6 +398,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501016540423",
+      "id_produto": "17248",
+      "nome": "CENTRAL DE DERIVAÇÃO",
+      "marca": "CTR",
+      "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501041250004",
@@ -644,7 +658,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -766,7 +780,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2616,7 +2630,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2860,6 +2874,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    "SP12501016540423": {
+      "sku": "SP12501016540423",
+      "id_produto": "17248",
+      "nome": "CENTRAL DE DERIVAÇÃO",
+      "marca": "CTR",
+      "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
     }
   }
 }
