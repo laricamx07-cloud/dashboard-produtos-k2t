@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 11:43:09",
+  "ultima_atualizacao": "26/08/2026 11:52:10",
   "total_base_dia": 144,
-  "total_atual": 169,
-  "novos_produtos": 28,
-  "total_subidos": 3,
+  "total_atual": 168,
+  "novos_produtos": 29,
+  "total_subidos": 5,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -176,6 +176,7 @@
     "SP12501014750034",
     "SP12501014806045",
     "SP12501015209010",
+    "SP12501015284010",
     "SP12501015349010",
     "SP12501015373019",
     "SP12501015403026",
@@ -327,6 +328,7 @@
     "SP52501000340824"
   ],
   "skus_novos_hoje": [
+    "SP12501015284010",
     "SP12501015608010",
     "SP12501041250004",
     "SP12501042281001",
@@ -359,14 +361,30 @@
   "skus_subidos_hoje": [
     "SP12501103272004",
     "SP12501103477411",
-    "SP12501105674011"
+    "SP12501105674011",
+    "SP12501105836026",
+    "SP12501109661026"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501103272004",
     "SP12501103477411",
-    "SP12501105674011"
+    "SP12501105674011",
+    "SP12501105836026",
+    "SP12501109661026"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501015284010",
+      "id_produto": "17240",
+      "nome": "CHAVE DE SETA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH ACTIV 1.4 8V FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
     {
       "sku": "SP12501015608010",
       "id_produto": "17245",
@@ -622,11 +640,11 @@
     {
       "sku": "SP12501105836026",
       "id_produto": "20326",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CLASSIC LIFE 1.0 VHC FLEXPOWER 08",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -634,11 +652,11 @@
     {
       "sku": "SP12501109661026",
       "id_produto": "20331",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CLASSIC LIFE 1.0 VHC FLEXPOWER 06",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -739,6 +757,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501105836026",
+      "id_produto": "20326",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CLASSIC LIFE 1.0 VHC FLEXPOWER 08",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501109661026",
+      "id_produto": "20331",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CLASSIC LIFE 1.0 VHC FLEXPOWER 06",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "8"
     }
   ],
@@ -2546,11 +2588,11 @@
     "SP12501109661026": {
       "sku": "SP12501109661026",
       "id_produto": "20331",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CLASSIC LIFE 1.0 VHC FLEXPOWER 06",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -2570,11 +2612,11 @@
     "SP12501105836026": {
       "sku": "SP12501105836026",
       "id_produto": "20326",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CLASSIC LIFE 1.0 VHC FLEXPOWER 08",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2806,6 +2848,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    "SP12501015284010": {
+      "sku": "SP12501015284010",
+      "id_produto": "17240",
+      "nome": "CHAVE DE SETA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH ACTIV 1.4 8V FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     }
   }
 }
