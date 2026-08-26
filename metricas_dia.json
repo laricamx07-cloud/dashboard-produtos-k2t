@@ -1,10 +1,10 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 09:12:59",
+  "ultima_atualizacao": "26/08/2026 09:20:59",
   "total_base_dia": 144,
-  "total_atual": 144,
-  "novos_produtos": 0,
+  "total_atual": 145,
+  "novos_produtos": 1,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004550032",
@@ -256,6 +256,7 @@
     "SP12501103272024",
     "SP12501103272026",
     "SP12501103272036",
+    "SP12501103388035",
     "SP12501103396011",
     "SP12501103396026",
     "SP12501103396027",
@@ -298,10 +299,25 @@
     "SP42501003148078",
     "SP42501003148936"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501103388035"
+  ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501103388035",
+      "id_produto": "20322",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    }
+  ],
   "itens_subidos_hoje": [],
   "detalhes_skus_vistos_hoje": {
     "SP12501103396011": {
@@ -2031,6 +2047,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    "SP12501103388035": {
+      "sku": "SP12501103388035",
+      "id_produto": "20322",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     }
   }
 }
