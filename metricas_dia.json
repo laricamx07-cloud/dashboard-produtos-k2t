@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 15:57:54",
+  "ultima_atualizacao": "26/08/2026 16:14:40",
   "total_base_dia": 144,
-  "total_atual": 150,
-  "novos_produtos": 43,
-  "total_subidos": 37,
+  "total_atual": 146,
+  "novos_produtos": 44,
+  "total_subidos": 42,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -286,6 +286,7 @@
     "SP12501103400034",
     "SP12501103400035",
     "SP12501103400400",
+    "SP12501103426032",
     "SP12501103450001",
     "SP12501103450004",
     "SP12501103450010",
@@ -368,6 +369,7 @@
     "SP12501103400034",
     "SP12501103400035",
     "SP12501103400400",
+    "SP12501103426032",
     "SP12501103450004",
     "SP12501103450032",
     "SP12501103450045",
@@ -390,12 +392,17 @@
     "SP12501015284010",
     "SP12501015608010",
     "SP12501016540423",
+    "SP12501041838028",
+    "SP12501041838029",
     "SP12501042281001",
+    "SP12501102462007",
     "SP12501102527007",
     "SP12501103167007",
     "SP12501103272004",
     "SP12501103272010",
+    "SP12501103388400",
     "SP12501103396026",
+    "SP12501103400007",
     "SP12501103400032",
     "SP12501103400033",
     "SP12501103400400",
@@ -429,12 +436,17 @@
     "SP12501015284010",
     "SP12501015608010",
     "SP12501016540423",
+    "SP12501041838028",
+    "SP12501041838029",
     "SP12501042281001",
+    "SP12501102462007",
     "SP12501102527007",
     "SP12501103167007",
     "SP12501103272004",
     "SP12501103272010",
+    "SP12501103388400",
     "SP12501103396026",
+    "SP12501103400007",
     "SP12501103400032",
     "SP12501103400033",
     "SP12501103400400",
@@ -648,11 +660,11 @@
     {
       "sku": "SP12501103388400",
       "id_produto": "20349",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO RENAULT DUSTER DYNAMIQUE 2.0 FLEX 16V AUT. 20",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -696,11 +708,11 @@
     {
       "sku": "SP12501103400007",
       "id_produto": "20357",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -776,6 +788,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103426032",
+      "id_produto": "20370",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103450004",
@@ -1020,6 +1044,30 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501041838028",
+      "id_produto": "19466",
+      "nome": "PARA-CHOQUE DIANTEIRO FIAT MOBI LIKE 1.0 FIRE FLEX 21/22",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501041838029",
+      "id_produto": "19467",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 21/22",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501042281001",
       "id_produto": "16244",
       "nome": "ALTERNADOR RENAULT SANDERO EXPRESSION HI-FLEX 1.6 8V 2012/13",
@@ -1030,6 +1078,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501102462007",
+      "id_produto": "19699",
+      "nome": "CAPÔ JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 21/21",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501102527007",
@@ -1080,6 +1140,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103388400",
+      "id_produto": "20349",
+      "nome": "MOTOR COMPLETO RENAULT DUSTER DYNAMIQUE 2.0 FLEX 16V AUT. 20",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103396026",
       "id_produto": "20240",
       "nome": "MOTOR DE PARTIDA CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
@@ -1090,6 +1162,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103400007",
+      "id_produto": "20357",
+      "nome": "CAPÔ HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2005/2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501103400032",
@@ -1516,11 +1600,11 @@
     "SP12501102462007": {
       "sku": "SP12501102462007",
       "id_produto": "19699",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 21/21",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "8"
@@ -2308,11 +2392,11 @@
     "SP12501041838029": {
       "sku": "SP12501041838029",
       "id_produto": "19467",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 21/22",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -2692,11 +2776,11 @@
     "SP12501041838028": {
       "sku": "SP12501041838028",
       "id_produto": "19466",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO FIAT MOBI LIKE 1.0 FIRE FLEX 21/22",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -3436,11 +3520,11 @@
     "SP12501103388400": {
       "sku": "SP12501103388400",
       "id_produto": "20349",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO RENAULT DUSTER DYNAMIQUE 2.0 FLEX 16V AUT. 20",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3556,11 +3640,11 @@
     "SP12501103400007": {
       "sku": "SP12501103400007",
       "id_produto": "20357",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -3672,6 +3756,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501103426032": {
+      "sku": "SP12501103426032",
+      "id_produto": "20370",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   }
 }
