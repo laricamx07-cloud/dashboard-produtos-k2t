@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 15:12:35",
+  "ultima_atualizacao": "26/08/2026 15:21:45",
   "total_base_dia": 144,
-  "total_atual": 147,
-  "novos_produtos": 32,
-  "total_subidos": 29,
+  "total_atual": 148,
+  "novos_produtos": 34,
+  "total_subidos": 30,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -275,6 +275,8 @@
     "SP12501103396027",
     "SP12501103396045",
     "SP12501103396570",
+    "SP12501103400007",
+    "SP12501103400033",
     "SP12501103400400",
     "SP12501103450001",
     "SP12501103450004",
@@ -346,6 +348,8 @@
     "SP12501103388035",
     "SP12501103388400",
     "SP12501103396045",
+    "SP12501103400007",
+    "SP12501103400033",
     "SP12501103400400",
     "SP12501103450004",
     "SP12501103450032",
@@ -379,6 +383,7 @@
     "SP12501103477001",
     "SP12501103477411",
     "SP12501103485031",
+    "SP12501103493001",
     "SP12501103493012",
     "SP12501103493031",
     "SP12501103493411",
@@ -410,6 +415,7 @@
     "SP12501103477001",
     "SP12501103477411",
     "SP12501103485031",
+    "SP12501103493001",
     "SP12501103493012",
     "SP12501103493031",
     "SP12501103493411",
@@ -606,6 +612,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103400007",
+      "id_produto": "20357",
+      "nome": "CAPÔ",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103400033",
+      "id_produto": "20360",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103400400",
@@ -980,6 +1010,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103493001",
+      "id_produto": "20250",
+      "nome": "ALTERNADOR VOLKSWAGEN GOL 1.6 MI POWER TOTAL FLEX 8V 2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501103493012",
@@ -2066,11 +2108,11 @@
     "SP12501103493001": {
       "sku": "SP12501103493001",
       "id_produto": "20250",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR VOLKSWAGEN GOL 1.6 MI POWER TOTAL FLEX 8V 2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -3274,6 +3316,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    "SP12501103400033": {
+      "sku": "SP12501103400033",
+      "id_produto": "20360",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501103400007": {
+      "sku": "SP12501103400007",
+      "id_produto": "20357",
+      "nome": "CAPÔ",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     }
   }
 }
