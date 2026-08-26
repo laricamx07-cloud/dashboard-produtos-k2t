@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 14:51:38",
+  "ultima_atualizacao": "26/08/2026 14:57:18",
   "total_base_dia": 144,
-  "total_atual": 153,
+  "total_atual": 150,
   "novos_produtos": 32,
-  "total_subidos": 23,
+  "total_subidos": 26,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -370,6 +370,7 @@
     "SP12501042281001",
     "SP12501103272004",
     "SP12501103272010",
+    "SP12501103396026",
     "SP12501103400400",
     "SP12501103450001",
     "SP12501103450026",
@@ -377,6 +378,7 @@
     "SP12501103450045",
     "SP12501103477411",
     "SP12501103485031",
+    "SP12501103493012",
     "SP12501103493031",
     "SP12501103493411",
     "SP12501103523031",
@@ -385,6 +387,7 @@
     "SP12501109661026",
     "SP12501109670001",
     "SP12501121750449",
+    "SP12501123095024",
     "SP12501123095038",
     "SP12501123354011",
     "SP52501000340824"
@@ -395,6 +398,7 @@
     "SP12501042281001",
     "SP12501103272004",
     "SP12501103272010",
+    "SP12501103396026",
     "SP12501103400400",
     "SP12501103450001",
     "SP12501103450026",
@@ -402,6 +406,7 @@
     "SP12501103450045",
     "SP12501103477411",
     "SP12501103485031",
+    "SP12501103493012",
     "SP12501103493031",
     "SP12501103493411",
     "SP12501103523031",
@@ -410,6 +415,7 @@
     "SP12501109661026",
     "SP12501109670001",
     "SP12501121750449",
+    "SP12501123095024",
     "SP12501123095038",
     "SP12501123354011",
     "SP52501000340824"
@@ -862,6 +868,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103396026",
+      "id_produto": "20240",
+      "nome": "MOTOR DE PARTIDA CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103400400",
       "id_produto": "20350",
       "nome": "MOTOR COMPLETO HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2005/06",
@@ -944,6 +962,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103493012",
+      "id_produto": "20243",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO VOLKSWAGEN GOL 1.6",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103493031",
@@ -1040,6 +1070,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123095024",
+      "id_produto": "20246",
+      "nome": "MÓDULO DE INJEÇÃO PEUGEOT 208 SPORT 1.6 FLEX 16V MEC. 2016",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501123095038",
@@ -1298,11 +1340,11 @@
     "SP12501123095024": {
       "sku": "SP12501123095024",
       "id_produto": "20246",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO PEUGEOT 208 SPORT 1.6 FLEX 16V MEC. 2016",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2498,11 +2540,11 @@
     "SP12501103493012": {
       "sku": "SP12501103493012",
       "id_produto": "20243",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO VOLKSWAGEN GOL 1.6",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -2570,11 +2612,11 @@
     "SP12501103396026": {
       "sku": "SP12501103396026",
       "id_produto": "20240",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
