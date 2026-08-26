@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 12:42:46",
+  "ultima_atualizacao": "26/08/2026 12:50:56",
   "total_base_dia": 144,
-  "total_atual": 169,
+  "total_atual": 167,
   "novos_produtos": 31,
-  "total_subidos": 6,
+  "total_subidos": 8,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -368,7 +368,9 @@
     "SP12501105674011",
     "SP12501105836026",
     "SP12501109661026",
-    "SP12501109670001"
+    "SP12501109670001",
+    "SP12501121750449",
+    "SP12501123354011"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501103272004",
@@ -376,7 +378,9 @@
     "SP12501105674011",
     "SP12501105836026",
     "SP12501109661026",
-    "SP12501109670001"
+    "SP12501109670001",
+    "SP12501121750449",
+    "SP12501123354011"
   ],
   "itens_novos_hoje": [
     {
@@ -706,11 +710,11 @@
     {
       "sku": "SP12501121750449",
       "id_produto": "20335",
-      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO CHEVROLET MERIVA PREMIUM 1.8 08",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MERIVA PREMIUM 1.8 FLEXPOWER AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -718,11 +722,11 @@
     {
       "sku": "SP12501123354011",
       "id_produto": "20338",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET SPIN LTZ 1.8 ECONO",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "SPIN LTZ 1.8 8V ECONO.FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -819,6 +823,30 @@
       "nome": "ALTERNADOR FIAT BRAVO ESSENCE DUALOGIC 1.8 16V E.TORQ 11/12",
       "marca": "FIAT",
       "modelo_do_veiculo": "BRAVO ESSENCE DUALOGIC 1.8 16V E.TORQ",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501121750449",
+      "id_produto": "20335",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO CHEVROLET MERIVA PREMIUM 1.8 08",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MERIVA PREMIUM 1.8 FLEXPOWER AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123354011",
+      "id_produto": "20338",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET SPIN LTZ 1.8 ECONO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "SPIN LTZ 1.8 8V ECONO.FLEX 5P AUT.",
       "status": "Habilitado",
       "status_ml": "active",
       "quantidade": "1",
@@ -2618,11 +2646,11 @@
     "SP12501123354011": {
       "sku": "SP12501123354011",
       "id_produto": "20338",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET SPIN LTZ 1.8 ECONO",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "SPIN LTZ 1.8 8V ECONO.FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -2666,11 +2694,11 @@
     "SP12501121750449": {
       "sku": "SP12501121750449",
       "id_produto": "20335",
-      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO CHEVROLET MERIVA PREMIUM 1.8 08",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MERIVA PREMIUM 1.8 FLEXPOWER AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
