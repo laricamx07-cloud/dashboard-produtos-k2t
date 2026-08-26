@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 14:21:04",
+  "ultima_atualizacao": "26/08/2026 14:27:09",
   "total_base_dia": 144,
-  "total_atual": 158,
+  "total_atual": 157,
   "novos_produtos": 31,
-  "total_subidos": 17,
+  "total_subidos": 18,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -372,6 +372,7 @@
     "SP12501103477411",
     "SP12501103485031",
     "SP12501103493031",
+    "SP12501103493411",
     "SP12501103523031",
     "SP12501105674011",
     "SP12501105836026",
@@ -391,6 +392,7 @@
     "SP12501103477411",
     "SP12501103485031",
     "SP12501103493031",
+    "SP12501103493411",
     "SP12501103523031",
     "SP12501105674011",
     "SP12501105836026",
@@ -882,6 +884,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103493411",
+      "id_produto": "20244",
+      "nome": "ELETROVENTILADOR VOLKSWAGEN GOL 1.6 TOTAL FLEX 8V 4P 2005/05",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501103523031",
@@ -2688,11 +2702,11 @@
     "SP12501103493411": {
       "sku": "SP12501103493411",
       "id_produto": "20244",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR VOLKSWAGEN GOL 1.6 TOTAL FLEX 8V 4P 2005/05",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
