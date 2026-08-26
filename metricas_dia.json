@@ -1,11 +1,11 @@
 {
   "data": "2026-08-26",
   "primeira_atualizacao": "26/08/2026 07:52:27",
-  "ultima_atualizacao": "26/08/2026 14:12:16",
+  "ultima_atualizacao": "26/08/2026 14:19:31",
   "total_base_dia": 144,
-  "total_atual": 160,
+  "total_atual": 158,
   "novos_produtos": 31,
-  "total_subidos": 15,
+  "total_subidos": 17,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -363,6 +363,8 @@
     "SP52501000340824"
   ],
   "skus_subidos_hoje": [
+    "SP12501015284010",
+    "SP12501042281001",
     "SP12501103272004",
     "SP12501103400400",
     "SP12501103450032",
@@ -380,6 +382,8 @@
     "SP52501000340824"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501015284010",
+    "SP12501042281001",
     "SP12501103272004",
     "SP12501103400400",
     "SP12501103450032",
@@ -412,11 +416,11 @@
     {
       "sku": "SP12501015284010",
       "id_produto": "17240",
-      "nome": "CHAVE DE SETA",
-      "marca": "GM",
+      "nome": "CHAVE DE SETA GM ONIX HATCH ACTIV 1.4 8V FLEX AUT 2017/18",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH ACTIV 1.4 8V FLEX 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -460,11 +464,11 @@
     {
       "sku": "SP12501042281001",
       "id_produto": "16244",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR RENAULT SANDERO EXPRESSION HI-FLEX 1.6 8V 2012/13",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.6 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -771,6 +775,30 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501015284010",
+      "id_produto": "17240",
+      "nome": "CHAVE DE SETA GM ONIX HATCH ACTIV 1.4 8V FLEX AUT 2017/18",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH ACTIV 1.4 8V FLEX 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501042281001",
+      "id_produto": "16244",
+      "nome": "ALTERNADOR RENAULT SANDERO EXPRESSION HI-FLEX 1.6 8V 2012/13",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.6 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501103272004",
       "id_produto": "20239",
@@ -2900,11 +2928,11 @@
     "SP12501042281001": {
       "sku": "SP12501042281001",
       "id_produto": "16244",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR RENAULT SANDERO EXPRESSION HI-FLEX 1.6 8V 2012/13",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.6 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3020,11 +3048,11 @@
     "SP12501015284010": {
       "sku": "SP12501015284010",
       "id_produto": "17240",
-      "nome": "CHAVE DE SETA",
-      "marca": "GM",
+      "nome": "CHAVE DE SETA GM ONIX HATCH ACTIV 1.4 8V FLEX AUT 2017/18",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH ACTIV 1.4 8V FLEX 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
