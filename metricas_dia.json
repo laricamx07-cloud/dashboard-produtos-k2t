@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 11:42:32",
+  "ultima_atualizacao": "27/08/2026 11:51:01",
   "total_base_dia": 141,
-  "total_atual": 126,
+  "total_atual": 125,
   "novos_produtos": 18,
-  "total_subidos": 33,
+  "total_subidos": 34,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -350,6 +350,7 @@
     "SP12501103370045",
     "SP12501103396011",
     "SP12501103396027",
+    "SP12501103396029",
     "SP12501103396570",
     "SP12501103426034",
     "SP12501103426035",
@@ -385,6 +386,7 @@
     "SP12501103370045",
     "SP12501103396011",
     "SP12501103396027",
+    "SP12501103396029",
     "SP12501103396570",
     "SP12501103426034",
     "SP12501103426035",
@@ -846,6 +848,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103396029",
+      "id_produto": "20355",
+      "nome": "PARA-CHOQUE TRASEIRO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2011",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103396570",
@@ -2148,11 +2162,11 @@
     "SP12501103396029": {
       "sku": "SP12501103396029",
       "id_produto": "20355",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
