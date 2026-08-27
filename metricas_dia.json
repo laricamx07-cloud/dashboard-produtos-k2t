@@ -1,10 +1,10 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 10:21:35",
+  "ultima_atualizacao": "27/08/2026 10:27:46",
   "total_base_dia": 141,
-  "total_atual": 135,
-  "novos_produtos": 14,
+  "total_atual": 136,
+  "novos_produtos": 15,
   "total_subidos": 20,
   "skus_base_dia": [
     "SP12501004550032",
@@ -269,6 +269,7 @@
     "SP12501103400031",
     "SP12501103400034",
     "SP12501103400049",
+    "SP12501103418007",
     "SP12501103426007",
     "SP12501103426030",
     "SP12501103426032",
@@ -318,6 +319,7 @@
     "SP12501103400010",
     "SP12501103400020",
     "SP12501103400049",
+    "SP12501103418007",
     "SP12501103426037",
     "SP12501103426038",
     "SP12501105836026"
@@ -498,6 +500,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103418007",
+      "id_produto": "20397",
+      "nome": "CAPÔ",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501103426037",
@@ -2638,6 +2652,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    "SP12501103418007": {
+      "sku": "SP12501103418007",
+      "id_produto": "20397",
+      "nome": "CAPÔ",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "6"
     }
   }
 }
