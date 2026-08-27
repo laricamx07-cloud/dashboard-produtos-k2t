@@ -1,10 +1,10 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 13:12:30",
+  "ultima_atualizacao": "27/08/2026 13:21:10",
   "total_base_dia": 141,
-  "total_atual": 88,
-  "novos_produtos": 18,
+  "total_atual": 89,
+  "novos_produtos": 19,
   "total_subidos": 51,
   "skus_base_dia": [
     "SP12501004550032",
@@ -167,6 +167,7 @@
     "SP12501009950033",
     "SP12501010312034",
     "SP12501014105026",
+    "SP12501014105048",
     "SP12501014121034",
     "SP12501014741459",
     "SP12501014750032",
@@ -311,6 +312,7 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [
+    "SP12501014105048",
     "SP12501103272037",
     "SP12501103272038",
     "SP12501103370037",
@@ -437,6 +439,18 @@
     "SP42501003148078"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501014105048",
+      "id_produto": "18921",
+      "nome": "TURBINA",
+      "marca": "GM",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501103272037",
       "id_produto": "20375",
@@ -3176,6 +3190,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    "SP12501014105048": {
+      "sku": "SP12501014105048",
+      "id_produto": "18921",
+      "nome": "TURBINA",
+      "marca": "GM",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
