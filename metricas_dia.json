@@ -1,10 +1,10 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 13:27:04",
+  "ultima_atualizacao": "27/08/2026 13:42:54",
   "total_base_dia": 141,
-  "total_atual": 90,
-  "novos_produtos": 20,
+  "total_atual": 92,
+  "novos_produtos": 22,
   "total_subidos": 51,
   "skus_base_dia": [
     "SP12501004550032",
@@ -177,6 +177,7 @@
     "SP12501015349010",
     "SP12501015403026",
     "SP12501015527034",
+    "SP12501015535048",
     "SP12501015586034",
     "SP12501015730034",
     "SP12501015829045",
@@ -305,6 +306,7 @@
     "SP12501116765043",
     "SP12501123095011",
     "SP12501123095037",
+    "SP32501002802121",
     "SP32501002896829",
     "SP32501002896833",
     "SP32501002896875",
@@ -314,6 +316,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501014105048",
+    "SP12501015535048",
     "SP12501041587001",
     "SP12501103272037",
     "SP12501103272038",
@@ -332,7 +335,8 @@
     "SP12501103426028",
     "SP12501103426037",
     "SP12501103426038",
-    "SP12501105836026"
+    "SP12501105836026",
+    "SP32501002802121"
   ],
   "skus_subidos_hoje": [
     "SP12501014741459",
@@ -452,6 +456,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015535048",
+      "id_produto": "18999",
+      "nome": "TURBINA",
+      "marca": "PGT",
+      "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501041587001",
@@ -680,6 +696,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP32501002802121",
+      "id_produto": "19003",
+      "nome": "TURBINA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -3228,6 +3256,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP32501002802121": {
+      "sku": "SP32501002802121",
+      "id_produto": "19003",
+      "nome": "TURBINA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501015535048": {
+      "sku": "SP12501015535048",
+      "id_produto": "18999",
+      "nome": "TURBINA",
+      "marca": "PGT",
+      "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   }
 }
