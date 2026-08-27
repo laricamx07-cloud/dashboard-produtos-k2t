@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 14:57:22",
+  "ultima_atualizacao": "27/08/2026 15:12:39",
   "total_base_dia": 141,
-  "total_atual": 88,
+  "total_atual": 87,
   "novos_produtos": 24,
-  "total_subidos": 57,
+  "total_subidos": 58,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -381,6 +381,7 @@
     "SP12501103400031",
     "SP12501103400034",
     "SP12501103400049",
+    "SP12501103418007",
     "SP12501103426007",
     "SP12501103426030",
     "SP12501103426032",
@@ -440,6 +441,7 @@
     "SP12501103400031",
     "SP12501103400034",
     "SP12501103400049",
+    "SP12501103418007",
     "SP12501103426007",
     "SP12501103426030",
     "SP12501103426032",
@@ -680,11 +682,11 @@
     {
       "sku": "SP12501103418007",
       "id_produto": "20397",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -1206,6 +1208,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103418007",
+      "id_produto": "20397",
+      "nome": "CAPÔ FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501103426007",
@@ -2952,14 +2966,14 @@
     "SP12501088338031": {
       "sku": "SP12501088338031",
       "id_produto": "17197",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANT ESQUERDO VOLKSWAGEN VOYAGE 1.6 T.FLEX 10/11",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE COMFORTLINE 1.6 TOTAL FLEX",
       "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
-      "qtd_images": "8"
+      "qtd_images": "10"
     },
     "SP12501015969043": {
       "sku": "SP12501015969043",
@@ -3300,11 +3314,11 @@
     "SP12501103418007": {
       "sku": "SP12501103418007",
       "id_produto": "20397",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
