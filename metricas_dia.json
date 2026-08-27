@@ -1,10 +1,10 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 13:42:54",
+  "ultima_atualizacao": "27/08/2026 13:51:08",
   "total_base_dia": 141,
-  "total_atual": 92,
-  "novos_produtos": 22,
+  "total_atual": 93,
+  "novos_produtos": 23,
   "total_subidos": 51,
   "skus_base_dia": [
     "SP12501004550032",
@@ -192,6 +192,7 @@
     "SP12501017384033",
     "SP12501017414032",
     "SP12501040904011",
+    "SP12501040998025",
     "SP12501041145437",
     "SP12501041250004",
     "SP12501041501034",
@@ -317,6 +318,7 @@
   "skus_novos_hoje": [
     "SP12501014105048",
     "SP12501015535048",
+    "SP12501040998025",
     "SP12501041587001",
     "SP12501103272037",
     "SP12501103272038",
@@ -468,6 +470,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501040998025",
+      "id_produto": "15579",
+      "nome": "MÓDULO DO CÂMBIO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY SEDAN EXL 1.5 FLEX 16V 4P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501041587001",
@@ -2516,10 +2530,10 @@
     "SP12501041250004": {
       "sku": "SP12501041250004",
       "id_produto": "19101",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO VOLKSWAGEN SPACEFOX TREND MOTION 1.6 2014",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACEFOX TREND I MOTION 1.6 T. FLEX 8V",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
@@ -3280,6 +3294,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501040998025": {
+      "sku": "SP12501040998025",
+      "id_produto": "15579",
+      "nome": "MÓDULO DO CÂMBIO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY SEDAN EXL 1.5 FLEX 16V 4P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   }
 }
