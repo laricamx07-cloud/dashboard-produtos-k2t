@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 10:27:46",
+  "ultima_atualizacao": "27/08/2026 10:42:54",
   "total_base_dia": 141,
-  "total_atual": 136,
-  "novos_produtos": 15,
-  "total_subidos": 20,
+  "total_atual": 137,
+  "novos_produtos": 18,
+  "total_subidos": 22,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -254,6 +254,7 @@
     "SP12501103370037",
     "SP12501103370045",
     "SP12501103388010",
+    "SP12501103388019",
     "SP12501103388027",
     "SP12501103388033",
     "SP12501103388038",
@@ -266,11 +267,13 @@
     "SP12501103400004",
     "SP12501103400010",
     "SP12501103400020",
+    "SP12501103400024",
     "SP12501103400031",
     "SP12501103400034",
     "SP12501103400049",
     "SP12501103418007",
     "SP12501103426007",
+    "SP12501103426028",
     "SP12501103426030",
     "SP12501103426032",
     "SP12501103426033",
@@ -312,19 +315,23 @@
     "SP12501103272038",
     "SP12501103370037",
     "SP12501103388010",
+    "SP12501103388019",
     "SP12501103388027",
     "SP12501103388038",
     "SP12501103388049",
     "SP12501103396038",
     "SP12501103400010",
     "SP12501103400020",
+    "SP12501103400024",
     "SP12501103400049",
     "SP12501103418007",
+    "SP12501103426028",
     "SP12501103426037",
     "SP12501103426038",
     "SP12501105836026"
   ],
   "skus_subidos_hoje": [
+    "SP12501014741459",
     "SP12501015209010",
     "SP12501015349010",
     "SP12501015403026",
@@ -344,9 +351,11 @@
     "SP12501116684400",
     "SP12501123095011",
     "SP12501123095037",
+    "SP32501002896875",
     "SP42501003148078"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501014741459",
     "SP12501015209010",
     "SP12501015349010",
     "SP12501015403026",
@@ -366,6 +375,7 @@
     "SP12501116684400",
     "SP12501123095011",
     "SP12501123095037",
+    "SP32501002896875",
     "SP42501003148078"
   ],
   "itens_novos_hoje": [
@@ -416,6 +426,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103388019",
+      "id_produto": "20393",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103388027",
@@ -490,6 +512,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501103400024",
+      "id_produto": "20396",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501103400049",
       "id_produto": "20390",
       "nome": "VOLANTE DO MOTORISTA",
@@ -506,12 +540,24 @@
       "id_produto": "20397",
       "nome": "CAPÔ",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103426028",
+      "id_produto": "20398",
+      "nome": "PARA-CHOQUE DIANTEIRO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103426037",
@@ -551,6 +597,18 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501014741459",
+      "id_produto": "17373",
+      "nome": "LANTERNA DIANTEIRA ESQUERDA / DRL CTR C4 CACTUS SHINE 1.6",
+      "marca": "CTR",
+      "modelo_do_veiculo": "C4 CACTUS SHINE 1.6 16V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501015209010",
       "id_produto": "18985",
@@ -778,6 +836,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP32501002896875",
+      "id_produto": "17312",
+      "nome": "COLETOR ADMISSÃO RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 2019",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "9"
     },
     {
       "sku": "SP42501003148078",
@@ -1024,11 +1094,11 @@
     "SP32501002896875": {
       "sku": "SP32501002896875",
       "id_produto": "17312",
-      "nome": "COLETOR ADMISSÃO",
+      "nome": "COLETOR ADMISSÃO RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 2019",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
@@ -1720,11 +1790,11 @@
     "SP12501014741459": {
       "sku": "SP12501014741459",
       "id_produto": "17373",
-      "nome": "LANTERNA DIANTEIRA ESQUERDA / DRL",
+      "nome": "LANTERNA DIANTEIRA ESQUERDA / DRL CTR C4 CACTUS SHINE 1.6",
       "marca": "CTR",
       "modelo_do_veiculo": "C4 CACTUS SHINE 1.6 16V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2658,12 +2728,48 @@
       "id_produto": "20397",
       "nome": "CAPÔ",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
+    },
+    "SP12501103388019": {
+      "sku": "SP12501103388019",
+      "id_produto": "20393",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    "SP12501103400024": {
+      "sku": "SP12501103400024",
+      "id_produto": "20396",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    "SP12501103426028": {
+      "sku": "SP12501103426028",
+      "id_produto": "20398",
+      "nome": "PARA-CHOQUE DIANTEIRO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     }
   }
 }
