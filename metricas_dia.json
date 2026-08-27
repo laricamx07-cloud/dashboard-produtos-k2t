@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 10:51:26",
+  "ultima_atualizacao": "27/08/2026 10:57:34",
   "total_base_dia": 141,
-  "total_atual": 137,
+  "total_atual": 135,
   "novos_produtos": 18,
-  "total_subidos": 22,
+  "total_subidos": 24,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -351,6 +351,8 @@
     "SP12501116684400",
     "SP12501123095011",
     "SP12501123095037",
+    "SP32501002896829",
+    "SP32501002896833",
     "SP32501002896875",
     "SP42501003148078"
   ],
@@ -375,6 +377,8 @@
     "SP12501116684400",
     "SP12501123095011",
     "SP12501123095037",
+    "SP32501002896829",
+    "SP32501002896833",
     "SP32501002896875",
     "SP42501003148078"
   ],
@@ -836,6 +840,30 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP32501002896829",
+      "id_produto": "17310",
+      "nome": "FAROL DE NEBLINA ESQUERDO RAM 2500 LARAMIE 6.7 TDI CD 2019",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP32501002896833",
+      "id_produto": "17311",
+      "nome": "CENTRAL DE DERIVAÇÃO RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP32501002896875",
@@ -1430,11 +1458,11 @@
     "SP32501002896833": {
       "sku": "SP32501002896833",
       "id_produto": "17311",
-      "nome": "CENTRAL DE DERIVAÇÃO",
+      "nome": "CENTRAL DE DERIVAÇÃO RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -2318,11 +2346,11 @@
     "SP32501002896829": {
       "sku": "SP32501002896829",
       "id_produto": "17310",
-      "nome": "FAROL DE NEBLINA ESQUERDO",
+      "nome": "FAROL DE NEBLINA ESQUERDO RAM 2500 LARAMIE 6.7 TDI CD 2019",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
