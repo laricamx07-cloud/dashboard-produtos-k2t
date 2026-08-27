@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 15:21:19",
+  "ultima_atualizacao": "27/08/2026 15:27:20",
   "total_base_dia": 141,
-  "total_atual": 86,
+  "total_atual": 85,
   "novos_produtos": 24,
-  "total_subidos": 59,
+  "total_subidos": 60,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -348,6 +348,7 @@
     "SP12501015349010",
     "SP12501015403026",
     "SP12501040904011",
+    "SP12501040998025",
     "SP12501041587001",
     "SP12501041617026",
     "SP12501057513032",
@@ -409,6 +410,7 @@
     "SP12501015349010",
     "SP12501015403026",
     "SP12501040904011",
+    "SP12501040998025",
     "SP12501041587001",
     "SP12501041617026",
     "SP12501057513032",
@@ -508,7 +510,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY SEDAN EXL 1.5 FLEX 16V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -814,6 +816,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501040998025",
+      "id_produto": "15579",
+      "nome": "CÂMBIO HONDA CITY SEDAN EXL 1.5 FLEX 16V 4P AUT. 2015",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY SEDAN EXL 1.5 FLEX 16V 4P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501041587001",
@@ -3428,7 +3442,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY SEDAN EXL 1.5 FLEX 16V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
