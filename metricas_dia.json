@@ -1,7 +1,7 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 14:54:13",
+  "ultima_atualizacao": "27/08/2026 14:57:22",
   "total_base_dia": 141,
   "total_atual": 88,
   "novos_produtos": 24,
@@ -516,7 +516,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA+ SEDAN 1.5 SE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -818,7 +818,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA+ SEDAN 1.5 SE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3364,7 +3364,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA+ SEDAN 1.5 SE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
