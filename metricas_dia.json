@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 15:12:39",
+  "ultima_atualizacao": "27/08/2026 15:21:19",
   "total_base_dia": 141,
-  "total_atual": 87,
+  "total_atual": 86,
   "novos_produtos": 24,
-  "total_subidos": 58,
+  "total_subidos": 59,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -353,6 +353,7 @@
     "SP12501057513032",
     "SP12501079908019",
     "SP12501080540011",
+    "SP12501088338031",
     "SP12501089970451",
     "SP12501102497045",
     "SP12501102888007",
@@ -413,6 +414,7 @@
     "SP12501057513032",
     "SP12501079908019",
     "SP12501080540011",
+    "SP12501088338031",
     "SP12501089970451",
     "SP12501102497045",
     "SP12501102888007",
@@ -686,7 +688,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -872,6 +874,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501088338031",
+      "id_produto": "17197",
+      "nome": "PARA-LAMA DIANT ESQUERDO VOLKSWAGEN VOYAGE 1.6 T.FLEX 10/11",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE COMFORTLINE 1.6 TOTAL FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501089970451",
@@ -1216,7 +1230,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -2970,7 +2984,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE COMFORTLINE 1.6 TOTAL FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3318,7 +3332,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
