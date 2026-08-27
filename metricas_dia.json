@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 08:15:50",
+  "ultima_atualizacao": "27/08/2026 08:21:56",
   "total_base_dia": 141,
-  "total_atual": 141,
+  "total_atual": 140,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 1,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -293,10 +293,27 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501089970451"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501089970451"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501089970451",
+      "id_produto": "20319",
+      "nome": "SEMI-EIXO TRASEIRO ESQUERDO FIAT TORO RANCH 2.2 2025/2025",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO RANCH 2.2 MULTIJET TURBO",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501103388033": {
       "sku": "SP12501103388033",
@@ -1729,11 +1746,11 @@
     "SP12501089970451": {
       "sku": "SP12501089970451",
       "id_produto": "20319",
-      "nome": "SEMI-EIXO TRASEIRO ESQUERDO",
+      "nome": "SEMI-EIXO TRASEIRO ESQUERDO FIAT TORO RANCH 2.2 2025/2025",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO RANCH 2.2 MULTIJET TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
