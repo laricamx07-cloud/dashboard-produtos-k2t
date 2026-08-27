@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 12:51:09",
+  "ultima_atualizacao": "27/08/2026 13:12:30",
   "total_base_dia": 141,
-  "total_atual": 91,
+  "total_atual": 88,
   "novos_produtos": 18,
-  "total_subidos": 48,
+  "total_subidos": 51,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -356,10 +356,13 @@
     "SP12501103388010",
     "SP12501103388027",
     "SP12501103388038",
+    "SP12501103388049",
     "SP12501103396011",
     "SP12501103396027",
     "SP12501103396029",
+    "SP12501103396038",
     "SP12501103396570",
+    "SP12501103400010",
     "SP12501103400031",
     "SP12501103400034",
     "SP12501103426007",
@@ -406,10 +409,13 @@
     "SP12501103388010",
     "SP12501103388027",
     "SP12501103388038",
+    "SP12501103388049",
     "SP12501103396011",
     "SP12501103396027",
     "SP12501103396029",
+    "SP12501103396038",
     "SP12501103396570",
+    "SP12501103400010",
     "SP12501103400031",
     "SP12501103400034",
     "SP12501103426007",
@@ -518,11 +524,11 @@
     {
       "sku": "SP12501103388049",
       "id_produto": "20383",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA RENAULT DUSTER DY 2.0 FLEX 16V 2015",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
@@ -530,11 +536,11 @@
     {
       "sku": "SP12501103396038",
       "id_produto": "20384",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -542,11 +548,11 @@
     {
       "sku": "SP12501103400010",
       "id_produto": "20386",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -950,6 +956,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501103388049",
+      "id_produto": "20383",
+      "nome": "VOLANTE DO MOTORISTA RENAULT DUSTER DY 2.0 FLEX 16V 2015",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103396011",
       "id_produto": "20261",
       "nome": "COMPRESSOR DO AR-CONDICIONADO CITROEN C3 EXCLUSIVE 1.6 2011",
@@ -986,6 +1004,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103396038",
+      "id_produto": "20384",
+      "nome": "RETROVISOR ESQUERDO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2011",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103396570",
       "id_produto": "20263",
       "nome": "RÁDIO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/11",
@@ -996,6 +1026,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103400010",
+      "id_produto": "20386",
+      "nome": "CHAVE DE SETA HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2005/2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103400031",
@@ -2994,11 +3036,11 @@
     "SP12501103388049": {
       "sku": "SP12501103388049",
       "id_produto": "20383",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA RENAULT DUSTER DY 2.0 FLEX 16V 2015",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
@@ -3054,11 +3096,11 @@
     "SP12501103396038": {
       "sku": "SP12501103396038",
       "id_produto": "20384",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -3078,11 +3120,11 @@
     "SP12501103400010": {
       "sku": "SP12501103400010",
       "id_produto": "20386",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
