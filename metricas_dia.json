@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 11:12:58",
+  "ultima_atualizacao": "27/08/2026 11:21:04",
   "total_base_dia": 141,
-  "total_atual": 134,
+  "total_atual": 131,
   "novos_produtos": 18,
-  "total_subidos": 25,
+  "total_subidos": 28,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -335,6 +335,7 @@
     "SP12501015209010",
     "SP12501015349010",
     "SP12501015403026",
+    "SP12501040904011",
     "SP12501041617026",
     "SP12501079908019",
     "SP12501080540011",
@@ -345,9 +346,11 @@
     "SP12501103272024",
     "SP12501103272026",
     "SP12501103272036",
+    "SP12501103396011",
     "SP12501103396027",
     "SP12501103396570",
     "SP12501103450010",
+    "SP12501103485034",
     "SP12501103485035",
     "SP12501116684400",
     "SP12501123095011",
@@ -362,6 +365,7 @@
     "SP12501015209010",
     "SP12501015349010",
     "SP12501015403026",
+    "SP12501040904011",
     "SP12501041617026",
     "SP12501079908019",
     "SP12501080540011",
@@ -372,9 +376,11 @@
     "SP12501103272024",
     "SP12501103272026",
     "SP12501103272036",
+    "SP12501103396011",
     "SP12501103396027",
     "SP12501103396570",
     "SP12501103450010",
+    "SP12501103485034",
     "SP12501103485035",
     "SP12501116684400",
     "SP12501123095011",
@@ -652,6 +658,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501040904011",
+      "id_produto": "16237",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO TOYOTA ETIOS 1.5 FLEX 2017/18",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS XS SEDAN 1.5 FLEX 16V 4P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501041617026",
       "id_produto": "15592",
       "nome": "MOTOR DE PARTIDA CHEVROLET CELTA SPIRIT/ LT 1.0 MPFI 8V FLEX",
@@ -772,6 +790,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103396011",
+      "id_produto": "20261",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CITROEN C3 EXCLUSIVE 1.6 2011",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103396027",
       "id_produto": "20262",
       "nome": "PAINEL DE INSTRUMENTOS CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010",
@@ -786,11 +816,11 @@
     {
       "sku": "SP12501103396570",
       "id_produto": "20263",
-      "nome": "RÁDIO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
+      "nome": "RÁDIO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/11",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -808,13 +838,25 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501103485034",
+      "id_produto": "20211",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET ASTRA ELEGANCE 2.0 2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103485035",
       "id_produto": "20212",
       "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET ASTRA ELEGANCE 2.0 2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -920,11 +962,11 @@
     "SP12501040904011": {
       "sku": "SP12501040904011",
       "id_produto": "16237",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO TOYOTA ETIOS 1.5 FLEX 2017/18",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XS SEDAN 1.5 FLEX 16V 4P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1040,11 +1082,11 @@
     "SP12501103396011": {
       "sku": "SP12501103396011",
       "id_produto": "20261",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CITROEN C3 EXCLUSIVE 1.6 2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1080,7 +1122,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1520,11 +1562,11 @@
     "SP12501103485034": {
       "sku": "SP12501103485034",
       "id_produto": "20211",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET ASTRA ELEGANCE 2.0 2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1976,11 +2018,11 @@
     "SP12501103396570": {
       "sku": "SP12501103396570",
       "id_produto": "20263",
-      "nome": "RÁDIO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
+      "nome": "RÁDIO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/11",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
