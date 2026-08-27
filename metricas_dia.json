@@ -1,7 +1,7 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 11:51:01",
+  "ultima_atualizacao": "27/08/2026 11:57:06",
   "total_base_dia": 141,
   "total_atual": 125,
   "novos_produtos": 18,
@@ -1514,10 +1514,10 @@
     "SP12501103400004": {
       "sku": "SP12501103400004",
       "id_produto": "20356",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
