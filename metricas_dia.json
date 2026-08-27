@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 09:51:44",
+  "ultima_atualizacao": "27/08/2026 09:57:14",
   "total_base_dia": 141,
-  "total_atual": 140,
+  "total_atual": 138,
   "novos_produtos": 14,
-  "total_subidos": 15,
+  "total_subidos": 17,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -325,11 +325,13 @@
   "skus_subidos_hoje": [
     "SP12501015209010",
     "SP12501015349010",
+    "SP12501015403026",
     "SP12501041617026",
     "SP12501079908019",
     "SP12501080540011",
     "SP12501089970451",
     "SP12501102888007",
+    "SP12501103272011",
     "SP12501103272024",
     "SP12501103272026",
     "SP12501103272036",
@@ -342,11 +344,13 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501015209010",
     "SP12501015349010",
+    "SP12501015403026",
     "SP12501041617026",
     "SP12501079908019",
     "SP12501080540011",
     "SP12501089970451",
     "SP12501102888007",
+    "SP12501103272011",
     "SP12501103272024",
     "SP12501103272026",
     "SP12501103272036",
@@ -552,6 +556,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501015403026",
+      "id_produto": "18978",
+      "nome": "MOTOR DE PARTIDA TOYOTA ETIOS X 1.3 FLEX 16V 5P MEC 2015/15",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501041617026",
       "id_produto": "15592",
       "nome": "MOTOR DE PARTIDA CHEVROLET CELTA SPIRIT/ LT 1.0 MPFI 8V FLEX",
@@ -612,13 +628,25 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103272011",
+      "id_produto": "20258",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET MONTANA LS 1.4 2011",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103272024",
       "id_produto": "20259",
       "nome": "MÓDULO DE INJEÇÃO CHEVROLET MONTANA LS 1.4 FLEX 8V 2P 2011",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1228,11 +1256,11 @@
     "SP12501015403026": {
       "sku": "SP12501015403026",
       "id_produto": "18978",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA TOYOTA ETIOS X 1.3 FLEX 16V 5P MEC 2015/15",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1388,7 +1416,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2332,11 +2360,11 @@
     "SP12501103272011": {
       "sku": "SP12501103272011",
       "id_produto": "20258",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET MONTANA LS 1.4 2011",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
