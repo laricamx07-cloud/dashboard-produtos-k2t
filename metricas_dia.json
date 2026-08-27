@@ -1,7 +1,7 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 16:12:49",
+  "ultima_atualizacao": "27/08/2026 16:21:11",
   "total_base_dia": 141,
   "total_atual": 82,
   "novos_produtos": 26,
@@ -776,7 +776,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -1474,7 +1474,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -3276,7 +3276,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
