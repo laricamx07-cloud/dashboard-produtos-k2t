@@ -1,10 +1,10 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 16:50:58",
+  "ultima_atualizacao": "27/08/2026 16:57:07",
   "total_base_dia": 141,
-  "total_atual": 81,
-  "novos_produtos": 30,
+  "total_atual": 82,
+  "novos_produtos": 31,
   "total_subidos": 70,
   "skus_base_dia": [
     "SP12501004550032",
@@ -195,6 +195,7 @@
     "SP12501016779035",
     "SP12501017384033",
     "SP12501017414032",
+    "SP12501017422016",
     "SP12501040904011",
     "SP12501040998025",
     "SP12501041145437",
@@ -329,6 +330,7 @@
     "SP12501014946400",
     "SP12501015535048",
     "SP12501015560400",
+    "SP12501017422016",
     "SP12501040998025",
     "SP12501041587001",
     "SP12501079975036",
@@ -570,6 +572,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501017422016",
+      "id_produto": "15602",
+      "nome": "FAROL ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501040998025",
@@ -3754,6 +3768,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    "SP12501017422016": {
+      "sku": "SP12501017422016",
+      "id_produto": "15602",
+      "nome": "FAROL ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     }
   }
 }
