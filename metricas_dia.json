@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 08:51:34",
+  "ultima_atualizacao": "27/08/2026 08:57:33",
   "total_base_dia": 141,
-  "total_atual": 134,
+  "total_atual": 133,
   "novos_produtos": 0,
-  "total_subidos": 7,
+  "total_subidos": 8,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -300,6 +300,7 @@
     "SP12501103272036",
     "SP12501103396570",
     "SP12501103450010",
+    "SP12501123095011",
     "SP42501003148078"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -309,6 +310,7 @@
     "SP12501103272036",
     "SP12501103396570",
     "SP12501103450010",
+    "SP12501123095011",
     "SP42501003148078"
   ],
   "itens_novos_hoje": [],
@@ -320,7 +322,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20S COMFORT PLUS 1.0 TB FLEX 12V MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -384,6 +386,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501123095011",
+      "id_produto": "20267",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO PEUGEOT 208 SPORT 1.6 FLEX 16V",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP42501003148078",
@@ -486,11 +500,11 @@
     "SP12501123095011": {
       "sku": "SP12501123095011",
       "id_produto": "20267",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO PEUGEOT 208 SPORT 1.6 FLEX 16V",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1870,7 +1884,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20S COMFORT PLUS 1.0 TB FLEX 12V MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
