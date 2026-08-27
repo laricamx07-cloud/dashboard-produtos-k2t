@@ -1,10 +1,10 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 16:42:53",
+  "ultima_atualizacao": "27/08/2026 16:50:58",
   "total_base_dia": 141,
-  "total_atual": 80,
-  "novos_produtos": 29,
+  "total_atual": 81,
+  "novos_produtos": 30,
   "total_subidos": 70,
   "skus_base_dia": [
     "SP12501004550032",
@@ -314,6 +314,7 @@
     "SP12501123095011",
     "SP12501123095037",
     "SP32501002802121",
+    "SP32501002896828",
     "SP32501002896829",
     "SP32501002896833",
     "SP32501002896875",
@@ -350,7 +351,8 @@
     "SP12501103426038",
     "SP12501103426400",
     "SP12501105836026",
-    "SP32501002802121"
+    "SP32501002802121",
+    "SP32501002896828"
   ],
   "skus_subidos_hoje": [
     "SP12501014105048",
@@ -844,6 +846,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP32501002896828",
+      "id_produto": "17309",
+      "nome": "FAROL DE NEBLINA DIREITO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
     }
   ],
   "itens_subidos_hoje": [
@@ -3728,6 +3742,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP32501002896828": {
+      "sku": "SP32501002896828",
+      "id_produto": "17309",
+      "nome": "FAROL DE NEBLINA DIREITO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
     }
   }
 }
