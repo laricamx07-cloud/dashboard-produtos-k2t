@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 16:27:30",
+  "ultima_atualizacao": "27/08/2026 16:42:53",
   "total_base_dia": 141,
   "total_atual": 80,
-  "novos_produtos": 26,
-  "total_subidos": 67,
+  "novos_produtos": 29,
+  "total_subidos": 70,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -150,6 +150,7 @@
     "SP42501003148936"
   ],
   "skus_vistos_hoje": [
+    "SP12501004355012",
     "SP12501004550032",
     "SP12501004584032",
     "SP12501005106034",
@@ -166,6 +167,7 @@
     "SP12501009888034",
     "SP12501009950033",
     "SP12501010312034",
+    "SP12501014075424",
     "SP12501014105026",
     "SP12501014105048",
     "SP12501014121034",
@@ -289,6 +291,7 @@
     "SP12501103426037",
     "SP12501103426038",
     "SP12501103426045",
+    "SP12501103426400",
     "SP12501103450010",
     "SP12501103485004",
     "SP12501103485030",
@@ -319,6 +322,8 @@
     "SP42501003148936"
   ],
   "skus_novos_hoje": [
+    "SP12501004355012",
+    "SP12501014075424",
     "SP12501014105048",
     "SP12501014946400",
     "SP12501015535048",
@@ -343,6 +348,7 @@
     "SP12501103426028",
     "SP12501103426037",
     "SP12501103426038",
+    "SP12501103426400",
     "SP12501105836026",
     "SP32501002802121"
   ],
@@ -361,6 +367,7 @@
     "SP12501041617026",
     "SP12501057513032",
     "SP12501079908019",
+    "SP12501079975036",
     "SP12501080540011",
     "SP12501088338031",
     "SP12501089970451",
@@ -389,11 +396,13 @@
     "SP12501103396570",
     "SP12501103400010",
     "SP12501103400020",
+    "SP12501103400024",
     "SP12501103400031",
     "SP12501103400034",
     "SP12501103400049",
     "SP12501103418007",
     "SP12501103426007",
+    "SP12501103426028",
     "SP12501103426030",
     "SP12501103426032",
     "SP12501103426033",
@@ -430,6 +439,7 @@
     "SP12501041617026",
     "SP12501057513032",
     "SP12501079908019",
+    "SP12501079975036",
     "SP12501080540011",
     "SP12501088338031",
     "SP12501089970451",
@@ -458,11 +468,13 @@
     "SP12501103396570",
     "SP12501103400010",
     "SP12501103400020",
+    "SP12501103400024",
     "SP12501103400031",
     "SP12501103400034",
     "SP12501103400049",
     "SP12501103418007",
     "SP12501103426007",
+    "SP12501103426028",
     "SP12501103426030",
     "SP12501103426032",
     "SP12501103426033",
@@ -486,13 +498,37 @@
   ],
   "itens_novos_hoje": [
     {
+      "sku": "SP12501004355012",
+      "id_produto": "18908",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS PLAY ACTIVE PLUS 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501014075424",
+      "id_produto": "17370",
+      "nome": "MULTIMÍDIA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501014105048",
       "id_produto": "18921",
       "nome": "TURBINA CHEVROLET TRACKER PREMIER 1.2 TURBO 12V FLEX 20/21",
       "marca": "GM",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -560,11 +596,11 @@
     {
       "sku": "SP12501079975036",
       "id_produto": "15907",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR RENAULT KWID ZEN 1.0 FLEX 12V 5P MEC. 2023/2024",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -704,11 +740,11 @@
     {
       "sku": "SP12501103400024",
       "id_produto": "20396",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -740,11 +776,11 @@
     {
       "sku": "SP12501103426028",
       "id_produto": "20398",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -772,6 +808,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103426400",
+      "id_produto": "20400",
+      "nome": "MOTOR COMPLETO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501105836026",
@@ -806,7 +854,7 @@
       "marca": "GM",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -966,6 +1014,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501079975036",
+      "id_produto": "15907",
+      "nome": "RADIADOR RENAULT KWID ZEN 1.0 FLEX 12V 5P MEC. 2023/2024",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501080540011",
@@ -1304,6 +1364,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501103400024",
+      "id_produto": "20396",
+      "nome": "MÓDULO DE INJEÇÃO HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501103400031",
       "id_produto": "20358",
       "nome": "PARA-LAMA DIANTEIRO ESQUERDO FIT LX 1.4 FLEX 8V 16V 2005/06",
@@ -1362,6 +1434,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103426028",
+      "id_produto": "20398",
+      "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT LX 1.4 MEC 2004/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103426030",
@@ -3492,11 +3576,11 @@
     "SP12501103400024": {
       "sku": "SP12501103400024",
       "id_produto": "20396",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -3504,11 +3588,11 @@
     "SP12501103426028": {
       "sku": "SP12501103426028",
       "id_produto": "20398",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -3520,7 +3604,7 @@
       "marca": "GM",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -3588,11 +3672,11 @@
     "SP12501079975036": {
       "sku": "SP12501079975036",
       "id_produto": "15907",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR RENAULT KWID ZEN 1.0 FLEX 12V 5P MEC. 2023/2024",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -3608,6 +3692,42 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501014075424": {
+      "sku": "SP12501014075424",
+      "id_produto": "17370",
+      "nome": "MULTIMÍDIA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501004355012": {
+      "sku": "SP12501004355012",
+      "id_produto": "18908",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS PLAY ACTIVE PLUS 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    "SP12501103426400": {
+      "sku": "SP12501103426400",
+      "id_produto": "20400",
+      "nome": "MOTOR COMPLETO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   }
 }
