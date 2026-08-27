@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 12:12:24",
+  "ultima_atualizacao": "27/08/2026 12:20:54",
   "total_base_dia": 141,
-  "total_atual": 121,
+  "total_atual": 118,
   "novos_produtos": 18,
-  "total_subidos": 38,
+  "total_subidos": 41,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -348,7 +348,10 @@
     "SP12501103272026",
     "SP12501103272036",
     "SP12501103272037",
+    "SP12501103272038",
+    "SP12501103370032",
     "SP12501103370033",
+    "SP12501103370037",
     "SP12501103370045",
     "SP12501103396011",
     "SP12501103396027",
@@ -388,7 +391,10 @@
     "SP12501103272026",
     "SP12501103272036",
     "SP12501103272037",
+    "SP12501103272038",
+    "SP12501103370032",
     "SP12501103370033",
+    "SP12501103370037",
     "SP12501103370045",
     "SP12501103396011",
     "SP12501103396027",
@@ -418,7 +424,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
@@ -426,11 +432,11 @@
     {
       "sku": "SP12501103272038",
       "id_produto": "20376",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO CHEVROLET MONTANA LS 1.4 ECONOFLEX 2011",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
@@ -438,11 +444,11 @@
     {
       "sku": "SP12501103370037",
       "id_produto": "20377",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -708,7 +714,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA SEDAN SE 1.5 12V TI-VCT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
@@ -828,10 +834,34 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
       "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103272038",
+      "id_produto": "20376",
+      "nome": "RETROVISOR ESQUERDO CHEVROLET MONTANA LS 1.4 ECONOFLEX 2011",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
+      "status": "Habilitado",
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103370032",
+      "id_produto": "20365",
+      "nome": "PORTA DIANTEIRA DIREITA FORD KA GL 1.0I ZETEC ROCAM 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103370033",
@@ -844,6 +874,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103370037",
+      "id_produto": "20377",
+      "nome": "RETROVISOR DIREITO FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103370045",
@@ -2294,7 +2336,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA SEDAN SE 1.5 12V TI-VCT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
@@ -2566,11 +2608,11 @@
     "SP12501103370032": {
       "sku": "SP12501103370032",
       "id_produto": "20365",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FORD KA GL 1.0I ZETEC ROCAM 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2794,11 +2836,11 @@
     "SP12501103272038": {
       "sku": "SP12501103272038",
       "id_produto": "20376",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO CHEVROLET MONTANA LS 1.4 ECONOFLEX 2011",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
@@ -2842,11 +2884,11 @@
     "SP12501103370037": {
       "sku": "SP12501103370037",
       "id_produto": "20377",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2930,7 +2972,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
