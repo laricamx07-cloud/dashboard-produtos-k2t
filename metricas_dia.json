@@ -1,10 +1,10 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 13:21:10",
+  "ultima_atualizacao": "27/08/2026 13:27:04",
   "total_base_dia": 141,
-  "total_atual": 89,
-  "novos_produtos": 19,
+  "total_atual": 90,
+  "novos_produtos": 20,
   "total_subidos": 51,
   "skus_base_dia": [
     "SP12501004550032",
@@ -194,6 +194,7 @@
     "SP12501041145437",
     "SP12501041250004",
     "SP12501041501034",
+    "SP12501041587001",
     "SP12501041617026",
     "SP12501041641028",
     "SP12501041668035",
@@ -313,6 +314,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501014105048",
+    "SP12501041587001",
     "SP12501103272037",
     "SP12501103272038",
     "SP12501103370037",
@@ -449,6 +451,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501041587001",
+      "id_produto": "15962",
+      "nome": "ALTERNADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA+ SEDAN 1.5 SE FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "10"
     },
     {
@@ -3201,6 +3215,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501041587001": {
+      "sku": "SP12501041587001",
+      "id_produto": "15962",
+      "nome": "ALTERNADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA+ SEDAN 1.5 SE FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "10"
     }
   }
