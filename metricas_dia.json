@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 15:51:03",
+  "ultima_atualizacao": "27/08/2026 15:57:20",
   "total_base_dia": 141,
-  "total_atual": 85,
+  "total_atual": 83,
   "novos_produtos": 24,
-  "total_subidos": 60,
+  "total_subidos": 62,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -343,10 +343,12 @@
     "SP32501002802121"
   ],
   "skus_subidos_hoje": [
+    "SP12501014105048",
     "SP12501014741459",
     "SP12501015209010",
     "SP12501015349010",
     "SP12501015403026",
+    "SP12501015535048",
     "SP12501040904011",
     "SP12501040998025",
     "SP12501041587001",
@@ -405,10 +407,12 @@
     "SP42501003148078"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501014105048",
     "SP12501014741459",
     "SP12501015209010",
     "SP12501015349010",
     "SP12501015403026",
+    "SP12501015535048",
     "SP12501040904011",
     "SP12501040998025",
     "SP12501041587001",
@@ -470,11 +474,11 @@
     {
       "sku": "SP12501014105048",
       "id_produto": "18921",
-      "nome": "TURBINA",
+      "nome": "TURBINA CHEVROLET TRACKER PREMIER 1.2 TURBO 12V FLEX 20/21",
       "marca": "GM",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -494,11 +498,11 @@
     {
       "sku": "SP12501015535048",
       "id_produto": "18999",
-      "nome": "TURBINA",
+      "nome": "TURBINA PGT EXPERT BUSINESS PACK 1.6 TURBO DIESEL 2021",
       "marca": "PGT",
       "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -758,6 +762,18 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501014105048",
+      "id_produto": "18921",
+      "nome": "TURBINA CHEVROLET TRACKER PREMIER 1.2 TURBO 12V FLEX 20/21",
+      "marca": "GM",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501014741459",
       "id_produto": "17373",
       "nome": "LANTERNA DIANTEIRA ESQUERDA / DRL CTR C4 CACTUS SHINE 1.6",
@@ -803,6 +819,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015535048",
+      "id_produto": "18999",
+      "nome": "TURBINA PGT EXPERT BUSINESS PACK 1.6 TURBO DIESEL 2021",
+      "marca": "PGT",
+      "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "9"
     },
     {
@@ -3390,11 +3418,11 @@
     "SP12501014105048": {
       "sku": "SP12501014105048",
       "id_produto": "18921",
-      "nome": "TURBINA",
+      "nome": "TURBINA CHEVROLET TRACKER PREMIER 1.2 TURBO 12V FLEX 20/21",
       "marca": "GM",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -3426,11 +3454,11 @@
     "SP12501015535048": {
       "sku": "SP12501015535048",
       "id_produto": "18999",
-      "nome": "TURBINA",
+      "nome": "TURBINA PGT EXPERT BUSINESS PACK 1.6 TURBO DIESEL 2021",
       "marca": "PGT",
       "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
