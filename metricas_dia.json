@@ -1,10 +1,10 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 17:42:34",
+  "ultima_atualizacao": "27/08/2026 17:51:01",
   "total_base_dia": 141,
-  "total_atual": 82,
-  "novos_produtos": 32,
+  "total_atual": 83,
+  "novos_produtos": 33,
   "total_subidos": 72,
   "skus_base_dia": [
     "SP12501004550032",
@@ -321,6 +321,7 @@
     "SP32501002896833",
     "SP32501002896875",
     "SP42501001064042",
+    "SP42501001510109",
     "SP42501003148078",
     "SP42501003148936"
   ],
@@ -356,7 +357,8 @@
     "SP12501103426400",
     "SP12501105836026",
     "SP32501002802121",
-    "SP32501002896828"
+    "SP32501002896828",
+    "SP42501001510109"
   ],
   "skus_subidos_hoje": [
     "SP12501014105048",
@@ -890,6 +892,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP42501001510109",
+      "id_produto": "18957",
+      "nome": "TURBINA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "DUCATO MINIBUS 2.3 ME DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   ],
   "itens_subidos_hoje": [
@@ -3834,6 +3848,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP42501001510109": {
+      "sku": "SP42501001510109",
+      "id_produto": "18957",
+      "nome": "TURBINA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "DUCATO MINIBUS 2.3 ME DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   }
 }
