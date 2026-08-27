@@ -1,11 +1,11 @@
 {
   "data": "2026-08-27",
   "primeira_atualizacao": "27/08/2026 08:15:50",
-  "ultima_atualizacao": "27/08/2026 13:51:08",
+  "ultima_atualizacao": "27/08/2026 14:54:13",
   "total_base_dia": 141,
-  "total_atual": 93,
-  "novos_produtos": 23,
-  "total_subidos": 51,
+  "total_atual": 88,
+  "novos_produtos": 24,
+  "total_subidos": 57,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -173,6 +173,7 @@
     "SP12501014750032",
     "SP12501014750034",
     "SP12501014806045",
+    "SP12501014946400",
     "SP12501015209010",
     "SP12501015349010",
     "SP12501015403026",
@@ -317,6 +318,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501014105048",
+    "SP12501014946400",
     "SP12501015535048",
     "SP12501040998025",
     "SP12501041587001",
@@ -346,6 +348,7 @@
     "SP12501015349010",
     "SP12501015403026",
     "SP12501040904011",
+    "SP12501041587001",
     "SP12501041617026",
     "SP12501057513032",
     "SP12501079908019",
@@ -365,6 +368,7 @@
     "SP12501103370045",
     "SP12501103388010",
     "SP12501103388027",
+    "SP12501103388033",
     "SP12501103388038",
     "SP12501103388049",
     "SP12501103396011",
@@ -373,14 +377,18 @@
     "SP12501103396038",
     "SP12501103396570",
     "SP12501103400010",
+    "SP12501103400020",
     "SP12501103400031",
     "SP12501103400034",
+    "SP12501103400049",
     "SP12501103426007",
     "SP12501103426030",
     "SP12501103426032",
     "SP12501103426033",
     "SP12501103426034",
     "SP12501103426035",
+    "SP12501103426037",
+    "SP12501103426038",
     "SP12501103426045",
     "SP12501103450010",
     "SP12501103485034",
@@ -399,6 +407,7 @@
     "SP12501015349010",
     "SP12501015403026",
     "SP12501040904011",
+    "SP12501041587001",
     "SP12501041617026",
     "SP12501057513032",
     "SP12501079908019",
@@ -418,6 +427,7 @@
     "SP12501103370045",
     "SP12501103388010",
     "SP12501103388027",
+    "SP12501103388033",
     "SP12501103388038",
     "SP12501103388049",
     "SP12501103396011",
@@ -426,14 +436,18 @@
     "SP12501103396038",
     "SP12501103396570",
     "SP12501103400010",
+    "SP12501103400020",
     "SP12501103400031",
     "SP12501103400034",
+    "SP12501103400049",
     "SP12501103426007",
     "SP12501103426030",
     "SP12501103426032",
     "SP12501103426033",
     "SP12501103426034",
     "SP12501103426035",
+    "SP12501103426037",
+    "SP12501103426038",
     "SP12501103426045",
     "SP12501103450010",
     "SP12501103485034",
@@ -460,6 +474,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501014946400",
+      "id_produto": "19160",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA ADVENTURE1.8/ 1.8 LOCKER FLEX CD",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501015535048",
       "id_produto": "18999",
       "nome": "TURBINA",
@@ -474,10 +500,10 @@
     {
       "sku": "SP12501040998025",
       "id_produto": "15579",
-      "nome": "MÓDULO DO CÂMBIO",
+      "nome": "CÂMBIO HONDA CITY SEDAN EXL 1.5 FLEX 16V 4P AUT. 2015",
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY SEDAN EXL 1.5 FLEX 16V 4P AUT.",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
@@ -486,11 +512,11 @@
     {
       "sku": "SP12501041587001",
       "id_produto": "15962",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR FORD KA+ SEDAN 1.5 SE FLEX 4P 2018/2019",
       "marca": "FORD",
       "modelo_do_veiculo": "KA+ SEDAN 1.5 SE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -618,11 +644,11 @@
     {
       "sku": "SP12501103400020",
       "id_produto": "20388",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA HONDA FIT LX 1.4 FLEX 8V 16V 2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -642,11 +668,11 @@
     {
       "sku": "SP12501103400049",
       "id_produto": "20390",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA HONDA FIT LX 1.4 FLEX 8V 16V 5P 2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -678,11 +704,11 @@
     {
       "sku": "SP12501103426037",
       "id_produto": "20391",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -690,11 +716,11 @@
     {
       "sku": "SP12501103426038",
       "id_produto": "20392",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -784,6 +810,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501041587001",
+      "id_produto": "15962",
+      "nome": "ALTERNADOR FORD KA+ SEDAN 1.5 SE FLEX 4P 2018/2019",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA+ SEDAN 1.5 SE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501041617026",
@@ -1014,6 +1052,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103388033",
+      "id_produto": "20321",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT DUSTER DYNAMIQUE 2.0 2015",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103388038",
       "id_produto": "20382",
       "nome": "RETROVISOR ESQUERDO RENAULT DUSTER DY 2.0 FLEX 16V 2015",
@@ -1110,6 +1160,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103400020",
+      "id_produto": "20388",
+      "nome": "LANTERNA TRASEIRA ESQUERDA HONDA FIT LX 1.4 FLEX 8V 16V 2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103400031",
       "id_produto": "20358",
       "nome": "PARA-LAMA DIANTEIRO ESQUERDO FIT LX 1.4 FLEX 8V 16V 2005/06",
@@ -1132,6 +1194,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103400049",
+      "id_produto": "20390",
+      "nome": "VOLANTE DO MOTORISTA HONDA FIT LX 1.4 FLEX 8V 16V 5P 2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103426007",
@@ -1206,6 +1280,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103426037",
+      "id_produto": "20391",
+      "nome": "RETROVISOR DIREITO HONDA FIT LX 1.4 MEC 2004/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103426038",
+      "id_produto": "20392",
+      "nome": "RETROVISOR ESQUERDO HONDA FIT LX 1.4 MEC 2004/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103426045",
       "id_produto": "20374",
       "nome": "TAMPA TRASEIRA HONDA FIT LX 1.4 MEC 2004/2004",
@@ -1256,7 +1354,7 @@
     {
       "sku": "SP12501116684400",
       "id_produto": "18704",
-      "nome": "MOTOR COMPLETO CHEVROLET CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER",
+      "nome": "Motor Corsa Celta Prisma 1.0 8v Flex 2006 a 2016",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
       "status": "Habilitado",
@@ -1304,7 +1402,7 @@
     {
       "sku": "SP32501002896833",
       "id_produto": "17311",
-      "nome": "CENTRAL DE DERIVAÇÃO RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "nome": "CENTRAL DE DERIVAÇÃO RAM 2500 LARAMIE 6.7 TD 4X4 DIESEL 2019",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "status": "Habilitado",
@@ -1342,11 +1440,11 @@
     "SP12501103388033": {
       "sku": "SP12501103388033",
       "id_produto": "20321",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT DUSTER DYNAMIQUE 2.0 2015",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1750,7 +1848,7 @@
     "SP12501116684400": {
       "sku": "SP12501116684400",
       "id_produto": "18704",
-      "nome": "MOTOR COMPLETO CHEVROLET CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER",
+      "nome": "Motor Corsa Celta Prisma 1.0 8v Flex 2006 a 2016",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
       "status": "Habilitado",
@@ -1906,7 +2004,7 @@
     "SP32501002896833": {
       "sku": "SP32501002896833",
       "id_produto": "17311",
-      "nome": "CENTRAL DE DERIVAÇÃO RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "nome": "CENTRAL DE DERIVAÇÃO RAM 2500 LARAMIE 6.7 TD 4X4 DIESEL 2019",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "status": "Habilitado",
@@ -3058,11 +3156,11 @@
     "SP12501103426038": {
       "sku": "SP12501103426038",
       "id_produto": "20392",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -3130,11 +3228,11 @@
     "SP12501103426037": {
       "sku": "SP12501103426037",
       "id_produto": "20391",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -3142,11 +3240,11 @@
     "SP12501103400020": {
       "sku": "SP12501103400020",
       "id_produto": "20388",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA HONDA FIT LX 1.4 FLEX 8V 16V 2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -3154,11 +3252,11 @@
     "SP12501103400049": {
       "sku": "SP12501103400049",
       "id_produto": "20390",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA HONDA FIT LX 1.4 FLEX 8V 16V 5P 2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3262,11 +3360,11 @@
     "SP12501041587001": {
       "sku": "SP12501041587001",
       "id_produto": "15962",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR FORD KA+ SEDAN 1.5 SE FLEX 4P 2018/2019",
       "marca": "FORD",
       "modelo_do_veiculo": "KA+ SEDAN 1.5 SE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3298,14 +3396,26 @@
     "SP12501040998025": {
       "sku": "SP12501040998025",
       "id_produto": "15579",
-      "nome": "MÓDULO DO CÂMBIO",
+      "nome": "CÂMBIO HONDA CITY SEDAN EXL 1.5 FLEX 16V 4P AUT. 2015",
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY SEDAN EXL 1.5 FLEX 16V 4P AUT.",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    "SP12501014946400": {
+      "sku": "SP12501014946400",
+      "id_produto": "19160",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA ADVENTURE1.8/ 1.8 LOCKER FLEX CD",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   }
 }
