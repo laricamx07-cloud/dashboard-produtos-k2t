@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 08:52:35",
+  "ultima_atualizacao": "28/08/2026 08:57:25",
   "total_base_dia": 83,
-  "total_atual": 83,
-  "novos_produtos": 0,
+  "total_atual": 84,
+  "novos_produtos": 1,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -112,6 +112,7 @@
     "SP12501014105026",
     "SP12501014806045",
     "SP12501015586034",
+    "SP12501015616014",
     "SP12501015730034",
     "SP12501015969043",
     "SP12501016000032",
@@ -176,10 +177,25 @@
     "SP42501001064042",
     "SP42501001510109"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501015616014"
+  ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501015616014",
+      "id_produto": "19177",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS TRAILHAWK 2.0 4X4 DIES. 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    }
+  ],
   "itens_subidos_hoje": [],
   "detalhes_skus_vistos_hoje": {
     "SP12501016779033": {
@@ -1177,6 +1193,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "3"
+    },
+    "SP12501015616014": {
+      "sku": "SP12501015616014",
+      "id_produto": "19177",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS TRAILHAWK 2.0 4X4 DIES. 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
