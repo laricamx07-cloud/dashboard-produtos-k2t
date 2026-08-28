@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 13:42:35",
+  "ultima_atualizacao": "28/08/2026 13:51:04",
   "total_base_dia": 83,
-  "total_atual": 127,
-  "novos_produtos": 44,
+  "total_atual": 129,
+  "novos_produtos": 46,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -118,6 +118,7 @@
     "SP12501015195016",
     "SP12501015225010",
     "SP12501015322019",
+    "SP12501015365011",
     "SP12501015586034",
     "SP12501015616014",
     "SP12501015730034",
@@ -152,6 +153,7 @@
     "SP12501080485026",
     "SP12501083808453",
     "SP12501084448038",
+    "SP12501084774026",
     "SP12501084790033",
     "SP12501084790035",
     "SP12501089989035",
@@ -228,12 +230,14 @@
     "SP12501015195016",
     "SP12501015225010",
     "SP12501015322019",
+    "SP12501015365011",
     "SP12501015616014",
     "SP12501015829036",
     "SP12501041188026",
     "SP12501041714400",
     "SP12501080370025",
     "SP12501084448038",
+    "SP12501084774026",
     "SP12501103370001",
     "SP12501103370004",
     "SP12501103370010",
@@ -354,6 +358,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501015365011",
+      "id_produto": "19169",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501015616014",
       "id_produto": "19177",
       "nome": "DIFERENCIAL EIXO TRASEIRO",
@@ -424,6 +440,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501084774026",
+      "id_produto": "15598",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103370001",
@@ -2323,6 +2351,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501084774026": {
+      "sku": "SP12501084774026",
+      "id_produto": "15598",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "9"
+    },
+    "SP12501015365011": {
+      "sku": "SP12501015365011",
+      "id_produto": "19169",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     }
   }
 }
