@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 11:12:43",
+  "ultima_atualizacao": "28/08/2026 11:21:11",
   "total_base_dia": 83,
-  "total_atual": 104,
-  "novos_produtos": 21,
+  "total_atual": 107,
+  "novos_produtos": 24,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -163,9 +163,11 @@
     "SP12501102519045",
     "SP12501102527032",
     "SP12501103370004",
+    "SP12501103370024",
     "SP12501103400004",
     "SP12501103400019",
     "SP12501103400411",
+    "SP12501103418004",
     "SP12501103418036",
     "SP12501103418411",
     "SP12501103426004",
@@ -174,6 +176,7 @@
     "SP12501103426024",
     "SP12501103426036",
     "SP12501103469007",
+    "SP12501103469032",
     "SP12501103469033",
     "SP12501103485004",
     "SP12501103485030",
@@ -205,8 +208,10 @@
     "SP12501015829036",
     "SP12501080370025",
     "SP12501103370004",
+    "SP12501103370024",
     "SP12501103400019",
     "SP12501103400411",
+    "SP12501103418004",
     "SP12501103418036",
     "SP12501103418411",
     "SP12501103426004",
@@ -215,6 +220,7 @@
     "SP12501103426024",
     "SP12501103426036",
     "SP12501103469007",
+    "SP12501103469032",
     "SP12501103469033",
     "SP32501002896070",
     "SP32501002896803",
@@ -308,6 +314,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501103370024",
+      "id_produto": "20422",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501103400019",
       "id_produto": "20423",
       "nome": "LANTERNA TRASEIRA DIREITA",
@@ -330,6 +348,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103418004",
+      "id_produto": "20425",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103418036",
@@ -426,6 +456,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103469032",
+      "id_produto": "20434",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103469033",
@@ -1725,6 +1767,42 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
+    },
+    "SP12501103469032": {
+      "sku": "SP12501103469032",
+      "id_produto": "20434",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501103370024": {
+      "sku": "SP12501103370024",
+      "id_produto": "20422",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    "SP12501103418004": {
+      "sku": "SP12501103418004",
+      "id_produto": "20425",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   }
 }
