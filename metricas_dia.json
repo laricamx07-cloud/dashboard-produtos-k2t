@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 17:53:09",
+  "ultima_atualizacao": "28/08/2026 17:57:27",
   "total_base_dia": 83,
-  "total_atual": 121,
+  "total_atual": 119,
   "novos_produtos": 101,
-  "total_subidos": 63,
+  "total_subidos": 65,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -404,8 +404,10 @@
     "SP12501080701020",
     "SP12501083964024",
     "SP12501084251039",
+    "SP12501084448038",
     "SP12501084561049",
     "SP12501084618011",
+    "SP12501087722024",
     "SP12501087986049",
     "SP12501103370001",
     "SP12501103370004",
@@ -469,8 +471,10 @@
     "SP12501080701020",
     "SP12501083964024",
     "SP12501084251039",
+    "SP12501084448038",
     "SP12501084561049",
     "SP12501084618011",
+    "SP12501087722024",
     "SP12501087986049",
     "SP12501103370001",
     "SP12501103370004",
@@ -830,7 +834,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO WEEKEND TREKKING 1.6 FLEX 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "8"
@@ -1042,11 +1046,11 @@
     {
       "sku": "SP12501084448038",
       "id_produto": "15573",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FIAT ARGO DRIVE 1.0 6V FLEX 2020/2020",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1102,11 +1106,11 @@
     {
       "sku": "SP12501087722024",
       "id_produto": "12143",
-      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA 1.0 8V FLEX/CLASS 2009/10",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA 1.0 8V FLEX/CLASS 1.0 2009/10",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -1876,7 +1880,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO WEEKEND TREKKING 1.6 FLEX 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "8"
@@ -2002,6 +2006,18 @@
       "qtd_images": "3"
     },
     {
+      "sku": "SP12501084448038",
+      "id_produto": "15573",
+      "nome": "RETROVISOR ESQUERDO FIAT ARGO DRIVE 1.0 6V FLEX 2020/2020",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501084561049",
       "id_produto": "7986",
       "nome": "VOLANTE DO MOTORISTA TOYOTA COROLLA ALTIS/A.PREMIU. 2.0 2013",
@@ -2024,6 +2040,18 @@
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501087722024",
+      "id_produto": "12143",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA 1.0 8V FLEX/CLASS 1.0 2009/10",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501087986049",
@@ -3782,11 +3810,11 @@
     "SP12501084448038": {
       "sku": "SP12501084448038",
       "id_produto": "15573",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FIAT ARGO DRIVE 1.0 6V FLEX 2020/2020",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -4370,11 +4398,11 @@
     "SP12501087722024": {
       "sku": "SP12501087722024",
       "id_produto": "12143",
-      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA 1.0 8V FLEX/CLASS 2009/10",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA 1.0 8V FLEX/CLASS 1.0 2009/10",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -4674,7 +4702,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO WEEKEND TREKKING 1.6 FLEX 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "8"
