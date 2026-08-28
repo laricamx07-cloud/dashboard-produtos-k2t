@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 15:13:14",
+  "ultima_atualizacao": "28/08/2026 15:21:29",
   "total_base_dia": 83,
-  "total_atual": 127,
-  "novos_produtos": 48,
-  "total_subidos": 4,
+  "total_atual": 130,
+  "novos_produtos": 52,
+  "total_subidos": 5,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -113,6 +113,7 @@
     "SP12501009853034",
     "SP12501009888034",
     "SP12501010312034",
+    "SP12501010487011",
     "SP12501014075424",
     "SP12501014105026",
     "SP12501014806045",
@@ -120,6 +121,7 @@
     "SP12501015195016",
     "SP12501015225010",
     "SP12501015322019",
+    "SP12501015357027",
     "SP12501015365011",
     "SP12501015586034",
     "SP12501015616014",
@@ -196,6 +198,8 @@
     "SP12501103426026",
     "SP12501103426027",
     "SP12501103426036",
+    "SP12501103442032",
+    "SP12501103442049",
     "SP12501103469007",
     "SP12501103469026",
     "SP12501103469032",
@@ -230,10 +234,12 @@
     "SP12501005084011",
     "SP12501009586001",
     "SP12501009837011",
+    "SP12501010487011",
     "SP12501015195010",
     "SP12501015195016",
     "SP12501015225010",
     "SP12501015322019",
+    "SP12501015357027",
     "SP12501015365011",
     "SP12501015616014",
     "SP12501015829036",
@@ -264,6 +270,8 @@
     "SP12501103426026",
     "SP12501103426027",
     "SP12501103426036",
+    "SP12501103442032",
+    "SP12501103442049",
     "SP12501103469007",
     "SP12501103469026",
     "SP12501103469032",
@@ -275,12 +283,14 @@
     "SP32501002896877"
   ],
   "skus_subidos_hoje": [
+    "SP12501103370004",
     "SP12501103400004",
     "SP12501103485004",
     "SP12501103485030",
     "SP12501103523030"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501103370004",
     "SP12501103400004",
     "SP12501103485004",
     "SP12501103485030",
@@ -348,6 +358,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501010487011",
+      "id_produto": "3196",
+      "nome": "COMPRESSOR DE AR FIAT TORO VOLCANO 2.0 2017/2018",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO VOLCANO 2.0",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "11"
+    },
+    {
       "sku": "SP12501015195010",
       "id_produto": "19165",
       "nome": "CHAVE DE SETA",
@@ -394,6 +416,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015357027",
+      "id_produto": "5462",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT FASTBACK ABARTH 1.3 2023/2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FASTBACK ABARTH TURBO FLEX 1.3 AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501015365011",
@@ -506,11 +540,11 @@
     {
       "sku": "SP12501103370004",
       "id_produto": "20421",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -756,6 +790,30 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103442032",
+      "id_produto": "20449",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103442049",
+      "id_produto": "20450",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103469007",
       "id_produto": "20433",
       "nome": "CAPÔ",
@@ -866,13 +924,25 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501103370004",
+      "id_produto": "20421",
+      "nome": "CÂMBIO MANUAL FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103400004",
       "id_produto": "20356",
       "nome": "CÂMBIO MANUAL HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -884,7 +954,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1438,7 +1508,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1690,7 +1760,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2070,11 +2140,11 @@
     "SP12501103370004": {
       "sku": "SP12501103370004",
       "id_produto": "20421",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2486,6 +2556,54 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
+    },
+    "SP12501103442032": {
+      "sku": "SP12501103442032",
+      "id_produto": "20449",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501010487011": {
+      "sku": "SP12501010487011",
+      "id_produto": "3196",
+      "nome": "COMPRESSOR DE AR FIAT TORO VOLCANO 2.0 2017/2018",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO VOLCANO 2.0",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "11"
+    },
+    "SP12501015357027": {
+      "sku": "SP12501015357027",
+      "id_produto": "5462",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT FASTBACK ABARTH 1.3 2023/2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FASTBACK ABARTH TURBO FLEX 1.3 AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
+    },
+    "SP12501103442049": {
+      "sku": "SP12501103442049",
+      "id_produto": "20450",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
     }
   }
 }
