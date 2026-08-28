@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 13:12:40",
+  "ultima_atualizacao": "28/08/2026 13:27:26",
   "total_base_dia": 83,
-  "total_atual": 126,
-  "novos_produtos": 43,
+  "total_atual": 127,
+  "novos_produtos": 44,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -131,6 +131,7 @@
     "SP12501016779035",
     "SP12501017422016",
     "SP12501041145437",
+    "SP12501041188026",
     "SP12501041250004",
     "SP12501041641028",
     "SP12501041714400",
@@ -229,6 +230,7 @@
     "SP12501015322019",
     "SP12501015616014",
     "SP12501015829036",
+    "SP12501041188026",
     "SP12501041714400",
     "SP12501080370025",
     "SP12501084448038",
@@ -374,6 +376,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501041188026",
+      "id_produto": "15582",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID OUTSIDER 1.0 FLEX 12V 5P MECANICO",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501041714400",
@@ -2297,6 +2311,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
+    },
+    "SP12501041188026": {
+      "sku": "SP12501041188026",
+      "id_produto": "15582",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID OUTSIDER 1.0 FLEX 12V 5P MECANICO",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
