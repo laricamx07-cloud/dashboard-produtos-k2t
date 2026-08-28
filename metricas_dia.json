@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 15:21:29",
+  "ultima_atualizacao": "28/08/2026 15:27:24",
   "total_base_dia": 83,
   "total_atual": 130,
-  "novos_produtos": 52,
-  "total_subidos": 5,
+  "novos_produtos": 53,
+  "total_subidos": 6,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -198,6 +198,7 @@
     "SP12501103426026",
     "SP12501103426027",
     "SP12501103426036",
+    "SP12501103442010",
     "SP12501103442032",
     "SP12501103442049",
     "SP12501103469007",
@@ -270,6 +271,7 @@
     "SP12501103426026",
     "SP12501103426027",
     "SP12501103426036",
+    "SP12501103442010",
     "SP12501103442032",
     "SP12501103442049",
     "SP12501103469007",
@@ -284,6 +286,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501103370004",
+    "SP12501103370024",
     "SP12501103400004",
     "SP12501103485004",
     "SP12501103485030",
@@ -291,6 +294,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501103370004",
+    "SP12501103370024",
     "SP12501103400004",
     "SP12501103485004",
     "SP12501103485030",
@@ -564,11 +568,11 @@
     {
       "sku": "SP12501103370024",
       "id_produto": "20422",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -790,6 +794,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103442010",
+      "id_produto": "20448",
+      "nome": "CHAVE DE SETA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103442032",
       "id_produto": "20449",
       "nome": "PORTA DIANTEIRA DIREITA",
@@ -864,7 +880,7 @@
     {
       "sku": "SP12501103469422",
       "id_produto": "20447",
-      "nome": "CAIXA DE FUSÍVEIS",
+      "nome": "CAIXA DE FUSÍVEIS CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Desabilitado",
@@ -934,6 +950,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103370024",
+      "id_produto": "20422",
+      "nome": "MÓDULO DE INJEÇÃO FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501103400004",
@@ -2248,11 +2276,11 @@
     "SP12501103370024": {
       "sku": "SP12501103370024",
       "id_produto": "20422",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -2428,7 +2456,7 @@
     "SP12501103469422": {
       "sku": "SP12501103469422",
       "id_produto": "20447",
-      "nome": "CAIXA DE FUSÍVEIS",
+      "nome": "CAIXA DE FUSÍVEIS CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Desabilitado",
@@ -2603,6 +2631,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP12501103442010": {
+      "sku": "SP12501103442010",
+      "id_produto": "20448",
+      "nome": "CHAVE DE SETA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
       "qtd_images": "5"
     }
   }
