@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 12:57:15",
+  "ultima_atualizacao": "28/08/2026 13:12:40",
   "total_base_dia": 83,
-  "total_atual": 125,
-  "novos_produtos": 42,
+  "total_atual": 126,
+  "novos_produtos": 43,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -215,6 +215,7 @@
     "SP32501002896803",
     "SP32501002896828",
     "SP32501002896863",
+    "SP32501002896877",
     "SP42501001064042",
     "SP42501001510109"
   ],
@@ -260,7 +261,8 @@
     "SP12501103469422",
     "SP32501002896070",
     "SP32501002896803",
-    "SP32501002896863"
+    "SP32501002896863",
+    "SP32501002896877"
   ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
@@ -767,6 +769,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP32501002896877",
+      "id_produto": "17526",
+      "nome": "ENGATE FRONTAL",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
       "qtd_images": "5"
     }
   ],
@@ -2271,6 +2285,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    "SP32501002896877": {
+      "sku": "SP32501002896877",
+      "id_produto": "17526",
+      "nome": "ENGATE FRONTAL",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "5"
     }
   }
 }
