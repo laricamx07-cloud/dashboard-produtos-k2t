@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 16:13:30",
+  "ultima_atualizacao": "28/08/2026 16:28:04",
   "total_base_dia": 83,
-  "total_atual": 125,
-  "novos_produtos": 65,
-  "total_subidos": 23,
+  "total_atual": 128,
+  "novos_produtos": 71,
+  "total_subidos": 26,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -122,6 +122,7 @@
     "SP12501014075424",
     "SP12501014105026",
     "SP12501014806045",
+    "SP12501014814025",
     "SP12501015195010",
     "SP12501015195016",
     "SP12501015209026",
@@ -193,6 +194,8 @@
     "SP12501103370024",
     "SP12501103370026",
     "SP12501103370027",
+    "SP12501103370437",
+    "SP12501103370483",
     "SP12501103400004",
     "SP12501103400019",
     "SP12501103400411",
@@ -227,12 +230,15 @@
     "SP12501109521034",
     "SP12501109548045",
     "SP12501111330483",
+    "SP12501116765030",
     "SP12501116765034",
     "SP12501116765039",
     "SP12501116765040",
     "SP12501116765041",
     "SP12501116765042",
     "SP12501116765043",
+    "SP12501122129036",
+    "SP12501123540011",
     "SP32501002896070",
     "SP32501002896803",
     "SP32501002896828",
@@ -253,6 +259,7 @@
     "SP12501009837011",
     "SP12501010380026",
     "SP12501010487011",
+    "SP12501014814025",
     "SP12501015195010",
     "SP12501015195016",
     "SP12501015209026",
@@ -279,6 +286,8 @@
     "SP12501103370024",
     "SP12501103370026",
     "SP12501103370027",
+    "SP12501103370437",
+    "SP12501103370483",
     "SP12501103400019",
     "SP12501103400411",
     "SP12501103418004",
@@ -303,6 +312,9 @@
     "SP12501103469032",
     "SP12501103469033",
     "SP12501103469422",
+    "SP12501116765030",
+    "SP12501122129036",
+    "SP12501123540011",
     "SP32501002896070",
     "SP32501002896803",
     "SP32501002896863",
@@ -310,12 +322,14 @@
   ],
   "skus_subidos_hoje": [
     "SP12501005122018",
+    "SP12501005378024",
     "SP12501010487011",
     "SP12501103370004",
     "SP12501103370024",
     "SP12501103400004",
     "SP12501103400411",
     "SP12501103418004",
+    "SP12501103418026",
     "SP12501103418036",
     "SP12501103418411",
     "SP12501103426004",
@@ -331,16 +345,19 @@
     "SP12501103469422",
     "SP12501103485004",
     "SP12501103485030",
-    "SP12501103523030"
+    "SP12501103523030",
+    "SP32501002896070"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501005122018",
+    "SP12501005378024",
     "SP12501010487011",
     "SP12501103370004",
     "SP12501103370024",
     "SP12501103400004",
     "SP12501103400411",
     "SP12501103418004",
+    "SP12501103418026",
     "SP12501103418036",
     "SP12501103418411",
     "SP12501103426004",
@@ -356,7 +373,8 @@
     "SP12501103469422",
     "SP12501103485004",
     "SP12501103485030",
-    "SP12501103523030"
+    "SP12501103523030",
+    "SP32501002896070"
   ],
   "itens_novos_hoje": [
     {
@@ -414,8 +432,8 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA PLATINUM 1.0 TB 12V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
     },
@@ -434,11 +452,11 @@
     {
       "sku": "SP12501005378024",
       "id_produto": "4698",
-      "nome": "MÓDULO INJEÇÃO CHEVROLET SPIN LT 1.8V 2019",
+      "nome": "MÓDULO INJEÇÃO CHEVROLET SPIN LT 1.8V ECONO.FLEX 2019",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "SPIN LT 1.8 8V ECONO.FLEX 5P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
@@ -490,6 +508,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501014814025",
+      "id_produto": "3755",
+      "nome": "MÓDULO CÂMBIO JEEP RENEGADE LONGITUDE 1.8 16V AUT 2015",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": null,
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501015195010",
@@ -782,7 +812,7 @@
     {
       "sku": "SP12501103370026",
       "id_produto": "20438",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FORD KA GL 1.0I ZETEC ROCAM 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
       "status": "Desabilitado",
@@ -794,7 +824,7 @@
     {
       "sku": "SP12501103370027",
       "id_produto": "20439",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FORD KA GL 1.0I ZETEC ROCAM 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
       "status": "Desabilitado",
@@ -802,6 +832,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103370437",
+      "id_produto": "20451",
+      "nome": "PNEU DIANTEIRO DIREITO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103370483",
+      "id_produto": "20452",
+      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501103400019",
@@ -845,8 +899,8 @@
       "nome": "MOTOR DE PARTIDA FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -1092,13 +1146,49 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501116765030",
+      "id_produto": "18824",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO MITSUBISHI PAJERO TR4 2.0 07/08",
+      "marca": "MITSUBISHI",
+      "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501122129036",
+      "id_produto": "10035",
+      "nome": "RADIADOR PEUGEOT 207 SW XR 1.4 FLEX 2010/2011",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "207 SW XR 1.4 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501123540011",
+      "id_produto": "9913",
+      "nome": "COMPRESSOR AR-COND RENAULT  LOGAN EXP. UP HI-FLEX 1.0 2013",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN EXP. UP HI-FLEX 1.0 16V 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP32501002896070",
       "id_produto": "4462",
-      "nome": "INTERCOOLER",
+      "nome": "INTERCOOLER RAM 2500 LARAMIE 6.7 TDI 4X4 DIESEL 2019/2019",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -1148,9 +1238,21 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA PLATINUM 1.0 TB 12V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501005378024",
+      "id_produto": "4698",
+      "nome": "MÓDULO INJEÇÃO CHEVROLET SPIN LT 1.8V ECONO.FLEX 2019",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "SPIN LT 1.8 8V ECONO.FLEX 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
       "qtd_images": "6"
     },
     {
@@ -1224,6 +1326,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103418026",
+      "id_produto": "20440",
+      "nome": "MOTOR DE PARTIDA FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501103418036",
@@ -1416,6 +1530,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP32501002896070",
+      "id_produto": "4462",
+      "nome": "INTERCOOLER RAM 2500 LARAMIE 6.7 TDI 4X4 DIESEL 2019/2019",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -2598,11 +2724,11 @@
     "SP32501002896070": {
       "sku": "SP32501002896070",
       "id_produto": "4462",
-      "nome": "INTERCOOLER",
+      "nome": "INTERCOOLER RAM 2500 LARAMIE 6.7 TDI 4X4 DIESEL 2019/2019",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -2757,8 +2883,8 @@
       "nome": "MOTOR DE PARTIDA FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -2802,7 +2928,7 @@
     "SP12501103370026": {
       "sku": "SP12501103370026",
       "id_produto": "20438",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FORD KA GL 1.0I ZETEC ROCAM 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
       "status": "Desabilitado",
@@ -2886,7 +3012,7 @@
     "SP12501103370027": {
       "sku": "SP12501103370027",
       "id_produto": "20439",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FORD KA GL 1.0I ZETEC ROCAM 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
       "status": "Desabilitado",
@@ -3106,19 +3232,19 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA PLATINUM 1.0 TB 12V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
     },
     "SP12501005378024": {
       "sku": "SP12501005378024",
       "id_produto": "4698",
-      "nome": "MÓDULO INJEÇÃO CHEVROLET SPIN LT 1.8V 2019",
+      "nome": "MÓDULO INJEÇÃO CHEVROLET SPIN LT 1.8V ECONO.FLEX 2019",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "SPIN LT 1.8 8V ECONO.FLEX 5P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
@@ -3194,6 +3320,78 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
+    },
+    "SP12501123540011": {
+      "sku": "SP12501123540011",
+      "id_produto": "9913",
+      "nome": "COMPRESSOR AR-COND RENAULT  LOGAN EXP. UP HI-FLEX 1.0 2013",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN EXP. UP HI-FLEX 1.0 16V 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    "SP12501103370483": {
+      "sku": "SP12501103370483",
+      "id_produto": "20452",
+      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    "SP12501116765030": {
+      "sku": "SP12501116765030",
+      "id_produto": "18824",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO MITSUBISHI PAJERO TR4 2.0 07/08",
+      "marca": "MITSUBISHI",
+      "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501014814025": {
+      "sku": "SP12501014814025",
+      "id_produto": "3755",
+      "nome": "MÓDULO CÂMBIO JEEP RENEGADE LONGITUDE 1.8 16V AUT 2015",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": null,
+      "qtd_images": "7"
+    },
+    "SP12501103370437": {
+      "sku": "SP12501103370437",
+      "id_produto": "20451",
+      "nome": "PNEU DIANTEIRO DIREITO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP12501122129036": {
+      "sku": "SP12501122129036",
+      "id_produto": "10035",
+      "nome": "RADIADOR PEUGEOT 207 SW XR 1.4 FLEX 2010/2011",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "207 SW XR 1.4 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
     }
   }
 }
