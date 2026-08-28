@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 11:43:19",
+  "ultima_atualizacao": "28/08/2026 11:57:17",
   "total_base_dia": 83,
-  "total_atual": 109,
-  "novos_produtos": 26,
+  "total_atual": 111,
+  "novos_produtos": 28,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -115,6 +115,8 @@
     "SP12501014105026",
     "SP12501014806045",
     "SP12501015195010",
+    "SP12501015195016",
+    "SP12501015322019",
     "SP12501015586034",
     "SP12501015616014",
     "SP12501015730034",
@@ -207,6 +209,8 @@
     "SP12501004665026",
     "SP12501005084011",
     "SP12501015195010",
+    "SP12501015195016",
+    "SP12501015322019",
     "SP12501015616014",
     "SP12501015829036",
     "SP12501080370025",
@@ -280,6 +284,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501015195016",
+      "id_produto": "19037",
+      "nome": "FAROL ESQUERDO",
+      "marca": "TOKIO MARINE SEGURAD",
+      "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501015322019",
+      "id_produto": "19211",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501015616014",
@@ -1855,6 +1883,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    "SP12501015195016": {
+      "sku": "SP12501015195016",
+      "id_produto": "19037",
+      "nome": "FAROL ESQUERDO",
+      "marca": "TOKIO MARINE SEGURAD",
+      "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    "SP12501015322019": {
+      "sku": "SP12501015322019",
+      "id_produto": "19211",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   }
 }
