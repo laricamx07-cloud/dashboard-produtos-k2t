@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 08:57:25",
+  "ultima_atualizacao": "28/08/2026 09:12:39",
   "total_base_dia": 83,
-  "total_atual": 84,
-  "novos_produtos": 1,
+  "total_atual": 86,
+  "novos_produtos": 3,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -95,6 +95,7 @@
     "SP12501004355012",
     "SP12501004550032",
     "SP12501004584032",
+    "SP12501004665001",
     "SP12501005106034",
     "SP12501005211035",
     "SP12501005238032",
@@ -135,6 +136,7 @@
     "SP12501080353034",
     "SP12501080353035",
     "SP12501080361032",
+    "SP12501080370025",
     "SP12501080469019",
     "SP12501080469036",
     "SP12501080469424",
@@ -178,11 +180,25 @@
     "SP42501001510109"
   ],
   "skus_novos_hoje": [
-    "SP12501015616014"
+    "SP12501004665001",
+    "SP12501015616014",
+    "SP12501080370025"
   ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501004665001",
+      "id_produto": "15593",
+      "nome": "ALTERNADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501015616014",
       "id_produto": "19177",
@@ -194,6 +210,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501080370025",
+      "id_produto": "15589",
+      "nome": "MOD CAMBIO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "ATOS PRIME GLS 1.0 AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     }
   ],
   "itens_subidos_hoje": [],
@@ -1205,6 +1233,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501004665001": {
+      "sku": "SP12501004665001",
+      "id_produto": "15593",
+      "nome": "ALTERNADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501080370025": {
+      "sku": "SP12501080370025",
+      "id_produto": "15589",
+      "nome": "MOD CAMBIO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "ATOS PRIME GLS 1.0 AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     }
   }
 }
