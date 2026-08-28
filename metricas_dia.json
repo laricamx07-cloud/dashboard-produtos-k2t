@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 14:12:33",
+  "ultima_atualizacao": "28/08/2026 14:53:32",
   "total_base_dia": 83,
-  "total_atual": 129,
-  "novos_produtos": 46,
+  "total_atual": 130,
+  "novos_produtos": 47,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -108,6 +108,7 @@
     "SP12501009713035",
     "SP12501009730035",
     "SP12501009802034",
+    "SP12501009837011",
     "SP12501009853034",
     "SP12501009888034",
     "SP12501010312034",
@@ -226,6 +227,7 @@
     "SP12501004665001",
     "SP12501004665026",
     "SP12501005084011",
+    "SP12501009837011",
     "SP12501015195010",
     "SP12501015195016",
     "SP12501015225010",
@@ -308,6 +310,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501009837011",
+      "id_produto": "15597",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "VW",
+      "modelo_do_veiculo": "SAVEIRO TRENDLINE 1.6 T.FLEX 8V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501015195010",
@@ -2374,6 +2388,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "9"
+    },
+    "SP12501009837011": {
+      "sku": "SP12501009837011",
+      "id_produto": "15597",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "VW",
+      "modelo_do_veiculo": "SAVEIRO TRENDLINE 1.6 T.FLEX 8V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "9"
     }
   }
