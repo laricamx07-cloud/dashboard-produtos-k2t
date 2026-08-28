@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 10:42:29",
+  "ultima_atualizacao": "28/08/2026 10:51:24",
   "total_base_dia": 83,
-  "total_atual": 90,
-  "novos_produtos": 7,
+  "total_atual": 91,
+  "novos_produtos": 8,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -162,6 +162,7 @@
     "SP12501102519045",
     "SP12501102527032",
     "SP12501103400004",
+    "SP12501103426024",
     "SP12501103485004",
     "SP12501103485030",
     "SP12501103523030",
@@ -189,6 +190,7 @@
     "SP12501005084011",
     "SP12501015616014",
     "SP12501080370025",
+    "SP12501103426024",
     "SP32501002896803",
     "SP32501002896863"
   ],
@@ -254,6 +256,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103426024",
+      "id_produto": "20431",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     },
     {
       "sku": "SP32501002896803",
@@ -1361,6 +1375,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    "SP12501103426024": {
+      "sku": "SP12501103426024",
+      "id_produto": "20431",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     }
   }
 }
