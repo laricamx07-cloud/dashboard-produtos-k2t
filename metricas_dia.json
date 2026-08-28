@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 09:51:37",
+  "ultima_atualizacao": "28/08/2026 09:57:35",
   "total_base_dia": 83,
-  "total_atual": 86,
-  "novos_produtos": 3,
+  "total_atual": 87,
+  "novos_produtos": 4,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -175,6 +175,7 @@
     "SP12501116765041",
     "SP12501116765042",
     "SP12501116765043",
+    "SP32501002896803",
     "SP32501002896828",
     "SP42501001064042",
     "SP42501001510109"
@@ -182,7 +183,8 @@
   "skus_novos_hoje": [
     "SP12501004665001",
     "SP12501015616014",
-    "SP12501080370025"
+    "SP12501080370025",
+    "SP32501002896803"
   ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
@@ -222,6 +224,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP32501002896803",
+      "id_produto": "17308",
+      "nome": "CORPO DE BORBOLETA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     }
   ],
   "itens_subidos_hoje": [],
@@ -1257,6 +1271,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    "SP32501002896803": {
+      "sku": "SP32501002896803",
+      "id_produto": "17308",
+      "nome": "CORPO DE BORBOLETA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     }
   }
 }
