@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 17:12:40",
+  "ultima_atualizacao": "28/08/2026 17:21:28",
   "total_base_dia": 83,
-  "total_atual": 131,
-  "novos_produtos": 91,
-  "total_subidos": 43,
+  "total_atual": 128,
+  "novos_produtos": 96,
+  "total_subidos": 51,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -158,9 +158,12 @@
     "SP12501042001024",
     "SP12501042079024",
     "SP12501042109011",
+    "SP12501042273018",
     "SP12501042273041",
     "SP12501054298027",
+    "SP12501057130024",
     "SP12501057165027",
+    "SP12501057840037",
     "SP12501079894518",
     "SP12501079959400",
     "SP12501079975034",
@@ -248,6 +251,7 @@
     "SP12501105836026",
     "SP12501109521034",
     "SP12501109548045",
+    "SP12501109572037",
     "SP12501111330483",
     "SP12501116765030",
     "SP12501116765034",
@@ -258,6 +262,7 @@
     "SP12501116765043",
     "SP12501121408027",
     "SP12501122129036",
+    "SP12501123141027",
     "SP12501123540011",
     "SP32501002896070",
     "SP32501002896803",
@@ -299,8 +304,11 @@
     "SP12501042001024",
     "SP12501042079024",
     "SP12501042109011",
+    "SP12501042273018",
     "SP12501054298027",
+    "SP12501057130024",
     "SP12501057165027",
+    "SP12501057840037",
     "SP12501079894518",
     "SP12501079983026",
     "SP12501080108001",
@@ -351,9 +359,11 @@
     "SP12501103469033",
     "SP12501103469400",
     "SP12501103469422",
+    "SP12501109572037",
     "SP12501116765030",
     "SP12501121408027",
     "SP12501122129036",
+    "SP12501123141027",
     "SP12501123540011",
     "SP32501002896070",
     "SP32501002896803",
@@ -371,10 +381,14 @@
     "SP12501014814025",
     "SP12501015209026",
     "SP12501015357027",
+    "SP12501041714400",
     "SP12501041846010",
+    "SP12501042001024",
+    "SP12501042079024",
     "SP12501079894518",
     "SP12501079983026",
     "SP12501080108001",
+    "SP12501080701020",
     "SP12501084561049",
     "SP12501103370001",
     "SP12501103370004",
@@ -397,12 +411,16 @@
     "SP12501103426024",
     "SP12501103426026",
     "SP12501103426027",
+    "SP12501103469007",
     "SP12501103469026",
+    "SP12501103469032",
+    "SP12501103469033",
     "SP12501103469422",
     "SP12501103485004",
     "SP12501103485030",
     "SP12501103523030",
     "SP12501116765030",
+    "SP12501123540011",
     "SP32501002896070"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -416,10 +434,14 @@
     "SP12501014814025",
     "SP12501015209026",
     "SP12501015357027",
+    "SP12501041714400",
     "SP12501041846010",
+    "SP12501042001024",
+    "SP12501042079024",
     "SP12501079894518",
     "SP12501079983026",
     "SP12501080108001",
+    "SP12501080701020",
     "SP12501084561049",
     "SP12501103370001",
     "SP12501103370004",
@@ -442,12 +464,16 @@
     "SP12501103426024",
     "SP12501103426026",
     "SP12501103426027",
+    "SP12501103469007",
     "SP12501103469026",
+    "SP12501103469032",
+    "SP12501103469033",
     "SP12501103469422",
     "SP12501103485004",
     "SP12501103485030",
     "SP12501103523030",
     "SP12501116765030",
+    "SP12501123540011",
     "SP32501002896070"
   ],
   "itens_novos_hoje": [
@@ -770,7 +796,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "9"
@@ -782,8 +808,8 @@
       "marca": "KIA",
       "modelo_do_veiculo": "SPORTAGE EX 2.0 16V/ 2.0 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
     },
@@ -794,7 +820,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "ARRIZO 6 PRO 1.5 TURBO FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "6"
@@ -802,11 +828,11 @@
     {
       "sku": "SP12501042079024",
       "id_produto": "9938",
-      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LTZ 1.4 8V FLEX 16/17",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LTZ 1.4 8V FLEX 17",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -824,6 +850,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501042273018",
+      "id_produto": "13483",
+      "nome": "INTERCOOLER CHEVROLET TRACKER LT 1.4 TURBO 16V 2017/2018",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER LT 1.4 TURBO 16V FLEX 4X2 AUT.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "3"
+    },
+    {
       "sku": "SP12501054298027",
       "id_produto": "13121",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MERIVA JOY 1.8 8V 2005/06",
@@ -836,6 +874,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501057130024",
+      "id_produto": "14664",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ZAFIRA COMFORT 2.0 FLEX 2004/05",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA COMFORT 2.0 FLEXPOWER MEC.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "3"
+    },
+    {
       "sku": "SP12501057165027",
       "id_produto": "12380",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET CLASSIC LIFE/LS 1.0 2012",
@@ -846,6 +896,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501057840037",
+      "id_produto": "13844",
+      "nome": "RETROVISOR DIREITO FIAT STRADA FREEDOM 1.3 FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA FREEDOM 1.3 FLEX 8V CS PLUS",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501079894518",
@@ -902,10 +964,10 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA XEI 2.0 FLEX 16V AUTOMATICO",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
-      "qtd_images": "12"
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501083964024",
@@ -951,7 +1013,7 @@
       "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
       "status": "Habilitado",
       "status_ml": "active",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
     },
@@ -1381,8 +1443,8 @@
       "nome": "CAPÔ CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1405,8 +1467,8 @@
       "nome": "PORTA DIANT DIREITA CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1417,8 +1479,8 @@
       "nome": "PORTA DIANT ESQ CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1446,6 +1508,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501109572037",
+      "id_produto": "14291",
+      "nome": "RETROVISOR DIREITO FIAT FASTBACK 200 TURBO 2024/2025",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FASTBACK 1.0 200 TURBO FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "3"
     },
     {
       "sku": "SP12501116765030",
@@ -1484,13 +1558,25 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501123141027",
+      "id_produto": "14770",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT UNO SPORTING 1.4 EVO FLEX 12/12",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO SPORTING 1.4 EVO FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501123540011",
       "id_produto": "9913",
-      "nome": "COMPRESSOR AR-COND RENAULT  LOGAN EXP. UP HI-FLEX 1.0 2013",
+      "nome": "COMPRESSOR AR-COND RENAULT LOGAN EXP. UP HI-FLEX 1.0 13",
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN EXP. UP HI-FLEX 1.0 16V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -1666,16 +1752,52 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501041714400",
+      "id_produto": "8580",
+      "nome": "MOTOR COMPLETO RENAULT SANDERO EXPRESSION HI-FLEX 1.0 2010",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501041846010",
       "id_produto": "9337",
       "nome": "ALAVANCA COMANDO CHAVE DE SETA KIA SPORTAGE EX 2.0 14/15",
       "marca": "KIA",
       "modelo_do_veiculo": "SPORTAGE EX 2.0 16V/ 2.0 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501042001024",
+      "id_produto": "9934",
+      "nome": "MÓDULO DE INJEÇÃO CHERY ARRIZO 6 PRO 1.5 TURBO FLEX 2022",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "ARRIZO 6 PRO 1.5 TURBO FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501042079024",
+      "id_produto": "9938",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LTZ 1.4 8V FLEX 17",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501079894518",
@@ -1714,6 +1836,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501080701020",
+      "id_produto": "7167",
+      "nome": "LANTERNA TRASEIRA ESQUERDA TOYOTA COROLLA XEI 2.0 FLEX 22/23",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "COROLLA XEI 2.0 FLEX 16V AUTOMATICO",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501084561049",
       "id_produto": "7986",
       "nome": "VOLANTE DO MOTORISTA TOYOTA COROLLA ALTIS/A.PREMIU. 2.0 2013",
@@ -1721,7 +1855,7 @@
       "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
       "status": "Habilitado",
       "status_ml": "active",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
     },
@@ -1978,6 +2112,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103469007",
+      "id_produto": "20433",
+      "nome": "CAPÔ CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103469026",
       "id_produto": "20446",
       "nome": "MOTOR DE PARTIDA CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
@@ -1988,6 +2134,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103469032",
+      "id_produto": "20434",
+      "nome": "PORTA DIANT DIREITA CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103469033",
+      "id_produto": "20435",
+      "nome": "PORTA DIANT ESQ CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103469422",
@@ -2047,6 +2217,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501123540011",
+      "id_produto": "9913",
+      "nome": "COMPRESSOR AR-COND RENAULT LOGAN EXP. UP HI-FLEX 1.0 13",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN EXP. UP HI-FLEX 1.0 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
       "qtd_images": "10"
     },
     {
@@ -3233,8 +3415,8 @@
       "nome": "CAPÔ CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -3281,8 +3463,8 @@
       "nome": "PORTA DIANT ESQ CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3317,8 +3499,8 @@
       "nome": "PORTA DIANT DIREITA CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -3462,7 +3644,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "9"
@@ -3775,7 +3957,7 @@
       "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
       "status": "Habilitado",
       "status_ml": "active",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
     },
@@ -3798,10 +3980,10 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA XEI 2.0 FLEX 16V AUTOMATICO",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
-      "qtd_images": "12"
+      "qtd_images": "10"
     },
     "SP12501015209026": {
       "sku": "SP12501015209026",
@@ -3842,11 +4024,11 @@
     "SP12501123540011": {
       "sku": "SP12501123540011",
       "id_produto": "9913",
-      "nome": "COMPRESSOR AR-COND RENAULT  LOGAN EXP. UP HI-FLEX 1.0 2013",
+      "nome": "COMPRESSOR AR-COND RENAULT LOGAN EXP. UP HI-FLEX 1.0 13",
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN EXP. UP HI-FLEX 1.0 16V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -3914,11 +4096,11 @@
     "SP12501042079024": {
       "sku": "SP12501042079024",
       "id_produto": "9938",
-      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LTZ 1.4 8V FLEX 16/17",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LTZ 1.4 8V FLEX 17",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -3990,7 +4172,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "ARRIZO 6 PRO 1.5 TURBO FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "6"
@@ -4026,8 +4208,8 @@
       "marca": "KIA",
       "modelo_do_veiculo": "SPORTAGE EX 2.0 16V/ 2.0 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
     },
@@ -4150,6 +4332,66 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
+    },
+    "SP12501057840037": {
+      "sku": "SP12501057840037",
+      "id_produto": "13844",
+      "nome": "RETROVISOR DIREITO FIAT STRADA FREEDOM 1.3 FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA FREEDOM 1.3 FLEX 8V CS PLUS",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "7"
+    },
+    "SP12501057130024": {
+      "sku": "SP12501057130024",
+      "id_produto": "14664",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ZAFIRA COMFORT 2.0 FLEX 2004/05",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA COMFORT 2.0 FLEXPOWER MEC.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "3"
+    },
+    "SP12501042273018": {
+      "sku": "SP12501042273018",
+      "id_produto": "13483",
+      "nome": "INTERCOOLER CHEVROLET TRACKER LT 1.4 TURBO 16V 2017/2018",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER LT 1.4 TURBO 16V FLEX 4X2 AUT.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "3"
+    },
+    "SP12501123141027": {
+      "sku": "SP12501123141027",
+      "id_produto": "14770",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT UNO SPORTING 1.4 EVO FLEX 12/12",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO SPORTING 1.4 EVO FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    "SP12501109572037": {
+      "sku": "SP12501109572037",
+      "id_produto": "14291",
+      "nome": "RETROVISOR DIREITO FIAT FASTBACK 200 TURBO 2024/2025",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FASTBACK 1.0 200 TURBO FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "3"
     }
   }
 }
