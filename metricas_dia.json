@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 12:12:45",
+  "ultima_atualizacao": "28/08/2026 12:21:18",
   "total_base_dia": 83,
-  "total_atual": 111,
-  "novos_produtos": 28,
+  "total_atual": 118,
+  "novos_produtos": 35,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -132,6 +132,7 @@
     "SP12501041145437",
     "SP12501041250004",
     "SP12501041641028",
+    "SP12501041714400",
     "SP12501041749039",
     "SP12501041749040",
     "SP12501041749041",
@@ -166,18 +167,24 @@
     "SP12501102519033",
     "SP12501102519045",
     "SP12501102527032",
+    "SP12501103370001",
     "SP12501103370004",
+    "SP12501103370010",
     "SP12501103370024",
+    "SP12501103370026",
     "SP12501103400004",
     "SP12501103400019",
     "SP12501103400411",
     "SP12501103418004",
+    "SP12501103418026",
     "SP12501103418036",
     "SP12501103418411",
     "SP12501103426004",
+    "SP12501103426011",
     "SP12501103426012",
     "SP12501103426020",
     "SP12501103426024",
+    "SP12501103426026",
     "SP12501103426036",
     "SP12501103469007",
     "SP12501103469032",
@@ -213,19 +220,26 @@
     "SP12501015322019",
     "SP12501015616014",
     "SP12501015829036",
+    "SP12501041714400",
     "SP12501080370025",
     "SP12501084448038",
+    "SP12501103370001",
     "SP12501103370004",
+    "SP12501103370010",
     "SP12501103370024",
+    "SP12501103370026",
     "SP12501103400019",
     "SP12501103400411",
     "SP12501103418004",
+    "SP12501103418026",
     "SP12501103418036",
     "SP12501103418411",
     "SP12501103426004",
+    "SP12501103426011",
     "SP12501103426012",
     "SP12501103426020",
     "SP12501103426024",
+    "SP12501103426026",
     "SP12501103426036",
     "SP12501103469007",
     "SP12501103469032",
@@ -334,6 +348,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501041714400",
+      "id_produto": "8580",
+      "nome": "MOTOR COMPLETO RENAULT SANDERO EXPRESSION HI-FLEX 1.0 2010",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501080370025",
       "id_produto": "15589",
       "nome": "MOD CAMBIO",
@@ -358,6 +384,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501103370001",
+      "id_produto": "20436",
+      "nome": "ALTERNADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103370004",
       "id_produto": "20421",
       "nome": "CÂMBIO MANUAL",
@@ -370,6 +408,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501103370010",
+      "id_produto": "20437",
+      "nome": "CHAVE DE SETA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103370024",
       "id_produto": "20422",
       "nome": "MÓDULO DE INJEÇÃO",
@@ -380,6 +430,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103370026",
+      "id_produto": "20438",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501103400019",
@@ -418,6 +480,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103418026",
+      "id_produto": "20440",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501103418036",
       "id_produto": "20426",
       "nome": "RADIADOR",
@@ -454,6 +528,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103426011",
+      "id_produto": "20442",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103426012",
       "id_produto": "20429",
       "nome": "CONDENSADOR DO AR-CONDICIONADO",
@@ -487,6 +573,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103426026",
+      "id_produto": "20444",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "6"
     },
     {
@@ -1907,6 +2005,90 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP12501103418026": {
+      "sku": "SP12501103418026",
+      "id_produto": "20440",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    "SP12501103370010": {
+      "sku": "SP12501103370010",
+      "id_produto": "20437",
+      "nome": "CHAVE DE SETA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501103426026": {
+      "sku": "SP12501103426026",
+      "id_produto": "20444",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP12501103370001": {
+      "sku": "SP12501103370001",
+      "id_produto": "20436",
+      "nome": "ALTERNADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501103370026": {
+      "sku": "SP12501103370026",
+      "id_produto": "20438",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501041714400": {
+      "sku": "SP12501041714400",
+      "id_produto": "8580",
+      "nome": "MOTOR COMPLETO RENAULT SANDERO EXPRESSION HI-FLEX 1.0 2010",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "9"
+    },
+    "SP12501103426011": {
+      "sku": "SP12501103426011",
+      "id_produto": "20442",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   }
 }
