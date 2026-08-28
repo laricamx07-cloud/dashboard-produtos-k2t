@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 11:27:31",
+  "ultima_atualizacao": "28/08/2026 11:43:19",
   "total_base_dia": 83,
-  "total_atual": 107,
-  "novos_produtos": 24,
+  "total_atual": 109,
+  "novos_produtos": 26,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -114,6 +114,7 @@
     "SP12501014075424",
     "SP12501014105026",
     "SP12501014806045",
+    "SP12501015195010",
     "SP12501015586034",
     "SP12501015616014",
     "SP12501015730034",
@@ -145,6 +146,7 @@
     "SP12501080469424",
     "SP12501080485026",
     "SP12501083808453",
+    "SP12501084448038",
     "SP12501084790033",
     "SP12501084790035",
     "SP12501089989035",
@@ -204,9 +206,11 @@
     "SP12501004665001",
     "SP12501004665026",
     "SP12501005084011",
+    "SP12501015195010",
     "SP12501015616014",
     "SP12501015829036",
     "SP12501080370025",
+    "SP12501084448038",
     "SP12501103370004",
     "SP12501103370024",
     "SP12501103400019",
@@ -266,6 +270,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501015195010",
+      "id_produto": "19165",
+      "nome": "CHAVE DE SETA",
+      "marca": "TOKIO MARINE SEGURAD",
+      "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501015616014",
       "id_produto": "19177",
       "nome": "DIFERENCIAL EIXO TRASEIRO",
@@ -299,6 +315,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501084448038",
+      "id_produto": "15573",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "8"
     },
     {
@@ -1803,6 +1831,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP12501015195010": {
+      "sku": "SP12501015195010",
+      "id_produto": "19165",
+      "nome": "CHAVE DE SETA",
+      "marca": "TOKIO MARINE SEGURAD",
+      "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP12501084448038": {
+      "sku": "SP12501084448038",
+      "id_produto": "15573",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   }
 }
