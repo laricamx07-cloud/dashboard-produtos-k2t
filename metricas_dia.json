@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 15:57:32",
+  "ultima_atualizacao": "28/08/2026 16:13:30",
   "total_base_dia": 83,
-  "total_atual": 131,
-  "novos_produtos": 64,
-  "total_subidos": 16,
+  "total_atual": 125,
+  "novos_produtos": 65,
+  "total_subidos": 23,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -137,6 +137,7 @@
     "SP12501016000032",
     "SP12501016000034",
     "SP12501016027033",
+    "SP12501016248411",
     "SP12501016590045",
     "SP12501016779033",
     "SP12501016779035",
@@ -261,6 +262,7 @@
     "SP12501015365011",
     "SP12501015616014",
     "SP12501015829036",
+    "SP12501016248411",
     "SP12501041188026",
     "SP12501041714400",
     "SP12501079894518",
@@ -307,6 +309,8 @@
     "SP32501002896877"
   ],
   "skus_subidos_hoje": [
+    "SP12501005122018",
+    "SP12501010487011",
     "SP12501103370004",
     "SP12501103370024",
     "SP12501103400004",
@@ -315,7 +319,12 @@
     "SP12501103418036",
     "SP12501103418411",
     "SP12501103426004",
+    "SP12501103426010",
+    "SP12501103426011",
+    "SP12501103426012",
     "SP12501103426019",
+    "SP12501103426020",
+    "SP12501103426024",
     "SP12501103426026",
     "SP12501103426027",
     "SP12501103469026",
@@ -325,6 +334,8 @@
     "SP12501103523030"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501005122018",
+    "SP12501010487011",
     "SP12501103370004",
     "SP12501103370024",
     "SP12501103400004",
@@ -333,7 +344,12 @@
     "SP12501103418036",
     "SP12501103418411",
     "SP12501103426004",
+    "SP12501103426010",
+    "SP12501103426011",
+    "SP12501103426012",
     "SP12501103426019",
+    "SP12501103426020",
+    "SP12501103426024",
     "SP12501103426026",
     "SP12501103426027",
     "SP12501103469026",
@@ -398,8 +414,8 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA PLATINUM 1.0 TB 12V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "9",
       "qtd_images": "6"
     },
@@ -470,10 +486,10 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO VOLCANO 2.0",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "11"
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501015195010",
@@ -581,6 +597,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501016248411",
+      "id_produto": "343",
+      "nome": "Eletroventilador Fiat Palio Elx 1.4 Fire Flex 8v 2009/2010",
+      "marca": "Fiat",
+      "modelo_do_veiculo": "Palio Elx 1.4 Fire 30 Anos Flex 8v 4 Portas",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
       "qtd_images": "5"
     },
     {
@@ -814,7 +842,7 @@
     {
       "sku": "SP12501103418026",
       "id_produto": "20440",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Desabilitado",
@@ -862,11 +890,11 @@
     {
       "sku": "SP12501103426010",
       "id_produto": "20441",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA HONDA FIT LX 1.4 MEC 2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
       "status": "Desabilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -874,11 +902,11 @@
     {
       "sku": "SP12501103426011",
       "id_produto": "20442",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT LX 1.4 MEC 2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
       "status": "Desabilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -886,11 +914,11 @@
     {
       "sku": "SP12501103426012",
       "id_produto": "20429",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO HONDA FIT LX 1.4 MEC 04/04",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -910,11 +938,11 @@
     {
       "sku": "SP12501103426020",
       "id_produto": "20430",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -922,11 +950,11 @@
     {
       "sku": "SP12501103426024",
       "id_produto": "20431",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1114,6 +1142,30 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501005122018",
+      "id_produto": "3642",
+      "nome": "RADIADOR INTERCOOLER HYUNDAI CRETA PLATINUM 1.0 TB 2023",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA PLATINUM 1.0 TB 12V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "0",
+      "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501010487011",
+      "id_produto": "3196",
+      "nome": "COMPRESSOR DE AR FIAT TORO VOLCANO 2.0 2017/2018",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO VOLCANO 2.0",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103370004",
       "id_produto": "20421",
       "nome": "CÂMBIO MANUAL FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
@@ -1210,6 +1262,42 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103426010",
+      "id_produto": "20441",
+      "nome": "CHAVE DE SETA HONDA FIT LX 1.4 MEC 2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Desabilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103426011",
+      "id_produto": "20442",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT LX 1.4 MEC 2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Desabilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103426012",
+      "id_produto": "20429",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO HONDA FIT LX 1.4 MEC 04/04",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103426019",
       "id_produto": "20443",
       "nome": "LANTERNA TRASEIRA DIREITA HONDA FIT LX 1.4 MEC 2004",
@@ -1220,6 +1308,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103426020",
+      "id_produto": "20430",
+      "nome": "LANTERNA TRASEIRA ESQUERDA HONDA FIT LX 1.4 MEC 2004/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103426024",
+      "id_produto": "20431",
+      "nome": "MÓDULO DE INJEÇÃO HONDA FIT LX 1.4 MEC 2004/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501103426026",
@@ -2390,11 +2502,11 @@
     "SP12501103426024": {
       "sku": "SP12501103426024",
       "id_produto": "20431",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -2438,11 +2550,11 @@
     "SP12501103426012": {
       "sku": "SP12501103426012",
       "id_produto": "20429",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO HONDA FIT LX 1.4 MEC 04/04",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -2534,11 +2646,11 @@
     "SP12501103426020": {
       "sku": "SP12501103426020",
       "id_produto": "20430",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2642,7 +2754,7 @@
     "SP12501103418026": {
       "sku": "SP12501103418026",
       "id_produto": "20440",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Desabilitado",
@@ -2714,11 +2826,11 @@
     "SP12501103426011": {
       "sku": "SP12501103426011",
       "id_produto": "20442",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT LX 1.4 MEC 2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
       "status": "Desabilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -2738,11 +2850,11 @@
     "SP12501103426010": {
       "sku": "SP12501103426010",
       "id_produto": "20441",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA HONDA FIT LX 1.4 MEC 2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
       "status": "Desabilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -2898,10 +3010,10 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO VOLCANO 2.0",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "11"
+      "qtd_images": "10"
     },
     "SP12501015357027": {
       "sku": "SP12501015357027",
@@ -2994,8 +3106,8 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA PLATINUM 1.0 TB 12V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "9",
       "qtd_images": "6"
     },
@@ -3070,6 +3182,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
+    },
+    "SP12501016248411": {
+      "sku": "SP12501016248411",
+      "id_produto": "343",
+      "nome": "Eletroventilador Fiat Palio Elx 1.4 Fire Flex 8v 2009/2010",
+      "marca": "Fiat",
+      "modelo_do_veiculo": "Palio Elx 1.4 Fire 30 Anos Flex 8v 4 Portas",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "5"
     }
   }
 }
