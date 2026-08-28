@@ -1,7 +1,7 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 17:57:27",
+  "ultima_atualizacao": "28/08/2026 18:13:11",
   "total_base_dia": 83,
   "total_atual": 119,
   "novos_produtos": 101,
@@ -618,7 +618,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO TREKKING 1.3 8V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -750,7 +750,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "FASTBACK ABARTH TURBO FLEX 1.3 AUT",
       "status": "Desabilitado",
-      "status_ml": "closed",
+      "status_ml": "active",
       "quantidade": "0",
       "classificacao": "9",
       "qtd_images": "6"
@@ -1110,7 +1110,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -1262,10 +1262,10 @@
     {
       "sku": "SP12501103370483",
       "id_produto": "20452",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "PNEU 175/70 R13 GOODYEAR EAGLE",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
@@ -1550,7 +1550,7 @@
     {
       "sku": "SP12501103469400",
       "id_produto": "20453",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Desabilitado",
@@ -1796,7 +1796,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO TREKKING 1.3 8V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -1856,7 +1856,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "FASTBACK ABARTH TURBO FLEX 1.3 AUT",
       "status": "Desabilitado",
-      "status_ml": "closed",
+      "status_ml": "active",
       "quantidade": "0",
       "classificacao": "9",
       "qtd_images": "6"
@@ -2048,7 +2048,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -4114,7 +4114,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "FASTBACK ABARTH TURBO FLEX 1.3 AUT",
       "status": "Desabilitado",
-      "status_ml": "closed",
+      "status_ml": "active",
       "quantidade": "0",
       "classificacao": "9",
       "qtd_images": "6"
@@ -4302,10 +4302,10 @@
     "SP12501103370483": {
       "sku": "SP12501103370483",
       "id_produto": "20452",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "PNEU 175/70 R13 GOODYEAR EAGLE",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
@@ -4390,7 +4390,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO TREKKING 1.3 8V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -4402,7 +4402,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -4410,7 +4410,7 @@
     "SP12501103469400": {
       "sku": "SP12501103469400",
       "id_produto": "20453",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Desabilitado",
