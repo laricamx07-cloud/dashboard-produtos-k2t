@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 17:22:28",
+  "ultima_atualizacao": "28/08/2026 17:26:58",
   "total_base_dia": 83,
-  "total_atual": 129,
-  "novos_produtos": 97,
-  "total_subidos": 51,
+  "total_atual": 130,
+  "novos_produtos": 100,
+  "total_subidos": 53,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -149,6 +149,7 @@
     "SP12501041188026",
     "SP12501041250004",
     "SP12501041617029",
+    "SP12501041625026",
     "SP12501041641028",
     "SP12501041714400",
     "SP12501041749039",
@@ -263,7 +264,9 @@
     "SP12501121408027",
     "SP12501121831001",
     "SP12501122129036",
+    "SP12501123141004",
     "SP12501123141027",
+    "SP12501123346024",
     "SP12501123540011",
     "SP32501002896070",
     "SP32501002896803",
@@ -300,6 +303,7 @@
     "SP12501016248411",
     "SP12501041188026",
     "SP12501041617029",
+    "SP12501041625026",
     "SP12501041714400",
     "SP12501041846010",
     "SP12501042001024",
@@ -365,7 +369,9 @@
     "SP12501121408027",
     "SP12501121831001",
     "SP12501122129036",
+    "SP12501123141004",
     "SP12501123141027",
+    "SP12501123346024",
     "SP12501123540011",
     "SP32501002896070",
     "SP32501002896803",
@@ -413,6 +419,7 @@
     "SP12501103426024",
     "SP12501103426026",
     "SP12501103426027",
+    "SP12501103426036",
     "SP12501103469007",
     "SP12501103469026",
     "SP12501103469032",
@@ -422,6 +429,7 @@
     "SP12501103485030",
     "SP12501103523030",
     "SP12501116765030",
+    "SP12501122129036",
     "SP12501123540011",
     "SP32501002896070"
   ],
@@ -466,6 +474,7 @@
     "SP12501103426024",
     "SP12501103426026",
     "SP12501103426027",
+    "SP12501103426036",
     "SP12501103469007",
     "SP12501103469026",
     "SP12501103469032",
@@ -475,6 +484,7 @@
     "SP12501103485030",
     "SP12501103523030",
     "SP12501116765030",
+    "SP12501122129036",
     "SP12501123540011",
     "SP32501002896070"
   ],
@@ -790,6 +800,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501041625026",
+      "id_produto": "15556",
+      "nome": "MOTOR DE PARTIDA FIAT PALIO WEEKEND TREKK. 1.6 16V 2012/2013",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO WEEKEND TREKKING 1.6 FLEX 16V 5P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501041714400",
@@ -1394,11 +1416,11 @@
     {
       "sku": "SP12501103426036",
       "id_produto": "20432",
-      "nome": "RADIADOR HONDA FIT LX 1.4 MEC 2004",
+      "nome": "RADIADOR HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1566,10 +1588,22 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "207 SW XR 1.4 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "10"
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501123141004",
+      "id_produto": "15179",
+      "nome": "CÂMBIO MANUAL FIAT UNO SPORTING 1.4 EVO FIRE 8V 2012/2012",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO SPORTING 1.4 EVO FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501123141027",
@@ -1577,6 +1611,18 @@
       "nome": "PAINEL DE INSTRUMENTOS FIAT UNO SPORTING 1.4 EVO FLEX 12/12",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO SPORTING 1.4 EVO FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123346024",
+      "id_produto": "15100",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN GOL (NOVO) 1.0 TOTAL FLEX 09/10",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -2126,6 +2172,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103426036",
+      "id_produto": "20432",
+      "nome": "RADIADOR HONDA FIT LX 1.4 MEC 2004/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103469007",
       "id_produto": "20433",
       "nome": "CAPÔ CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
@@ -2232,6 +2290,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501122129036",
+      "id_produto": "10035",
+      "nome": "RADIADOR PEUGEOT 207 SW XR 1.4 FLEX 2010/2011",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "207 SW XR 1.4 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501123540011",
@@ -3462,11 +3532,11 @@
     "SP12501103426036": {
       "sku": "SP12501103426036",
       "id_produto": "20432",
-      "nome": "RADIADOR HONDA FIT LX 1.4 MEC 2004",
+      "nome": "RADIADOR HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -4102,10 +4172,10 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "207 SW XR 1.4 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "10"
+      "qtd_images": "9"
     },
     "SP12501042079024": {
       "sku": "SP12501042079024",
@@ -4417,6 +4487,42 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501123346024": {
+      "sku": "SP12501123346024",
+      "id_produto": "15100",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN GOL (NOVO) 1.0 TOTAL FLEX 09/10",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    "SP12501123141004": {
+      "sku": "SP12501123141004",
+      "id_produto": "15179",
+      "nome": "CÂMBIO MANUAL FIAT UNO SPORTING 1.4 EVO FIRE 8V 2012/2012",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO SPORTING 1.4 EVO FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501041625026": {
+      "sku": "SP12501041625026",
+      "id_produto": "15556",
+      "nome": "MOTOR DE PARTIDA FIAT PALIO WEEKEND TREKK. 1.6 16V 2012/2013",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO WEEKEND TREKKING 1.6 FLEX 16V 5P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
       "qtd_images": "8"
     }
   }
