@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 18:43:04",
+  "ultima_atualizacao": "28/08/2026 18:51:15",
   "total_base_dia": 83,
-  "total_atual": 112,
+  "total_atual": 110,
   "novos_produtos": 101,
-  "total_subidos": 72,
+  "total_subidos": 74,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -393,6 +393,7 @@
     "SP12501015195010",
     "SP12501015195016",
     "SP12501015209026",
+    "SP12501015225010",
     "SP12501015322019",
     "SP12501015357027",
     "SP12501015365011",
@@ -452,7 +453,8 @@
     "SP12501116765030",
     "SP12501122129036",
     "SP12501123540011",
-    "SP32501002896070"
+    "SP32501002896070",
+    "SP32501002896877"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004371001",
@@ -467,6 +469,7 @@
     "SP12501015195010",
     "SP12501015195016",
     "SP12501015209026",
+    "SP12501015225010",
     "SP12501015322019",
     "SP12501015357027",
     "SP12501015365011",
@@ -526,7 +529,8 @@
     "SP12501116765030",
     "SP12501122129036",
     "SP12501123540011",
-    "SP32501002896070"
+    "SP32501002896070",
+    "SP32501002896877"
   ],
   "itens_novos_hoje": [
     {
@@ -716,7 +720,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -736,11 +740,11 @@
     {
       "sku": "SP12501015225010",
       "id_produto": "18960",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA GM ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC. 2019",
       "marca": "GM",
       "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -1732,11 +1736,11 @@
     {
       "sku": "SP32501002896877",
       "id_produto": "17526",
-      "nome": "ENGATE FRONTAL",
+      "nome": "ENGATE FRONTAL RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 2019",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
@@ -1870,7 +1874,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1886,6 +1890,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015225010",
+      "id_produto": "18960",
+      "nome": "CHAVE DE SETA GM ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC. 2019",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501015322019",
@@ -2606,6 +2622,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP32501002896877",
+      "id_produto": "17526",
+      "nome": "ENGATE FRONTAL RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 2019",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -3924,7 +3952,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -4088,11 +4116,11 @@
     "SP12501015225010": {
       "sku": "SP12501015225010",
       "id_produto": "18960",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA GM ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC. 2019",
       "marca": "GM",
       "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -4112,11 +4140,11 @@
     "SP32501002896877": {
       "sku": "SP32501002896877",
       "id_produto": "17526",
-      "nome": "ENGATE FRONTAL",
+      "nome": "ENGATE FRONTAL RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 2019",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
