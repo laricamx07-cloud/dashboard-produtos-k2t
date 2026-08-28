@@ -1,7 +1,7 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 18:51:15",
+  "ultima_atualizacao": "28/08/2026 18:57:26",
   "total_base_dia": 83,
   "total_atual": 110,
   "novos_produtos": 101,
@@ -708,7 +708,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -1740,7 +1740,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
@@ -1862,7 +1862,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -2630,7 +2630,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
@@ -3928,7 +3928,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA SMART PLUS 1.6 16V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -4144,7 +4144,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
