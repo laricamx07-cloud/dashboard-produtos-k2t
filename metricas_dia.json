@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 12:21:18",
+  "ultima_atualizacao": "28/08/2026 12:27:20",
   "total_base_dia": 83,
-  "total_atual": 118,
-  "novos_produtos": 35,
+  "total_atual": 120,
+  "novos_produtos": 37,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -180,6 +180,7 @@
     "SP12501103418036",
     "SP12501103418411",
     "SP12501103426004",
+    "SP12501103426010",
     "SP12501103426011",
     "SP12501103426012",
     "SP12501103426020",
@@ -187,6 +188,7 @@
     "SP12501103426026",
     "SP12501103426036",
     "SP12501103469007",
+    "SP12501103469026",
     "SP12501103469032",
     "SP12501103469033",
     "SP12501103485004",
@@ -235,6 +237,7 @@
     "SP12501103418036",
     "SP12501103418411",
     "SP12501103426004",
+    "SP12501103426010",
     "SP12501103426011",
     "SP12501103426012",
     "SP12501103426020",
@@ -242,6 +245,7 @@
     "SP12501103426026",
     "SP12501103426036",
     "SP12501103469007",
+    "SP12501103469026",
     "SP12501103469032",
     "SP12501103469033",
     "SP32501002896070",
@@ -528,6 +532,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103426010",
+      "id_produto": "20441",
+      "nome": "CHAVE DE SETA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103426011",
       "id_produto": "20442",
       "nome": "COMPRESSOR DO AR-CONDICIONADO",
@@ -610,6 +626,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103469026",
+      "id_produto": "20446",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501103469032",
@@ -2089,6 +2117,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    "SP12501103469026": {
+      "sku": "SP12501103469026",
+      "id_produto": "20446",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    "SP12501103426010": {
+      "sku": "SP12501103426010",
+      "id_produto": "20441",
+      "nome": "CHAVE DE SETA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
     }
   }
 }
