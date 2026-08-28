@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 17:21:28",
+  "ultima_atualizacao": "28/08/2026 17:22:28",
   "total_base_dia": 83,
-  "total_atual": 128,
-  "novos_produtos": 96,
+  "total_atual": 129,
+  "novos_produtos": 97,
   "total_subidos": 51,
   "skus_base_dia": [
     "SP12501004355012",
@@ -261,6 +261,7 @@
     "SP12501116765042",
     "SP12501116765043",
     "SP12501121408027",
+    "SP12501121831001",
     "SP12501122129036",
     "SP12501123141027",
     "SP12501123540011",
@@ -362,6 +363,7 @@
     "SP12501109572037",
     "SP12501116765030",
     "SP12501121408027",
+    "SP12501121831001",
     "SP12501122129036",
     "SP12501123141027",
     "SP12501123540011",
@@ -1444,7 +1446,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1543,6 +1545,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501121831001",
+      "id_produto": "14923",
+      "nome": "ALTERNADOR RENAULT DUSTER INTENSE CVT 1.6 16V SCE 2023/2024",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER INTENSE CVT 1.6 16V SCE AUT.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "8"
     },
     {
@@ -2118,7 +2132,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -3416,7 +3430,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -4392,6 +4406,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "3"
+    },
+    "SP12501121831001": {
+      "sku": "SP12501121831001",
+      "id_produto": "14923",
+      "nome": "ALTERNADOR RENAULT DUSTER INTENSE CVT 1.6 16V SCE 2023/2024",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER INTENSE CVT 1.6 16V SCE AUT.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     }
   }
 }
