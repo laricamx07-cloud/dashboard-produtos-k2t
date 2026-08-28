@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 16:57:17",
+  "ultima_atualizacao": "28/08/2026 17:10:12",
   "total_base_dia": 83,
-  "total_atual": 133,
-  "novos_produtos": 85,
-  "total_subidos": 35,
+  "total_atual": 131,
+  "novos_produtos": 90,
+  "total_subidos": 42,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -120,6 +120,7 @@
     "SP12501010312034",
     "SP12501010380026",
     "SP12501010487011",
+    "SP12501010835034",
     "SP12501014075424",
     "SP12501014105026",
     "SP12501014806045",
@@ -158,6 +159,7 @@
     "SP12501042079024",
     "SP12501042109011",
     "SP12501042273041",
+    "SP12501054298027",
     "SP12501057165027",
     "SP12501079894518",
     "SP12501079959400",
@@ -176,14 +178,17 @@
     "SP12501080701020",
     "SP12501083808453",
     "SP12501083964024",
+    "SP12501084251039",
     "SP12501084448038",
     "SP12501084561049",
     "SP12501084618011",
+    "SP12501084677027",
     "SP12501084774026",
     "SP12501084790033",
     "SP12501084790035",
     "SP12501087722024",
     "SP12501087986049",
+    "SP12501088125534",
     "SP12501088133011",
     "SP12501089989035",
     "SP12501100710032",
@@ -274,6 +279,7 @@
     "SP12501009837011",
     "SP12501010380026",
     "SP12501010487011",
+    "SP12501010835034",
     "SP12501014814025",
     "SP12501015195010",
     "SP12501015195016",
@@ -292,6 +298,7 @@
     "SP12501042001024",
     "SP12501042079024",
     "SP12501042109011",
+    "SP12501054298027",
     "SP12501057165027",
     "SP12501079894518",
     "SP12501079983026",
@@ -299,12 +306,15 @@
     "SP12501080370025",
     "SP12501080701020",
     "SP12501083964024",
+    "SP12501084251039",
     "SP12501084448038",
     "SP12501084561049",
     "SP12501084618011",
+    "SP12501084677027",
     "SP12501084774026",
     "SP12501087722024",
     "SP12501087986049",
+    "SP12501088125534",
     "SP12501088133011",
     "SP12501103370001",
     "SP12501103370004",
@@ -349,13 +359,20 @@
     "SP32501002896877"
   ],
   "skus_subidos_hoje": [
+    "SP12501004371001",
     "SP12501005122018",
     "SP12501005173025",
     "SP12501005378024",
     "SP12501009586001",
+    "SP12501010380026",
     "SP12501010487011",
     "SP12501014814025",
     "SP12501015209026",
+    "SP12501015357027",
+    "SP12501079894518",
+    "SP12501079983026",
+    "SP12501080108001",
+    "SP12501084561049",
     "SP12501103370001",
     "SP12501103370004",
     "SP12501103370010",
@@ -386,13 +403,20 @@
     "SP32501002896070"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501004371001",
     "SP12501005122018",
     "SP12501005173025",
     "SP12501005378024",
     "SP12501009586001",
+    "SP12501010380026",
     "SP12501010487011",
     "SP12501014814025",
     "SP12501015209026",
+    "SP12501015357027",
+    "SP12501079894518",
+    "SP12501079983026",
+    "SP12501080108001",
+    "SP12501084561049",
     "SP12501103370001",
     "SP12501103370004",
     "SP12501103370010",
@@ -430,7 +454,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO VOLCANO 2.0 16V 4X4 TB DIESEL AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -514,7 +538,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 1.0M COMFOR",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -550,7 +574,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN EXPRESSION HI-FLEX 1.6 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -568,6 +592,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501010835034",
+      "id_produto": "11158",
+      "nome": "PORTA TRAS DIREITA PRATA NISSAN VERSA SV 1.6 16V 2015/2016",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "VERSA SV 1.6 16V FLEX FUEL 4P MEC.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501014814025",
       "id_produto": "3755",
       "nome": "MÓDULO CÂMBIO JEEP RENEGADE LONGITUDE 1.8 16V AUT 2015",
@@ -575,7 +611,7 @@
       "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
       "status": "Habilitado",
       "status_ml": "active",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": null,
       "qtd_images": "7"
     },
@@ -646,8 +682,8 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "FASTBACK ABARTH TURBO FLEX 1.3 AUT",
       "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status_ml": "active",
+      "quantidade": "0",
       "classificacao": "9",
       "qtd_images": "6"
     },
@@ -784,6 +820,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501054298027",
+      "id_produto": "13121",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MERIVA JOY 1.8 8V 2005/06",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MERIVA JOY 1.8 MPFI 8V FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501057165027",
       "id_produto": "12380",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET CLASSIC LIFE/LS 1.0 2012",
@@ -798,11 +846,11 @@
     {
       "sku": "SP12501079894518",
       "id_produto": "5471",
-      "nome": "FECH PORTA DIANTEIRA ESQUERDA TOYOTA ETIOS PLATINUM 1.5 2018",
+      "nome": "FECHADURA PORTA DIANTEIRA ESQUERDA TOYOTA ETIOS 1.5 2018",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS PLATINUM 1.5 FLEX 16V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "7"
@@ -814,7 +862,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA LIFE/ LS 1.0 MPFI 8V FLEXPOWER 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -826,7 +874,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA VOLCANO 1.3 FLEX 8V CD",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -868,6 +916,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501084251039",
+      "id_produto": "10152",
+      "nome": "RODA LIGA LEVE ARO 14 4 FUROS CINZA FIAT UNO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "3"
+    },
+    {
       "sku": "SP12501084448038",
       "id_produto": "15573",
       "nome": "RETROVISOR ESQUERDO",
@@ -886,7 +946,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
@@ -902,6 +962,18 @@
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501084677027",
+      "id_produto": "13426",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET ONIX HATCH JOY 1.0 2018/19",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH JOY 1.0 8V FLEX 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "4"
     },
     {
       "sku": "SP12501084774026",
@@ -938,6 +1010,18 @@
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "4"
+    },
+    {
+      "sku": "SP12501088125534",
+      "id_produto": "13258",
+      "nome": "COMANDO DIGITAL CENTRAL DO AR CONDICIONA FIAT Toro 2.0 2020",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "Toro Ranch 2.0 16V 4x4 TB Diesel Aut.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501088133011",
@@ -1230,7 +1314,7 @@
     {
       "sku": "SP12501103426036",
       "id_produto": "20432",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR HONDA FIT LX 1.4 MEC 2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
       "status": "Desabilitado",
@@ -1278,7 +1362,7 @@
     {
       "sku": "SP12501103469007",
       "id_produto": "20433",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Desabilitado",
@@ -1302,7 +1386,7 @@
     {
       "sku": "SP12501103469032",
       "id_produto": "20434",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANT DIREITA CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Desabilitado",
@@ -1446,6 +1530,18 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501004371001",
+      "id_produto": "5807",
+      "nome": "ALTERNADOR FIAT TORO VOLCANO 2.0 16V 4X4 TB DIESEL 2016/2017",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO VOLCANO 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501005122018",
       "id_produto": "3642",
       "nome": "RADIADOR INTERCOOLER HYUNDAI CRETA PLATINUM 1.0 TB 2023",
@@ -1488,9 +1584,21 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 1.0M COMFOR",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501010380026",
+      "id_produto": "5872",
+      "nome": "MOTOR DE PARTIDA RENAULT LOGAN EXPRESSION 1.6 8V 2011",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN EXPRESSION HI-FLEX 1.6 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
       "qtd_images": "10"
     },
     {
@@ -1513,7 +1621,7 @@
       "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
       "status": "Habilitado",
       "status_ml": "active",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": null,
       "qtd_images": "7"
     },
@@ -1528,6 +1636,66 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015357027",
+      "id_produto": "5462",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT FASTBACK ABARTH 1.3 2023/2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FASTBACK ABARTH TURBO FLEX 1.3 AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "0",
+      "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501079894518",
+      "id_produto": "5471",
+      "nome": "FECHADURA PORTA DIANTEIRA ESQUERDA TOYOTA ETIOS 1.5 2018",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS PLATINUM 1.5 FLEX 16V 4P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501079983026",
+      "id_produto": "6569",
+      "nome": "MOTOR DE PARTIDA CHEVROLET  CELTA LIFE/ LS 1.0 MPFI 2013",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA LIFE/ LS 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501080108001",
+      "id_produto": "6637",
+      "nome": "ALTERNADOR FIAT STRADA VOLCANO 1.3 FLEX 8V 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA VOLCANO 1.3 FLEX 8V CD",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501084561049",
+      "id_produto": "7986",
+      "nome": "VOLANTE DO MOTORISTA TOYOTA COROLLA ALTIS/A.PREMIU. 2.0 2013",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501103370001",
@@ -3034,7 +3202,7 @@
     "SP12501103469007": {
       "sku": "SP12501103469007",
       "id_produto": "20433",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Desabilitado",
@@ -3070,7 +3238,7 @@
     "SP12501103426036": {
       "sku": "SP12501103426036",
       "id_produto": "20432",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR HONDA FIT LX 1.4 MEC 2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
       "status": "Desabilitado",
@@ -3118,7 +3286,7 @@
     "SP12501103469032": {
       "sku": "SP12501103469032",
       "id_produto": "20434",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANT DIREITA CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Desabilitado",
@@ -3434,7 +3602,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 1.0M COMFOR",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -3470,8 +3638,8 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "FASTBACK ABARTH TURBO FLEX 1.3 AUT",
       "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status_ml": "active",
+      "quantidade": "0",
       "classificacao": "9",
       "qtd_images": "6"
     },
@@ -3518,7 +3686,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN EXPRESSION HI-FLEX 1.6 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -3530,7 +3698,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA VOLCANO 1.3 FLEX 8V CD",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -3538,11 +3706,11 @@
     "SP12501079894518": {
       "sku": "SP12501079894518",
       "id_produto": "5471",
-      "nome": "FECH PORTA DIANTEIRA ESQUERDA TOYOTA ETIOS PLATINUM 1.5 2018",
+      "nome": "FECHADURA PORTA DIANTEIRA ESQUERDA TOYOTA ETIOS 1.5 2018",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS PLATINUM 1.5 FLEX 16V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "7"
@@ -3578,7 +3746,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA ALTIS/A.PREMIU. 2.0 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
@@ -3590,7 +3758,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO VOLCANO 2.0 16V 4X4 TB DIESEL AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -3626,7 +3794,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA LIFE/ LS 1.0 MPFI 8V FLEXPOWER 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -3687,7 +3855,7 @@
       "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
       "status": "Habilitado",
       "status_ml": "active",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": null,
       "qtd_images": "7"
     },
@@ -3882,6 +4050,66 @@
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "8"
+    },
+    "SP12501088125534": {
+      "sku": "SP12501088125534",
+      "id_produto": "13258",
+      "nome": "COMANDO DIGITAL CENTRAL DO AR CONDICIONA FIAT Toro 2.0 2020",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "Toro Ranch 2.0 16V 4x4 TB Diesel Aut.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "8"
+    },
+    "SP12501084677027": {
+      "sku": "SP12501084677027",
+      "id_produto": "13426",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET ONIX HATCH JOY 1.0 2018/19",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH JOY 1.0 8V FLEX 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "4"
+    },
+    "SP12501054298027": {
+      "sku": "SP12501054298027",
+      "id_produto": "13121",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MERIVA JOY 1.8 8V 2005/06",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MERIVA JOY 1.8 MPFI 8V FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    "SP12501010835034": {
+      "sku": "SP12501010835034",
+      "id_produto": "11158",
+      "nome": "PORTA TRAS DIREITA PRATA NISSAN VERSA SV 1.6 16V 2015/2016",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "VERSA SV 1.6 16V FLEX FUEL 4P MEC.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "6"
+    },
+    "SP12501084251039": {
+      "sku": "SP12501084251039",
+      "id_produto": "10152",
+      "nome": "RODA LIGA LEVE ARO 14 4 FUROS CINZA FIAT UNO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "3"
     }
   }
 }
