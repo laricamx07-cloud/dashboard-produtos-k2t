@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 17:26:58",
+  "ultima_atualizacao": "28/08/2026 17:42:34",
   "total_base_dia": 83,
-  "total_atual": 130,
-  "novos_produtos": 100,
-  "total_subidos": 53,
+  "total_atual": 124,
+  "novos_produtos": 101,
+  "total_subidos": 60,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -194,6 +194,7 @@
     "SP12501087986049",
     "SP12501088125534",
     "SP12501088133011",
+    "SP12501088192024",
     "SP12501089911542",
     "SP12501089989035",
     "SP12501100710032",
@@ -330,6 +331,7 @@
     "SP12501087986049",
     "SP12501088125534",
     "SP12501088133011",
+    "SP12501088192024",
     "SP12501089911542",
     "SP12501103370001",
     "SP12501103370004",
@@ -384,6 +386,7 @@
     "SP12501005173025",
     "SP12501005378024",
     "SP12501009586001",
+    "SP12501009721001",
     "SP12501010380026",
     "SP12501010487011",
     "SP12501014814025",
@@ -397,7 +400,11 @@
     "SP12501079983026",
     "SP12501080108001",
     "SP12501080701020",
+    "SP12501083964024",
+    "SP12501084251039",
     "SP12501084561049",
+    "SP12501084618011",
+    "SP12501087986049",
     "SP12501103370001",
     "SP12501103370004",
     "SP12501103370010",
@@ -420,6 +427,8 @@
     "SP12501103426026",
     "SP12501103426027",
     "SP12501103426036",
+    "SP12501103442010",
+    "SP12501103442032",
     "SP12501103469007",
     "SP12501103469026",
     "SP12501103469032",
@@ -439,6 +448,7 @@
     "SP12501005173025",
     "SP12501005378024",
     "SP12501009586001",
+    "SP12501009721001",
     "SP12501010380026",
     "SP12501010487011",
     "SP12501014814025",
@@ -452,7 +462,11 @@
     "SP12501079983026",
     "SP12501080108001",
     "SP12501080701020",
+    "SP12501083964024",
+    "SP12501084251039",
     "SP12501084561049",
+    "SP12501084618011",
+    "SP12501087986049",
     "SP12501103370001",
     "SP12501103370004",
     "SP12501103370010",
@@ -475,6 +489,8 @@
     "SP12501103426026",
     "SP12501103426027",
     "SP12501103426036",
+    "SP12501103442010",
+    "SP12501103442032",
     "SP12501103469007",
     "SP12501103469026",
     "SP12501103469032",
@@ -588,11 +604,11 @@
     {
       "sku": "SP12501009721001",
       "id_produto": "5825",
-      "nome": "ALTERNADOR FIAT ARGO TREKKING 1.3 8V 2023/24",
+      "nome": "ALTERNADOR FIAT ARGO TREKKING 1.3 8V FLEX 2023/2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO TREKKING 1.3 8V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -996,11 +1012,11 @@
     {
       "sku": "SP12501083964024",
       "id_produto": "10470",
-      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN VIRTUS TSI 1.0 FLEX 12V 2024/25",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN VIRTUS TSI 1.0 FLEX 12V 24/25",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VIRTUS TSI 1.0 FLEX 12V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -1012,7 +1028,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "3"
@@ -1048,7 +1064,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "8"
@@ -1092,11 +1108,11 @@
     {
       "sku": "SP12501087986049",
       "id_produto": "10878",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA FIESTA 1.0 8V FLEX/CLASS FLEX 12/13",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "4"
@@ -1124,6 +1140,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501088192024",
+      "id_produto": "16814",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT KWID ZEN 1.0 FLEX 12V 2019/2020",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501089911542",
@@ -1428,11 +1456,11 @@
     {
       "sku": "SP12501103442010",
       "id_produto": "20448",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CHEVROLET CORSA SEDAN 1.8 MPFI 8V 102CV 02/03",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
@@ -1440,11 +1468,11 @@
     {
       "sku": "SP12501103442032",
       "id_produto": "20449",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANT DIR CHEVROLET CORSA SEDAN 1.8 MPFI 8V 02/03",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1452,7 +1480,7 @@
     {
       "sku": "SP12501103442049",
       "id_produto": "20450",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA CHEVROLET CORSA SEDAN 1.8 8V 4P 02/03",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
       "status": "Desabilitado",
@@ -1588,7 +1616,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "207 SW XR 1.4 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -1752,6 +1780,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501009721001",
+      "id_produto": "5825",
+      "nome": "ALTERNADOR FIAT ARGO TREKKING 1.3 8V FLEX 2023/2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO TREKKING 1.3 8V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501010380026",
       "id_produto": "5872",
       "nome": "MOTOR DE PARTIDA RENAULT LOGAN EXPRESSION 1.6 8V 2011",
@@ -1908,6 +1948,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501083964024",
+      "id_produto": "10470",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN VIRTUS TSI 1.0 FLEX 12V 24/25",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VIRTUS TSI 1.0 FLEX 12V 4P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501084251039",
+      "id_produto": "10152",
+      "nome": "RODA LIGA LEVE ARO 14 4 FUROS CINZA FIAT UNO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "3"
+    },
+    {
       "sku": "SP12501084561049",
       "id_produto": "7986",
       "nome": "VOLANTE DO MOTORISTA TOYOTA COROLLA ALTIS/A.PREMIU. 2.0 2013",
@@ -1918,6 +1982,30 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501084618011",
+      "id_produto": "11097",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET CLASSIC LS 1.0 2013",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "5",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501087986049",
+      "id_produto": "10878",
+      "nome": "VOLANTE DO MOTORISTA FIESTA 1.0 8V FLEX/CLASS FLEX 12/13",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "5",
+      "qtd_images": "4"
     },
     {
       "sku": "SP12501103370001",
@@ -2184,6 +2272,30 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103442010",
+      "id_produto": "20448",
+      "nome": "CHAVE DE SETA CHEVROLET CORSA SEDAN 1.8 MPFI 8V 102CV 02/03",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103442032",
+      "id_produto": "20449",
+      "nome": "PORTA DIANT DIR CHEVROLET CORSA SEDAN 1.8 MPFI 8V 02/03",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103469007",
       "id_produto": "20433",
       "nome": "CAPÔ CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
@@ -2298,7 +2410,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "207 SW XR 1.4 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -3904,11 +4016,11 @@
     "SP12501103442032": {
       "sku": "SP12501103442032",
       "id_produto": "20449",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANT DIR CHEVROLET CORSA SEDAN 1.8 MPFI 8V 02/03",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3940,7 +4052,7 @@
     "SP12501103442049": {
       "sku": "SP12501103442049",
       "id_produto": "20450",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA CHEVROLET CORSA SEDAN 1.8 8V 4P 02/03",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
       "status": "Desabilitado",
@@ -3952,11 +4064,11 @@
     "SP12501103442010": {
       "sku": "SP12501103442010",
       "id_produto": "20448",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CHEVROLET CORSA SEDAN 1.8 MPFI 8V 102CV 02/03",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
@@ -4172,7 +4284,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "207 SW XR 1.4 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -4204,11 +4316,11 @@
     "SP12501009721001": {
       "sku": "SP12501009721001",
       "id_produto": "5825",
-      "nome": "ALTERNADOR FIAT ARGO TREKKING 1.3 8V 2023/24",
+      "nome": "ALTERNADOR FIAT ARGO TREKKING 1.3 8V FLEX 2023/2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO TREKKING 1.3 8V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -4240,11 +4352,11 @@
     "SP12501087986049": {
       "sku": "SP12501087986049",
       "id_produto": "10878",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA FIESTA 1.0 8V FLEX/CLASS FLEX 12/13",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "4"
@@ -4264,11 +4376,11 @@
     "SP12501083964024": {
       "sku": "SP12501083964024",
       "id_produto": "10470",
-      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN VIRTUS TSI 1.0 FLEX 12V 2024/25",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN VIRTUS TSI 1.0 FLEX 12V 24/25",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VIRTUS TSI 1.0 FLEX 12V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -4340,7 +4452,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "8"
@@ -4400,7 +4512,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "3"
@@ -4524,6 +4636,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "8"
+    },
+    "SP12501088192024": {
+      "sku": "SP12501088192024",
+      "id_produto": "16814",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT KWID ZEN 1.0 FLEX 12V 2019/2020",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     }
   }
 }
