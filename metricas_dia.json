@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 18:57:26",
+  "ultima_atualizacao": "28/08/2026 19:12:58",
   "total_base_dia": 83,
-  "total_atual": 110,
+  "total_atual": 105,
   "novos_produtos": 101,
-  "total_subidos": 74,
+  "total_subidos": 79,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -382,6 +382,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501004371001",
+    "SP12501005084011",
     "SP12501005122018",
     "SP12501005173025",
     "SP12501005378024",
@@ -398,6 +399,7 @@
     "SP12501015357027",
     "SP12501015365011",
     "SP12501015616014",
+    "SP12501015829036",
     "SP12501041617029",
     "SP12501041625026",
     "SP12501041714400",
@@ -415,6 +417,7 @@
     "SP12501084618011",
     "SP12501087722024",
     "SP12501087986049",
+    "SP12501088192024",
     "SP12501103370001",
     "SP12501103370004",
     "SP12501103370010",
@@ -454,10 +457,13 @@
     "SP12501122129036",
     "SP12501123540011",
     "SP32501002896070",
+    "SP32501002896803",
+    "SP32501002896863",
     "SP32501002896877"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004371001",
+    "SP12501005084011",
     "SP12501005122018",
     "SP12501005173025",
     "SP12501005378024",
@@ -474,6 +480,7 @@
     "SP12501015357027",
     "SP12501015365011",
     "SP12501015616014",
+    "SP12501015829036",
     "SP12501041617029",
     "SP12501041625026",
     "SP12501041714400",
@@ -491,6 +498,7 @@
     "SP12501084618011",
     "SP12501087722024",
     "SP12501087986049",
+    "SP12501088192024",
     "SP12501103370001",
     "SP12501103370004",
     "SP12501103370010",
@@ -530,6 +538,8 @@
     "SP12501122129036",
     "SP12501123540011",
     "SP32501002896070",
+    "SP32501002896803",
+    "SP32501002896863",
     "SP32501002896877"
   ],
   "itens_novos_hoje": [
@@ -572,11 +582,11 @@
     {
       "sku": "SP12501005084011",
       "id_produto": "15600",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT LX 1.5 AUT 2015",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -800,11 +810,11 @@
     {
       "sku": "SP12501015829036",
       "id_produto": "15904",
-      "nome": "RADIADOR",
+      "nome": "Radiador Àgua Fiat Bravo 1.4 Tjet 1.8 2011 a 2016",
       "marca": "FIAT",
       "modelo_do_veiculo": "500 CULT 1.4 FLEX 8V EVO DUALOGIC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1176,7 +1186,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1712,11 +1722,11 @@
     {
       "sku": "SP32501002896803",
       "id_produto": "17308",
-      "nome": "CORPO DE BORBOLETA",
+      "nome": "CORPO DE BORBOLETA RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 19",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1724,11 +1734,11 @@
     {
       "sku": "SP32501002896863",
       "id_produto": "17524",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1757,6 +1767,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501005084011",
+      "id_produto": "15600",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT LX 1.5 AUT 2015",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -1950,6 +1972,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015829036",
+      "id_produto": "15904",
+      "nome": "Radiador Àgua Fiat Bravo 1.4 Tjet 1.8 2011 a 2016",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "500 CULT 1.4 FLEX 8V EVO DUALOGIC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501041617029",
@@ -2154,6 +2188,18 @@
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "4"
+    },
+    {
+      "sku": "SP12501088192024",
+      "id_produto": "16814",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT KWID ZEN 1.0 FLEX 12V 2019/2020",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103370001",
@@ -2622,6 +2668,30 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP32501002896803",
+      "id_produto": "17308",
+      "nome": "CORPO DE BORBOLETA RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 19",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP32501002896863",
+      "id_produto": "17524",
+      "nome": "PORTINHOLA DO TANQUE RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP32501002896877",
@@ -3672,11 +3742,11 @@
     "SP32501002896803": {
       "sku": "SP32501002896803",
       "id_produto": "17308",
-      "nome": "CORPO DE BORBOLETA",
+      "nome": "CORPO DE BORBOLETA RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 19",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -3684,11 +3754,11 @@
     "SP12501005084011": {
       "sku": "SP12501005084011",
       "id_produto": "15600",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT LX 1.5 AUT 2015",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3708,11 +3778,11 @@
     "SP32501002896863": {
       "sku": "SP32501002896863",
       "id_produto": "17524",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -3732,11 +3802,11 @@
     "SP12501015829036": {
       "sku": "SP12501015829036",
       "id_produto": "15904",
-      "nome": "RADIADOR",
+      "nome": "Radiador Àgua Fiat Bravo 1.4 Tjet 1.8 2011 a 2016",
       "marca": "FIAT",
       "modelo_do_veiculo": "500 CULT 1.4 FLEX 8V EVO DUALOGIC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -4840,7 +4910,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
