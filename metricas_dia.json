@@ -1,10 +1,10 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 09:57:35",
+  "ultima_atualizacao": "28/08/2026 10:12:33",
   "total_base_dia": 83,
-  "total_atual": 87,
-  "novos_produtos": 4,
+  "total_atual": 90,
+  "novos_produtos": 7,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004355012",
@@ -96,6 +96,8 @@
     "SP12501004550032",
     "SP12501004584032",
     "SP12501004665001",
+    "SP12501004665026",
+    "SP12501005084011",
     "SP12501005106034",
     "SP12501005211035",
     "SP12501005238032",
@@ -177,14 +179,18 @@
     "SP12501116765043",
     "SP32501002896803",
     "SP32501002896828",
+    "SP32501002896863",
     "SP42501001064042",
     "SP42501001510109"
   ],
   "skus_novos_hoje": [
     "SP12501004665001",
+    "SP12501004665026",
+    "SP12501005084011",
     "SP12501015616014",
     "SP12501080370025",
-    "SP32501002896803"
+    "SP32501002896803",
+    "SP32501002896863"
   ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
@@ -200,6 +206,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501004665026",
+      "id_produto": "15594",
+      "nome": "MOTOR PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501005084011",
+      "id_produto": "15600",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501015616014",
@@ -236,6 +266,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP32501002896863",
+      "id_produto": "17524",
+      "nome": "PORTINHOLA DO TANQUE",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     }
   ],
   "itens_subidos_hoje": [],
@@ -1283,6 +1325,42 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    "SP12501005084011": {
+      "sku": "SP12501005084011",
+      "id_produto": "15600",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501004665026": {
+      "sku": "SP12501004665026",
+      "id_produto": "15594",
+      "nome": "MOTOR PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    "SP32501002896863": {
+      "sku": "SP32501002896863",
+      "id_produto": "17524",
+      "nome": "PORTINHOLA DO TANQUE",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     }
   }
 }
