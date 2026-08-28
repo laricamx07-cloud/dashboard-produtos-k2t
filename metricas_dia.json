@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 14:58:18",
+  "ultima_atualizacao": "28/08/2026 15:13:14",
   "total_base_dia": 83,
-  "total_atual": 130,
-  "novos_produtos": 47,
-  "total_subidos": 0,
+  "total_atual": 127,
+  "novos_produtos": 48,
+  "total_subidos": 4,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -104,6 +104,7 @@
     "SP12501005238035",
     "SP12501005300033",
     "SP12501005300035",
+    "SP12501009586001",
     "SP12501009648039",
     "SP12501009713035",
     "SP12501009730035",
@@ -227,6 +228,7 @@
     "SP12501004665001",
     "SP12501004665026",
     "SP12501005084011",
+    "SP12501009586001",
     "SP12501009837011",
     "SP12501015195010",
     "SP12501015195016",
@@ -272,8 +274,18 @@
     "SP32501002896863",
     "SP32501002896877"
   ],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501103400004",
+    "SP12501103485004",
+    "SP12501103485030",
+    "SP12501103523030"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501103400004",
+    "SP12501103485004",
+    "SP12501103485030",
+    "SP12501103523030"
+  ],
   "itens_novos_hoje": [
     {
       "sku": "SP12501004665001",
@@ -309,6 +321,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501009586001",
+      "id_produto": "4844",
+      "nome": "ALTERNADOR HYUNDAI HB20 1.0M COMFORT 2016/2017",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 1.0M COMFOR",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
       "qtd_images": "10"
     },
     {
@@ -840,7 +864,56 @@
       "qtd_images": "5"
     }
   ],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501103400004",
+      "id_produto": "20356",
+      "nome": "CÂMBIO MANUAL HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 2005/2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103485004",
+      "id_produto": "20363",
+      "nome": "CÂMBIO AUTOMATICO CHEVROLET ASTRA ELEGANCE 2.0 8V 2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103485030",
+      "id_produto": "20344",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CHEVROLET ASTRA ELEGANCE 2.0 05",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103523030",
+      "id_produto": "20347",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CHEVROLET CELTA SPIRIT 1.0 06/07",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501016779033": {
       "sku": "SP12501016779033",
@@ -1077,7 +1150,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1365,7 +1438,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1617,7 +1690,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1725,7 +1798,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ASTRA ELEGANCE 2.0 MPFI FLEXPOWER 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -2401,6 +2474,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501009586001": {
+      "sku": "SP12501009586001",
+      "id_produto": "4844",
+      "nome": "ALTERNADOR HYUNDAI HB20 1.0M COMFORT 2016/2017",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 1.0M COMFOR",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
     }
   }
 }
