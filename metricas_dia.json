@@ -1,11 +1,11 @@
 {
   "data": "2026-08-28",
   "primeira_atualizacao": "28/08/2026 08:21:25",
-  "ultima_atualizacao": "28/08/2026 16:51:07",
+  "ultima_atualizacao": "28/08/2026 16:57:17",
   "total_base_dia": 83,
   "total_atual": 133,
-  "novos_produtos": 83,
-  "total_subidos": 33,
+  "novos_produtos": 85,
+  "total_subidos": 35,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -178,6 +178,7 @@
     "SP12501083964024",
     "SP12501084448038",
     "SP12501084561049",
+    "SP12501084618011",
     "SP12501084774026",
     "SP12501084790033",
     "SP12501084790035",
@@ -249,6 +250,7 @@
     "SP12501116765041",
     "SP12501116765042",
     "SP12501116765043",
+    "SP12501121408027",
     "SP12501122129036",
     "SP12501123540011",
     "SP32501002896070",
@@ -299,6 +301,7 @@
     "SP12501083964024",
     "SP12501084448038",
     "SP12501084561049",
+    "SP12501084618011",
     "SP12501084774026",
     "SP12501087722024",
     "SP12501087986049",
@@ -337,6 +340,7 @@
     "SP12501103469400",
     "SP12501103469422",
     "SP12501116765030",
+    "SP12501121408027",
     "SP12501122129036",
     "SP12501123540011",
     "SP32501002896070",
@@ -348,7 +352,9 @@
     "SP12501005122018",
     "SP12501005173025",
     "SP12501005378024",
+    "SP12501009586001",
     "SP12501010487011",
+    "SP12501014814025",
     "SP12501015209026",
     "SP12501103370001",
     "SP12501103370004",
@@ -383,7 +389,9 @@
     "SP12501005122018",
     "SP12501005173025",
     "SP12501005378024",
+    "SP12501009586001",
     "SP12501010487011",
+    "SP12501014814025",
     "SP12501015209026",
     "SP12501103370001",
     "SP12501103370004",
@@ -506,7 +514,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 1.0M COMFOR",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -566,8 +574,8 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status_ml": "active",
+      "quantidade": "0",
       "classificacao": null,
       "qtd_images": "7"
     },
@@ -602,7 +610,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.3 8V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -882,6 +890,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501084618011",
+      "id_produto": "11097",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET CLASSIC LS 1.0 2013",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEX",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "5",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501084774026",
@@ -1294,7 +1314,7 @@
     {
       "sku": "SP12501103469033",
       "id_produto": "20435",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANT ESQ CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Desabilitado",
@@ -1338,6 +1358,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501121408027",
+      "id_produto": "12420",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN FOX CITY 1.0 MI 2005/2006",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501122129036",
@@ -1450,6 +1482,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501009586001",
+      "id_produto": "4844",
+      "nome": "ALTERNADOR HYUNDAI HB20 1.0M COMFORT 2016/2017",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 1.0M COMFOR",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501010487011",
       "id_produto": "3196",
       "nome": "COMPRESSOR DE AR FIAT TORO VOLCANO 2.0 2017/2018",
@@ -1462,13 +1506,25 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501014814025",
+      "id_produto": "3755",
+      "nome": "MÓDULO CÂMBIO JEEP RENEGADE LONGITUDE 1.8 16V AUT 2015",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "0",
+      "classificacao": null,
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501015209026",
       "id_produto": "4908",
       "nome": "MOTOR DE PARTIDA FIAT ARGO DRIVE 1.3 8V FLEX 2019",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.3 8V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -3026,7 +3082,7 @@
     "SP12501103469033": {
       "sku": "SP12501103469033",
       "id_produto": "20435",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANT ESQ CITROEN C4 GLX 2.0 FLEX 16V 5P 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Desabilitado",
@@ -3378,7 +3434,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 1.0M COMFOR",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -3558,7 +3614,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.3 8V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -3630,8 +3686,8 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status_ml": "active",
+      "quantidade": "0",
       "classificacao": null,
       "qtd_images": "7"
     },
@@ -3802,6 +3858,30 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
+    },
+    "SP12501121408027": {
+      "sku": "SP12501121408027",
+      "id_produto": "12420",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN FOX CITY 1.0 MI 2005/2006",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    "SP12501084618011": {
+      "sku": "SP12501084618011",
+      "id_produto": "11097",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET CLASSIC LS 1.0 2013",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEX",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "5",
+      "qtd_images": "8"
     }
   }
 }
