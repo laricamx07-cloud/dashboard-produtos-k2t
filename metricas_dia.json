@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 17:17:29",
+  "ultima_atualizacao": "31/08/2026 17:27:22",
   "total_base_dia": 89,
-  "total_atual": 128,
-  "novos_produtos": 87,
-  "total_subidos": 48,
+  "total_atual": 133,
+  "novos_produtos": 94,
+  "total_subidos": 50,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -182,6 +182,7 @@
     "SP12501054298027",
     "SP12501055219004",
     "SP12501055219010",
+    "SP12501055219014",
     "SP12501055219560",
     "SP12501055219567",
     "SP12501055219569",
@@ -209,9 +210,12 @@
     "SP12501089253035",
     "SP12501089989035",
     "SP12501100672514",
+    "SP12501100680411",
     "SP12501100699010",
+    "SP12501100699011",
     "SP12501100710032",
     "SP12501100710033",
+    "SP12501100788011",
     "SP12501100834024",
     "SP12501100842007",
     "SP12501102446010",
@@ -235,8 +239,10 @@
     "SP12501103442004",
     "SP12501103442026",
     "SP12501103442411",
+    "SP12501103450411",
     "SP12501103477007",
     "SP12501103493004",
+    "SP12501103515411",
     "SP12501103515488",
     "SP12501104520032",
     "SP12501105631026",
@@ -257,6 +263,7 @@
     "SP12501111623033",
     "SP12501111623036",
     "SP12501111623049",
+    "SP12501111623400",
     "SP12501111623411",
     "SP12501111623448",
     "SP12501111623449",
@@ -320,6 +327,7 @@
     "SP12501042001019",
     "SP12501055219004",
     "SP12501055219010",
+    "SP12501055219014",
     "SP12501055219560",
     "SP12501055219567",
     "SP12501055219569",
@@ -330,7 +338,10 @@
     "SP12501084600011",
     "SP12501089253035",
     "SP12501100672514",
+    "SP12501100680411",
     "SP12501100699010",
+    "SP12501100699011",
+    "SP12501100788011",
     "SP12501102446010",
     "SP12501102861004",
     "SP12501103272001",
@@ -340,8 +351,10 @@
     "SP12501103442004",
     "SP12501103442026",
     "SP12501103442411",
+    "SP12501103450411",
     "SP12501103477007",
     "SP12501103493004",
+    "SP12501103515411",
     "SP12501103515488",
     "SP12501111623001",
     "SP12501111623010",
@@ -356,6 +369,7 @@
     "SP12501111623033",
     "SP12501111623036",
     "SP12501111623049",
+    "SP12501111623400",
     "SP12501111623411",
     "SP12501111623448",
     "SP12501111623449",
@@ -387,6 +401,8 @@
     "SP12501042001019",
     "SP12501042109011",
     "SP12501054298027",
+    "SP12501055219010",
+    "SP12501055219569",
     "SP12501084600011",
     "SP12501084677027",
     "SP12501100699010",
@@ -437,6 +453,8 @@
     "SP12501042001019",
     "SP12501042109011",
     "SP12501054298027",
+    "SP12501055219010",
+    "SP12501055219569",
     "SP12501084600011",
     "SP12501084677027",
     "SP12501100699010",
@@ -708,7 +726,7 @@
     {
       "sku": "SP12501014806004",
       "id_produto": "4120",
-      "nome": "CÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 3.0 2018",
+      "nome": "ÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 3.0 2018",
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
       "status": "Habilitado",
@@ -984,14 +1002,26 @@
     {
       "sku": "SP12501055219010",
       "id_produto": "20476",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA BMW X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO 2013",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501055219014",
+      "id_produto": "20503",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "BMW",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "5"
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501055219560",
@@ -1020,11 +1050,11 @@
     {
       "sku": "SP12501055219569",
       "id_produto": "20480",
-      "nome": "BRAKE LIGHT",
+      "nome": "BRAKE LIGHT BMW X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO 2013/13",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1114,6 +1144,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501100680411",
+      "id_produto": "20557",
+      "nome": "ELETROVENTILADOR",
+      "marca": "CHERY",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501100699010",
       "id_produto": "20483",
       "nome": "CHAVE DE SETA HYUNDAI HB20 SENSE 1.0 FLEX 12V MEC. 2020/2021",
@@ -1124,6 +1166,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501100699011",
+      "id_produto": "20558",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501100788011",
+      "id_produto": "20564",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501102446010",
@@ -1234,6 +1300,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103450411",
+      "id_produto": "20588",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103477007",
       "id_produto": "20491",
       "nome": "CAPÔ",
@@ -1256,6 +1334,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103515411",
+      "id_produto": "20592",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103515488",
@@ -1424,6 +1514,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111623400",
+      "id_produto": "20636",
+      "nome": "MOTOR COMPLETO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501111623411",
@@ -1774,6 +1876,30 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501055219010",
+      "id_produto": "20476",
+      "nome": "CHAVE DE SETA BMW X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO 2013",
+      "marca": "BMW",
+      "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501055219569",
+      "id_produto": "20480",
+      "nome": "BRAKE LIGHT BMW X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO 2013/13",
+      "marca": "BMW",
+      "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501084600011",
@@ -3796,7 +3922,7 @@
     "SP12501014806004": {
       "sku": "SP12501014806004",
       "id_produto": "4120",
-      "nome": "CÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 3.0 2018",
+      "nome": "ÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 3.0 2018",
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
       "status": "Habilitado",
@@ -3988,11 +4114,11 @@
     "SP12501055219569": {
       "sku": "SP12501055219569",
       "id_produto": "20480",
-      "nome": "BRAKE LIGHT",
+      "nome": "BRAKE LIGHT BMW X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO 2013/13",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -4060,11 +4186,11 @@
     "SP12501055219010": {
       "sku": "SP12501055219010",
       "id_produto": "20476",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA BMW X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO 2013",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -4200,6 +4326,90 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP12501103515411": {
+      "sku": "SP12501103515411",
+      "id_produto": "20592",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501055219014": {
+      "sku": "SP12501055219014",
+      "id_produto": "20503",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "BMW",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501100680411": {
+      "sku": "SP12501100680411",
+      "id_produto": "20557",
+      "nome": "ELETROVENTILADOR",
+      "marca": "CHERY",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501103450411": {
+      "sku": "SP12501103450411",
+      "id_produto": "20588",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501100699011": {
+      "sku": "SP12501100699011",
+      "id_produto": "20558",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    "SP12501111623400": {
+      "sku": "SP12501111623400",
+      "id_produto": "20636",
+      "nome": "MOTOR COMPLETO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501100788011": {
+      "sku": "SP12501100788011",
+      "id_produto": "20564",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   }
 }
