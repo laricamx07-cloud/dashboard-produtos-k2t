@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 11:57:17",
+  "ultima_atualizacao": "31/08/2026 12:13:03",
   "total_base_dia": 89,
   "total_atual": 86,
-  "novos_produtos": 7,
-  "total_subidos": 10,
+  "novos_produtos": 8,
+  "total_subidos": 11,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -116,6 +116,7 @@
     "SP12501009888034",
     "SP12501010312034",
     "SP12501010835034",
+    "SP12501013397019",
     "SP12501014075027",
     "SP12501014075424",
     "SP12501014105026",
@@ -197,6 +198,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501009861010",
+    "SP12501013397019",
     "SP12501014075027",
     "SP12501014776011",
     "SP12501015381419",
@@ -206,6 +208,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501004355012",
+    "SP12501009861010",
     "SP12501014105026",
     "SP12501042001019",
     "SP12501042109011",
@@ -218,6 +221,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004355012",
+    "SP12501009861010",
     "SP12501014105026",
     "SP12501042001019",
     "SP12501042109011",
@@ -232,14 +236,26 @@
     {
       "sku": "SP12501009861010",
       "id_produto": "16228",
-      "nome": "CHAVE SETA",
-      "marca": "VW",
+      "nome": "CHAVE SETA VOLKSWAGEN UP TRACK 1.0 TOTAL FLEX 12V 16/17",
+      "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501013397019",
+      "id_produto": "19205",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY SEDAN PERSONAL 1.5 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501014075027",
@@ -326,6 +342,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501009861010",
+      "id_produto": "16228",
+      "nome": "CHAVE SETA VOLKSWAGEN UP TRACK 1.0 TOTAL FLEX 12V 16/17",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501014105026",
@@ -1532,11 +1560,11 @@
     "SP12501009861010": {
       "sku": "SP12501009861010",
       "id_produto": "16228",
-      "nome": "CHAVE SETA",
-      "marca": "VW",
+      "nome": "CHAVE SETA VOLKSWAGEN UP TRACK 1.0 TOTAL FLEX 12V 16/17",
+      "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1588,6 +1616,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501013397019": {
+      "sku": "SP12501013397019",
+      "id_produto": "19205",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY SEDAN PERSONAL 1.5 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   }
 }
