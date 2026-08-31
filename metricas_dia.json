@@ -1,10 +1,10 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 13:17:17",
+  "ultima_atualizacao": "31/08/2026 13:27:16",
   "total_base_dia": 89,
-  "total_atual": 82,
-  "novos_produtos": 11,
+  "total_atual": 86,
+  "novos_produtos": 15,
   "total_subidos": 18,
   "skus_base_dia": [
     "SP12501004355012",
@@ -184,10 +184,14 @@
     "SP12501109521034",
     "SP12501109548045",
     "SP12501111330483",
+    "SP12501111623010",
+    "SP12501111623024",
     "SP12501111623025",
+    "SP12501111623027",
     "SP12501111623030",
     "SP12501111623031",
     "SP12501111623033",
+    "SP12501111623049",
     "SP12501116765034",
     "SP12501116765039",
     "SP12501116765040",
@@ -207,10 +211,14 @@
     "SP12501015381419",
     "SP12501015403003",
     "SP12501042001019",
+    "SP12501111623010",
+    "SP12501111623024",
     "SP12501111623025",
+    "SP12501111623027",
     "SP12501111623030",
     "SP12501111623031",
-    "SP12501111623033"
+    "SP12501111623033",
+    "SP12501111623049"
   ],
   "skus_subidos_hoje": [
     "SP12501004355012",
@@ -338,6 +346,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501111623010",
+      "id_produto": "20458",
+      "nome": "CHAVE DE SETA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111623024",
+      "id_produto": "20459",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501111623025",
       "id_produto": "20460",
       "nome": "MÓDULO DO CÂMBIO",
@@ -347,6 +379,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111623027",
+      "id_produto": "20461",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "5"
     },
     {
@@ -384,6 +428,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111623049",
+      "id_produto": "20462",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   ],
   "itens_subidos_hoje": [
@@ -1804,6 +1860,54 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    "SP12501111623027": {
+      "sku": "SP12501111623027",
+      "id_produto": "20461",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501111623010": {
+      "sku": "SP12501111623010",
+      "id_produto": "20458",
+      "nome": "CHAVE DE SETA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501111623024": {
+      "sku": "SP12501111623024",
+      "id_produto": "20459",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501111623049": {
+      "sku": "SP12501111623049",
+      "id_produto": "20462",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   }
 }
