@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 16:12:38",
+  "ultima_atualizacao": "31/08/2026 16:19:43",
   "total_base_dia": 89,
-  "total_atual": 120,
-  "novos_produtos": 67,
-  "total_subidos": 36,
+  "total_atual": 125,
+  "novos_produtos": 73,
+  "total_subidos": 37,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -178,6 +178,8 @@
     "SP12501042109011",
     "SP12501042273041",
     "SP12501054298027",
+    "SP12501055219004",
+    "SP12501055219569",
     "SP12501057130024",
     "SP12501057165027",
     "SP12501079959400",
@@ -201,10 +203,12 @@
     "SP12501088125534",
     "SP12501089253035",
     "SP12501089989035",
+    "SP12501100672514",
     "SP12501100710032",
     "SP12501100710033",
     "SP12501100834024",
     "SP12501100842007",
+    "SP12501102446010",
     "SP12501102462437",
     "SP12501102462483",
     "SP12501102470007",
@@ -218,6 +222,8 @@
     "SP12501102861004",
     "SP12501103370437",
     "SP12501103370483",
+    "SP12501103396004",
+    "SP12501103396010",
     "SP12501103418010",
     "SP12501103442026",
     "SP12501103442411",
@@ -296,13 +302,19 @@
     "SP12501016582018",
     "SP12501017384448",
     "SP12501042001019",
+    "SP12501055219004",
+    "SP12501055219569",
     "SP12501057130024",
     "SP12501080302036",
     "SP12501080400037",
     "SP12501080558011",
     "SP12501084600011",
     "SP12501089253035",
+    "SP12501100672514",
+    "SP12501102446010",
     "SP12501102861004",
+    "SP12501103396004",
+    "SP12501103396010",
     "SP12501103418010",
     "SP12501103442026",
     "SP12501103442411",
@@ -326,6 +338,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501004355012",
+    "SP12501004541027",
     "SP12501009861010",
     "SP12501013397019",
     "SP12501014075024",
@@ -364,6 +377,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004355012",
+    "SP12501004541027",
     "SP12501009861010",
     "SP12501013397019",
     "SP12501014075024",
@@ -432,10 +446,10 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CE",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
-      "qtd_images": "9"
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501005181026",
@@ -882,6 +896,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501055219004",
+      "id_produto": "20475",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "BMW",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501055219569",
+      "id_produto": "20480",
+      "nome": "BRAKE LIGHT",
+      "marca": "BMW",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501057130024",
       "id_produto": "14664",
       "nome": "MÓDULO DE INJEÇÃO CHEVROLET ZAFIRA COMFORT 2.0 FLEX 2004/05",
@@ -954,6 +992,30 @@
       "qtd_images": "3"
     },
     {
+      "sku": "SP12501100672514",
+      "id_produto": "20482",
+      "nome": "CHAVE DE RODAS",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501102446010",
+      "id_produto": "20485",
+      "nome": "CHAVE DE SETA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501102861004",
       "id_produto": "19396",
       "nome": "CÂMBIO MANUAL VOLKSWAGEN FOX PLUS 1.6MI TOTAL FLEX 8V 04/04",
@@ -964,6 +1026,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103396004",
+      "id_produto": "20487",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103396010",
+      "id_produto": "20488",
+      "nome": "CHAVE DE SETA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501103418010",
@@ -1218,6 +1304,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501004541027",
+      "id_produto": "3100",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT STRADA WORK HARD 1.4 FIRE 2020",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501009861010",
@@ -3184,10 +3282,10 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CE",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
-      "qtd_images": "9"
+      "qtd_images": "10"
     },
     "SP12501111623011": {
       "sku": "SP12501111623011",
@@ -3512,6 +3610,78 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
+    },
+    "SP12501103396010": {
+      "sku": "SP12501103396010",
+      "id_produto": "20488",
+      "nome": "CHAVE DE SETA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP12501102446010": {
+      "sku": "SP12501102446010",
+      "id_produto": "20485",
+      "nome": "CHAVE DE SETA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    "SP12501055219569": {
+      "sku": "SP12501055219569",
+      "id_produto": "20480",
+      "nome": "BRAKE LIGHT",
+      "marca": "BMW",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501103396004": {
+      "sku": "SP12501103396004",
+      "id_produto": "20487",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501055219004": {
+      "sku": "SP12501055219004",
+      "id_produto": "20475",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "BMW",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501100672514": {
+      "sku": "SP12501100672514",
+      "id_produto": "20482",
+      "nome": "CHAVE DE RODAS",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     }
   }
 }
