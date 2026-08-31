@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 12:51:25",
+  "ultima_atualizacao": "31/08/2026 12:57:23",
   "total_base_dia": 89,
-  "total_atual": 87,
+  "total_atual": 85,
   "novos_produtos": 10,
-  "total_subidos": 12,
+  "total_subidos": 14,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -213,7 +213,9 @@
   "skus_subidos_hoje": [
     "SP12501004355012",
     "SP12501009861010",
+    "SP12501014075027",
     "SP12501014105026",
+    "SP12501014776011",
     "SP12501015381419",
     "SP12501042001019",
     "SP12501042109011",
@@ -227,7 +229,9 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501004355012",
     "SP12501009861010",
+    "SP12501014075027",
     "SP12501014105026",
+    "SP12501014776011",
     "SP12501015381419",
     "SP12501042001019",
     "SP12501042109011",
@@ -266,11 +270,11 @@
     {
       "sku": "SP12501014075027",
       "id_produto": "18890",
-      "nome": "PAINEL DE INSTRUMENTOS",
-      "marca": "GM",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET ONIX HATCH LTZ 1.0 22/23",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -278,11 +282,11 @@
     {
       "sku": "SP12501014776011",
       "id_produto": "18952",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO JEEP RENEGADE TRAILHAWK 2.0",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -386,6 +390,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501014075027",
+      "id_produto": "18890",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET ONIX HATCH LTZ 1.0 22/23",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501014105026",
       "id_produto": "18984",
       "nome": "MOTOR DE PARTIDA CHEVROLET TRACKER PREMIER 1.2 2020/2021",
@@ -395,6 +411,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501014776011",
+      "id_produto": "18952",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO JEEP RENEGADE TRAILHAWK 2.0",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -1614,11 +1642,11 @@
     "SP12501014075027": {
       "sku": "SP12501014075027",
       "id_produto": "18890",
-      "nome": "PAINEL DE INSTRUMENTOS",
-      "marca": "GM",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET ONIX HATCH LTZ 1.0 22/23",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1650,11 +1678,11 @@
     "SP12501014776011": {
       "sku": "SP12501014776011",
       "id_produto": "18952",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO JEEP RENEGADE TRAILHAWK 2.0",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
