@@ -1,10 +1,10 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 13:47:09",
+  "ultima_atualizacao": "31/08/2026 13:51:14",
   "total_base_dia": 89,
-  "total_atual": 88,
-  "novos_produtos": 17,
+  "total_atual": 89,
+  "novos_produtos": 18,
   "total_subidos": 18,
   "skus_base_dia": [
     "SP12501004355012",
@@ -117,6 +117,7 @@
     "SP12501010312034",
     "SP12501010835034",
     "SP12501013397019",
+    "SP12501014075024",
     "SP12501014075027",
     "SP12501014075424",
     "SP12501014105026",
@@ -208,6 +209,7 @@
   "skus_novos_hoje": [
     "SP12501009861010",
     "SP12501013397019",
+    "SP12501014075024",
     "SP12501014075027",
     "SP12501014776011",
     "SP12501015381419",
@@ -288,6 +290,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501014075024",
+      "id_produto": "19034",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501014075027",
@@ -1960,6 +1974,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501014075024": {
+      "sku": "SP12501014075024",
+      "id_produto": "19034",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     }
   }
 }
