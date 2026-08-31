@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 09:57:04",
+  "ultima_atualizacao": "31/08/2026 10:12:29",
   "total_base_dia": 89,
-  "total_atual": 84,
+  "total_atual": 82,
   "novos_produtos": 0,
-  "total_subidos": 5,
+  "total_subidos": 7,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -190,21 +190,37 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501004355012",
     "SP12501054298027",
     "SP12501084677027",
     "SP12501102497483",
     "SP12501102497484",
-    "SP12501111330483"
+    "SP12501111330483",
+    "SP42501001510109"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501004355012",
     "SP12501054298027",
     "SP12501084677027",
     "SP12501102497483",
     "SP12501102497484",
-    "SP12501111330483"
+    "SP12501111330483",
+    "SP42501001510109"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501004355012",
+      "id_produto": "18908",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO NISSAN KICKS ACTIVE 1.6 2025",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS PLAY ACTIVE PLUS 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
     {
       "sku": "SP12501054298027",
       "id_produto": "13121",
@@ -264,6 +280,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP42501001510109",
+      "id_produto": "18957",
+      "nome": "TURBINA FIAT DUCATO MINIBUS 2.3 ME DIESEL 2013/2013",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "DUCATO MINIBUS 2.3 ME DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -282,11 +310,11 @@
     "SP42501001510109": {
       "sku": "SP42501001510109",
       "id_produto": "18957",
-      "nome": "TURBINA",
+      "nome": "TURBINA FIAT DUCATO MINIBUS 2.3 ME DIESEL 2013/2013",
       "marca": "FIAT",
       "modelo_do_veiculo": "DUCATO MINIBUS 2.3 ME DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -378,11 +406,11 @@
     "SP12501004355012": {
       "sku": "SP12501004355012",
       "id_produto": "18908",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO NISSAN KICKS ACTIVE 1.6 2025",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS PLAY ACTIVE PLUS 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
