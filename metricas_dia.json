@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 08:57:05",
+  "ultima_atualizacao": "31/08/2026 09:12:25",
   "total_base_dia": 89,
-  "total_atual": 87,
+  "total_atual": 86,
   "novos_produtos": 0,
-  "total_subidos": 2,
+  "total_subidos": 3,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -191,11 +191,13 @@
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
     "SP12501054298027",
-    "SP12501084677027"
+    "SP12501084677027",
+    "SP12501111330483"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501054298027",
-    "SP12501084677027"
+    "SP12501084677027",
+    "SP12501111330483"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
@@ -222,6 +224,18 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "4"
+    },
+    {
+      "sku": "SP12501111330483",
+      "id_produto": "20164",
+      "nome": "PNEU 205/60 R16 ROAD PERFORMANCE",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -732,11 +746,11 @@
     "SP12501111330483": {
       "sku": "SP12501111330483",
       "id_produto": "20164",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "PNEU 205/60 R16 ROAD PERFORMANCE",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
