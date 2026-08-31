@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 16:47:35",
+  "ultima_atualizacao": "31/08/2026 16:51:07",
   "total_base_dia": 89,
-  "total_atual": 136,
+  "total_atual": 134,
   "novos_produtos": 86,
-  "total_subidos": 39,
+  "total_subidos": 41,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -365,6 +365,7 @@
   "skus_subidos_hoje": [
     "SP12501004355012",
     "SP12501004541027",
+    "SP12501005181026",
     "SP12501009861010",
     "SP12501009861027",
     "SP12501010487026",
@@ -389,6 +390,7 @@
     "SP12501103418010",
     "SP12501103442026",
     "SP12501103442411",
+    "SP12501103515488",
     "SP12501111330483",
     "SP12501111623010",
     "SP12501111623011",
@@ -406,6 +408,7 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501004355012",
     "SP12501004541027",
+    "SP12501005181026",
     "SP12501009861010",
     "SP12501009861027",
     "SP12501010487026",
@@ -430,6 +433,7 @@
     "SP12501103418010",
     "SP12501103442026",
     "SP12501103442411",
+    "SP12501103515488",
     "SP12501111330483",
     "SP12501111623010",
     "SP12501111623011",
@@ -488,7 +492,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA XEI 2.0 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -548,7 +552,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -1228,11 +1232,11 @@
     {
       "sku": "SP12501103515488",
       "id_produto": "20494",
-      "nome": "JOGO DE BAGAGEIROS DO TETO",
+      "nome": "JOGO DE BAGAGEIROS DO TETO FIAT STRADA 1.3 MPI FIRE 8V 03/04",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1504,6 +1508,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501005181026",
+      "id_produto": "3469",
+      "nome": "MOTOR DE PARTIDA TOYOTA COROLLA XEI 2.0 2015/2016",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "COROLLA XEI 2.0 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501009861010",
       "id_produto": "16228",
       "nome": "CHAVE SETA VOLKSWAGEN UP TRACK 1.0 TOTAL FLEX 12V 16/17",
@@ -1522,7 +1538,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -1790,6 +1806,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103515488",
+      "id_produto": "20494",
+      "nome": "JOGO DE BAGAGEIROS DO TETO FIAT STRADA 1.3 MPI FIRE 8V 03/04",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501111330483",
@@ -3540,7 +3568,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA XEI 2.0 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -3696,7 +3724,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -3908,11 +3936,11 @@
     "SP12501103515488": {
       "sku": "SP12501103515488",
       "id_produto": "20494",
-      "nome": "JOGO DE BAGAGEIROS DO TETO",
+      "nome": "JOGO DE BAGAGEIROS DO TETO FIAT STRADA 1.3 MPI FIRE 8V 03/04",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
