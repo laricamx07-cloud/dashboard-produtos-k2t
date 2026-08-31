@@ -1,10 +1,10 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 11:12:23",
+  "ultima_atualizacao": "31/08/2026 11:17:26",
   "total_base_dia": 89,
-  "total_atual": 84,
-  "novos_produtos": 4,
+  "total_atual": 85,
+  "novos_produtos": 5,
   "total_subidos": 9,
   "skus_base_dia": [
     "SP12501004355012",
@@ -121,6 +121,7 @@
     "SP12501014105026",
     "SP12501014806045",
     "SP12501015381419",
+    "SP12501015403003",
     "SP12501015586034",
     "SP12501015730034",
     "SP12501015969043",
@@ -196,6 +197,7 @@
     "SP12501009861010",
     "SP12501014075027",
     "SP12501015381419",
+    "SP12501015403003",
     "SP12501042001019"
   ],
   "skus_subidos_hoje": [
@@ -256,6 +258,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501015403003",
+      "id_produto": "17243",
+      "nome": "CABEÇOTE COM VÁLVULAS",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501042001019",
@@ -1496,6 +1510,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    "SP12501015403003": {
+      "sku": "SP12501015403003",
+      "id_produto": "17243",
+      "nome": "CABEÇOTE COM VÁLVULAS",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
