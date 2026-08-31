@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 15:51:10",
+  "ultima_atualizacao": "31/08/2026 15:57:14",
   "total_base_dia": 89,
-  "total_atual": 122,
-  "novos_produtos": 66,
-  "total_subidos": 33,
+  "total_atual": 121,
+  "novos_produtos": 67,
+  "total_subidos": 35,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -129,6 +129,7 @@
     "SP12501010487026",
     "SP12501010835034",
     "SP12501013397019",
+    "SP12501014075010",
     "SP12501014075024",
     "SP12501014075027",
     "SP12501014075424",
@@ -269,6 +270,7 @@
     "SP12501010460026",
     "SP12501010487026",
     "SP12501013397019",
+    "SP12501014075010",
     "SP12501014075024",
     "SP12501014075027",
     "SP12501014776011",
@@ -330,6 +332,7 @@
     "SP12501014075027",
     "SP12501014105026",
     "SP12501014776011",
+    "SP12501014989451",
     "SP12501015381419",
     "SP12501015403011",
     "SP12501015748451",
@@ -350,6 +353,7 @@
     "SP12501111623016",
     "SP12501111623024",
     "SP12501111623025",
+    "SP12501111623026",
     "SP12501111623027",
     "SP12501111623030",
     "SP12501111623031",
@@ -365,6 +369,7 @@
     "SP12501014075027",
     "SP12501014105026",
     "SP12501014776011",
+    "SP12501014989451",
     "SP12501015381419",
     "SP12501015403011",
     "SP12501015748451",
@@ -385,6 +390,7 @@
     "SP12501111623016",
     "SP12501111623024",
     "SP12501111623025",
+    "SP12501111623026",
     "SP12501111623027",
     "SP12501111623030",
     "SP12501111623031",
@@ -562,6 +568,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501014075010",
+      "id_produto": "18998",
+      "nome": "CHAVE DE SETA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501014075024",
       "id_produto": "19034",
       "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LTZ 1.0 12V TB 2023",
@@ -640,7 +658,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -1012,7 +1030,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1056,11 +1074,11 @@
     {
       "sku": "SP12501111623026",
       "id_produto": "20469",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA NISSAN KICKS SL 1.6 16V FLEXSTAR 5P AU 2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1272,6 +1290,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501014989451",
+      "id_produto": "2135",
+      "nome": "SEMI-EIXO DIFERENCIAL TRASEIRO ESQUERDO JEEP RENEGADE 2018",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501015381419",
       "id_produto": "17241",
       "nome": "CENTRAL MÓDULO DO AR-CONDICIONADO CHEVROLET ONIX LTZ 1.4 15",
@@ -1470,7 +1500,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1507,6 +1537,18 @@
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111623026",
+      "id_produto": "20469",
+      "nome": "MOTOR DE PARTIDA NISSAN KICKS SL 1.6 16V FLEXSTAR 5P AU 2018",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -3076,11 +3118,11 @@
     "SP12501111623026": {
       "sku": "SP12501111623026",
       "id_produto": "20469",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA NISSAN KICKS SL 1.6 16V FLEXSTAR 5P AU 2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -3140,7 +3182,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -3224,7 +3266,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -3444,6 +3486,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501014075010": {
+      "sku": "SP12501014075010",
+      "id_produto": "18998",
+      "nome": "CHAVE DE SETA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     }
   }
 }
