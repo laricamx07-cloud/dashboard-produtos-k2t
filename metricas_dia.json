@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 16:57:18",
+  "ultima_atualizacao": "31/08/2026 17:12:40",
   "total_base_dia": 89,
-  "total_atual": 134,
+  "total_atual": 130,
   "novos_produtos": 86,
-  "total_subidos": 41,
+  "total_subidos": 45,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -366,8 +366,10 @@
     "SP12501004355012",
     "SP12501004541027",
     "SP12501005181026",
+    "SP12501009799024",
     "SP12501009861010",
     "SP12501009861027",
+    "SP12501010460026",
     "SP12501010487026",
     "SP12501013397019",
     "SP12501014075024",
@@ -387,9 +389,11 @@
     "SP12501084677027",
     "SP12501102497483",
     "SP12501102497484",
+    "SP12501103396010",
     "SP12501103418010",
     "SP12501103442026",
     "SP12501103442411",
+    "SP12501103493004",
     "SP12501103515488",
     "SP12501111330483",
     "SP12501111623010",
@@ -409,8 +413,10 @@
     "SP12501004355012",
     "SP12501004541027",
     "SP12501005181026",
+    "SP12501009799024",
     "SP12501009861010",
     "SP12501009861027",
+    "SP12501010460026",
     "SP12501010487026",
     "SP12501013397019",
     "SP12501014075024",
@@ -430,9 +436,11 @@
     "SP12501084677027",
     "SP12501102497483",
     "SP12501102497484",
+    "SP12501103396010",
     "SP12501103418010",
     "SP12501103442026",
     "SP12501103442411",
+    "SP12501103493004",
     "SP12501103515488",
     "SP12501111330483",
     "SP12501111623010",
@@ -528,7 +536,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY HATCHBACK TOURING 1.5 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -588,7 +596,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER LT 1.0 TURBO 12V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -1160,11 +1168,11 @@
     {
       "sku": "SP12501103396010",
       "id_produto": "20488",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -1220,11 +1228,11 @@
     {
       "sku": "SP12501103493004",
       "id_produto": "20492",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN GOL 1.6 MI POWER TOTAL FLEX 2005/05",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1520,6 +1528,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501009799024",
+      "id_produto": "3700",
+      "nome": "MÓDULO DE INJEÇÃO HONDA CITY HATCHBACK TOURING 1.5 FLEX 2024",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY HATCHBACK TOURING 1.5 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501009861010",
       "id_produto": "16228",
       "nome": "CHAVE SETA VOLKSWAGEN UP TRACK 1.0 TOTAL FLEX 12V 16/17",
@@ -1542,6 +1562,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501010460026",
+      "id_produto": "3499",
+      "nome": "MOTOR DE PARTIDA CHEVROLET TRACKER LT 1.0 TURBO 2023/2024",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER LT 1.0 TURBO 12V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501010487026",
@@ -1772,6 +1804,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501103396010",
+      "id_produto": "20488",
+      "nome": "CHAVE DE SETA CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501103418010",
       "id_produto": "20464",
       "nome": "CHAVE DE SETA FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
@@ -1806,6 +1850,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103493004",
+      "id_produto": "20492",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN GOL 1.6 MI POWER TOTAL FLEX 2005/05",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103515488",
@@ -3640,7 +3696,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER LT 1.0 TURBO 12V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -3796,7 +3852,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY HATCHBACK TOURING 1.5 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -3852,11 +3908,11 @@
     "SP12501103396010": {
       "sku": "SP12501103396010",
       "id_produto": "20488",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -3996,11 +4052,11 @@
     "SP12501103493004": {
       "sku": "SP12501103493004",
       "id_produto": "20492",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN GOL 1.6 MI POWER TOTAL FLEX 2005/05",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
