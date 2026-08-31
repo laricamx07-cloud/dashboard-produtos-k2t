@@ -1,10 +1,10 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 10:47:01",
+  "ultima_atualizacao": "31/08/2026 10:57:10",
   "total_base_dia": 89,
-  "total_atual": 82,
-  "novos_produtos": 2,
+  "total_atual": 84,
+  "novos_produtos": 4,
   "total_subidos": 9,
   "skus_base_dia": [
     "SP12501004355012",
@@ -112,9 +112,11 @@
     "SP12501009730035",
     "SP12501009802034",
     "SP12501009853034",
+    "SP12501009861010",
     "SP12501009888034",
     "SP12501010312034",
     "SP12501010835034",
+    "SP12501014075027",
     "SP12501014075424",
     "SP12501014105026",
     "SP12501014806045",
@@ -191,6 +193,8 @@
     "SP42501001510109"
   ],
   "skus_novos_hoje": [
+    "SP12501009861010",
+    "SP12501014075027",
     "SP12501015381419",
     "SP12501042001019"
   ],
@@ -217,6 +221,30 @@
     "SP42501001510109"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501009861010",
+      "id_produto": "16228",
+      "nome": "CHAVE SETA",
+      "marca": "VW",
+      "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501014075027",
+      "id_produto": "18890",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501015381419",
       "id_produto": "17241",
@@ -1444,6 +1472,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP12501009861010": {
+      "sku": "SP12501009861010",
+      "id_produto": "16228",
+      "nome": "CHAVE SETA",
+      "marca": "VW",
+      "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501014075027": {
+      "sku": "SP12501014075027",
+      "id_produto": "18890",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   }
 }
