@@ -1,10 +1,10 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 15:17:26",
+  "ultima_atualizacao": "31/08/2026 15:27:22",
   "total_base_dia": 89,
-  "total_atual": 111,
-  "novos_produtos": 48,
+  "total_atual": 117,
+  "novos_produtos": 54,
   "total_subidos": 26,
   "skus_base_dia": [
     "SP12501004355012",
@@ -100,6 +100,7 @@
   "skus_vistos_hoje": [
     "SP12501004355011",
     "SP12501004355012",
+    "SP12501004363024",
     "SP12501004541027",
     "SP12501004550032",
     "SP12501004584032",
@@ -120,7 +121,9 @@
     "SP12501009861010",
     "SP12501009888034",
     "SP12501009900011",
+    "SP12501009969026",
     "SP12501010312034",
+    "SP12501010460026",
     "SP12501010487026",
     "SP12501010835034",
     "SP12501013397019",
@@ -129,15 +132,18 @@
     "SP12501014075424",
     "SP12501014105026",
     "SP12501014776011",
+    "SP12501014806004",
     "SP12501014806045",
     "SP12501014881011",
     "SP12501014920038",
     "SP12501014989451",
     "SP12501015322010",
+    "SP12501015349001",
     "SP12501015381419",
     "SP12501015403003",
     "SP12501015403011",
     "SP12501015527011",
+    "SP12501015535004",
     "SP12501015586034",
     "SP12501015730034",
     "SP12501015748451",
@@ -238,25 +244,31 @@
   ],
   "skus_novos_hoje": [
     "SP12501004355011",
+    "SP12501004363024",
     "SP12501004541027",
     "SP12501005181026",
     "SP12501005238001",
     "SP12501009713001",
     "SP12501009861010",
     "SP12501009900011",
+    "SP12501009969026",
+    "SP12501010460026",
     "SP12501010487026",
     "SP12501013397019",
     "SP12501014075024",
     "SP12501014075027",
     "SP12501014776011",
+    "SP12501014806004",
     "SP12501014881011",
     "SP12501014920038",
     "SP12501014989451",
     "SP12501015322010",
+    "SP12501015349001",
     "SP12501015381419",
     "SP12501015403003",
     "SP12501015403011",
     "SP12501015527011",
+    "SP12501015535004",
     "SP12501015748451",
     "SP12501017384448",
     "SP12501042001019",
@@ -356,6 +368,18 @@
       "qtd_images": "11"
     },
     {
+      "sku": "SP12501004363024",
+      "id_produto": "5568",
+      "nome": "MÓDULO INJEÇÃO FIAT STRADA FREEDOM 1.3 FLEX 8V 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA FREEDOM 1.3 FLEX 8V CD",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501004541027",
       "id_produto": "3100",
       "nome": "PAINEL DE INSTRUMENTOS FIAT STRADA WORK HARD 1.4 FIRE 2020",
@@ -428,6 +452,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501009969026",
+      "id_produto": "5863",
+      "nome": "MOTOR DE PARTIDA CHEVROLET ONIX HATCH LT 1.4 8V 2017/18",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501010460026",
+      "id_produto": "3499",
+      "nome": "MOTOR DE PARTIDA CHEVROLET TRACKER LT 1.0 TURBO 2023/2024",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER LT 1.0 TURBO 12V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501010487026",
       "id_produto": "3349",
       "nome": "MOTOR DE PARTIDA FIAT TORO VOLCANO 2.0 2017/2018",
@@ -488,6 +536,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501014806004",
+      "id_produto": "4120",
+      "nome": "CÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 3.0 2018",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501014881011",
       "id_produto": "4144",
       "nome": "COMPRESSOR AR CONDICIONADO JEEP COMPASS SPO 2.0 16V 2016/17",
@@ -536,6 +596,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501015349001",
+      "id_produto": "4945",
+      "nome": "ALTERNADOR FIAT STRADA VOLCANO 1.3 FLEX 8V 2021/22",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA VOLCANO 1.3 FLEX 8V CD",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501015381419",
       "id_produto": "17241",
       "nome": "CENTRAL MÓDULO DO AR-CONDICIONADO CHEVROLET ONIX LTZ 1.4 15",
@@ -582,6 +654,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015535004",
+      "id_produto": "19092",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "PGT",
+      "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501015748451",
@@ -2878,6 +2962,78 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
+    },
+    "SP12501015349001": {
+      "sku": "SP12501015349001",
+      "id_produto": "4945",
+      "nome": "ALTERNADOR FIAT STRADA VOLCANO 1.3 FLEX 8V 2021/22",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA VOLCANO 1.3 FLEX 8V CD",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
+    },
+    "SP12501010460026": {
+      "sku": "SP12501010460026",
+      "id_produto": "3499",
+      "nome": "MOTOR DE PARTIDA CHEVROLET TRACKER LT 1.0 TURBO 2023/2024",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER LT 1.0 TURBO 12V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
+    },
+    "SP12501009969026": {
+      "sku": "SP12501009969026",
+      "id_produto": "5863",
+      "nome": "MOTOR DE PARTIDA CHEVROLET ONIX HATCH LT 1.4 8V 2017/18",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
+    },
+    "SP12501015535004": {
+      "sku": "SP12501015535004",
+      "id_produto": "19092",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "PGT",
+      "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501004363024": {
+      "sku": "SP12501004363024",
+      "id_produto": "5568",
+      "nome": "MÓDULO INJEÇÃO FIAT STRADA FREEDOM 1.3 FLEX 8V 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA FREEDOM 1.3 FLEX 8V CD",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
+    },
+    "SP12501014806004": {
+      "sku": "SP12501014806004",
+      "id_produto": "4120",
+      "nome": "CÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 3.0 2018",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
     }
   }
 }
