@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 15:47:16",
+  "ultima_atualizacao": "31/08/2026 15:51:10",
   "total_base_dia": 89,
   "total_atual": 122,
-  "novos_produtos": 65,
-  "total_subidos": 32,
+  "novos_produtos": 66,
+  "total_subidos": 33,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -143,6 +143,7 @@
     "SP12501015322010",
     "SP12501015349001",
     "SP12501015349012",
+    "SP12501015349016",
     "SP12501015381419",
     "SP12501015403003",
     "SP12501015403011",
@@ -279,6 +280,7 @@
     "SP12501015322010",
     "SP12501015349001",
     "SP12501015349012",
+    "SP12501015349016",
     "SP12501015381419",
     "SP12501015403003",
     "SP12501015403011",
@@ -344,6 +346,7 @@
     "SP12501103442411",
     "SP12501111330483",
     "SP12501111623010",
+    "SP12501111623011",
     "SP12501111623016",
     "SP12501111623024",
     "SP12501111623025",
@@ -378,6 +381,7 @@
     "SP12501103442411",
     "SP12501111330483",
     "SP12501111623010",
+    "SP12501111623011",
     "SP12501111623016",
     "SP12501111623024",
     "SP12501111623025",
@@ -690,6 +694,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501015349016",
+      "id_produto": "19005",
+      "nome": "FAROL ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA VOLCANO 1.3 FLEX 8V CD",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501015381419",
       "id_produto": "17241",
       "nome": "CENTRAL MÓDULO DO AR-CONDICIONADO CHEVROLET ONIX LTZ 1.4 15",
@@ -780,7 +796,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -992,11 +1008,11 @@
     {
       "sku": "SP12501111623011",
       "id_produto": "20468",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO NISSAN KICKS SL 1.6 16V 2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1286,7 +1302,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -1445,6 +1461,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111623011",
+      "id_produto": "20468",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO NISSAN KICKS SL 1.6 16V 2018",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "5"
     },
     {
@@ -3004,7 +3032,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -3108,11 +3136,11 @@
     "SP12501111623011": {
       "sku": "SP12501111623011",
       "id_produto": "20468",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO NISSAN KICKS SL 1.6 16V 2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -3403,6 +3431,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "9",
+      "qtd_images": "10"
+    },
+    "SP12501015349016": {
+      "sku": "SP12501015349016",
+      "id_produto": "19005",
+      "nome": "FAROL ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA VOLCANO 1.3 FLEX 8V CD",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     }
   }
