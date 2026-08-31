@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 17:12:40",
+  "ultima_atualizacao": "31/08/2026 17:17:29",
   "total_base_dia": 89,
-  "total_atual": 130,
-  "novos_produtos": 86,
-  "total_subidos": 45,
+  "total_atual": 128,
+  "novos_produtos": 87,
+  "total_subidos": 48,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -232,6 +232,7 @@
     "SP12501103396004",
     "SP12501103396010",
     "SP12501103418010",
+    "SP12501103442004",
     "SP12501103442026",
     "SP12501103442411",
     "SP12501103477007",
@@ -336,6 +337,7 @@
     "SP12501103396004",
     "SP12501103396010",
     "SP12501103418010",
+    "SP12501103442004",
     "SP12501103442026",
     "SP12501103442411",
     "SP12501103477007",
@@ -387,8 +389,11 @@
     "SP12501054298027",
     "SP12501084600011",
     "SP12501084677027",
+    "SP12501100699010",
+    "SP12501102446010",
     "SP12501102497483",
     "SP12501102497484",
+    "SP12501103396004",
     "SP12501103396010",
     "SP12501103418010",
     "SP12501103442026",
@@ -434,8 +439,11 @@
     "SP12501054298027",
     "SP12501084600011",
     "SP12501084677027",
+    "SP12501100699010",
+    "SP12501102446010",
     "SP12501102497483",
     "SP12501102497484",
+    "SP12501103396004",
     "SP12501103396010",
     "SP12501103418010",
     "SP12501103442026",
@@ -1108,11 +1116,11 @@
     {
       "sku": "SP12501100699010",
       "id_produto": "20483",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA HYUNDAI HB20 SENSE 1.0 FLEX 12V MEC. 2020/2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -1120,11 +1128,11 @@
     {
       "sku": "SP12501102446010",
       "id_produto": "20485",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA VOLKSWAGEN GOL 1.6 MI/ 1.6I 2P 1996/1997",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI/ 1.6I 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1156,11 +1164,11 @@
     {
       "sku": "SP12501103396004",
       "id_produto": "20487",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/11",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1188,6 +1196,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103442004",
+      "id_produto": "20583",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103442026",
@@ -1780,6 +1800,30 @@
       "qtd_images": "4"
     },
     {
+      "sku": "SP12501100699010",
+      "id_produto": "20483",
+      "nome": "CHAVE DE SETA HYUNDAI HB20 SENSE 1.0 FLEX 12V MEC. 2020/2021",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501102446010",
+      "id_produto": "20485",
+      "nome": "CHAVE DE SETA VOLKSWAGEN GOL 1.6 MI/ 1.6I 2P 1996/1997",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI/ 1.6I 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501102497483",
       "id_produto": "20156",
       "nome": "PNEU 215/60 R17 96H PIRELLI SCORPION",
@@ -1802,6 +1846,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103396004",
+      "id_produto": "20487",
+      "nome": "CÂMBIO AUTOMATICO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/11",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103396010",
@@ -3920,11 +3976,11 @@
     "SP12501102446010": {
       "sku": "SP12501102446010",
       "id_produto": "20485",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA VOLKSWAGEN GOL 1.6 MI/ 1.6I 2P 1996/1997",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI/ 1.6I 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -3944,11 +4000,11 @@
     "SP12501103396004": {
       "sku": "SP12501103396004",
       "id_produto": "20487",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/11",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -4040,11 +4096,11 @@
     "SP12501100699010": {
       "sku": "SP12501100699010",
       "id_produto": "20483",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA HYUNDAI HB20 SENSE 1.0 FLEX 12V MEC. 2020/2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -4132,6 +4188,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    "SP12501103442004": {
+      "sku": "SP12501103442004",
+      "id_produto": "20583",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   }
 }
