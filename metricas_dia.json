@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 12:57:23",
+  "ultima_atualizacao": "31/08/2026 13:12:46",
   "total_base_dia": 89,
-  "total_atual": 85,
-  "novos_produtos": 10,
-  "total_subidos": 14,
+  "total_atual": 82,
+  "novos_produtos": 11,
+  "total_subidos": 18,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -184,6 +184,7 @@
     "SP12501109521034",
     "SP12501109548045",
     "SP12501111330483",
+    "SP12501111623025",
     "SP12501111623030",
     "SP12501111623031",
     "SP12501111623033",
@@ -206,6 +207,7 @@
     "SP12501015381419",
     "SP12501015403003",
     "SP12501042001019",
+    "SP12501111623025",
     "SP12501111623030",
     "SP12501111623031",
     "SP12501111623033"
@@ -213,6 +215,7 @@
   "skus_subidos_hoje": [
     "SP12501004355012",
     "SP12501009861010",
+    "SP12501013397019",
     "SP12501014075027",
     "SP12501014105026",
     "SP12501014776011",
@@ -224,11 +227,15 @@
     "SP12501102497483",
     "SP12501102497484",
     "SP12501111330483",
+    "SP12501111623030",
+    "SP12501111623031",
+    "SP12501111623033",
     "SP42501001510109"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004355012",
     "SP12501009861010",
+    "SP12501013397019",
     "SP12501014075027",
     "SP12501014105026",
     "SP12501014776011",
@@ -240,6 +247,9 @@
     "SP12501102497483",
     "SP12501102497484",
     "SP12501111330483",
+    "SP12501111623030",
+    "SP12501111623031",
+    "SP12501111623033",
     "SP42501001510109"
   ],
   "itens_novos_hoje": [
@@ -258,11 +268,11 @@
     {
       "sku": "SP12501013397019",
       "id_produto": "19205",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA HONDA CITY SEDAN PERSONAL 1.5 18",
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY SEDAN PERSONAL 1.5 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -328,13 +338,25 @@
       "qtd_images": "10"
     },
     {
-      "sku": "SP12501111623030",
-      "id_produto": "20456",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "sku": "SP12501111623025",
+      "id_produto": "20460",
+      "nome": "MÓDULO DO CÂMBIO",
       "marca": "NISSAN",
-      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111623030",
+      "id_produto": "20456",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO NISSAN KICKS SL 1.6 16V FLEXSTAR",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -342,11 +364,11 @@
     {
       "sku": "SP12501111623031",
       "id_produto": "20457",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO NISSAN KICKS SL 1.6 2017/2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -354,11 +376,11 @@
     {
       "sku": "SP12501111623033",
       "id_produto": "20455",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA NISSAN KICKS SL 1.6 16V FLEXSTAR",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -388,6 +410,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501013397019",
+      "id_produto": "19205",
+      "nome": "LANTERNA TRASEIRA DIREITA HONDA CITY SEDAN PERSONAL 1.5 18",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY SEDAN PERSONAL 1.5 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501014075027",
@@ -520,6 +554,42 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111623030",
+      "id_produto": "20456",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO NISSAN KICKS SL 1.6 16V FLEXSTAR",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111623031",
+      "id_produto": "20457",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO NISSAN KICKS SL 1.6 2017/2018",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111623033",
+      "id_produto": "20455",
+      "nome": "PORTA DIANTEIRA ESQUERDA NISSAN KICKS SL 1.6 16V FLEXSTAR",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP42501001510109",
@@ -1666,11 +1736,11 @@
     "SP12501111623033": {
       "sku": "SP12501111623033",
       "id_produto": "20455",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA NISSAN KICKS SL 1.6 16V FLEXSTAR",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1690,11 +1760,11 @@
     "SP12501013397019": {
       "sku": "SP12501013397019",
       "id_produto": "19205",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA HONDA CITY SEDAN PERSONAL 1.5 18",
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY SEDAN PERSONAL 1.5 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1702,11 +1772,11 @@
     "SP12501111623030": {
       "sku": "SP12501111623030",
       "id_produto": "20456",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO NISSAN KICKS SL 1.6 16V FLEXSTAR",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1714,14 +1784,26 @@
     "SP12501111623031": {
       "sku": "SP12501111623031",
       "id_produto": "20457",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO NISSAN KICKS SL 1.6 2017/2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501111623025": {
+      "sku": "SP12501111623025",
+      "id_produto": "20460",
+      "nome": "MÓDULO DO CÂMBIO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "7"
+      "qtd_images": "5"
     }
   }
 }
