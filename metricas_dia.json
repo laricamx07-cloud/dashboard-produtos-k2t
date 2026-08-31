@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 10:12:29",
+  "ultima_atualizacao": "31/08/2026 10:17:05",
   "total_base_dia": 89,
-  "total_atual": 82,
+  "total_atual": 81,
   "novos_produtos": 0,
-  "total_subidos": 7,
+  "total_subidos": 8,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -191,6 +191,7 @@
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
     "SP12501004355012",
+    "SP12501014105026",
     "SP12501054298027",
     "SP12501084677027",
     "SP12501102497483",
@@ -200,6 +201,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004355012",
+    "SP12501014105026",
     "SP12501054298027",
     "SP12501084677027",
     "SP12501102497483",
@@ -220,6 +222,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501014105026",
+      "id_produto": "18984",
+      "nome": "MOTOR DE PARTIDA CHEVROLET TRACKER PREMIER 1.2 2020/2021",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501054298027",
@@ -970,11 +984,11 @@
     "SP12501014105026": {
       "sku": "SP12501014105026",
       "id_produto": "18984",
-      "nome": "MOTOR DE PARTIDA",
-      "marca": "GM",
+      "nome": "MOTOR DE PARTIDA CHEVROLET TRACKER PREMIER 1.2 2020/2021",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
