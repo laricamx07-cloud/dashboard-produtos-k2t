@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 15:42:52",
+  "ultima_atualizacao": "31/08/2026 15:47:16",
   "total_base_dia": 89,
-  "total_atual": 124,
+  "total_atual": 122,
   "novos_produtos": 65,
-  "total_subidos": 30,
+  "total_subidos": 32,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -330,6 +330,7 @@
     "SP12501014776011",
     "SP12501015381419",
     "SP12501015403011",
+    "SP12501015748451",
     "SP12501017384448",
     "SP12501042001019",
     "SP12501042109011",
@@ -340,6 +341,7 @@
     "SP12501102497484",
     "SP12501103418010",
     "SP12501103442026",
+    "SP12501103442411",
     "SP12501111330483",
     "SP12501111623010",
     "SP12501111623016",
@@ -362,6 +364,7 @@
     "SP12501014776011",
     "SP12501015381419",
     "SP12501015403011",
+    "SP12501015748451",
     "SP12501017384448",
     "SP12501042001019",
     "SP12501042109011",
@@ -372,6 +375,7 @@
     "SP12501102497484",
     "SP12501103418010",
     "SP12501103442026",
+    "SP12501103442411",
     "SP12501111330483",
     "SP12501111623010",
     "SP12501111623016",
@@ -776,7 +780,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -952,11 +956,11 @@
     {
       "sku": "SP12501103442411",
       "id_produto": "20466",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR CHEVROLET CORSA SEDAN 1.8 MPFI 8V 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
@@ -1276,6 +1280,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501015748451",
+      "id_produto": "1764",
+      "nome": "SEMI-EIXO DIFERENCIAL TRASEI ESQUER JEEP GRAND CHEROKEE 2012",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501017384448",
       "id_produto": "1448",
       "nome": "SEMI-EIXO DIFERENCIAL DIANT. DIR. FIAT PALIO ATTRAC 1.0 12",
@@ -1394,6 +1410,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103442411",
+      "id_produto": "20466",
+      "nome": "ELETROVENTILADOR CHEVROLET CORSA SEDAN 1.8 MPFI 8V 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501111330483",
@@ -2948,11 +2976,11 @@
     "SP12501103442411": {
       "sku": "SP12501103442411",
       "id_produto": "20466",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR CHEVROLET CORSA SEDAN 1.8 MPFI 8V 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
@@ -2976,7 +3004,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
