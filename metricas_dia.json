@@ -1,10 +1,10 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 12:27:23",
+  "ultima_atualizacao": "31/08/2026 12:43:15",
   "total_base_dia": 89,
-  "total_atual": 85,
-  "novos_produtos": 8,
+  "total_atual": 87,
+  "novos_produtos": 10,
   "total_subidos": 12,
   "skus_base_dia": [
     "SP12501004355012",
@@ -184,6 +184,8 @@
     "SP12501109521034",
     "SP12501109548045",
     "SP12501111330483",
+    "SP12501111623030",
+    "SP12501111623031",
     "SP12501111623033",
     "SP12501116765034",
     "SP12501116765039",
@@ -204,6 +206,8 @@
     "SP12501015381419",
     "SP12501015403003",
     "SP12501042001019",
+    "SP12501111623030",
+    "SP12501111623031",
     "SP12501111623033"
   ],
   "skus_subidos_hoje": [
@@ -318,6 +322,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111623030",
+      "id_produto": "20456",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111623031",
+      "id_produto": "20457",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501111623033",
@@ -1642,6 +1670,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501111623030": {
+      "sku": "SP12501111623030",
+      "id_produto": "20456",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501111623031": {
+      "sku": "SP12501111623031",
+      "id_produto": "20457",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   }
 }
