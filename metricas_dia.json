@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 16:42:49",
+  "ultima_atualizacao": "31/08/2026 16:47:35",
   "total_base_dia": 89,
-  "total_atual": 137,
+  "total_atual": 136,
   "novos_produtos": 86,
-  "total_subidos": 38,
+  "total_subidos": 39,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -366,6 +366,7 @@
     "SP12501004355012",
     "SP12501004541027",
     "SP12501009861010",
+    "SP12501009861027",
     "SP12501010487026",
     "SP12501013397019",
     "SP12501014075024",
@@ -406,6 +407,7 @@
     "SP12501004355012",
     "SP12501004541027",
     "SP12501009861010",
+    "SP12501009861027",
     "SP12501010487026",
     "SP12501013397019",
     "SP12501014075024",
@@ -546,7 +548,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -1511,6 +1513,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501009861027",
+      "id_produto": "3410",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN UP TRACK 1.0 2016/2017",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
       "qtd_images": "8"
     },
     {
@@ -3682,7 +3696,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
