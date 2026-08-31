@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 17:42:40",
+  "ultima_atualizacao": "31/08/2026 17:47:17",
   "total_base_dia": 89,
-  "total_atual": 143,
-  "novos_produtos": 108,
-  "total_subidos": 54,
+  "total_atual": 144,
+  "novos_produtos": 110,
+  "total_subidos": 55,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -213,6 +213,7 @@
     "SP12501089989035",
     "SP12501100672012",
     "SP12501100672514",
+    "SP12501100680011",
     "SP12501100680016",
     "SP12501100680411",
     "SP12501100699010",
@@ -238,6 +239,7 @@
     "SP12501102519033",
     "SP12501102519045",
     "SP12501102527032",
+    "SP12501102535015",
     "SP12501102535016",
     "SP12501102861004",
     "SP12501103272001",
@@ -355,6 +357,7 @@
     "SP12501089253035",
     "SP12501100672012",
     "SP12501100672514",
+    "SP12501100680011",
     "SP12501100680016",
     "SP12501100680411",
     "SP12501100699010",
@@ -366,6 +369,7 @@
     "SP12501102446411",
     "SP12501102519015",
     "SP12501102519016",
+    "SP12501102535015",
     "SP12501102535016",
     "SP12501102861004",
     "SP12501103272001",
@@ -459,6 +463,7 @@
     "SP12501111623031",
     "SP12501111623033",
     "SP12501111623049",
+    "SP12501111623449",
     "SP12501123095001",
     "SP42501001510109"
   ],
@@ -515,6 +520,7 @@
     "SP12501111623031",
     "SP12501111623033",
     "SP12501111623049",
+    "SP12501111623449",
     "SP12501123095001",
     "SP42501001510109"
   ],
@@ -1216,6 +1222,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501100680011",
+      "id_produto": "20554",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501100680016",
       "id_produto": "20556",
       "nome": "FAROL ESQUERDO",
@@ -1346,6 +1364,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501102535015",
+      "id_produto": "20575",
+      "nome": "FAROL DIREITO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "CRONOS DRIVE 1.3 8V FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501102535016",
@@ -1758,11 +1788,11 @@
     {
       "sku": "SP12501111623449",
       "id_produto": "20473",
-      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO NISSAN KICKS SL 1.6 16V 17/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1782,10 +1812,10 @@
     {
       "sku": "SP12501123095004",
       "id_produto": "20496",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL PEUGEOT 208 SPORT 1.6 FLEX 16V 5P MEC. 2016/18",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
@@ -2440,6 +2470,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111623449",
+      "id_produto": "20473",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO NISSAN KICKS SL 1.6 16V 17/18",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501123095001",
@@ -3790,11 +3832,11 @@
     "SP12501111623449": {
       "sku": "SP12501111623449",
       "id_produto": "20473",
-      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO NISSAN KICKS SL 1.6 16V 17/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -4522,10 +4564,10 @@
     "SP12501123095004": {
       "sku": "SP12501123095004",
       "id_produto": "20496",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL PEUGEOT 208 SPORT 1.6 FLEX 16V 5P MEC. 2016/18",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
@@ -4830,6 +4872,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    "SP12501102535015": {
+      "sku": "SP12501102535015",
+      "id_produto": "20575",
+      "nome": "FAROL DIREITO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "CRONOS DRIVE 1.3 8V FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501100680011": {
+      "sku": "SP12501100680011",
+      "id_produto": "20554",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   }
 }
