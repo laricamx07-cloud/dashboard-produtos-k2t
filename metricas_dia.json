@@ -1,10 +1,10 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 11:20:54",
+  "ultima_atualizacao": "31/08/2026 11:27:40",
   "total_base_dia": 89,
-  "total_atual": 85,
-  "novos_produtos": 5,
+  "total_atual": 87,
+  "novos_produtos": 7,
   "total_subidos": 9,
   "skus_base_dia": [
     "SP12501004355012",
@@ -119,6 +119,7 @@
     "SP12501014075027",
     "SP12501014075424",
     "SP12501014105026",
+    "SP12501014776011",
     "SP12501014806045",
     "SP12501015381419",
     "SP12501015403003",
@@ -182,6 +183,7 @@
     "SP12501109521034",
     "SP12501109548045",
     "SP12501111330483",
+    "SP12501111623033",
     "SP12501116765034",
     "SP12501116765039",
     "SP12501116765040",
@@ -196,9 +198,11 @@
   "skus_novos_hoje": [
     "SP12501009861010",
     "SP12501014075027",
+    "SP12501014776011",
     "SP12501015381419",
     "SP12501015403003",
-    "SP12501042001019"
+    "SP12501042001019",
+    "SP12501111623033"
   ],
   "skus_subidos_hoje": [
     "SP12501004355012",
@@ -248,6 +252,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501014776011",
+      "id_produto": "18952",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501015381419",
       "id_produto": "17241",
       "nome": "CENTRAL MÓDULO DO AR-CONDICIONADO",
@@ -281,6 +297,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111623033",
+      "id_produto": "20455",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "10"
     }
   ],
@@ -1521,6 +1549,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501111623033": {
+      "sku": "SP12501111623033",
+      "id_produto": "20455",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501014776011": {
+      "sku": "SP12501014776011",
+      "id_produto": "18952",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     }
   }
