@@ -1,10 +1,10 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 10:42:31",
+  "ultima_atualizacao": "31/08/2026 10:47:01",
   "total_base_dia": 89,
-  "total_atual": 81,
-  "novos_produtos": 1,
+  "total_atual": 82,
+  "novos_produtos": 2,
   "total_subidos": 9,
   "skus_base_dia": [
     "SP12501004355012",
@@ -136,6 +136,7 @@
     "SP12501041749039",
     "SP12501041749040",
     "SP12501041749041",
+    "SP12501042001019",
     "SP12501042109011",
     "SP12501042273041",
     "SP12501054298027",
@@ -190,7 +191,8 @@
     "SP42501001510109"
   ],
   "skus_novos_hoje": [
-    "SP12501015381419"
+    "SP12501015381419",
+    "SP12501042001019"
   ],
   "skus_subidos_hoje": [
     "SP12501004355012",
@@ -226,6 +228,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501042001019",
+      "id_produto": "15924",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "ARRIZO 6 PRO 1.5 TURBO FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -1418,6 +1432,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    "SP12501042001019": {
+      "sku": "SP12501042001019",
+      "id_produto": "15924",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "ARRIZO 6 PRO 1.5 TURBO FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   }
 }
