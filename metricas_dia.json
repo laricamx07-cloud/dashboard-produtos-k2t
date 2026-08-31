@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 08:18:39",
+  "ultima_atualizacao": "31/08/2026 08:22:54",
   "total_base_dia": 89,
-  "total_atual": 89,
+  "total_atual": 87,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -189,10 +189,41 @@
     "SP42501001510109"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501054298027",
+    "SP12501084677027"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501054298027",
+    "SP12501084677027"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501054298027",
+      "id_produto": "13121",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MERIVA JOY 1.8 8V 2005/06",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MERIVA JOY 1.8 MPFI 8V FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501084677027",
+      "id_produto": "13426",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET ONIX HATCH JOY 1.0 2018/19",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH JOY 1.0 8V FLEX 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "4"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501009648039": {
       "sku": "SP12501009648039",
@@ -261,7 +292,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MERIVA JOY 1.8 MPFI 8V FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -1173,7 +1204,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH JOY 1.0 8V FLEX 5P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "4"
