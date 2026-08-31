@@ -1,11 +1,11 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 17:47:17",
+  "ultima_atualizacao": "31/08/2026 17:57:19",
   "total_base_dia": 89,
-  "total_atual": 144,
+  "total_atual": 136,
   "novos_produtos": 110,
-  "total_subidos": 55,
+  "total_subidos": 62,
   "skus_base_dia": [
     "SP12501004355012",
     "SP12501004550032",
@@ -430,6 +430,7 @@
     "SP12501015381419",
     "SP12501015403011",
     "SP12501015527011",
+    "SP12501015616036",
     "SP12501015748451",
     "SP12501017384448",
     "SP12501042001019",
@@ -444,11 +445,13 @@
     "SP12501102446010",
     "SP12501102497483",
     "SP12501102497484",
+    "SP12501102861004",
     "SP12501103396004",
     "SP12501103396010",
     "SP12501103418010",
     "SP12501103442026",
     "SP12501103442411",
+    "SP12501103477007",
     "SP12501103493004",
     "SP12501103515488",
     "SP12501111330483",
@@ -462,9 +465,13 @@
     "SP12501111623030",
     "SP12501111623031",
     "SP12501111623033",
+    "SP12501111623036",
     "SP12501111623049",
+    "SP12501111623411",
+    "SP12501111623448",
     "SP12501111623449",
     "SP12501123095001",
+    "SP12501123095010",
     "SP42501001510109"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -487,6 +494,7 @@
     "SP12501015381419",
     "SP12501015403011",
     "SP12501015527011",
+    "SP12501015616036",
     "SP12501015748451",
     "SP12501017384448",
     "SP12501042001019",
@@ -501,11 +509,13 @@
     "SP12501102446010",
     "SP12501102497483",
     "SP12501102497484",
+    "SP12501102861004",
     "SP12501103396004",
     "SP12501103396010",
     "SP12501103418010",
     "SP12501103442026",
     "SP12501103442411",
+    "SP12501103477007",
     "SP12501103493004",
     "SP12501103515488",
     "SP12501111330483",
@@ -519,9 +529,13 @@
     "SP12501111623030",
     "SP12501111623031",
     "SP12501111623033",
+    "SP12501111623036",
     "SP12501111623049",
+    "SP12501111623411",
+    "SP12501111623448",
     "SP12501111623449",
     "SP12501123095001",
+    "SP12501123095010",
     "SP42501001510109"
   ],
   "itens_novos_hoje": [
@@ -579,9 +593,9 @@
       "nome": "ALTERNADOR HYUNDAI CRETA ATTITUDE 1.6 2018/19",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "8",
       "qtd_images": "8"
     },
@@ -917,7 +931,7 @@
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
       "status": "Habilitado",
       "status_ml": "closed",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
     },
@@ -952,8 +966,8 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS TRAILHAWK 2.0 4X4 DIES. 16V AUT.",
       "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "6",
       "qtd_images": "6"
     },
@@ -1396,7 +1410,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX PLUS 1.6MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1524,11 +1538,11 @@
     {
       "sku": "SP12501103477007",
       "id_produto": "20491",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009/2009",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1728,11 +1742,11 @@
     {
       "sku": "SP12501111623036",
       "id_produto": "20470",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR NISSAN KICKS SL 1.6 16V FLEXSTAR 5P AUT 2017/2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1764,11 +1778,11 @@
     {
       "sku": "SP12501111623411",
       "id_produto": "20471",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR NISSAN KICKS SL 1.6 16V FLEXSTAR 2017/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1776,11 +1790,11 @@
     {
       "sku": "SP12501111623448",
       "id_produto": "20472",
-      "nome": "SEMI-EIXO DIANTEIRO DIREITO",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO NISSAN KICKS SL 1.6 16V 2017/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1792,7 +1806,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1824,11 +1838,11 @@
     {
       "sku": "SP12501123095010",
       "id_produto": "20497",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA PEUGEOT 208 SPORT 1.6 FLEX 16V 5P MEC. 2016/17",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2071,9 +2085,21 @@
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
       "status": "Habilitado",
       "status_ml": "closed",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015616036",
+      "id_produto": "5273",
+      "nome": "RADIADOR JEEP COMPASS TRAILHAWK 2.0 4X4 2018/2019",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS TRAILHAWK 2.0 4X4 DIES. 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "0",
+      "classificacao": "6",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501015748451",
@@ -2244,6 +2270,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501102861004",
+      "id_produto": "19396",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN FOX PLUS 1.6MI TOTAL FLEX 8V 04/04",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX PLUS 1.6MI TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501103396004",
       "id_produto": "20487",
       "nome": "CÂMBIO AUTOMATICO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/11",
@@ -2302,6 +2340,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103477007",
+      "id_produto": "20491",
+      "nome": "CAPÔ HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009/2009",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501103493004",
@@ -2460,6 +2510,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501111623036",
+      "id_produto": "20470",
+      "nome": "RADIADOR NISSAN KICKS SL 1.6 16V FLEXSTAR 5P AUT 2017/2018",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501111623049",
       "id_produto": "20462",
       "nome": "VOLANTE DO MOTORISTA NISSAN KICKS SL 1.6 16V FLEX 5P 2018",
@@ -2472,13 +2534,37 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501111623411",
+      "id_produto": "20471",
+      "nome": "ELETROVENTILADOR NISSAN KICKS SL 1.6 16V FLEXSTAR 2017/18",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111623448",
+      "id_produto": "20472",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO NISSAN KICKS SL 1.6 16V 2017/18",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501111623449",
       "id_produto": "20473",
       "nome": "SEMI-EIXO DIANTEIRO ESQUERDO NISSAN KICKS SL 1.6 16V 17/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -2494,6 +2580,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501123095010",
+      "id_produto": "20497",
+      "nome": "CHAVE DE SETA PEUGEOT 208 SPORT 1.6 FLEX 16V 5P MEC. 2016/17",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP42501001510109",
@@ -3824,7 +3922,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX PLUS 1.6MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3836,7 +3934,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -3909,7 +4007,7 @@
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
       "status": "Habilitado",
       "status_ml": "closed",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
     },
@@ -3964,11 +4062,11 @@
     "SP12501111623036": {
       "sku": "SP12501111623036",
       "id_produto": "20470",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR NISSAN KICKS SL 1.6 16V FLEXSTAR 5P AUT 2017/2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3988,11 +4086,11 @@
     "SP12501111623448": {
       "sku": "SP12501111623448",
       "id_produto": "20472",
-      "nome": "SEMI-EIXO DIANTEIRO DIREITO",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO NISSAN KICKS SL 1.6 16V 2017/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -4036,11 +4134,11 @@
     "SP12501111623411": {
       "sku": "SP12501111623411",
       "id_produto": "20471",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR NISSAN KICKS SL 1.6 16V FLEXSTAR 2017/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -4111,9 +4209,9 @@
       "nome": "ALTERNADOR HYUNDAI CRETA ATTITUDE 1.6 2018/19",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "8",
       "qtd_images": "8"
     },
@@ -4340,8 +4438,8 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS TRAILHAWK 2.0 4X4 DIES. 16V AUT.",
       "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "6",
       "qtd_images": "6"
     },
@@ -4540,11 +4638,11 @@
     "SP12501123095010": {
       "sku": "SP12501123095010",
       "id_produto": "20497",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA PEUGEOT 208 SPORT 1.6 FLEX 16V 5P MEC. 2016/17",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -4552,11 +4650,11 @@
     "SP12501103477007": {
       "sku": "SP12501103477007",
       "id_produto": "20491",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009/2009",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
