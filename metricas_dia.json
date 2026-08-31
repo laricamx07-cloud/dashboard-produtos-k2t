@@ -1,10 +1,10 @@
 {
   "data": "2026-08-31",
   "primeira_atualizacao": "31/08/2026 08:14:58",
-  "ultima_atualizacao": "31/08/2026 15:12:37",
+  "ultima_atualizacao": "31/08/2026 15:17:26",
   "total_base_dia": 89,
-  "total_atual": 109,
-  "novos_produtos": 46,
+  "total_atual": 111,
+  "novos_produtos": 48,
   "total_subidos": 26,
   "skus_base_dia": [
     "SP12501004355012",
@@ -132,6 +132,7 @@
     "SP12501014806045",
     "SP12501014881011",
     "SP12501014920038",
+    "SP12501014989451",
     "SP12501015322010",
     "SP12501015381419",
     "SP12501015403003",
@@ -207,6 +208,7 @@
     "SP12501109521034",
     "SP12501109548045",
     "SP12501111330483",
+    "SP12501111623001",
     "SP12501111623010",
     "SP12501111623011",
     "SP12501111623016",
@@ -249,6 +251,7 @@
     "SP12501014776011",
     "SP12501014881011",
     "SP12501014920038",
+    "SP12501014989451",
     "SP12501015322010",
     "SP12501015381419",
     "SP12501015403003",
@@ -265,6 +268,7 @@
     "SP12501103418010",
     "SP12501103442026",
     "SP12501103442411",
+    "SP12501111623001",
     "SP12501111623010",
     "SP12501111623011",
     "SP12501111623016",
@@ -508,6 +512,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501014989451",
+      "id_produto": "2135",
+      "nome": "SEMI-EIXO DIFERENCIAL TRASEIRO ESQUERDO JEEP RENEGADE 2018",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501015322010",
       "id_produto": "19167",
       "nome": "CHAVE DE SETA",
@@ -697,6 +713,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "05",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111623001",
+      "id_produto": "20467",
+      "nome": "ALTERNADOR",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "5"
     },
     {
@@ -2826,6 +2854,30 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "11"
+    },
+    "SP12501111623001": {
+      "sku": "SP12501111623001",
+      "id_produto": "20467",
+      "nome": "ALTERNADOR",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501014989451": {
+      "sku": "SP12501014989451",
+      "id_produto": "2135",
+      "nome": "SEMI-EIXO DIFERENCIAL TRASEIRO ESQUERDO JEEP RENEGADE 2018",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
     }
   }
 }
