@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 08:21:36",
+  "ultima_atualizacao": "01/09/2026 08:27:19",
   "total_base_dia": 297,
-  "total_atual": 297,
+  "total_atual": 296,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 1,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -605,10 +605,27 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501055219027"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501055219027"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501055219027",
+      "id_produto": "20658",
+      "nome": "PAINEL DE INSTRUMENTOS BMW X5 XDRIVE50I 4.4 V8 TWI 2013",
+      "marca": "BMW",
+      "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501100672514": {
       "sku": "SP12501100672514",
@@ -3133,11 +3150,11 @@
     "SP12501055219027": {
       "sku": "SP12501055219027",
       "id_produto": "20658",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS BMW X5 XDRIVE50I 4.4 V8 TWI 2013",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
