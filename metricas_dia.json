@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 10:27:00",
+  "ultima_atualizacao": "01/09/2026 10:42:18",
   "total_base_dia": 297,
-  "total_atual": 267,
+  "total_atual": 265,
   "novos_produtos": 0,
-  "total_subidos": 30,
+  "total_subidos": 32,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -623,6 +623,7 @@
     "SP12501100680024",
     "SP12501100680026",
     "SP12501100680027",
+    "SP12501100699019",
     "SP12501103272027",
     "SP12501103493036",
     "SP12501103515029",
@@ -635,7 +636,8 @@
     "SP12501123095032",
     "SP12501123095045",
     "SP12501123141004",
-    "SP12501123346024"
+    "SP12501123346024",
+    "SP32501002896828"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501014806004",
@@ -655,6 +657,7 @@
     "SP12501100680024",
     "SP12501100680026",
     "SP12501100680027",
+    "SP12501100699019",
     "SP12501103272027",
     "SP12501103493036",
     "SP12501103515029",
@@ -667,7 +670,8 @@
     "SP12501123095032",
     "SP12501123095045",
     "SP12501123141004",
-    "SP12501123346024"
+    "SP12501123346024",
+    "SP32501002896828"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
@@ -876,6 +880,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501100699019",
+      "id_produto": "20680",
+      "nome": "LANTERNA TRASEIRA DIREITA HYUNDAI HB20 SENSE 1.0 FLEX 2022",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103272027",
       "id_produto": "20717",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MONTANA LS 1.4 2011/2012",
@@ -1030,6 +1046,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP32501002896828",
+      "id_produto": "17309",
+      "nome": "FAROL DE NEBLINA DIREITO RAM 2500 LARAMIE 6.7 TDI 4X4 2019",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -4012,11 +4040,11 @@
     "SP12501100699019": {
       "sku": "SP12501100699019",
       "id_produto": "20680",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA HYUNDAI HB20 SENSE 1.0 FLEX 2022",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -4180,11 +4208,11 @@
     "SP32501002896828": {
       "sku": "SP32501002896828",
       "id_produto": "17309",
-      "nome": "FAROL DE NEBLINA DIREITO",
+      "nome": "FAROL DE NEBLINA DIREITO RAM 2500 LARAMIE 6.7 TDI 4X4 2019",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
