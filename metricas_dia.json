@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 10:57:22",
+  "ultima_atualizacao": "01/09/2026 11:12:39",
   "total_base_dia": 297,
-  "total_atual": 265,
+  "total_atual": 260,
   "novos_produtos": 0,
-  "total_subidos": 32,
+  "total_subidos": 37,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -606,6 +606,7 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501014075424",
     "SP12501014806004",
     "SP12501015802004",
     "SP12501017422016",
@@ -624,7 +625,10 @@
     "SP12501100680026",
     "SP12501100680027",
     "SP12501100699019",
+    "SP12501100699020",
     "SP12501103272027",
+    "SP12501103477040",
+    "SP12501103477041",
     "SP12501103493036",
     "SP12501103515029",
     "SP12501103515031",
@@ -633,6 +637,7 @@
     "SP12501103515038",
     "SP12501103515045",
     "SP12501111704036",
+    "SP12501116765034",
     "SP12501123095032",
     "SP12501123095045",
     "SP12501123141004",
@@ -640,6 +645,7 @@
     "SP32501002896828"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501014075424",
     "SP12501014806004",
     "SP12501015802004",
     "SP12501017422016",
@@ -658,7 +664,10 @@
     "SP12501100680026",
     "SP12501100680027",
     "SP12501100699019",
+    "SP12501100699020",
     "SP12501103272027",
+    "SP12501103477040",
+    "SP12501103477041",
     "SP12501103493036",
     "SP12501103515029",
     "SP12501103515031",
@@ -667,6 +676,7 @@
     "SP12501103515038",
     "SP12501103515045",
     "SP12501111704036",
+    "SP12501116765034",
     "SP12501123095032",
     "SP12501123095045",
     "SP12501123141004",
@@ -675,6 +685,18 @@
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501014075424",
+      "id_produto": "17370",
+      "nome": "MULTIMÍDIA GM ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT 2023",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501014806004",
       "id_produto": "4120",
@@ -892,6 +914,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501100699020",
+      "id_produto": "20681",
+      "nome": "LANTERNA TRASEIRA ESQUERDA HYUNDAI HB20 SENSE 1.0 FLEX 2021",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103272027",
       "id_produto": "20717",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MONTANA LS 1.4 2011/2012",
@@ -902,6 +936,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103477040",
+      "id_produto": "20849",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS HONDA FIT",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103477041",
+      "id_produto": "20850",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS HONDA FIT",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501103493036",
@@ -998,6 +1056,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501116765034",
+      "id_produto": "18827",
+      "nome": "PORTA TRASEIRA DIR MITSUBISHI PAJERO 2.0 FLEX 16V 4X 2008",
+      "marca": "MITSUBISHI",
+      "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501123095032",
@@ -1988,11 +2058,11 @@
     "SP12501103477040": {
       "sku": "SP12501103477040",
       "id_produto": "20849",
-      "nome": "RODA DIANTEIRA ESQUERDA",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS HONDA FIT",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -2300,11 +2370,11 @@
     "SP12501103477041": {
       "sku": "SP12501103477041",
       "id_produto": "20850",
-      "nome": "RODA TRASEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS HONDA FIT",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -3164,11 +3234,11 @@
     "SP12501100699020": {
       "sku": "SP12501100699020",
       "id_produto": "20681",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA HYUNDAI HB20 SENSE 1.0 FLEX 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -3572,11 +3642,11 @@
     "SP12501116765034": {
       "sku": "SP12501116765034",
       "id_produto": "18827",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIR MITSUBISHI PAJERO 2.0 FLEX 16V 4X 2008",
       "marca": "MITSUBISHI",
       "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -3944,11 +4014,11 @@
     "SP12501014075424": {
       "sku": "SP12501014075424",
       "id_produto": "17370",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA GM ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT 2023",
       "marca": "GM",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
