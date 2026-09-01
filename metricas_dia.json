@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 17:21:34",
+  "ultima_atualizacao": "01/09/2026 17:27:30",
   "total_base_dia": 297,
-  "total_atual": 143,
+  "total_atual": 131,
   "novos_produtos": 8,
-  "total_subidos": 162,
+  "total_subidos": 174,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -636,6 +636,7 @@
     "SP12501055219014",
     "SP12501055219020",
     "SP12501055219027",
+    "SP12501055219029",
     "SP12501055219400",
     "SP12501055219447",
     "SP12501055219585",
@@ -658,6 +659,7 @@
     "SP12501100680024",
     "SP12501100680026",
     "SP12501100680027",
+    "SP12501100680031",
     "SP12501100680411",
     "SP12501100699011",
     "SP12501100699019",
@@ -696,10 +698,14 @@
     "SP12501102519015",
     "SP12501102519016",
     "SP12501102519027",
+    "SP12501102527037",
     "SP12501102535015",
     "SP12501102535016",
     "SP12501102535027",
     "SP12501102535028",
+    "SP12501102535030",
+    "SP12501102535031",
+    "SP12501102535037",
     "SP12501102535038",
     "SP12501102888015",
     "SP12501102888016",
@@ -776,12 +782,18 @@
     "SP12501103515033",
     "SP12501103515038",
     "SP12501103515045",
+    "SP12501103515400",
     "SP12501103515411",
+    "SP12501111615031",
+    "SP12501111615033",
+    "SP12501111615035",
     "SP12501111704036",
+    "SP12501111739424",
     "SP12501116765034",
     "SP12501123095004",
     "SP12501123095032",
     "SP12501123095045",
+    "SP12501123095400",
     "SP12501123141004",
     "SP12501123346024",
     "SP32501002896828"
@@ -800,6 +812,7 @@
     "SP12501055219014",
     "SP12501055219020",
     "SP12501055219027",
+    "SP12501055219029",
     "SP12501055219400",
     "SP12501055219447",
     "SP12501055219585",
@@ -822,6 +835,7 @@
     "SP12501100680024",
     "SP12501100680026",
     "SP12501100680027",
+    "SP12501100680031",
     "SP12501100680411",
     "SP12501100699011",
     "SP12501100699019",
@@ -860,10 +874,14 @@
     "SP12501102519015",
     "SP12501102519016",
     "SP12501102519027",
+    "SP12501102527037",
     "SP12501102535015",
     "SP12501102535016",
     "SP12501102535027",
     "SP12501102535028",
+    "SP12501102535030",
+    "SP12501102535031",
+    "SP12501102535037",
     "SP12501102535038",
     "SP12501102888015",
     "SP12501102888016",
@@ -940,12 +958,18 @@
     "SP12501103515033",
     "SP12501103515038",
     "SP12501103515045",
+    "SP12501103515400",
     "SP12501103515411",
+    "SP12501111615031",
+    "SP12501111615033",
+    "SP12501111615035",
     "SP12501111704036",
+    "SP12501111739424",
     "SP12501116765034",
     "SP12501123095004",
     "SP12501123095032",
     "SP12501123095045",
+    "SP12501123095400",
     "SP12501123141004",
     "SP12501123346024",
     "SP32501002896828"
@@ -1002,11 +1026,11 @@
     {
       "sku": "SP12501111615031",
       "id_produto": "20866",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FORD FOCUS SEDAN GHIA 2.0 2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1014,11 +1038,11 @@
     {
       "sku": "SP12501111615033",
       "id_produto": "20867",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD FOCUS SEDAN GHIA 2.0 16V 2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1026,11 +1050,11 @@
     {
       "sku": "SP12501111615035",
       "id_produto": "20868",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA FORD FOCUS SEDAN GHIA 2.0 16V 2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1080,7 +1104,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1104,7 +1128,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONGITUDE 2.0 4X4 TB DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1204,6 +1228,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501055219029",
+      "id_produto": "20744",
+      "nome": "Parachoque Traseiro Bmw X5 F15 F85 2014 2015 a 2018",
+      "marca": "BMW",
+      "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501055219400",
@@ -1467,6 +1503,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100680031",
+      "id_produto": "20767",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO CHERY FACE 1.3 16V FLEX. 2012",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "7"
     },
     {
@@ -1926,6 +1974,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501102527037",
+      "id_produto": "20803",
+      "nome": "RETROVISOR DIREITO JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501102535015",
       "id_produto": "20575",
       "nome": "FAROL DIREITO FIAT CRONOS DRIVE 1.3 8V FLEX 2022",
@@ -1972,6 +2032,42 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102535030",
+      "id_produto": "20804",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT CRONOS DRIVE 1.3 8V FLEX 22",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "CRONOS DRIVE 1.3 8V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102535031",
+      "id_produto": "20805",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FIAT CRONOS DRIVE 1.3 8V FLEX",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "CRONOS DRIVE 1.3 8V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102535037",
+      "id_produto": "20806",
+      "nome": "RETROVISOR DIREITO FIAT CRONOS DRIVE 1.3 8V FLEX 2022/2022",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "CRONOS DRIVE 1.3 8V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501102535038",
@@ -2796,7 +2892,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2808,7 +2904,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2886,6 +2982,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103515400",
+      "id_produto": "20740",
+      "nome": "MOTOR COMPLETO FIAT STRADA 1.3 MPI FIRE 8V 67CV CE 2003/2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103515411",
       "id_produto": "20592",
       "nome": "ELETROVENTILADOR FIAT STRADA 1.3 MPI FIRE 8V 67CV CE 2004",
@@ -2898,6 +3006,42 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501111615031",
+      "id_produto": "20866",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FORD FOCUS SEDAN GHIA 2.0 2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111615033",
+      "id_produto": "20867",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD FOCUS SEDAN GHIA 2.0 16V 2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111615035",
+      "id_produto": "20868",
+      "nome": "PORTA TRASEIRA ESQUERDA FORD FOCUS SEDAN GHIA 2.0 16V 2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501111704036",
       "id_produto": "20861",
       "nome": "RADIADOR VOLKSWAGEN FOX ROCK IN RIO 1.6 MI TOTAL FLEX 15/16",
@@ -2907,6 +3051,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111739424",
+      "id_produto": "20741",
+      "nome": "MULTIMÍDIA FIAT MOBI WAY ON 1.0 FIRE FLEX 5P. 2016/2017",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI WAY ON 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "5"
     },
     {
@@ -2956,6 +3112,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501123095400",
+      "id_produto": "20742",
+      "nome": "MOTOR COMPLETO PEUGEOT 208 SPORT 1.6 FLEX 16V 5P MEC. 2017",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501123141004",
@@ -3982,11 +4150,11 @@
     "SP12501100680031": {
       "sku": "SP12501100680031",
       "id_produto": "20767",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO CHERY FACE 1.3 16V FLEX. 2012",
       "marca": "CHERY",
       "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -4150,11 +4318,11 @@
     "SP12501111739424": {
       "sku": "SP12501111739424",
       "id_produto": "20741",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA FIAT MOBI WAY ON 1.0 FIRE FLEX 5P. 2016/2017",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI WAY ON 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -4318,11 +4486,11 @@
     "SP12501123095400": {
       "sku": "SP12501123095400",
       "id_produto": "20742",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO PEUGEOT 208 SPORT 1.6 FLEX 16V 5P MEC. 2017",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -4406,7 +4574,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -4526,7 +4694,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -4670,7 +4838,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "CRONOS DRIVE 1.3 8V FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -4766,7 +4934,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -4882,11 +5050,11 @@
     "SP12501102535030": {
       "sku": "SP12501102535030",
       "id_produto": "20804",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT CRONOS DRIVE 1.3 8V FLEX 22",
       "marca": "FIAT",
       "modelo_do_veiculo": "CRONOS DRIVE 1.3 8V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -5086,11 +5254,11 @@
     "SP12501103515400": {
       "sku": "SP12501103515400",
       "id_produto": "20740",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FIAT STRADA 1.3 MPI FIRE 8V 67CV CE 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -5158,11 +5326,11 @@
     "SP12501102535031": {
       "sku": "SP12501102535031",
       "id_produto": "20805",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FIAT CRONOS DRIVE 1.3 8V FLEX",
       "marca": "FIAT",
       "modelo_do_veiculo": "CRONOS DRIVE 1.3 8V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -5186,7 +5354,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONGITUDE 2.0 4X4 TB DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -5446,11 +5614,11 @@
     "SP12501102527037": {
       "sku": "SP12501102527037",
       "id_produto": "20803",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -6058,11 +6226,11 @@
     "SP12501055219029": {
       "sku": "SP12501055219029",
       "id_produto": "20744",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "Parachoque Traseiro Bmw X5 F15 F85 2014 2015 a 2018",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -6562,11 +6730,11 @@
     "SP12501111615031": {
       "sku": "SP12501111615031",
       "id_produto": "20866",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FORD FOCUS SEDAN GHIA 2.0 2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -6574,11 +6742,11 @@
     "SP12501111615035": {
       "sku": "SP12501111615035",
       "id_produto": "20868",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA FORD FOCUS SEDAN GHIA 2.0 16V 2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -6598,11 +6766,11 @@
     "SP12501111615033": {
       "sku": "SP12501111615033",
       "id_produto": "20867",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD FOCUS SEDAN GHIA 2.0 16V 2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
