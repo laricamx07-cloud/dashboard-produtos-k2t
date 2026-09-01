@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 12:27:22",
+  "ultima_atualizacao": "01/09/2026 12:42:33",
   "total_base_dia": 297,
-  "total_atual": 234,
-  "novos_produtos": 1,
-  "total_subidos": 64,
+  "total_atual": 233,
+  "novos_produtos": 4,
+  "total_subidos": 68,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -588,6 +588,9 @@
     "SP12501109521034",
     "SP12501109548045",
     "SP12501111615031",
+    "SP12501111615033",
+    "SP12501111615035",
+    "SP12501111615045",
     "SP12501111704036",
     "SP12501111739424",
     "SP12501116765034",
@@ -606,7 +609,10 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [
-    "SP12501111615031"
+    "SP12501111615031",
+    "SP12501111615033",
+    "SP12501111615035",
+    "SP12501111615045"
   ],
   "skus_subidos_hoje": [
     "SP12501014075424",
@@ -617,6 +623,7 @@
     "SP12501041714004",
     "SP12501055219027",
     "SP12501055219585",
+    "SP12501055227024",
     "SP12501055227027",
     "SP12501056282020",
     "SP12501056282024",
@@ -642,7 +649,10 @@
     "SP12501100800024",
     "SP12501100800424",
     "SP12501100842015",
+    "SP12501100842016",
     "SP12501103272027",
+    "SP12501103418032",
+    "SP12501103418033",
     "SP12501103418037",
     "SP12501103418038",
     "SP12501103418480",
@@ -683,6 +693,7 @@
     "SP12501041714004",
     "SP12501055219027",
     "SP12501055219585",
+    "SP12501055227024",
     "SP12501055227027",
     "SP12501056282020",
     "SP12501056282024",
@@ -708,7 +719,10 @@
     "SP12501100800024",
     "SP12501100800424",
     "SP12501100842015",
+    "SP12501100842016",
     "SP12501103272027",
+    "SP12501103418032",
+    "SP12501103418033",
     "SP12501103418037",
     "SP12501103418038",
     "SP12501103418480",
@@ -746,11 +760,47 @@
       "id_produto": "20866",
       "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111615033",
+      "id_produto": "20867",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111615035",
+      "id_produto": "20868",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111615045",
+      "id_produto": "20869",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "7"
     }
   ],
@@ -852,13 +902,25 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501055227024",
+      "id_produto": "20665",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN VOYAGE TRENDLINE 1.6 8V 2016",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501055227027",
       "id_produto": "20666",
       "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN VOYAGE TRENDLINE 1.6 2016",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1146,7 +1208,19 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501100842016",
+      "id_produto": "20692",
+      "nome": "Farol Esquerdo Jeep Renegade 2016 a 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1164,13 +1238,37 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501103418032",
+      "id_produto": "20829",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT PALIO 1.0 FIRE FLEX 2P 2003/04",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103418033",
+      "id_produto": "20830",
+      "nome": "PORTA DIANTEIRA ESQUERDA FIAT PALIO 1.0 FIRE FLEX 2P 2003/04",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103418037",
       "id_produto": "20831",
       "nome": "RETROVISOR DIREITO FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
@@ -1182,7 +1280,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1972,11 +2070,11 @@
     "SP12501100842016": {
       "sku": "SP12501100842016",
       "id_produto": "20692",
-      "nome": "FAROL ESQUERDO",
+      "nome": "Farol Esquerdo Jeep Renegade 2016 a 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -2200,11 +2298,11 @@
     "SP12501103418033": {
       "sku": "SP12501103418033",
       "id_produto": "20830",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FIAT PALIO 1.0 FIRE FLEX 2P 2003/04",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2296,11 +2394,11 @@
     "SP12501055227024": {
       "sku": "SP12501055227024",
       "id_produto": "20665",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN VOYAGE TRENDLINE 1.6 8V 2016",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -2804,7 +2902,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
@@ -2812,11 +2910,11 @@
     "SP12501103418032": {
       "sku": "SP12501103418032",
       "id_produto": "20829",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT PALIO 1.0 FIRE FLEX 2P 2003/04",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -3128,7 +3226,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -3596,7 +3694,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -4832,7 +4930,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -5094,12 +5192,48 @@
       "id_produto": "20866",
       "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    "SP12501111615035": {
+      "sku": "SP12501111615035",
+      "id_produto": "20868",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501111615045": {
+      "sku": "SP12501111615045",
+      "id_produto": "20869",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501111615033": {
+      "sku": "SP12501111615033",
+      "id_produto": "20867",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
