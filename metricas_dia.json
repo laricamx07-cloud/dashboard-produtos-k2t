@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 15:13:10",
+  "ultima_atualizacao": "01/09/2026 15:17:25",
   "total_base_dia": 297,
-  "total_atual": 181,
+  "total_atual": 180,
   "novos_produtos": 8,
-  "total_subidos": 124,
+  "total_subidos": 125,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -646,6 +646,7 @@
     "SP12501100648424",
     "SP12501100672027",
     "SP12501100672512",
+    "SP12501100680016",
     "SP12501100680024",
     "SP12501100680026",
     "SP12501100680027",
@@ -772,6 +773,7 @@
     "SP12501100648424",
     "SP12501100672027",
     "SP12501100672512",
+    "SP12501100680016",
     "SP12501100680024",
     "SP12501100680026",
     "SP12501100680027",
@@ -1250,6 +1252,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501100680016",
+      "id_produto": "20556",
+      "nome": "FAROL ESQUERDO CHERY FACE 1.3 16V FLEX.MEC. 2012",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501100680024",
       "id_produto": "20677",
       "nome": "MÓDULO DE INJEÇÃO CHERY FACE 1.3 16V FLEX.MEC. 2012",
@@ -1292,7 +1306,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1808,7 +1822,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CROSSFOX 1.6 TOTAL FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1844,7 +1858,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -3430,7 +3444,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -3682,7 +3696,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -5670,11 +5684,11 @@
     "SP12501100680016": {
       "sku": "SP12501100680016",
       "id_produto": "20556",
-      "nome": "FAROL ESQUERDO",
+      "nome": "FAROL ESQUERDO CHERY FACE 1.3 16V FLEX.MEC. 2012",
       "marca": "CHERY",
       "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -5722,7 +5736,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CROSSFOX 1.6 TOTAL FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
