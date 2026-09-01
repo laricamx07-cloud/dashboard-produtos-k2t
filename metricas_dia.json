@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 12:47:34",
+  "ultima_atualizacao": "01/09/2026 12:57:20",
   "total_base_dia": 297,
-  "total_atual": 224,
+  "total_atual": 221,
   "novos_produtos": 4,
-  "total_subidos": 77,
+  "total_subidos": 80,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -657,7 +657,10 @@
     "SP12501102276024",
     "SP12501102276027",
     "SP12501102276505",
+    "SP12501102446024",
     "SP12501103272027",
+    "SP12501103400038",
+    "SP12501103400039",
     "SP12501103400480",
     "SP12501103418032",
     "SP12501103418033",
@@ -736,7 +739,10 @@
     "SP12501102276024",
     "SP12501102276027",
     "SP12501102276505",
+    "SP12501102446024",
     "SP12501103272027",
+    "SP12501103400038",
+    "SP12501103400039",
     "SP12501103400480",
     "SP12501103418032",
     "SP12501103418033",
@@ -902,7 +908,7 @@
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -926,7 +932,7 @@
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -938,7 +944,7 @@
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -962,7 +968,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1298,7 +1304,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1310,7 +1316,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1322,10 +1328,22 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501102446024",
+      "id_produto": "20696",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN GOL 1.6 MI/ 1.6I 2P 1996/1997",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI/ 1.6I 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501103272027",
@@ -1340,13 +1358,37 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501103400038",
+      "id_produto": "20823",
+      "nome": "RETROVISOR ESQUERDO HONDA FIT LX 1.4 FLEX 8V 16V 2005/2006",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103400039",
+      "id_produto": "20824",
+      "nome": "RODA LIGA LEVE ARO 14 4 FUROS HONDA FIT",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103400480",
       "id_produto": "20828",
       "nome": "PORTINHOLA DO TANQUE HONDA FIT LX 1.4 FLEX 8V 16V 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1658,7 +1700,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1864,7 +1906,7 @@
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1936,7 +1978,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1972,7 +2014,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2068,7 +2110,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2856,11 +2898,11 @@
     "SP12501103400039": {
       "sku": "SP12501103400039",
       "id_produto": "20824",
-      "nome": "RODA DIANTEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 14 4 FUROS HONDA FIT",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -2952,11 +2994,11 @@
     "SP12501102446024": {
       "sku": "SP12501102446024",
       "id_produto": "20696",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN GOL 1.6 MI/ 1.6I 2P 1996/1997",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI/ 1.6I 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -3664,7 +3706,7 @@
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -4084,7 +4126,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -4456,7 +4498,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -4504,7 +4546,7 @@
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -4696,7 +4738,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -4752,11 +4794,11 @@
     "SP12501103400038": {
       "sku": "SP12501103400038",
       "id_produto": "20823",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO HONDA FIT LX 1.4 FLEX 8V 16V 2005/2006",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
