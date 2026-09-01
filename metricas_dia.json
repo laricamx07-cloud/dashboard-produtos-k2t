@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 08:57:17",
+  "ultima_atualizacao": "01/09/2026 09:12:40",
   "total_base_dia": 297,
-  "total_atual": 290,
+  "total_atual": 286,
   "novos_produtos": 0,
-  "total_subidos": 7,
+  "total_subidos": 11,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -606,19 +606,27 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501014806004",
     "SP12501015802004",
     "SP12501055219027",
     "SP12501055219585",
+    "SP12501100648027",
     "SP12501103272027",
+    "SP12501103515038",
+    "SP12501103515045",
     "SP12501111704036",
     "SP12501123095032",
     "SP12501123095045"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501014806004",
     "SP12501015802004",
     "SP12501055219027",
     "SP12501055219585",
+    "SP12501100648027",
     "SP12501103272027",
+    "SP12501103515038",
+    "SP12501103515045",
     "SP12501111704036",
     "SP12501123095032",
     "SP12501123095045"
@@ -626,13 +634,25 @@
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501014806004",
+      "id_produto": "4120",
+      "nome": "CÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 3.0 2018",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501015802004",
       "id_produto": "2906",
       "nome": "CÂMBIO AUTOMÁTICO FIAT STILO DUALOGIC 1.8 FLEX 8V 5P 2008/09",
       "marca": "FIAT",
       "modelo_do_veiculo": "STILO DUALOGIC 1.8 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -656,9 +676,21 @@
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100648027",
+      "id_produto": "20671",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT ARGO 1.0 6V FLEX 2021/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "05",
       "qtd_images": "7"
     },
     {
@@ -672,6 +704,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103515038",
+      "id_produto": "20859",
+      "nome": "RETROVISOR ESQUERDO FIAT STRADA 1.3 MPI FIRE 8V 67CV 2003/04",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103515045",
+      "id_produto": "20860",
+      "nome": "TAMPA TRASEIRA FIAT STRADA 1.3 MPI FIRE 8V 67CV CE 2003/2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501111704036",
@@ -750,11 +806,11 @@
     "SP12501014806004": {
       "sku": "SP12501014806004",
       "id_produto": "4120",
-      "nome": "ÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 3.0 2018",
+      "nome": "CÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 3.0 2018",
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -906,11 +962,11 @@
     "SP12501103515045": {
       "sku": "SP12501103515045",
       "id_produto": "20860",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA FIAT STRADA 1.3 MPI FIRE 8V 67CV CE 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1330,7 +1386,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STILO DUALOGIC 1.8 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -3526,7 +3582,7 @@
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -4002,11 +4058,11 @@
     "SP12501100648027": {
       "sku": "SP12501100648027",
       "id_produto": "20671",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -4026,11 +4082,11 @@
     "SP12501103515038": {
       "sku": "SP12501103515038",
       "id_produto": "20859",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FIAT STRADA 1.3 MPI FIRE 8V 67CV 2003/04",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
