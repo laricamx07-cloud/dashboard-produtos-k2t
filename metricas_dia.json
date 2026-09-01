@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 17:55:31",
+  "ultima_atualizacao": "01/09/2026 17:57:26",
   "total_base_dia": 297,
-  "total_atual": 106,
+  "total_atual": 104,
   "novos_produtos": 8,
-  "total_subidos": 199,
+  "total_subidos": 201,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -644,6 +644,7 @@
     "SP12501055219048",
     "SP12501055219049",
     "SP12501055219400",
+    "SP12501055219412",
     "SP12501055219447",
     "SP12501055219585",
     "SP12501055227019",
@@ -693,6 +694,7 @@
     "SP12501100788012",
     "SP12501100788020",
     "SP12501100788024",
+    "SP12501100788036",
     "SP12501100788411",
     "SP12501100800024",
     "SP12501100800424",
@@ -845,6 +847,7 @@
     "SP12501055219048",
     "SP12501055219049",
     "SP12501055219400",
+    "SP12501055219412",
     "SP12501055219447",
     "SP12501055219585",
     "SP12501055227019",
@@ -894,6 +897,7 @@
     "SP12501100788012",
     "SP12501100788020",
     "SP12501100788024",
+    "SP12501100788036",
     "SP12501100788411",
     "SP12501100800024",
     "SP12501100800424",
@@ -1374,6 +1378,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501055219412",
+      "id_produto": "20755",
+      "nome": "RADIADOR DO CÂMBIO BMW X5 XDRIVE50I 4.4 V8 TWINPOWER 2013",
+      "marca": "BMW",
+      "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501055219447",
@@ -1862,7 +1878,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1874,7 +1890,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1962,6 +1978,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100788036",
+      "id_produto": "20783",
+      "nome": "RADIADOR FORD KA ONE 1.0 2003/2003",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA ONE 1.0",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501100788411",
@@ -3780,11 +3808,11 @@
     "SP12501055219412": {
       "sku": "SP12501055219412",
       "id_produto": "20755",
-      "nome": "RADIADOR DO CÂMBIO",
+      "nome": "RADIADOR DO CÂMBIO BMW X5 XDRIVE50I 4.4 V8 TWINPOWER 2013",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -4656,11 +4684,11 @@
     "SP12501100788036": {
       "sku": "SP12501100788036",
       "id_produto": "20783",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FORD KA ONE 1.0 2003/2003",
       "marca": "FORD",
       "modelo_do_veiculo": "KA ONE 1.0",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -5524,7 +5552,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -7048,7 +7076,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
