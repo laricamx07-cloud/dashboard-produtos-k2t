@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 08:47:10",
+  "ultima_atualizacao": "01/09/2026 08:57:17",
   "total_base_dia": 297,
-  "total_atual": 294,
+  "total_atual": 290,
   "novos_produtos": 0,
-  "total_subidos": 3,
+  "total_subidos": 7,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -606,17 +606,37 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501015802004",
     "SP12501055219027",
+    "SP12501055219585",
     "SP12501103272027",
+    "SP12501111704036",
+    "SP12501123095032",
     "SP12501123095045"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501015802004",
     "SP12501055219027",
+    "SP12501055219585",
     "SP12501103272027",
+    "SP12501111704036",
+    "SP12501123095032",
     "SP12501123095045"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501015802004",
+      "id_produto": "2906",
+      "nome": "CÂMBIO AUTOMÁTICO FIAT STILO DUALOGIC 1.8 FLEX 8V 5P 2008/09",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STILO DUALOGIC 1.8 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
     {
       "sku": "SP12501055219027",
       "id_produto": "20658",
@@ -630,6 +650,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501055219585",
+      "id_produto": "20864",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO BMW X5 XDRIVE50I 4.4 V8 2013",
+      "marca": "BMW",
+      "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103272027",
       "id_produto": "20717",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MONTANA LS 1.4 2011/2012",
@@ -640,6 +672,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111704036",
+      "id_produto": "20861",
+      "nome": "RADIADOR VOLKSWAGEN FOX ROCK IN RIO 1.6 MI TOTAL FLEX 15/16",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501123095032",
+      "id_produto": "20862",
+      "nome": "PORTA DIANTEIRA DIREITA PEUGEOT 208 SPORT 1.6 FLEX 16V 16/17",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501123095045",
@@ -1274,7 +1330,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STILO DUALOGIC 1.8 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -2470,11 +2526,11 @@
     "SP12501111704036": {
       "sku": "SP12501111704036",
       "id_produto": "20861",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR VOLKSWAGEN FOX ROCK IN RIO 1.6 MI TOTAL FLEX 15/16",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX ROCK IN RIO 1.6 MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -2482,11 +2538,11 @@
     "SP12501123095032": {
       "sku": "SP12501123095032",
       "id_produto": "20862",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA PEUGEOT 208 SPORT 1.6 FLEX 16V 16/17",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 SPORT 1.6 FLEX 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3466,11 +3522,11 @@
     "SP12501055219585": {
       "sku": "SP12501055219585",
       "id_produto": "20864",
-      "nome": "ALAVANCA DE MARCHA AUTOMATICO",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO BMW X5 XDRIVE50I 4.4 V8 2013",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
