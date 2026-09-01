@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 10:12:21",
+  "ultima_atualizacao": "01/09/2026 10:17:08",
   "total_base_dia": 297,
-  "total_atual": 270,
+  "total_atual": 267,
   "novos_produtos": 0,
-  "total_subidos": 27,
+  "total_subidos": 30,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -608,6 +608,7 @@
   "skus_subidos_hoje": [
     "SP12501014806004",
     "SP12501015802004",
+    "SP12501017422016",
     "SP12501041641028",
     "SP12501041714004",
     "SP12501055219027",
@@ -621,6 +622,7 @@
     "SP12501100672512",
     "SP12501100680024",
     "SP12501100680026",
+    "SP12501100680027",
     "SP12501103272027",
     "SP12501103493036",
     "SP12501103515029",
@@ -632,11 +634,13 @@
     "SP12501111704036",
     "SP12501123095032",
     "SP12501123095045",
+    "SP12501123141004",
     "SP12501123346024"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501014806004",
     "SP12501015802004",
+    "SP12501017422016",
     "SP12501041641028",
     "SP12501041714004",
     "SP12501055219027",
@@ -650,6 +654,7 @@
     "SP12501100672512",
     "SP12501100680024",
     "SP12501100680026",
+    "SP12501100680027",
     "SP12501103272027",
     "SP12501103493036",
     "SP12501103515029",
@@ -661,6 +666,7 @@
     "SP12501111704036",
     "SP12501123095032",
     "SP12501123095045",
+    "SP12501123141004",
     "SP12501123346024"
   ],
   "itens_novos_hoje": [],
@@ -688,6 +694,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501017422016",
+      "id_produto": "15602",
+      "nome": "FAROL ESQUERDO FIAT SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P 07",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501041641028",
@@ -846,6 +864,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501100680027",
+      "id_produto": "20679",
+      "nome": "PAINEL DE INSTRUMENTOS CHERY FACE 1.3 16V FLEX.MEC. 2012",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103272027",
       "id_produto": "20717",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MONTANA LS 1.4 2011/2012",
@@ -978,13 +1008,25 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501123141004",
+      "id_produto": "15179",
+      "nome": "CÂMBIO MANUAL FIAT UNO SPORTING 1.4 EVO FIRE 8V 2012",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO SPORTING 1.4 EVO FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501123346024",
       "id_produto": "15100",
       "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN GOL (NOVO) 1.0 TOTAL FLEX 09/10",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1714,11 +1756,11 @@
     "SP12501100680027": {
       "sku": "SP12501100680027",
       "id_produto": "20679",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS CHERY FACE 1.3 16V FLEX.MEC. 2012",
       "marca": "CHERY",
       "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -2006,7 +2048,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO SPORTING 1.4 EVO FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3146,7 +3188,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -4042,11 +4084,11 @@
     "SP12501017422016": {
       "sku": "SP12501017422016",
       "id_produto": "15602",
-      "nome": "FAROL ESQUERDO",
+      "nome": "FAROL ESQUERDO FIAT SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P 07",
       "marca": "FIAT",
       "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
