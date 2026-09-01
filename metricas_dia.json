@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 09:47:05",
+  "ultima_atualizacao": "01/09/2026 09:50:54",
   "total_base_dia": 297,
-  "total_atual": 278,
+  "total_atual": 276,
   "novos_produtos": 0,
-  "total_subidos": 19,
+  "total_subidos": 21,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -608,9 +608,11 @@
   "skus_subidos_hoje": [
     "SP12501014806004",
     "SP12501015802004",
+    "SP12501041641028",
     "SP12501041714004",
     "SP12501055219027",
     "SP12501055219585",
+    "SP12501057165027",
     "SP12501100648027",
     "SP12501100648028",
     "SP12501100648424",
@@ -629,9 +631,11 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501014806004",
     "SP12501015802004",
+    "SP12501041641028",
     "SP12501041714004",
     "SP12501055219027",
     "SP12501055219585",
+    "SP12501057165027",
     "SP12501100648027",
     "SP12501100648028",
     "SP12501100648424",
@@ -674,6 +678,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501041641028",
+      "id_produto": "10993",
+      "nome": "PARA-CHOQUE DIANTEIRO POLO 2008/2009",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "POLO SEDAN 1.6 MI TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501041714004",
       "id_produto": "8614",
       "nome": "CÂMBIO MANUAL RENAULT SANDERO EXPRES HI-FLEX 1.0 16V 2010",
@@ -708,6 +724,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501057165027",
+      "id_produto": "12380",
+      "nome": "painel instrumento",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4 PORTAS",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501100648027",
@@ -2322,11 +2350,11 @@
     "SP12501041641028": {
       "sku": "SP12501041641028",
       "id_produto": "10993",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO POLO 2008/2009",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO SEDAN 1.6 MI TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -4014,11 +4042,11 @@
     "SP12501057165027": {
       "sku": "SP12501057165027",
       "id_produto": "12380",
-      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET CLASSIC LIFE/LS 1.0 2012",
+      "nome": "painel instrumento",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4 PORTAS",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
