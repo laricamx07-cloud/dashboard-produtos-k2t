@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 16:51:30",
+  "ultima_atualizacao": "01/09/2026 16:57:27",
   "total_base_dia": 297,
-  "total_atual": 156,
+  "total_atual": 152,
   "novos_produtos": 8,
-  "total_subidos": 149,
+  "total_subidos": 153,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -680,6 +680,7 @@
     "SP12501102446411",
     "SP12501102454016",
     "SP12501102454023",
+    "SP12501102462437",
     "SP12501102462483",
     "SP12501102470015",
     "SP12501102470016",
@@ -697,6 +698,7 @@
     "SP12501102888015",
     "SP12501102888016",
     "SP12501102888023",
+    "SP12501102888039",
     "SP12501102888040",
     "SP12501102888041",
     "SP12501102888042",
@@ -756,6 +758,8 @@
     "SP12501103477040",
     "SP12501103477041",
     "SP12501103477400",
+    "SP12501103493024",
+    "SP12501103493026",
     "SP12501103493036",
     "SP12501103515029",
     "SP12501103515031",
@@ -831,6 +835,7 @@
     "SP12501102446411",
     "SP12501102454016",
     "SP12501102454023",
+    "SP12501102462437",
     "SP12501102462483",
     "SP12501102470015",
     "SP12501102470016",
@@ -848,6 +853,7 @@
     "SP12501102888015",
     "SP12501102888016",
     "SP12501102888023",
+    "SP12501102888039",
     "SP12501102888040",
     "SP12501102888041",
     "SP12501102888042",
@@ -907,6 +913,8 @@
     "SP12501103477040",
     "SP12501103477041",
     "SP12501103477400",
+    "SP12501103493024",
+    "SP12501103493026",
     "SP12501103493036",
     "SP12501103515029",
     "SP12501103515031",
@@ -1708,6 +1716,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501102462437",
+      "id_produto": "20150",
+      "nome": "PNEU 215/65 R16 98H PIRELLI JEEP RENEGADE SPORT 1.8 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501102462483",
       "id_produto": "20151",
       "nome": "PNEU 215/65 R16 PIRELLI JEEP RENEGADE SPORT 1.8 4X2 2021",
@@ -1909,6 +1929,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102888039",
+      "id_produto": "20808",
+      "nome": "RODA LIGA LEVE ARO 17 5 FUROS JEEP RENEGADE SPORT",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "7"
     },
     {
@@ -2620,6 +2652,30 @@
       "qtd_images": "3"
     },
     {
+      "sku": "SP12501103493024",
+      "id_produto": "20735",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN GOL 1.6 MI POWER FLEX 2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103493026",
+      "id_produto": "20736",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN GOL 1.6 MI POWER TOTAL FLEX 2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501103493036",
       "id_produto": "20854",
       "nome": "RADIADOR VOLKSWAGEN GOL 1.6 MI POWER TOTAL FLEX 8V 4P 2005",
@@ -3248,11 +3304,11 @@
     "SP12501103493024": {
       "sku": "SP12501103493024",
       "id_produto": "20735",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN GOL 1.6 MI POWER FLEX 2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -5456,11 +5512,11 @@
     "SP12501102462437": {
       "sku": "SP12501102462437",
       "id_produto": "20150",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 215/65 R16 98H PIRELLI JEEP RENEGADE SPORT 1.8 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -6044,11 +6100,11 @@
     "SP12501102888039": {
       "sku": "SP12501102888039",
       "id_produto": "20808",
-      "nome": "RODA DIANTEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 17 5 FUROS JEEP RENEGADE SPORT",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -6356,11 +6412,11 @@
     "SP12501103493026": {
       "sku": "SP12501103493026",
       "id_produto": "20736",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN GOL 1.6 MI POWER TOTAL FLEX 2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
