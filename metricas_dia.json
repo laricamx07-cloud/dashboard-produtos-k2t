@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 16:47:19",
+  "ultima_atualizacao": "01/09/2026 16:51:30",
   "total_base_dia": 297,
-  "total_atual": 157,
+  "total_atual": 156,
   "novos_produtos": 8,
-  "total_subidos": 148,
+  "total_subidos": 149,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -755,6 +755,7 @@
     "SP12501103477039",
     "SP12501103477040",
     "SP12501103477041",
+    "SP12501103477400",
     "SP12501103493036",
     "SP12501103515029",
     "SP12501103515031",
@@ -905,6 +906,7 @@
     "SP12501103477039",
     "SP12501103477040",
     "SP12501103477041",
+    "SP12501103477400",
     "SP12501103493036",
     "SP12501103515029",
     "SP12501103515031",
@@ -2606,6 +2608,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103477400",
+      "id_produto": "20734",
+      "nome": "MOTOR COMPLETO HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "3"
+    },
+    {
       "sku": "SP12501103493036",
       "id_produto": "20854",
       "nome": "RADIADOR VOLKSWAGEN GOL 1.6 MI POWER TOTAL FLEX 8V 4P 2005",
@@ -3090,11 +3104,11 @@
     "SP12501103477400": {
       "sku": "SP12501103477400",
       "id_produto": "20734",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "3"
