@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 09:21:07",
+  "ultima_atualizacao": "01/09/2026 09:27:05",
   "total_base_dia": 297,
-  "total_atual": 285,
+  "total_atual": 283,
   "novos_produtos": 0,
-  "total_subidos": 12,
+  "total_subidos": 14,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -611,7 +611,9 @@
     "SP12501055219027",
     "SP12501055219585",
     "SP12501100648027",
+    "SP12501100648028",
     "SP12501103272027",
+    "SP12501103515032",
     "SP12501103515033",
     "SP12501103515038",
     "SP12501103515045",
@@ -625,7 +627,9 @@
     "SP12501055219027",
     "SP12501055219585",
     "SP12501100648027",
+    "SP12501100648028",
     "SP12501103272027",
+    "SP12501103515032",
     "SP12501103515033",
     "SP12501103515038",
     "SP12501103515045",
@@ -696,6 +700,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501100648028",
+      "id_produto": "20672",
+      "nome": "PARA-CHOQUE DIANTEIRO FIAT ARGO 1.0 6V FLEX 2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103272027",
       "id_produto": "20717",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MONTANA LS 1.4 2011/2012",
@@ -706,6 +722,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103515032",
+      "id_produto": "20857",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT STRADA 1.3 MPI FIRE 8V 67CV",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103515033",
@@ -928,11 +956,11 @@
     "SP12501103515032": {
       "sku": "SP12501103515032",
       "id_produto": "20857",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT STRADA 1.3 MPI FIRE 8V 67CV",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -2392,11 +2420,11 @@
     "SP12501100648028": {
       "sku": "SP12501100648028",
       "id_produto": "20672",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO FIAT ARGO 1.0 6V FLEX 2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
