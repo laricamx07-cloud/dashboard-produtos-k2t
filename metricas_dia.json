@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 09:12:40",
+  "ultima_atualizacao": "01/09/2026 09:17:16",
   "total_base_dia": 297,
-  "total_atual": 286,
+  "total_atual": 285,
   "novos_produtos": 0,
-  "total_subidos": 11,
+  "total_subidos": 12,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -612,6 +612,7 @@
     "SP12501055219585",
     "SP12501100648027",
     "SP12501103272027",
+    "SP12501103515033",
     "SP12501103515038",
     "SP12501103515045",
     "SP12501111704036",
@@ -625,6 +626,7 @@
     "SP12501055219585",
     "SP12501100648027",
     "SP12501103272027",
+    "SP12501103515033",
     "SP12501103515038",
     "SP12501103515045",
     "SP12501111704036",
@@ -688,7 +690,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -704,6 +706,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103515033",
+      "id_produto": "20858",
+      "nome": "PORTA DIANTEIRA ESQUERDA FIAT STRADA 1.3 MPI FIRE 8V",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103515038",
@@ -3734,11 +3748,11 @@
     "SP12501103515033": {
       "sku": "SP12501103515033",
       "id_produto": "20858",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FIAT STRADA 1.3 MPI FIRE 8V",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA 1.3 MPI FIRE 8V 67CV CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -4062,7 +4076,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
