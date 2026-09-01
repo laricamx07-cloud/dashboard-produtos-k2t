@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 13:12:39",
+  "ultima_atualizacao": "01/09/2026 13:17:23",
   "total_base_dia": 297,
-  "total_atual": 212,
+  "total_atual": 210,
   "novos_produtos": 4,
-  "total_subidos": 89,
+  "total_subidos": 91,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -660,7 +660,9 @@
     "SP12501102446024",
     "SP12501102446026",
     "SP12501102454016",
+    "SP12501102454023",
     "SP12501103272027",
+    "SP12501103370480",
     "SP12501103388045",
     "SP12501103396037",
     "SP12501103396480",
@@ -751,7 +753,9 @@
     "SP12501102446024",
     "SP12501102446026",
     "SP12501102454016",
+    "SP12501102454023",
     "SP12501103272027",
+    "SP12501103370480",
     "SP12501103388045",
     "SP12501103396037",
     "SP12501103396480",
@@ -1388,6 +1392,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501102454023",
+      "id_produto": "20699",
+      "nome": "MINI FRENTE/ PAINEL FRONTAL JEEP RENEGADE SPORT 1.8 4X2 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103272027",
       "id_produto": "20717",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MONTANA LS 1.4 2011/2012",
@@ -1400,13 +1416,25 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501103370480",
+      "id_produto": "20818",
+      "nome": "PORTINHOLA DO TANQUE FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103388045",
       "id_produto": "20819",
       "nome": "TAMPA TRASEIRA RENAULT DUSTER DYNAMIQUE 2.0 FLEX 16V 2014/15",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -3424,7 +3452,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -3948,11 +3976,11 @@
     "SP12501103370480": {
       "sku": "SP12501103370480",
       "id_produto": "20818",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE FORD KA GL 1.0I ZETEC ROCAM 2004/2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -4032,11 +4060,11 @@
     "SP12501102454023": {
       "sku": "SP12501102454023",
       "id_produto": "20699",
-      "nome": "MINI FRENTE/ PAINEL FRONTAL",
+      "nome": "MINI FRENTE/ PAINEL FRONTAL JEEP RENEGADE SPORT 1.8 4X2 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
