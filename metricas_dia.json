@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 15:47:18",
+  "ultima_atualizacao": "01/09/2026 15:57:16",
   "total_base_dia": 297,
-  "total_atual": 172,
+  "total_atual": 170,
   "novos_produtos": 8,
-  "total_subidos": 133,
+  "total_subidos": 135,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -712,7 +712,9 @@
     "SP12501103370029",
     "SP12501103370411",
     "SP12501103370480",
+    "SP12501103388020",
     "SP12501103388045",
+    "SP12501103388424",
     "SP12501103396037",
     "SP12501103396480",
     "SP12501103400037",
@@ -847,7 +849,9 @@
     "SP12501103370029",
     "SP12501103370411",
     "SP12501103370480",
+    "SP12501103388020",
     "SP12501103388045",
+    "SP12501103388424",
     "SP12501103396037",
     "SP12501103396480",
     "SP12501103400037",
@@ -2018,7 +2022,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -2060,6 +2064,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103388020",
+      "id_produto": "20721",
+      "nome": "Lanterna Traseira Esquerda Duster 2012 2013 a 2015",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103388045",
       "id_produto": "20819",
       "nome": "TAMPA TRASEIRA RENAULT DUSTER DYNAMIQUE 2.0 FLEX 16V 2014/15",
@@ -2070,6 +2086,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103388424",
+      "id_produto": "20722",
+      "nome": "MULTIMÍDIA RENAULT DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.2014/15",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501103396037",
@@ -3672,11 +3700,11 @@
     "SP12501103388020": {
       "sku": "SP12501103388020",
       "id_produto": "20721",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "Lanterna Traseira Esquerda Duster 2012 2013 a 2015",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -4824,11 +4852,11 @@
     "SP12501103388424": {
       "sku": "SP12501103388424",
       "id_produto": "20722",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA RENAULT DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.2014/15",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -5632,7 +5660,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
