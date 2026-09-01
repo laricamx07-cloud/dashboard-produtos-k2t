@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 16:57:27",
+  "ultima_atualizacao": "01/09/2026 17:12:53",
   "total_base_dia": 297,
-  "total_atual": 152,
+  "total_atual": 148,
   "novos_produtos": 8,
-  "total_subidos": 153,
+  "total_subidos": 157,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -627,6 +627,7 @@
     "SP12501014806004",
     "SP12501015802004",
     "SP12501017422016",
+    "SP12501041250004",
     "SP12501041641028",
     "SP12501041714004",
     "SP12501055219013",
@@ -642,6 +643,7 @@
     "SP12501056282020",
     "SP12501056282024",
     "SP12501057165027",
+    "SP12501083808453",
     "SP12501088125534",
     "SP12501100648027",
     "SP12501100648028",
@@ -670,6 +672,7 @@
     "SP12501100788411",
     "SP12501100800024",
     "SP12501100800424",
+    "SP12501100834024",
     "SP12501100842015",
     "SP12501100842016",
     "SP12501102276024",
@@ -760,6 +763,7 @@
     "SP12501103477400",
     "SP12501103493024",
     "SP12501103493026",
+    "SP12501103493027",
     "SP12501103493036",
     "SP12501103515029",
     "SP12501103515031",
@@ -782,6 +786,7 @@
     "SP12501014806004",
     "SP12501015802004",
     "SP12501017422016",
+    "SP12501041250004",
     "SP12501041641028",
     "SP12501041714004",
     "SP12501055219013",
@@ -797,6 +802,7 @@
     "SP12501056282020",
     "SP12501056282024",
     "SP12501057165027",
+    "SP12501083808453",
     "SP12501088125534",
     "SP12501100648027",
     "SP12501100648028",
@@ -825,6 +831,7 @@
     "SP12501100788411",
     "SP12501100800024",
     "SP12501100800424",
+    "SP12501100834024",
     "SP12501100842015",
     "SP12501100842016",
     "SP12501102276024",
@@ -915,6 +922,7 @@
     "SP12501103477400",
     "SP12501103493024",
     "SP12501103493026",
+    "SP12501103493027",
     "SP12501103493036",
     "SP12501103515029",
     "SP12501103515031",
@@ -1078,6 +1086,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501041250004",
+      "id_produto": "19101",
+      "nome": "CÂMBIO AUTOMATICO VOLKSWAGEN SPACEFOX TREND MOTION 1.6 2014",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SPACEFOX TREND I MOTION 1.6 T. FLEX 8V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501041641028",
@@ -1257,6 +1277,18 @@
       "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501083808453",
+      "id_produto": "19129",
+      "nome": "COBERTURA/CAPOTA MARÍTIMA CHEVROLET MONTANA SPORT 1.8 2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MONTANA SPORT 1.8 MPFI FLEXPOWER 8V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "8"
     },
     {
@@ -1594,6 +1626,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100834024",
+      "id_produto": "19429",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET CELTA SPIRIT 1.0 MPFI 8V 2007",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501100842015",
@@ -1938,7 +1982,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -2670,10 +2714,22 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103493027",
+      "id_produto": "20737",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN GOL 1.6 MI POWER FLEX 2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103493036",
@@ -3079,8 +3135,8 @@
       "nome": "COBERTURA/CAPOTA MARÍTIMA CHEVROLET MONTANA SPORT 1.8 2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA SPORT 1.8 MPFI FLEXPOWER 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -4672,11 +4728,11 @@
     "SP12501103493027": {
       "sku": "SP12501103493027",
       "id_produto": "20737",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN GOL 1.6 MI POWER FLEX 2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -4744,11 +4800,11 @@
     "SP12501100834024": {
       "sku": "SP12501100834024",
       "id_produto": "19429",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET CELTA SPIRIT 1.0 MPFI 8V 2007",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -4916,7 +4972,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACEFOX TREND I MOTION 1.6 T. FLEX 8V",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -6104,7 +6160,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -6416,7 +6472,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MI POWER TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
