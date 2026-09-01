@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 11:57:24",
+  "ultima_atualizacao": "01/09/2026 12:12:35",
   "total_base_dia": 297,
-  "total_atual": 247,
+  "total_atual": 244,
   "novos_produtos": 0,
-  "total_subidos": 50,
+  "total_subidos": 53,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -631,7 +631,10 @@
     "SP12501100770024",
     "SP12501100770424",
     "SP12501100770505",
+    "SP12501100788020",
+    "SP12501100788024",
     "SP12501103272027",
+    "SP12501103426570",
     "SP12501103450036",
     "SP12501103477030",
     "SP12501103477031",
@@ -683,7 +686,10 @@
     "SP12501100770024",
     "SP12501100770424",
     "SP12501100770505",
+    "SP12501100788020",
+    "SP12501100788024",
     "SP12501103272027",
+    "SP12501103426570",
     "SP12501103450036",
     "SP12501103477030",
     "SP12501103477031",
@@ -1012,6 +1018,30 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501100788020",
+      "id_produto": "20687",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FORD KA ONE 1.0 2003",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA ONE 1.0",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100788024",
+      "id_produto": "20688",
+      "nome": "MÓDULO DE INJEÇÃO FORD KA ONE 1.0 2003/2003",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA ONE 1.0",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103272027",
       "id_produto": "20717",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MONTANA LS 1.4 2011/2012",
@@ -1021,6 +1051,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103426570",
+      "id_produto": "20836",
+      "nome": "RÁDIO HONDA FIT LX 1.4 MEC 2004/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "05",
       "qtd_images": "6"
     },
     {
@@ -1388,11 +1430,11 @@
     "SP12501100788020": {
       "sku": "SP12501100788020",
       "id_produto": "20687",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FORD KA ONE 1.0 2003",
       "marca": "FORD",
       "modelo_do_veiculo": "KA ONE 1.0",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -3152,11 +3194,11 @@
     "SP12501100788024": {
       "sku": "SP12501100788024",
       "id_produto": "20688",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FORD KA ONE 1.0 2003/2003",
       "marca": "FORD",
       "modelo_do_veiculo": "KA ONE 1.0",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -4088,11 +4130,11 @@
     "SP12501103426570": {
       "sku": "SP12501103426570",
       "id_produto": "20836",
-      "nome": "RÁDIO",
+      "nome": "RÁDIO HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
