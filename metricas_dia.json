@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 08:27:19",
+  "ultima_atualizacao": "01/09/2026 08:42:44",
   "total_base_dia": 297,
-  "total_atual": 296,
+  "total_atual": 295,
   "novos_produtos": 0,
-  "total_subidos": 1,
+  "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -606,10 +606,12 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
-    "SP12501055219027"
+    "SP12501055219027",
+    "SP12501103272027"
   ],
   "skus_subidos_status_ml_hoje": [
-    "SP12501055219027"
+    "SP12501055219027",
+    "SP12501103272027"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
@@ -624,6 +626,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103272027",
+      "id_produto": "20717",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MONTANA LS 1.4 2011/2012",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -3066,11 +3080,11 @@
     "SP12501103272027": {
       "sku": "SP12501103272027",
       "id_produto": "20717",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MONTANA LS 1.4 2011/2012",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
