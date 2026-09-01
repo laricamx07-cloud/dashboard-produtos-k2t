@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 12:17:21",
+  "ultima_atualizacao": "01/09/2026 12:27:22",
   "total_base_dia": 297,
-  "total_atual": 243,
-  "novos_produtos": 0,
-  "total_subidos": 54,
+  "total_atual": 234,
+  "novos_produtos": 1,
+  "total_subidos": 64,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -587,6 +587,7 @@
     "SP12501105631026",
     "SP12501109521034",
     "SP12501109548045",
+    "SP12501111615031",
     "SP12501111704036",
     "SP12501111739424",
     "SP12501116765034",
@@ -604,7 +605,9 @@
     "SP32501002896828",
     "SP42501001064042"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501111615031"
+  ],
   "skus_subidos_hoje": [
     "SP12501014075424",
     "SP12501014806004",
@@ -614,6 +617,9 @@
     "SP12501041714004",
     "SP12501055219027",
     "SP12501055219585",
+    "SP12501055227027",
+    "SP12501056282020",
+    "SP12501056282024",
     "SP12501057165027",
     "SP12501088125534",
     "SP12501100648027",
@@ -633,7 +639,14 @@
     "SP12501100770505",
     "SP12501100788020",
     "SP12501100788024",
+    "SP12501100800024",
+    "SP12501100800424",
+    "SP12501100842015",
     "SP12501103272027",
+    "SP12501103418037",
+    "SP12501103418038",
+    "SP12501103418480",
+    "SP12501103426029",
     "SP12501103426480",
     "SP12501103426570",
     "SP12501103450036",
@@ -670,6 +683,9 @@
     "SP12501041714004",
     "SP12501055219027",
     "SP12501055219585",
+    "SP12501055227027",
+    "SP12501056282020",
+    "SP12501056282024",
     "SP12501057165027",
     "SP12501088125534",
     "SP12501100648027",
@@ -689,7 +705,14 @@
     "SP12501100770505",
     "SP12501100788020",
     "SP12501100788024",
+    "SP12501100800024",
+    "SP12501100800424",
+    "SP12501100842015",
     "SP12501103272027",
+    "SP12501103418037",
+    "SP12501103418038",
+    "SP12501103418480",
+    "SP12501103426029",
     "SP12501103426480",
     "SP12501103426570",
     "SP12501103450036",
@@ -717,7 +740,20 @@
     "SP12501123346024",
     "SP32501002896828"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501111615031",
+      "id_produto": "20866",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501014075424",
@@ -814,6 +850,42 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501055227027",
+      "id_produto": "20666",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN VOYAGE TRENDLINE 1.6 2016",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056282020",
+      "id_produto": "20668",
+      "nome": "LANTERNA TRASEIRA ESQUERDA VOLKSWAGEN GOL CITY 1.0 MI 8V 05",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 MI 8V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056282024",
+      "id_produto": "20669",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN GOL CITY 1.0 MI 8V FLEX 2004/05",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 MI 8V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501057165027",
@@ -1044,6 +1116,42 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501100800024",
+      "id_produto": "20689",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET CORSA SEDAN CLASSIC 1.6 MPF 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CORSA SEDAN CLASSIC 1.6 MPFI",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501100800424",
+      "id_produto": "20690",
+      "nome": "MULTIMÍDIA CHEVROLET CORSA SEDAN CLASSIC 1.6 MPFI 2002/2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CORSA SEDAN CLASSIC 1.6 MPFI",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501100842015",
+      "id_produto": "20691",
+      "nome": "FAROL DIREITO JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V AUT. 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103272027",
       "id_produto": "20717",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MONTANA LS 1.4 2011/2012",
@@ -1056,13 +1164,61 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501103418037",
+      "id_produto": "20831",
+      "nome": "RETROVISOR DIREITO FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103418038",
+      "id_produto": "20832",
+      "nome": "RETROVISOR ESQUERDO FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103418480",
+      "id_produto": "20833",
+      "nome": "PORTINHOLA DO TANQUE FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103426029",
+      "id_produto": "20834",
+      "nome": "PARA-CHOQUE TRASEIRO HONDA FIT LX 1.4 MEC 2004/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103426480",
       "id_produto": "20835",
       "nome": "PORTINHOLA DO TANQUE HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1768,11 +1924,11 @@
     "SP12501103426029": {
       "sku": "SP12501103426029",
       "id_produto": "20834",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1796,7 +1952,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2440,11 +2596,11 @@
     "SP12501100800024": {
       "sku": "SP12501100800024",
       "id_produto": "20689",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET CORSA SEDAN CLASSIC 1.6 MPF 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN CLASSIC 1.6 MPFI",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2644,11 +2800,11 @@
     "SP12501103418037": {
       "sku": "SP12501103418037",
       "id_produto": "20831",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
@@ -2968,11 +3124,11 @@
     "SP12501103418038": {
       "sku": "SP12501103418038",
       "id_produto": "20832",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -3388,11 +3544,11 @@
     "SP12501056282020": {
       "sku": "SP12501056282020",
       "id_produto": "20668",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA VOLKSWAGEN GOL CITY 1.0 MI 8V 05",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 MI 8V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -3436,11 +3592,11 @@
     "SP12501055227027": {
       "sku": "SP12501055227027",
       "id_produto": "20666",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN VOYAGE TRENDLINE 1.6 2016",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3496,11 +3652,11 @@
     "SP12501100800424": {
       "sku": "SP12501100800424",
       "id_produto": "20690",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA CHEVROLET CORSA SEDAN CLASSIC 1.6 MPFI 2002/2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN CLASSIC 1.6 MPFI",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -4216,11 +4372,11 @@
     "SP12501056282024": {
       "sku": "SP12501056282024",
       "id_produto": "20669",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN GOL CITY 1.0 MI 8V FLEX 2004/05",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 MI 8V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -4228,11 +4384,11 @@
     "SP12501103418480": {
       "sku": "SP12501103418480",
       "id_produto": "20833",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -4672,11 +4828,11 @@
     "SP12501100842015": {
       "sku": "SP12501100842015",
       "id_produto": "20691",
-      "nome": "FAROL DIREITO",
+      "nome": "FAROL DIREITO JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V AUT. 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -4932,6 +5088,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP12501111615031": {
+      "sku": "SP12501111615031",
+      "id_produto": "20866",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     }
   }
 }
