@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 15:17:25",
+  "ultima_atualizacao": "01/09/2026 15:27:44",
   "total_base_dia": 297,
-  "total_atual": 180,
+  "total_atual": 177,
   "novos_produtos": 8,
-  "total_subidos": 125,
+  "total_subidos": 128,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -644,8 +644,10 @@
     "SP12501100648027",
     "SP12501100648028",
     "SP12501100648424",
+    "SP12501100672012",
     "SP12501100672027",
     "SP12501100672512",
+    "SP12501100680011",
     "SP12501100680016",
     "SP12501100680024",
     "SP12501100680026",
@@ -691,6 +693,7 @@
     "SP12501102888015",
     "SP12501102888016",
     "SP12501102888023",
+    "SP12501102888042",
     "SP12501102888424",
     "SP12501103019024",
     "SP12501103019037",
@@ -771,8 +774,10 @@
     "SP12501100648027",
     "SP12501100648028",
     "SP12501100648424",
+    "SP12501100672012",
     "SP12501100672027",
     "SP12501100672512",
+    "SP12501100680011",
     "SP12501100680016",
     "SP12501100680024",
     "SP12501100680026",
@@ -818,6 +823,7 @@
     "SP12501102888015",
     "SP12501102888016",
     "SP12501102888023",
+    "SP12501102888042",
     "SP12501102888424",
     "SP12501103019024",
     "SP12501103019037",
@@ -1228,6 +1234,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501100672012",
+      "id_produto": "20548",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FORD FIESTA TIT.PLUS 1.6 2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501100672027",
       "id_produto": "20674",
       "nome": "PAINEL DE INSTRUMENTOS FORD FIESTA TIT.1.6 16V FLEX 2013/14",
@@ -1252,13 +1270,25 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501100680011",
+      "id_produto": "20554",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHERY FACE 1.3 16V FLEX 2012",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501100680016",
       "id_produto": "20556",
       "nome": "FAROL ESQUERDO CHERY FACE 1.3 16V FLEX.MEC. 2012",
       "marca": "CHERY",
       "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -1789,6 +1819,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102888042",
+      "id_produto": "20811",
+      "nome": "RODA LIGA LEVE ARO 17 5 FUROS JEEP RENEGADE SPORT",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "7"
     },
     {
@@ -3896,11 +3938,11 @@
     "SP12501100672012": {
       "sku": "SP12501100672012",
       "id_produto": "20548",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FORD FIESTA TIT.PLUS 1.6 2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -5084,11 +5126,11 @@
     "SP12501100680011": {
       "sku": "SP12501100680011",
       "id_produto": "20554",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHERY FACE 1.3 16V FLEX 2012",
       "marca": "CHERY",
       "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -5688,7 +5730,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "FACE 1.3 16V FLEX.MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -5696,11 +5738,11 @@
     "SP12501102888042": {
       "sku": "SP12501102888042",
       "id_produto": "20811",
-      "nome": "RODA TRASEIRA ESQUERDA",
+      "nome": "RODA LIGA LEVE ARO 17 5 FUROS JEEP RENEGADE SPORT",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
