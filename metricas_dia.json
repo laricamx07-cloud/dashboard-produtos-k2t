@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 11:12:39",
+  "ultima_atualizacao": "01/09/2026 11:17:11",
   "total_base_dia": 297,
-  "total_atual": 260,
+  "total_atual": 258,
   "novos_produtos": 0,
-  "total_subidos": 37,
+  "total_subidos": 39,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -626,7 +626,9 @@
     "SP12501100680027",
     "SP12501100699019",
     "SP12501100699020",
+    "SP12501100699024",
     "SP12501103272027",
+    "SP12501103477039",
     "SP12501103477040",
     "SP12501103477041",
     "SP12501103493036",
@@ -665,7 +667,9 @@
     "SP12501100680027",
     "SP12501100699019",
     "SP12501100699020",
+    "SP12501100699024",
     "SP12501103272027",
+    "SP12501103477039",
     "SP12501103477040",
     "SP12501103477041",
     "SP12501103493036",
@@ -926,6 +930,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501100699024",
+      "id_produto": "20682",
+      "nome": "MÓDULO DE INJEÇÃO HYUNDAI HB20 SENSE 1.0 FLEX 12V MEC. 2021",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103272027",
       "id_produto": "20717",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET MONTANA LS 1.4 2011/2012",
@@ -936,6 +952,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103477039",
+      "id_produto": "20848",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS HONDA FIT",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501103477040",
@@ -2262,11 +2290,11 @@
     "SP12501103477039": {
       "sku": "SP12501103477039",
       "id_produto": "20848",
-      "nome": "RODA DIANTEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS HONDA FIT",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -2682,11 +2710,11 @@
     "SP12501100699024": {
       "sku": "SP12501100699024",
       "id_produto": "20682",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO HYUNDAI HB20 SENSE 1.0 FLEX 12V MEC. 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 SENSE 1.0 FLEX 12V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
