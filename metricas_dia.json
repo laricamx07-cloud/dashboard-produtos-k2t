@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 16:17:32",
+  "ultima_atualizacao": "01/09/2026 16:27:42",
   "total_base_dia": 297,
-  "total_atual": 167,
+  "total_atual": 165,
   "novos_produtos": 8,
-  "total_subidos": 138,
+  "total_subidos": 140,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -694,6 +694,7 @@
     "SP12501102888015",
     "SP12501102888016",
     "SP12501102888023",
+    "SP12501102888040",
     "SP12501102888041",
     "SP12501102888042",
     "SP12501102888424",
@@ -733,6 +734,7 @@
     "SP12501103426480",
     "SP12501103426570",
     "SP12501103450012",
+    "SP12501103450019",
     "SP12501103450036",
     "SP12501103450411",
     "SP12501103477015",
@@ -834,6 +836,7 @@
     "SP12501102888015",
     "SP12501102888016",
     "SP12501102888023",
+    "SP12501102888040",
     "SP12501102888041",
     "SP12501102888042",
     "SP12501102888424",
@@ -873,6 +876,7 @@
     "SP12501103426480",
     "SP12501103426570",
     "SP12501103450012",
+    "SP12501103450019",
     "SP12501103450036",
     "SP12501103450411",
     "SP12501103477015",
@@ -1854,6 +1858,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501102888040",
+      "id_produto": "20809",
+      "nome": "RODA LIGA LEVE ARO 17 5 FUROS JEEP RENEGADE SPORT",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501102888041",
       "id_produto": "20810",
       "nome": "RODA LIGA LEVE ARO 17 5 FUROS JEEP RENEGADE SPORT",
@@ -2320,6 +2336,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103450019",
+      "id_produto": "20729",
+      "nome": "LANTERNA TRASEIRA DIREITA FORD KA GL 1.0I ZETEC ROCAM 2003",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103450036",
@@ -2890,11 +2918,11 @@
     "SP12501102888040": {
       "sku": "SP12501102888040",
       "id_produto": "20809",
-      "nome": "RODA DIANTEIRA ESQUERDA",
+      "nome": "RODA LIGA LEVE ARO 17 5 FUROS JEEP RENEGADE SPORT",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -4906,11 +4934,11 @@
     "SP12501103450019": {
       "sku": "SP12501103450019",
       "id_produto": "20729",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA FORD KA GL 1.0I ZETEC ROCAM 2003",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
