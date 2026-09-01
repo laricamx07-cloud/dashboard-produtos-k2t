@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 12:12:35",
+  "ultima_atualizacao": "01/09/2026 12:17:21",
   "total_base_dia": 297,
-  "total_atual": 244,
+  "total_atual": 243,
   "novos_produtos": 0,
-  "total_subidos": 53,
+  "total_subidos": 54,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -634,6 +634,7 @@
     "SP12501100788020",
     "SP12501100788024",
     "SP12501103272027",
+    "SP12501103426480",
     "SP12501103426570",
     "SP12501103450036",
     "SP12501103477030",
@@ -689,6 +690,7 @@
     "SP12501100788020",
     "SP12501100788024",
     "SP12501103272027",
+    "SP12501103426480",
     "SP12501103426570",
     "SP12501103450036",
     "SP12501103477030",
@@ -1036,7 +1038,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA ONE 1.0",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1052,6 +1054,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103426480",
+      "id_produto": "20835",
+      "nome": "PORTINHOLA DO TANQUE HONDA FIT LX 1.4 MEC 2004/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 MEC",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103426570",
@@ -1778,11 +1792,11 @@
     "SP12501103426480": {
       "sku": "SP12501103426480",
       "id_produto": "20835",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE HONDA FIT LX 1.4 MEC 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3198,7 +3212,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA ONE 1.0",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
