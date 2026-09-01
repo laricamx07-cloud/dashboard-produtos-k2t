@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 16:43:00",
+  "ultima_atualizacao": "01/09/2026 16:47:19",
   "total_base_dia": 297,
-  "total_atual": 159,
+  "total_atual": 157,
   "novos_produtos": 8,
-  "total_subidos": 146,
+  "total_subidos": 148,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -680,6 +680,7 @@
     "SP12501102446411",
     "SP12501102454016",
     "SP12501102454023",
+    "SP12501102462483",
     "SP12501102470015",
     "SP12501102470016",
     "SP12501102470045",
@@ -744,6 +745,7 @@
     "SP12501103477015",
     "SP12501103477016",
     "SP12501103477024",
+    "SP12501103477028",
     "SP12501103477030",
     "SP12501103477031",
     "SP12501103477033",
@@ -828,6 +830,7 @@
     "SP12501102446411",
     "SP12501102454016",
     "SP12501102454023",
+    "SP12501102462483",
     "SP12501102470015",
     "SP12501102470016",
     "SP12501102470045",
@@ -892,6 +895,7 @@
     "SP12501103477015",
     "SP12501103477016",
     "SP12501103477024",
+    "SP12501103477028",
     "SP12501103477030",
     "SP12501103477031",
     "SP12501103477033",
@@ -1702,6 +1706,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501102462483",
+      "id_produto": "20151",
+      "nome": "PNEU 215/65 R16 PIRELLI JEEP RENEGADE SPORT 1.8 4X2 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501102470015",
       "id_produto": "20701",
       "nome": "FAROL DIREITO JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V AUT. 2021",
@@ -2470,6 +2486,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103477028",
+      "id_produto": "20733",
+      "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103477030",
       "id_produto": "20842",
       "nome": "PARA-LAMA DIANTEIRO DIREITO HONDA FIT LX 1.4 FLEX 8V",
@@ -3122,11 +3150,11 @@
     "SP12501103477028": {
       "sku": "SP12501103477028",
       "id_produto": "20733",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT LX 1.4 FLEX 8V 5P AUT. 2009",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -4226,11 +4254,11 @@
     "SP12501102462483": {
       "sku": "SP12501102462483",
       "id_produto": "20151",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "PNEU 215/65 R16 PIRELLI JEEP RENEGADE SPORT 1.8 4X2 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
