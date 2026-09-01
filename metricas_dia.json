@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 17:12:53",
+  "ultima_atualizacao": "01/09/2026 17:17:25",
   "total_base_dia": 297,
-  "total_atual": 148,
+  "total_atual": 147,
   "novos_produtos": 8,
-  "total_subidos": 157,
+  "total_subidos": 158,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -698,6 +698,7 @@
     "SP12501102535016",
     "SP12501102535027",
     "SP12501102535028",
+    "SP12501102535038",
     "SP12501102888015",
     "SP12501102888016",
     "SP12501102888023",
@@ -857,6 +858,7 @@
     "SP12501102535016",
     "SP12501102535027",
     "SP12501102535028",
+    "SP12501102535038",
     "SP12501102888015",
     "SP12501102888016",
     "SP12501102888023",
@@ -1330,11 +1332,11 @@
     {
       "sku": "SP12501100648424",
       "id_produto": "20673",
-      "nome": "MULTIMÍDIA FIAT ARGO 1.0 6V FLEX 2021",
+      "nome": "MULTIMÍDIA FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1938,6 +1940,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102535038",
+      "id_produto": "20807",
+      "nome": "RETROVISOR ESQUERDO FIAT CRONOS DRIVE 1.3 8V FLEX 2022/2022",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "CRONOS DRIVE 1.3 8V FLEX",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501102888015",
@@ -3024,11 +3038,11 @@
     "SP12501102535038": {
       "sku": "SP12501102535038",
       "id_produto": "20807",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FIAT CRONOS DRIVE 1.3 8V FLEX 2022/2022",
       "marca": "FIAT",
       "modelo_do_veiculo": "CRONOS DRIVE 1.3 8V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -5688,11 +5702,11 @@
     "SP12501100648424": {
       "sku": "SP12501100648424",
       "id_produto": "20673",
-      "nome": "MULTIMÍDIA FIAT ARGO 1.0 6V FLEX 2021",
+      "nome": "MULTIMÍDIA FIAT ARGO 1.0 6V FLEX 2021/2021",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
