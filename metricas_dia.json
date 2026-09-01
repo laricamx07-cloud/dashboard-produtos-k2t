@@ -1,7 +1,7 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 10:17:08",
+  "ultima_atualizacao": "01/09/2026 10:21:02",
   "total_base_dia": 297,
   "total_atual": 267,
   "novos_produtos": 0,
@@ -702,7 +702,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -4088,7 +4088,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
