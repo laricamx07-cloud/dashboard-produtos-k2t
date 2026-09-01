@@ -1,11 +1,11 @@
 {
   "data": "2026-09-01",
   "primeira_atualizacao": "01/09/2026 08:21:36",
-  "ultima_atualizacao": "01/09/2026 18:12:01",
+  "ultima_atualizacao": "01/09/2026 18:27:08",
   "total_base_dia": 297,
-  "total_atual": 95,
-  "novos_produtos": 8,
-  "total_subidos": 210,
+  "total_atual": 98,
+  "novos_produtos": 15,
+  "total_subidos": 214,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -350,6 +350,7 @@
     "SP12501041749040",
     "SP12501041749041",
     "SP12501042273041",
+    "SP12501053836024",
     "SP12501055219013",
     "SP12501055219014",
     "SP12501055219020",
@@ -374,6 +375,8 @@
     "SP12501055227027",
     "SP12501055227029",
     "SP12501055227480",
+    "SP12501056274016",
+    "SP12501056274037",
     "SP12501056282020",
     "SP12501056282024",
     "SP12501057165027",
@@ -595,6 +598,10 @@
     "SP12501111615033",
     "SP12501111615035",
     "SP12501111615045",
+    "SP12501111631001",
+    "SP12501111631026",
+    "SP12501111631034",
+    "SP12501111631035",
     "SP12501111704036",
     "SP12501111739424",
     "SP12501116765034",
@@ -613,6 +620,9 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [
+    "SP12501053836024",
+    "SP12501056274016",
+    "SP12501056274037",
     "SP12501111615010",
     "SP12501111615019",
     "SP12501111615020",
@@ -620,7 +630,11 @@
     "SP12501111615031",
     "SP12501111615033",
     "SP12501111615035",
-    "SP12501111615045"
+    "SP12501111615045",
+    "SP12501111631001",
+    "SP12501111631026",
+    "SP12501111631034",
+    "SP12501111631035"
   ],
   "skus_subidos_hoje": [
     "SP12501014075424",
@@ -645,11 +659,15 @@
     "SP12501055219049",
     "SP12501055219400",
     "SP12501055219412",
+    "SP12501055219437",
     "SP12501055219447",
+    "SP12501055219480",
     "SP12501055219585",
     "SP12501055227019",
     "SP12501055227024",
     "SP12501055227027",
+    "SP12501055227029",
+    "SP12501055227480",
     "SP12501056282020",
     "SP12501056282024",
     "SP12501057165027",
@@ -857,11 +875,15 @@
     "SP12501055219049",
     "SP12501055219400",
     "SP12501055219412",
+    "SP12501055219437",
     "SP12501055219447",
+    "SP12501055219480",
     "SP12501055219585",
     "SP12501055227019",
     "SP12501055227024",
     "SP12501055227027",
+    "SP12501055227029",
+    "SP12501055227480",
     "SP12501056282020",
     "SP12501056282024",
     "SP12501057165027",
@@ -1048,6 +1070,42 @@
   ],
   "itens_novos_hoje": [
     {
+      "sku": "SP12501053836024",
+      "id_produto": "20877",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501056274016",
+      "id_produto": "20882",
+      "nome": "FAROL ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501056274037",
+      "id_produto": "20886",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501111615010",
       "id_produto": "20870",
       "nome": "CHAVE DE SETA FORD FOCUS SEDAN GHIA 2.0 16V MEC 2005",
@@ -1142,6 +1200,54 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111631001",
+      "id_produto": "20889",
+      "nome": "ALTERNADOR",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111631026",
+      "id_produto": "20890",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111631034",
+      "id_produto": "20892",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111631035",
+      "id_produto": "20893",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -1410,6 +1516,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501055219437",
+      "id_produto": "20756",
+      "nome": "PNEU 255/50 R19 107Y XL DELINTE DESERT STORM 2 DS8 2013",
+      "marca": "BMW",
+      "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501055219447",
       "id_produto": "20662",
       "nome": "MÓDULO SOM AMPLIFICADO BMW X5 XDRIVE50I 4.4 V8 TWINPOWER 13",
@@ -1420,6 +1538,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501055219480",
+      "id_produto": "20757",
+      "nome": "PORTINHOLA DO TANQUE BMW X5 XDRIVE50I 4.4 V8 TWINPOWER 2013",
+      "marca": "BMW",
+      "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501055219585",
@@ -1467,6 +1597,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501055227029",
+      "id_produto": "20758",
+      "nome": "PARA-CHOQUE TRASEIRO VOLKSWAGEN VOYAGE TRENDLINE 1.6 2016",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501055227480",
+      "id_produto": "20759",
+      "nome": "PORTINHOLA DO TANQUE VOLKSWAGEN VOYAGE TRENDLINE 1.6 2016",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "5"
     },
     {
@@ -2340,7 +2494,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -4054,11 +4208,11 @@
     "SP12501055227480": {
       "sku": "SP12501055227480",
       "id_produto": "20759",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE VOLKSWAGEN VOYAGE TRENDLINE 1.6 2016",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -4322,7 +4476,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -4354,11 +4508,11 @@
     "SP12501055227029": {
       "sku": "SP12501055227029",
       "id_produto": "20758",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO VOLKSWAGEN VOYAGE TRENDLINE 1.6 2016",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE TRENDLINE 1.6 T.FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -4462,11 +4616,11 @@
     "SP12501055219437": {
       "sku": "SP12501055219437",
       "id_produto": "20756",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 255/50 R19 107Y XL DELINTE DESERT STORM 2 DS8 2013",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -5230,11 +5384,11 @@
     "SP12501055219480": {
       "sku": "SP12501055219480",
       "id_produto": "20757",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE BMW X5 XDRIVE50I 4.4 V8 TWINPOWER 2013",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -7326,6 +7480,90 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP12501056274037": {
+      "sku": "SP12501056274037",
+      "id_produto": "20886",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501056274016": {
+      "sku": "SP12501056274016",
+      "id_produto": "20882",
+      "nome": "FAROL ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501053836024": {
+      "sku": "SP12501053836024",
+      "id_produto": "20877",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    "SP12501111631035": {
+      "sku": "SP12501111631035",
+      "id_produto": "20893",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501111631026": {
+      "sku": "SP12501111631026",
+      "id_produto": "20890",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501111631034": {
+      "sku": "SP12501111631034",
+      "id_produto": "20892",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501111631001": {
+      "sku": "SP12501111631001",
+      "id_produto": "20889",
+      "nome": "ALTERNADOR",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     }
   }
 }
