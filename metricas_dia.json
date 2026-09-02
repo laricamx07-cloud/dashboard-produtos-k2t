@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 14:17:34",
+  "ultima_atualizacao": "02/09/2026 14:21:31",
   "total_base_dia": 87,
-  "total_atual": 430,
+  "total_atual": 429,
   "novos_produtos": 413,
-  "total_subidos": 70,
+  "total_subidos": 71,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1025,6 +1025,7 @@
     "SP12501014989036",
     "SP12501015160002",
     "SP12501015535049",
+    "SP12501015799031",
     "SP12501015896001",
     "SP12501016213400",
     "SP12501016469049",
@@ -1097,6 +1098,7 @@
     "SP12501014989036",
     "SP12501015160002",
     "SP12501015535049",
+    "SP12501015799031",
     "SP12501015896001",
     "SP12501016213400",
     "SP12501016469049",
@@ -1896,10 +1898,10 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS LONGITUDE 2.0 4X4 DIES. 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
-      "qtd_images": "7"
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501015837001",
@@ -6260,6 +6262,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501015799031",
+      "id_produto": "1788",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO JEEP COMPASS LONGITUD 2.0 17/18",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS LONGITUDE 2.0 4X4 DIES. 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501015896001",
       "id_produto": "2580",
       "nome": "ALTERNADOR FIAT UNO VIVACE CELEB. 1.0 EVO F.FLEX 8V 2013/14",
@@ -8200,10 +8214,10 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS LONGITUDE 2.0 4X4 DIES. 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
-      "qtd_images": "7"
+      "qtd_images": "8"
     },
     "SP12401016450018": {
       "sku": "SP12401016450018",
