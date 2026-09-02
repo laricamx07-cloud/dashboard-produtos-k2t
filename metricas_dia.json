@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 08:27:23",
+  "ultima_atualizacao": "02/09/2026 08:42:44",
   "total_base_dia": 87,
-  "total_atual": 84,
+  "total_atual": 83,
   "novos_produtos": 0,
-  "total_subidos": 3,
+  "total_subidos": 4,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -186,17 +186,31 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501111631026",
     "SP12501111631032",
     "SP12501111631034",
     "SP12501111631035"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501111631026",
     "SP12501111631032",
     "SP12501111631034",
     "SP12501111631035"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501111631026",
+      "id_produto": "20890",
+      "nome": "Motor Partida Arranque Corsa Celta 1.0 1.4 1.6 1994 1995/..",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501111631032",
       "id_produto": "20891",
@@ -228,7 +242,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -322,11 +336,11 @@
     "SP12501111631026": {
       "sku": "SP12501111631026",
       "id_produto": "20890",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "Motor Partida Arranque Corsa Celta 1.0 1.4 1.6 1994 1995/..",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -770,7 +784,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
