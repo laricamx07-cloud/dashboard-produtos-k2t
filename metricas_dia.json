@@ -1,10 +1,10 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 10:21:29",
+  "ultima_atualizacao": "02/09/2026 10:43:16",
   "total_base_dia": 87,
-  "total_atual": 69,
-  "novos_produtos": 0,
+  "total_atual": 70,
+  "novos_produtos": 1,
   "total_subidos": 18,
   "skus_base_dia": [
     "SP12501004550032",
@@ -182,9 +182,12 @@
     "SP12501116765041",
     "SP12501116765042",
     "SP12501116765043",
+    "SP32501000176124",
     "SP42501001064042"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP32501000176124"
+  ],
   "skus_subidos_hoje": [
     "SP12501053836026",
     "SP12501055219036",
@@ -225,7 +228,20 @@
     "SP12501111631034",
     "SP12501111631035"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP32501000176124",
+      "id_produto": "17522",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501053836026",
@@ -1488,6 +1504,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
+    },
+    "SP32501000176124": {
+      "sku": "SP32501000176124",
+      "id_produto": "17522",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     }
   }
 }
