@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 11:33:04",
+  "ultima_atualizacao": "02/09/2026 11:43:02",
   "total_base_dia": 87,
-  "total_atual": 463,
+  "total_atual": 462,
   "novos_produtos": 399,
-  "total_subidos": 24,
+  "total_subidos": 25,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1003,6 +1003,7 @@
     "SP12501103477437",
     "SP12501103477483",
     "SP12501103477484",
+    "SP12501111518030",
     "SP12501111631026",
     "SP12501111631032",
     "SP12501111631034",
@@ -1029,6 +1030,7 @@
     "SP12501103477437",
     "SP12501103477483",
     "SP12501103477484",
+    "SP12501111518030",
     "SP12501111631026",
     "SP12501111631032",
     "SP12501111631034",
@@ -3888,7 +3890,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "QQ 1.1/1.0 12V 69CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -4932,7 +4934,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 5P MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -5918,7 +5920,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "QQ 1.1/1.0 12V 69CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -6042,6 +6044,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111518030",
+      "id_produto": "19517",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO HONDA FIT LX 1.4 2005/2005",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501111631026",
@@ -9976,7 +9990,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 5P MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -10072,7 +10086,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "QQ 1.1/1.0 12V 69CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
