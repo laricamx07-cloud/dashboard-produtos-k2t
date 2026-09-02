@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 17:47:09",
+  "ultima_atualizacao": "02/09/2026 17:50:51",
   "total_base_dia": 87,
-  "total_atual": 358,
+  "total_atual": 353,
   "novos_produtos": 433,
-  "total_subidos": 162,
+  "total_subidos": 167,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1082,9 +1082,11 @@
     "SP12501017104027",
     "SP12501017465024",
     "SP12501040793001",
+    "SP12501040866024",
     "SP12501040963400",
     "SP12501040998400",
     "SP12501041056400",
+    "SP12501041919024",
     "SP12501042265400",
     "SP12501042320400",
     "SP12501042370400",
@@ -1120,6 +1122,7 @@
     "SP12501084685400",
     "SP12501084693400",
     "SP12501084855026",
+    "SP12501087285400",
     "SP12501087358004",
     "SP12501087382005",
     "SP12501087390045",
@@ -1133,6 +1136,8 @@
     "SP12501089180400",
     "SP12501089210004",
     "SP12501089237400",
+    "SP12501089245400",
+    "SP12501089261004",
     "SP12501090545024",
     "SP12501090545400",
     "SP12501102250004",
@@ -1246,9 +1251,11 @@
     "SP12501017104027",
     "SP12501017465024",
     "SP12501040793001",
+    "SP12501040866024",
     "SP12501040963400",
     "SP12501040998400",
     "SP12501041056400",
+    "SP12501041919024",
     "SP12501042265400",
     "SP12501042320400",
     "SP12501042370400",
@@ -1284,6 +1291,7 @@
     "SP12501084685400",
     "SP12501084693400",
     "SP12501084855026",
+    "SP12501087285400",
     "SP12501087358004",
     "SP12501087382005",
     "SP12501087390045",
@@ -1297,6 +1305,8 @@
     "SP12501089180400",
     "SP12501089210004",
     "SP12501089237400",
+    "SP12501089245400",
+    "SP12501089261004",
     "SP12501090545024",
     "SP12501090545400",
     "SP12501102250004",
@@ -2380,11 +2390,11 @@
     {
       "sku": "SP12501040866024",
       "id_produto": "7685",
-      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN SAVEIRO ROBUST 1.6 FLEX 17/18",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN SAVEIRO ROBUST 1.6 FLEX 17/18 S",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO ROBUST 1.6 TOTAL FLEX 8V CD",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "6"
@@ -2612,7 +2622,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO ATTRACTIVE 1.0 FIRE FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -4160,7 +4170,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO FIRE 1.0 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -4244,7 +4254,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT AWD 3.0 V6 24V 268CV",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -4616,7 +4626,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -4628,7 +4638,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SED. 1.6 8V FLEX 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -6928,6 +6938,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501040866024",
+      "id_produto": "7685",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN SAVEIRO ROBUST 1.6 FLEX 17/18 S",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO ROBUST 1.6 TOTAL FLEX 8V CD",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501040963400",
       "id_produto": "7327",
       "nome": "MOTOR COMPLETO RENAULT DUSTER ZEN 1.6 16V FLEX 2020/2021",
@@ -6962,6 +6984,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501041919024",
+      "id_produto": "7722",
+      "nome": "MÓDULO DE INJEÇÃO FIAT UNO ATTRACTIVE 1.0 FIRE FLEX 2020/21",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO ATTRACTIVE 1.0 FIRE FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501042265400",
@@ -7384,6 +7418,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501087285400",
+      "id_produto": "17340",
+      "nome": "Motor Palio Siena Uno 1.0 Fire Flex 2005 2006 a 2009",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO FIRE 1.0 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501087358004",
       "id_produto": "16267",
       "nome": "CÂMBIO MANUAL PEUGEOT 207 XR 1.4 8V 2011/2012",
@@ -7414,7 +7460,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT AWD 3.0 V6 24V 268CV",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -7537,6 +7583,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501089245400",
+      "id_produto": "17342",
+      "nome": "MOTOR  PEUGEOT 2008 ALLURE 1.6 16V AUT 2023/2024",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501089261004",
+      "id_produto": "17333",
+      "nome": "CÂMBIO MANUAL FORD FIESTA SED. 1.6 8V FLEX 4P 2005/2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA SED. 1.6 8V FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "8"
     },
     {
@@ -10176,7 +10246,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -10716,7 +10786,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO ATTRACTIVE 1.0 FIRE FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -10896,7 +10966,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO FIRE 1.0 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -10956,7 +11026,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SED. 1.6 8V FLEX 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -12728,11 +12798,11 @@
     "SP12501040866024": {
       "sku": "SP12501040866024",
       "id_produto": "7685",
-      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN SAVEIRO ROBUST 1.6 FLEX 17/18",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN SAVEIRO ROBUST 1.6 FLEX 17/18 S",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO ROBUST 1.6 TOTAL FLEX 8V CD",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "6"
@@ -13908,7 +13978,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT AWD 3.0 V6 24V 268CV",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
