@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 15:13:04",
+  "ultima_atualizacao": "02/09/2026 15:17:40",
   "total_base_dia": 87,
-  "total_atual": 428,
-  "novos_produtos": 415,
-  "total_subidos": 74,
+  "total_atual": 426,
+  "novos_produtos": 417,
+  "total_subidos": 78,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -265,6 +265,7 @@
     "SP12501056274031",
     "SP12501056274033",
     "SP12501056274034",
+    "SP12501056274035",
     "SP12501057114004",
     "SP12501057114400",
     "SP12501057149004",
@@ -512,6 +513,7 @@
     "SP12501111542035",
     "SP12501111542045",
     "SP12501111550029",
+    "SP12501111550045",
     "SP12501111631004",
     "SP12501111631026",
     "SP12501111631032",
@@ -730,6 +732,7 @@
     "SP12501056274031",
     "SP12501056274033",
     "SP12501056274034",
+    "SP12501056274035",
     "SP12501057114004",
     "SP12501057114400",
     "SP12501057149004",
@@ -939,6 +942,7 @@
     "SP12501111542035",
     "SP12501111542045",
     "SP12501111550029",
+    "SP12501111550045",
     "SP12501111631004",
     "SP12501111631400",
     "SP12501114266004",
@@ -1025,6 +1029,7 @@
     "SP12501010452400",
     "SP12501014091400",
     "SP12501014768020",
+    "SP12501014814027",
     "SP12501014822400",
     "SP12501014873015",
     "SP12501014989036",
@@ -1041,9 +1046,11 @@
     "SP12501017104027",
     "SP12501017465024",
     "SP12501053836026",
+    "SP12501054328026",
     "SP12501055219036",
     "SP12501055219039",
     "SP12501056274026",
+    "SP12501057149004",
     "SP12501057858004",
     "SP12501088133030",
     "SP12501089156011",
@@ -1088,6 +1095,7 @@
     "SP12501117745400",
     "SP12501117761029",
     "SP12501117761045",
+    "SP12501121858004",
     "SP12501123320004",
     "SP32501000176124",
     "SP32501002594067"
@@ -1101,6 +1109,7 @@
     "SP12501010452400",
     "SP12501014091400",
     "SP12501014768020",
+    "SP12501014814027",
     "SP12501014822400",
     "SP12501014873015",
     "SP12501014989036",
@@ -1117,9 +1126,11 @@
     "SP12501017104027",
     "SP12501017465024",
     "SP12501053836026",
+    "SP12501054328026",
     "SP12501055219036",
     "SP12501055219039",
     "SP12501056274026",
+    "SP12501057149004",
     "SP12501057858004",
     "SP12501088133030",
     "SP12501089156011",
@@ -1164,6 +1175,7 @@
     "SP12501117745400",
     "SP12501117761029",
     "SP12501117761045",
+    "SP12501121858004",
     "SP12501123320004",
     "SP32501000176124",
     "SP32501002594067"
@@ -1728,7 +1740,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": null,
       "qtd_images": "10"
@@ -2640,7 +2652,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION FLEX 1.6 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -2730,6 +2742,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501056274035",
+      "id_produto": "20909",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501057114004",
       "id_produto": "13788",
       "nome": "CÂMBIO MANUAL FIAT UNO MILLE 1.0 F.FLEX 2006/2006",
@@ -2760,7 +2784,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -5238,6 +5262,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501111550045",
+      "id_produto": "20913",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501111631004",
       "id_produto": "20907",
       "nome": "CÂMBIO MANUAL",
@@ -5688,7 +5724,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA PULSE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "4"
@@ -5928,7 +5964,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "AGILE LT 1.4 MPFI 8V FLEXPOWER 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "8"
@@ -6248,6 +6284,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501014814027",
+      "id_produto": "3756",
+      "nome": "PAINEL DE INSTRUMENTOS JEEP RENEGADE LONGITUDE 1.8 4X2 2015",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": null,
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501014822400",
       "id_produto": "2103",
       "nome": "MOTOR COMPLETO PEUGEOT 2008 GRIFFE 1.6 16V FLEX 2016/17",
@@ -6440,6 +6488,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501054328026",
+      "id_produto": "14485",
+      "nome": "MOTOR DE PARTIDA RENAULT SANDERO EXPRESSION FLEX 1.6 2016/17",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION FLEX 1.6 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501055219036",
       "id_produto": "20745",
       "nome": "RADIADOR BMW X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO 2013",
@@ -6474,6 +6534,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501057149004",
+      "id_produto": "14454",
+      "nome": "CÂMBIO MANUAL FIAT UNO MILLE 1.0 F.FLEX 2006/2006",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501057858004",
@@ -7004,13 +7076,25 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501121858004",
+      "id_produto": "14456",
+      "nome": "CÂMBIO AUTOMATICO HYUNDAI CRETA PULSE 1.6 16V FLEX 2017/2018",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA PULSE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "4"
+    },
+    {
       "sku": "SP12501123320004",
       "id_produto": "14446",
       "nome": "CÂMBIO MANUAL CHEVROLET AGILE LT 1.4 MPFI 8V FLEX 10/11",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "AGILE LT 1.4 MPFI 8V FLEXPOWER 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "8"
@@ -9544,7 +9628,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA PULSE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "4"
@@ -10240,7 +10324,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "AGILE LT 1.4 MPFI 8V FLEXPOWER 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "8"
@@ -10804,7 +10888,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -10888,7 +10972,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": null,
       "qtd_images": "10"
@@ -12796,7 +12880,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION FLEX 1.6 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -13064,6 +13148,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP12501111550045": {
+      "sku": "SP12501111550045",
+      "id_produto": "20913",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501056274035": {
+      "sku": "SP12501056274035",
+      "id_produto": "20909",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   }
 }
