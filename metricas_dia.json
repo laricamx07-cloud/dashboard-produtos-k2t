@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 14:21:31",
+  "ultima_atualizacao": "02/09/2026 14:27:41",
   "total_base_dia": 87,
-  "total_atual": 429,
+  "total_atual": 428,
   "novos_produtos": 413,
-  "total_subidos": 71,
+  "total_subidos": 72,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1021,6 +1021,7 @@
     "SP12501010452400",
     "SP12501014091400",
     "SP12501014768020",
+    "SP12501014822400",
     "SP12501014873015",
     "SP12501014989036",
     "SP12501015160002",
@@ -1094,6 +1095,7 @@
     "SP12501010452400",
     "SP12501014091400",
     "SP12501014768020",
+    "SP12501014822400",
     "SP12501014873015",
     "SP12501014989036",
     "SP12501015160002",
@@ -1727,10 +1729,10 @@
       "sku": "SP12501014822400",
       "id_produto": "2103",
       "nome": "MOTOR COMPLETO PEUGEOT 2008 GRIFFE 1.6 16V FLEX 2016/17",
-      "marca": "PEUGEOT&nbsp;",
+      "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 GRIFFE 1.6 FLEX 16V 5 PORTAS AUTOMÁTICO&lt;/p&gt;&lt;p&gt;",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -1898,7 +1900,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS LONGITUDE 2.0 4X4 DIES. 16V AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -6214,6 +6216,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501014822400",
+      "id_produto": "2103",
+      "nome": "MOTOR COMPLETO PEUGEOT 2008 GRIFFE 1.6 16V FLEX 2016/17",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 GRIFFE 1.6 FLEX 16V 5 PORTAS AUTOMÁTICO&lt;/p&gt;&lt;p&gt;",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501014873015",
       "id_produto": "757",
       "nome": "FAROL DIANTEIRO DIREITO FIAT DUCATO CARGO CURTO 2.3 16V 2018",
@@ -6268,7 +6282,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS LONGITUDE 2.0 4X4 DIES. 16V AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -8043,10 +8057,10 @@
       "sku": "SP12501014822400",
       "id_produto": "2103",
       "nome": "MOTOR COMPLETO PEUGEOT 2008 GRIFFE 1.6 16V FLEX 2016/17",
-      "marca": "PEUGEOT&nbsp;",
+      "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 GRIFFE 1.6 FLEX 16V 5 PORTAS AUTOMÁTICO&lt;/p&gt;&lt;p&gt;",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -8214,7 +8228,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS LONGITUDE 2.0 4X4 DIES. 16V AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
