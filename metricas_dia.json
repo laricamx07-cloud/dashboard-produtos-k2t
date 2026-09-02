@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 15:27:35",
+  "ultima_atualizacao": "02/09/2026 15:44:14",
   "total_base_dia": 87,
-  "total_atual": 425,
-  "novos_produtos": 417,
-  "total_subidos": 79,
+  "total_atual": 423,
+  "novos_produtos": 418,
+  "total_subidos": 82,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -513,6 +513,7 @@
     "SP12501111542035",
     "SP12501111542045",
     "SP12501111550029",
+    "SP12501111550034",
     "SP12501111550045",
     "SP12501111631004",
     "SP12501111631026",
@@ -942,6 +943,7 @@
     "SP12501111542035",
     "SP12501111542045",
     "SP12501111550029",
+    "SP12501111550034",
     "SP12501111550045",
     "SP12501111631004",
     "SP12501111631400",
@@ -1073,6 +1075,7 @@
     "SP12501103477483",
     "SP12501103477484",
     "SP12501104520033",
+    "SP12501109556004",
     "SP12501109661004",
     "SP12501111518030",
     "SP12501111631026",
@@ -1097,7 +1100,9 @@
     "SP12501117761045",
     "SP12501121858004",
     "SP12501121882542",
+    "SP12501123281026",
     "SP12501123320004",
+    "SP12501123664550",
     "SP32501000176124",
     "SP32501002594067"
   ],
@@ -1154,6 +1159,7 @@
     "SP12501103477483",
     "SP12501103477484",
     "SP12501104520033",
+    "SP12501109556004",
     "SP12501109661004",
     "SP12501111518030",
     "SP12501111631026",
@@ -1178,7 +1184,9 @@
     "SP12501117761045",
     "SP12501121858004",
     "SP12501121882542",
+    "SP12501123281026",
     "SP12501123320004",
+    "SP12501123664550",
     "SP32501000176124",
     "SP32501002594067"
   ],
@@ -2748,7 +2756,7 @@
       "id_produto": "20909",
       "nome": "PORTA TRASEIRA ESQUERDA",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PALIO ELX 1.3 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -5114,7 +5122,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LTZ 1.2 TURBO FLEX 12V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "4"
@@ -5256,7 +5264,7 @@
       "id_produto": "20911",
       "nome": "PARA-CHOQUE TRASEIRO",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -5264,11 +5272,23 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501111550034",
+      "id_produto": "20912",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501111550045",
       "id_produto": "20913",
       "nome": "TAMPA TRASEIRA",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -5738,7 +5758,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CAPTUR INTENSE 1.6 16V FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -5926,14 +5946,14 @@
     {
       "sku": "SP12501123281026",
       "id_produto": "15005",
-      "nome": "MOTOR DE PARTIDA FIAT UNO MILLE 1.0 F.FLEX 2P 2006/2006",
+      "nome": "MOTOR DE PARTIDA FIAT UNO MILLE 1.0 F.FLEX 2P 2006/06",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "8"
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501123290004",
@@ -6122,7 +6142,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -6814,6 +6834,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501109556004",
+      "id_produto": "14638",
+      "nome": "CÂMBIO AUTOMATICO CHEVROLET MONTANA LTZ 1.2 TURBO 2023/24",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MONTANA LTZ 1.2 TURBO FLEX 12V 4P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "4"
+    },
+    {
       "sku": "SP12501109661004",
       "id_produto": "18701",
       "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC LIFE 1.0 VHC FLEXPOWER 2006",
@@ -7096,10 +7128,22 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CAPTUR INTENSE 1.6 16V FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501123281026",
+      "id_produto": "15005",
+      "nome": "MOTOR DE PARTIDA FIAT UNO MILLE 1.0 F.FLEX 2P 2006/06",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501123320004",
@@ -7111,6 +7155,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123664550",
+      "id_produto": "14789",
+      "nome": "INTERRUPTOR DO PISCA ALERTA RENAULT SANDERO EXPRESS 12/13",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "8"
     },
     {
@@ -10298,14 +10354,14 @@
     "SP12501123281026": {
       "sku": "SP12501123281026",
       "id_produto": "15005",
-      "nome": "MOTOR DE PARTIDA FIAT UNO MILLE 1.0 F.FLEX 2P 2006/2006",
+      "nome": "MOTOR DE PARTIDA FIAT UNO MILLE 1.0 F.FLEX 2P 2006/06",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "8"
+      "qtd_images": "10"
     },
     "SP12501123460040": {
       "sku": "SP12501123460040",
@@ -10458,7 +10514,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LTZ 1.2 TURBO FLEX 12V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "4"
@@ -10914,7 +10970,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -12642,7 +12698,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CAPTUR INTENSE 1.6 16V FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -13156,7 +13212,7 @@
       "id_produto": "20911",
       "nome": "PARA-CHOQUE TRASEIRO",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -13168,7 +13224,7 @@
       "id_produto": "20913",
       "nome": "TAMPA TRASEIRA",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -13180,12 +13236,24 @@
       "id_produto": "20909",
       "nome": "PORTA TRASEIRA ESQUERDA",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PALIO ELX 1.3 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    "SP12501111550034": {
+      "sku": "SP12501111550034",
+      "id_produto": "20912",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
