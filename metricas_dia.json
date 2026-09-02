@@ -1,7 +1,7 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 15:17:40",
+  "ultima_atualizacao": "02/09/2026 15:21:21",
   "total_base_dia": 87,
   "total_atual": 426,
   "novos_produtos": 417,
@@ -2652,7 +2652,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION FLEX 1.6 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -6494,7 +6494,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION FLEX 1.6 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -12880,7 +12880,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION FLEX 1.6 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
