@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 17:21:01",
+  "ultima_atualizacao": "02/09/2026 17:27:08",
   "total_base_dia": 87,
-  "total_atual": 363,
-  "novos_produtos": 423,
-  "total_subidos": 147,
+  "total_atual": 362,
+  "novos_produtos": 425,
+  "total_subidos": 150,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -519,7 +519,9 @@
     "SP12501111550027",
     "SP12501111550029",
     "SP12501111550034",
+    "SP12501111550037",
     "SP12501111550045",
+    "SP12501111550049",
     "SP12501111631004",
     "SP12501111631026",
     "SP12501111631032",
@@ -954,7 +956,9 @@
     "SP12501111550027",
     "SP12501111550029",
     "SP12501111550034",
+    "SP12501111550037",
     "SP12501111550045",
+    "SP12501111550049",
     "SP12501111631004",
     "SP12501111631400",
     "SP12501114266004",
@@ -1090,6 +1094,8 @@
     "SP12501084529400",
     "SP12501084545400",
     "SP12501084553400",
+    "SP12501084596400",
+    "SP12501084634400",
     "SP12501084642400",
     "SP12501084855026",
     "SP12501087358004",
@@ -1121,6 +1127,7 @@
     "SP12501103477437",
     "SP12501103477483",
     "SP12501103477484",
+    "SP12501103523045",
     "SP12501104503004",
     "SP12501104503400",
     "SP12501104520033",
@@ -1239,6 +1246,8 @@
     "SP12501084529400",
     "SP12501084545400",
     "SP12501084553400",
+    "SP12501084596400",
+    "SP12501084634400",
     "SP12501084642400",
     "SP12501084855026",
     "SP12501087358004",
@@ -1270,6 +1279,7 @@
     "SP12501103477437",
     "SP12501103477483",
     "SP12501103477484",
+    "SP12501103523045",
     "SP12501104503004",
     "SP12501104503400",
     "SP12501104520033",
@@ -2750,10 +2760,10 @@
     {
       "sku": "SP12501053836004",
       "id_produto": "20894",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN SPACEFOX 1.6 TOTAL FLEX 8V 2008",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "05",
@@ -3462,7 +3472,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.4 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -3870,7 +3880,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PUNTO ESSENCE SP 1.6 FLEX 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -3894,7 +3904,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "9"
@@ -3918,7 +3928,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ESSENCE 1.6 FLEX 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
@@ -4706,11 +4716,11 @@
     {
       "sku": "SP12501103523045",
       "id_produto": "20208",
-      "nome": "TAMPA TRASEIRA CHEVROLET CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER",
+      "nome": "TAMPA TRASEIRA CHEVROLET CELTA SPIRIT 1.0 MPFI 8V 2006/2007",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -5484,6 +5494,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501111550037",
+      "id_produto": "20928",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501111550045",
       "id_produto": "20913",
       "nome": "TAMPA TRASEIRA FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
@@ -5494,6 +5516,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111550049",
+      "id_produto": "20929",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501111631004",
@@ -6246,7 +6280,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -6992,7 +7026,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.4 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -7088,10 +7122,34 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PUNTO ESSENCE SP 1.6 FLEX 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501084596400",
+      "id_produto": "7526",
+      "nome": "MOTOR COMPLETO CHEVROLET PRISMA SED. JOY/ LS 1.0 8V FLX 2019",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501084634400",
+      "id_produto": "7527",
+      "nome": "MOTOR COMPLETO FIAT PALIO ESSENCE 1.6 FLEX 2013",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO ESSENCE 1.6 FLEX 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501084642400",
@@ -7464,6 +7522,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103523045",
+      "id_produto": "20208",
+      "nome": "TAMPA TRASEIRA CHEVROLET CELTA SPIRIT 1.0 MPFI 8V 2006/2007",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501104503004",
@@ -8108,7 +8178,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -9654,11 +9724,11 @@
     "SP12501103523045": {
       "sku": "SP12501103523045",
       "id_produto": "20208",
-      "nome": "TAMPA TRASEIRA CHEVROLET CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER",
+      "nome": "TAMPA TRASEIRA CHEVROLET CELTA SPIRIT 1.0 MPFI 8V 2006/2007",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -11758,7 +11828,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PUNTO ESSENCE SP 1.6 FLEX 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -11842,7 +11912,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "9"
@@ -12694,7 +12764,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.4 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -13102,7 +13172,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -13162,7 +13232,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ESSENCE 1.6 FLEX 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
@@ -14106,10 +14176,10 @@
     "SP12501053836004": {
       "sku": "SP12501053836004",
       "id_produto": "20894",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN SPACEFOX 1.6 TOTAL FLEX 8V 2008",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "05",
@@ -14293,6 +14363,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501111550037": {
+      "sku": "SP12501111550037",
+      "id_produto": "20928",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    "SP12501111550049": {
+      "sku": "SP12501111550049",
+      "id_produto": "20929",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "5"
     }
   }
