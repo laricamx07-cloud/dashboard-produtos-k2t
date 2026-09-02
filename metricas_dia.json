@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 12:50:54",
+  "ultima_atualizacao": "02/09/2026 12:57:06",
   "total_base_dia": 87,
-  "total_atual": 459,
+  "total_atual": 453,
   "novos_produtos": 413,
-  "total_subidos": 41,
+  "total_subidos": 47,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1014,13 +1014,17 @@
   ],
   "skus_subidos_hoje": [
     "SP12401016450018",
+    "SP12501004665037",
+    "SP12501005173400",
     "SP12501005211400",
     "SP12501009705400",
     "SP12501010452400",
+    "SP12501014873015",
     "SP12501015160002",
     "SP12501015535049",
     "SP12501015896001",
     "SP12501016213400",
+    "SP12501016469049",
     "SP12501016701007",
     "SP12501016787016",
     "SP12501017465024",
@@ -1051,19 +1055,25 @@
     "SP12501111631034",
     "SP12501111631035",
     "SP12501116730004",
+    "SP12501116765012",
+    "SP12501116765400",
     "SP12501117389030",
     "SP32501000176124",
     "SP32501002594067"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12401016450018",
+    "SP12501004665037",
+    "SP12501005173400",
     "SP12501005211400",
     "SP12501009705400",
     "SP12501010452400",
+    "SP12501014873015",
     "SP12501015160002",
     "SP12501015535049",
     "SP12501015896001",
     "SP12501016213400",
+    "SP12501016469049",
     "SP12501016701007",
     "SP12501016787016",
     "SP12501017465024",
@@ -1094,6 +1104,8 @@
     "SP12501111631034",
     "SP12501111631035",
     "SP12501116730004",
+    "SP12501116765012",
+    "SP12501116765400",
     "SP12501117389030",
     "SP32501000176124",
     "SP32501002594067"
@@ -1166,7 +1178,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -1250,7 +1262,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -1690,11 +1702,11 @@
     {
       "sku": "SP12501014873015",
       "id_produto": "757",
-      "nome": "Farol Dianteiro Direito Fiat Ducato Cargo Curto 2.3 16V 2018",
+      "nome": "FAROL DIANTEIRO DIREITO FIAT DUCATO CARGO CURTO 2.3 16V 2018",
       "marca": "Fiat",
       "modelo_do_veiculo": "Ducato Cargo Curto 2.3 16V Diesel",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -1930,11 +1942,11 @@
     {
       "sku": "SP12501016469049",
       "id_produto": "1627",
-      "nome": "Volante do Motorista Dodge Journey RT 2.7 2010",
+      "nome": "VOLANTE DO MOTORISTA DODGE JOURNEY RT 2.7 V6 185CV AUT 2010",
       "marca": "DODGE",
       "modelo_do_veiculo": "JOURNEY RT 2.7 V6 185CV AUT</p><p>",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -2846,7 +2858,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 GRIFFE 1.6 16V VVT AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -5306,7 +5318,7 @@
       "marca": "MITSUBISHI",
       "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -5318,7 +5330,7 @@
       "marca": "MITSUBISHI",
       "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -6070,6 +6082,30 @@
       "qtd_images": "3"
     },
     {
+      "sku": "SP12501004665037",
+      "id_produto": "3127",
+      "nome": "RETROVISOR DIREITO FIAT MOBI DRIVE GSR 1.0 FLEX 6V 2017/2018",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501005173400",
+      "id_produto": "3154",
+      "nome": "MOTOR COMPLETO NISSAN KICKS SL 1.6 16V FLEXSTAR 5P AUT 2018",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501005211400",
       "id_produto": "3060",
       "nome": "MOTOR COMPLETO TOYOTA YARIS XL LIVE 1.3 FLEX 16V 5P 2020/21",
@@ -6104,6 +6140,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "11"
+    },
+    {
+      "sku": "SP12501014873015",
+      "id_produto": "757",
+      "nome": "FAROL DIANTEIRO DIREITO FIAT DUCATO CARGO CURTO 2.3 16V 2018",
+      "marca": "Fiat",
+      "modelo_do_veiculo": "Ducato Cargo Curto 2.3 16V Diesel",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501015160002",
@@ -6152,6 +6200,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501016469049",
+      "id_produto": "1627",
+      "nome": "VOLANTE DO MOTORISTA DODGE JOURNEY RT 2.7 V6 185CV AUT 2010",
+      "marca": "DODGE",
+      "modelo_do_veiculo": "JOURNEY RT 2.7 V6 185CV AUT</p><p>",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501016701007",
@@ -6244,7 +6304,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 GRIFFE 1.6 16V VVT AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -6512,6 +6572,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501116765012",
+      "id_produto": "18823",
+      "nome": "CONDENSADOR AR-CONDICIONADO MITSUBISHI PAJERO TR4 2.0 07/08",
+      "marca": "MITSUBISHI",
+      "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501116765400",
+      "id_produto": "18799",
+      "nome": "MOTOR COMPLETO MITSUBISHI  PAJERO TR4 2.0 FLEX 16V 4X4 07/08",
+      "marca": "MITSUBISHI",
+      "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501117389030",
@@ -7650,7 +7734,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -7686,7 +7770,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -7706,11 +7790,11 @@
     "SP12501016469049": {
       "sku": "SP12501016469049",
       "id_produto": "1627",
-      "nome": "Volante do Motorista Dodge Journey RT 2.7 2010",
+      "nome": "VOLANTE DO MOTORISTA DODGE JOURNEY RT 2.7 V6 185CV AUT 2010",
       "marca": "DODGE",
       "modelo_do_veiculo": "JOURNEY RT 2.7 V6 185CV AUT</p><p>",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -7826,11 +7910,11 @@
     "SP12501014873015": {
       "sku": "SP12501014873015",
       "id_produto": "757",
-      "nome": "Farol Dianteiro Direito Fiat Ducato Cargo Curto 2.3 16V 2018",
+      "nome": "FAROL DIANTEIRO DIREITO FIAT DUCATO CARGO CURTO 2.3 16V 2018",
       "marca": "Fiat",
       "modelo_do_veiculo": "Ducato Cargo Curto 2.3 16V Diesel",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -8790,7 +8874,7 @@
       "marca": "MITSUBISHI",
       "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -9138,7 +9222,7 @@
       "marca": "MITSUBISHI",
       "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -10146,7 +10230,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 GRIFFE 1.6 16V VVT AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
