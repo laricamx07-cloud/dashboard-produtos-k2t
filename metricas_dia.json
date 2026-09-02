@@ -1,7 +1,7 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 09:43:27",
+  "ultima_atualizacao": "02/09/2026 09:47:27",
   "total_base_dia": 87,
   "total_atual": 73,
   "novos_produtos": 0,
@@ -262,7 +262,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ELX 1.3 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -342,7 +342,7 @@
     {
       "sku": "SP12501111631026",
       "id_produto": "20890",
-      "nome": "Motor Partida Arranque Corsa Celta 1.0 1.4 1.6 1994 1995/..",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CELTA SPIRIT/ LT 1.0 MPFI 8V 2006",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
@@ -476,7 +476,7 @@
     "SP12501111631026": {
       "sku": "SP12501111631026",
       "id_produto": "20890",
-      "nome": "Motor Partida Arranque Corsa Celta 1.0 1.4 1.6 1994 1995/..",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CELTA SPIRIT/ LT 1.0 MPFI 8V 2006",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
@@ -696,7 +696,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ELX 1.3 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
