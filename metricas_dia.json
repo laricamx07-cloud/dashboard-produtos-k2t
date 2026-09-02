@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 16:27:15",
+  "ultima_atualizacao": "02/09/2026 16:42:39",
   "total_base_dia": 87,
-  "total_atual": 388,
+  "total_atual": 387,
   "novos_produtos": 418,
-  "total_subidos": 117,
+  "total_subidos": 118,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1127,6 +1127,7 @@
     "SP12501117745400",
     "SP12501117761029",
     "SP12501117761045",
+    "SP12501121785400",
     "SP12501121858004",
     "SP12501121882542",
     "SP12501123141480",
@@ -1246,6 +1247,7 @@
     "SP12501117745400",
     "SP12501117761029",
     "SP12501117761045",
+    "SP12501121785400",
     "SP12501121858004",
     "SP12501121882542",
     "SP12501123141480",
@@ -5012,7 +5014,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "S10 CABINE DUPLA HIGH COUNTRY AT 2.8 CTD",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -5780,7 +5782,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -7150,7 +7152,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "S10 CABINE DUPLA HIGH COUNTRY AT 2.8 CTD",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -7526,6 +7528,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501121785400",
+      "id_produto": "16265",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN FOX CITY 1.0 MI T.FLEX 8V 2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501121858004",
@@ -9720,7 +9734,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "S10 CABINE DUPLA HIGH COUNTRY AT 2.8 CTD",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -12636,7 +12650,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
