@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 14:02:47",
+  "ultima_atualizacao": "02/09/2026 14:13:05",
   "total_base_dia": 87,
-  "total_atual": 432,
+  "total_atual": 430,
   "novos_produtos": 413,
-  "total_subidos": 68,
+  "total_subidos": 70,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1030,6 +1030,8 @@
     "SP12501016469049",
     "SP12501016701007",
     "SP12501016787016",
+    "SP12501017082026",
+    "SP12501017104027",
     "SP12501017465024",
     "SP12501053836026",
     "SP12501055219036",
@@ -1100,6 +1102,8 @@
     "SP12501016469049",
     "SP12501016701007",
     "SP12501016787016",
+    "SP12501017082026",
+    "SP12501017104027",
     "SP12501017465024",
     "SP12501053836026",
     "SP12501055219036",
@@ -1760,7 +1764,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Trailhawk 2.0 4X4 Turbo Diesel Automático",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "4"
@@ -2048,7 +2052,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO FREEDOM 1.8 16V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "11"
@@ -2056,11 +2060,11 @@
     {
       "sku": "SP12501017104027",
       "id_produto": "1673",
-      "nome": "Painel De Instrumentos Ram Rampage Laramie 2.0 2023/2024",
+      "nome": "PAINEL DE INSTRUMENTOS RAM RAMPAGE LARAMIE 2.0 TURBO 2024",
       "marca": "RAM",
       "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT&lt;/p&gt;&lt;p&gt;",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -4580,7 +4584,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "TIGGO 7 T 1.5 16V TURBO FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -6226,7 +6230,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Trailhawk 2.0 4X4 Turbo Diesel Automático",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "4"
@@ -6314,6 +6318,30 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501017082026",
+      "id_produto": "1656",
+      "nome": "MOTOR DE PARTIDA FIAT TORO FREEDOM 1.8 2017",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO FREEDOM 1.8 16V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "11"
+    },
+    {
+      "sku": "SP12501017104027",
+      "id_produto": "1673",
+      "nome": "PAINEL DE INSTRUMENTOS RAM RAMPAGE LARAMIE 2.0 TURBO 2024",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT&lt;/p&gt;&lt;p&gt;",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501017465024",
@@ -6634,7 +6662,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "TIGGO 7 T 1.5 16V TURBO FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -8132,11 +8160,11 @@
     "SP12501017104027": {
       "sku": "SP12501017104027",
       "id_produto": "1673",
-      "nome": "Painel De Instrumentos Ram Rampage Laramie 2.0 2023/2024",
+      "nome": "PAINEL DE INSTRUMENTOS RAM RAMPAGE LARAMIE 2.0 TURBO 2024",
       "marca": "RAM",
       "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT&lt;/p&gt;&lt;p&gt;",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -8316,7 +8344,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO FREEDOM 1.8 16V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "11"
@@ -8388,7 +8416,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Trailhawk 2.0 4X4 Turbo Diesel Automático",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "4"
@@ -10668,7 +10696,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "TIGGO 7 T 1.5 16V TURBO FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
