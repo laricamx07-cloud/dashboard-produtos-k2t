@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 16:12:35",
+  "ultima_atualizacao": "02/09/2026 16:17:22",
   "total_base_dia": 87,
-  "total_atual": 397,
+  "total_atual": 394,
   "novos_produtos": 418,
-  "total_subidos": 108,
+  "total_subidos": 111,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1051,6 +1051,7 @@
     "SP12501017465024",
     "SP12501040793001",
     "SP12501053836026",
+    "SP12501054310400",
     "SP12501054328026",
     "SP12501055219036",
     "SP12501055219039",
@@ -1084,6 +1085,7 @@
     "SP12501103477484",
     "SP12501104503004",
     "SP12501104520033",
+    "SP12501105542004",
     "SP12501105542024",
     "SP12501105658010",
     "SP12501105844026",
@@ -1094,6 +1096,7 @@
     "SP12501109556004",
     "SP12501109661004",
     "SP12501111518030",
+    "SP12501111542045",
     "SP12501111550029",
     "SP12501111550045",
     "SP12501111631026",
@@ -1161,6 +1164,7 @@
     "SP12501017465024",
     "SP12501040793001",
     "SP12501053836026",
+    "SP12501054310400",
     "SP12501054328026",
     "SP12501055219036",
     "SP12501055219039",
@@ -1194,6 +1198,7 @@
     "SP12501103477484",
     "SP12501104503004",
     "SP12501104520033",
+    "SP12501105542004",
     "SP12501105542024",
     "SP12501105658010",
     "SP12501105844026",
@@ -1204,6 +1209,7 @@
     "SP12501109556004",
     "SP12501109661004",
     "SP12501111518030",
+    "SP12501111542045",
     "SP12501111550029",
     "SP12501111550045",
     "SP12501111631026",
@@ -2702,7 +2708,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "307 SED. PRESENCE 1.6 FLEX 16V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -3962,8 +3968,8 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA ENDURANCE 1.4 FLEX 8V CS PLUS",
       "status": "Habilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
     },
@@ -4286,7 +4292,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE FIRE ECONOMY 1.0 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -4658,7 +4664,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO CELEBRATION 1.0 FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -4718,7 +4724,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE 1.6 16V SCE MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -4730,7 +4736,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE 1.6 16V SCE MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -4910,7 +4916,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -4922,7 +4928,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -5302,11 +5308,11 @@
     {
       "sku": "SP12501111542045",
       "id_produto": "20906",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 5P 2006",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -5366,7 +5372,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -6598,6 +6604,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501054310400",
+      "id_produto": "16256",
+      "nome": "MOTOR COMPLETO PEUGEOT 307 SED PRESENCE 1.6 16V FLEX 2009/10",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "307 SED. PRESENCE 1.6 FLEX 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501054328026",
       "id_produto": "14485",
       "nome": "MOTOR DE PARTIDA RENAULT SANDERO EXPRESSION FLEX 1.6 2016/17",
@@ -6700,8 +6718,8 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA ENDURANCE 1.4 FLEX 8V CS PLUS",
       "status": "Habilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
     },
@@ -6724,7 +6742,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE FIRE ECONOMY 1.0 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -6976,7 +6994,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO CELEBRATION 1.0 FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -6994,13 +7012,25 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501105542004",
+      "id_produto": "16187",
+      "nome": "CÂMBIO MANUAL RENAULT DUSTER INTENSE 1.6 16V SCE 2022/2023",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER INTENSE 1.6 16V SCE MEC",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501105542024",
       "id_produto": "16131",
       "nome": "MÓDULO DE INJEÇÃO RENAULT DUSTER INTENSE 1.6 2022/2023",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE 1.6 16V SCE MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -7024,7 +7054,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -7036,7 +7066,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -7112,6 +7142,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111542045",
+      "id_produto": "20906",
+      "nome": "TAMPA TRASEIRA FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 5P 2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501111550029",
@@ -7192,7 +7234,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -9894,7 +9936,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE FIRE ECONOMY 1.0 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -10782,7 +10824,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE 1.6 16V SCE MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -10962,7 +11004,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "307 SED. PRESENCE 1.6 FLEX 16V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -11250,8 +11292,8 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA ENDURANCE 1.4 FLEX 8V CS PLUS",
       "status": "Habilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
     },
@@ -11502,7 +11544,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -12414,7 +12456,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO CELEBRATION 1.0 FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -12930,7 +12972,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -13278,7 +13320,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE 1.6 16V SCE MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -13418,11 +13460,11 @@
     "SP12501111542045": {
       "sku": "SP12501111542045",
       "id_produto": "20906",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 5P 2006",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -13470,7 +13512,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
