@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 10:48:12",
+  "ultima_atualizacao": "02/09/2026 10:51:10",
   "total_base_dia": 87,
-  "total_atual": 71,
+  "total_atual": 70,
   "novos_produtos": 2,
-  "total_subidos": 18,
+  "total_subidos": 19,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -208,7 +208,8 @@
     "SP12501111631026",
     "SP12501111631032",
     "SP12501111631034",
-    "SP12501111631035"
+    "SP12501111631035",
+    "SP32501000176124"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501053836026",
@@ -228,7 +229,8 @@
     "SP12501111631026",
     "SP12501111631032",
     "SP12501111631034",
-    "SP12501111631035"
+    "SP12501111631035",
+    "SP32501000176124"
   ],
   "itens_novos_hoje": [
     {
@@ -246,11 +248,11 @@
     {
       "sku": "SP32501000176124",
       "id_produto": "17522",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA RAM 2500 LARAMIE 6.7 TDI CD 4X4 2018",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -472,6 +474,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP32501000176124",
+      "id_produto": "17522",
+      "nome": "VOLANTE DO MOTORISTA RAM 2500 LARAMIE 6.7 TDI CD 4X4 2018",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1522,11 +1536,11 @@
     "SP32501000176124": {
       "sku": "SP32501000176124",
       "id_produto": "17522",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA RAM 2500 LARAMIE 6.7 TDI CD 4X4 2018",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
