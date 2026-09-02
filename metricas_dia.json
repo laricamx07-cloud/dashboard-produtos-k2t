@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 15:44:14",
+  "ultima_atualizacao": "02/09/2026 15:47:26",
   "total_base_dia": 87,
-  "total_atual": 423,
+  "total_atual": 421,
   "novos_produtos": 418,
-  "total_subidos": 82,
+  "total_subidos": 84,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1100,8 +1100,10 @@
     "SP12501117761045",
     "SP12501121858004",
     "SP12501121882542",
+    "SP12501123141480",
     "SP12501123281026",
     "SP12501123320004",
+    "SP12501123478011",
     "SP12501123664550",
     "SP32501000176124",
     "SP32501002594067"
@@ -1184,8 +1186,10 @@
     "SP12501117761045",
     "SP12501121858004",
     "SP12501121882542",
+    "SP12501123141480",
     "SP12501123281026",
     "SP12501123320004",
+    "SP12501123478011",
     "SP12501123664550",
     "SP32501000176124",
     "SP32501002594067"
@@ -5865,8 +5869,8 @@
       "nome": "PORTINHOLA DO TANQUE AMARELA FIAT UNO SPORTING 1.4 2012/2012",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO SPORTING 1.4 EVO FIRE FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "3"
@@ -6034,7 +6038,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20S VISION 1.6 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -7134,6 +7138,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501123141480",
+      "id_produto": "14976",
+      "nome": "PORTINHOLA DO TANQUE AMARELA FIAT UNO SPORTING 1.4 2012/2012",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO SPORTING 1.4 EVO FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "3"
+    },
+    {
       "sku": "SP12501123281026",
       "id_produto": "15005",
       "nome": "MOTOR DE PARTIDA FIAT UNO MILLE 1.0 F.FLEX 2P 2006/06",
@@ -7155,6 +7171,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123478011",
+      "id_produto": "15050",
+      "nome": "COMPRESSOR AR-COND. HYUNDAI HB20S VISION 1.6 FLEX 16V 2021",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20S VISION 1.6 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "8"
     },
     {
@@ -9889,8 +9917,8 @@
       "nome": "PORTINHOLA DO TANQUE AMARELA FIAT UNO SPORTING 1.4 2012/2012",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO SPORTING 1.4 EVO FIRE FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "3"
@@ -10490,7 +10518,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20S VISION 1.6 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
