@@ -1,7 +1,7 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 13:43:00",
+  "ultima_atualizacao": "02/09/2026 13:47:28",
   "total_base_dia": 87,
   "total_atual": 437,
   "novos_produtos": 413,
@@ -5518,7 +5518,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT 2.4 16V ECOTEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -6828,7 +6828,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT 2.4 16V ECOTEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -8426,7 +8426,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT 2.4 16V ECOTEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
