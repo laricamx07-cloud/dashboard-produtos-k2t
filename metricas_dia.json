@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 12:47:13",
+  "ultima_atualizacao": "02/09/2026 12:50:54",
   "total_base_dia": 87,
-  "total_atual": 461,
+  "total_atual": 459,
   "novos_produtos": 413,
-  "total_subidos": 39,
+  "total_subidos": 41,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1023,10 +1023,12 @@
     "SP12501016213400",
     "SP12501016701007",
     "SP12501016787016",
+    "SP12501017465024",
     "SP12501053836026",
     "SP12501055219036",
     "SP12501055219039",
     "SP12501056274026",
+    "SP12501057858004",
     "SP12501088133030",
     "SP12501089210004",
     "SP12501089237400",
@@ -1064,10 +1066,12 @@
     "SP12501016213400",
     "SP12501016701007",
     "SP12501016787016",
+    "SP12501017465024",
     "SP12501053836026",
     "SP12501055219036",
     "SP12501055219039",
     "SP12501056274026",
+    "SP12501057858004",
     "SP12501088133030",
     "SP12501089210004",
     "SP12501089237400",
@@ -1102,7 +1106,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Grand Cherokee Limited 3.0 Turbo Diesel Automático",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "3"
@@ -1522,7 +1526,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO TRACK 1.0 FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "11"
@@ -2010,11 +2014,11 @@
     {
       "sku": "SP12501017465024",
       "id_produto": "1173",
-      "nome": "Módulo De Injeção Jeep Renegade 1.8 4x2 Flex 16v Aut 2016",
+      "nome": "MÓDULO DE INJEÇÃO JEEP RENEGADE 1.8 4X2 FLEX 16V AUT 2016",
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade 1.8 4X2 Flex 16V Automático",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "3"
@@ -2842,7 +2846,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 GRIFFE 1.6 16V VVT AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -4246,7 +4250,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SEDAN 1.6 16V FLEX MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -6060,7 +6064,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Grand Cherokee Limited 3.0 Turbo Diesel Automático",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "3"
@@ -6096,7 +6100,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO TRACK 1.0 FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "11"
@@ -6174,6 +6178,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501017465024",
+      "id_produto": "1173",
+      "nome": "MÓDULO DE INJEÇÃO JEEP RENEGADE 1.8 4X2 FLEX 16V AUT 2016",
+      "marca": "Jeep",
+      "modelo_do_veiculo": "Renegade 1.8 4X2 Flex 16V Automático",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "3"
+    },
+    {
       "sku": "SP12501053836026",
       "id_produto": "20878",
       "nome": "MOTOR DE PARTIDA VOLKSWAGEN SPACEFOX 1.6 TOTAL FLEX 8V 2008",
@@ -6222,6 +6238,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501057858004",
+      "id_produto": "18879",
+      "nome": "CÂMBIO AUTOMATICO PEUGEOT 2008 GRIFFE 1.6 16V VVT 2015/2016",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 GRIFFE 1.6 16V VVT AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501088133030",
       "id_produto": "19227",
       "nome": "PARA-LAMA DIANTEIRO DIREITO CHERY QQ 1.1/1.0 12V 11/12",
@@ -6240,7 +6268,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SEDAN 1.6 16V FLEX MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -7778,7 +7806,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Grand Cherokee Limited 3.0 Turbo Diesel Automático",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "3"
@@ -7814,7 +7842,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO TRACK 1.0 FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "11"
@@ -7894,11 +7922,11 @@
     "SP12501017465024": {
       "sku": "SP12501017465024",
       "id_produto": "1173",
-      "nome": "Módulo De Injeção Jeep Renegade 1.8 4x2 Flex 16v Aut 2016",
+      "nome": "MÓDULO DE INJEÇÃO JEEP RENEGADE 1.8 4X2 FLEX 16V AUT 2016",
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade 1.8 4X2 Flex 16V Automático",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "3"
@@ -10118,7 +10146,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 GRIFFE 1.6 16V VVT AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -10562,7 +10590,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SEDAN 1.6 16V FLEX MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
