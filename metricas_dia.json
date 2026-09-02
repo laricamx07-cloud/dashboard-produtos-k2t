@@ -1,7 +1,7 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 11:57:01",
+  "ultima_atualizacao": "02/09/2026 12:12:27",
   "total_base_dia": 87,
   "total_atual": 461,
   "novos_produtos": 399,
@@ -1910,7 +1910,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Commander Overl TD380 2.0 4x4 Diesel Automática",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -5860,7 +5860,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Commander Overl TD380 2.0 4x4 Diesel Automática",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -7458,7 +7458,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Commander Overl TD380 2.0 4x4 Diesel Automática",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
