@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 13:17:08",
+  "ultima_atualizacao": "02/09/2026 13:37:44",
   "total_base_dia": 87,
-  "total_atual": 448,
+  "total_atual": 440,
   "novos_produtos": 413,
-  "total_subidos": 52,
+  "total_subidos": 60,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1019,6 +1019,7 @@
     "SP12501005211400",
     "SP12501009705400",
     "SP12501010452400",
+    "SP12501014091400",
     "SP12501014873015",
     "SP12501015160002",
     "SP12501015535049",
@@ -1036,7 +1037,9 @@
     "SP12501088133030",
     "SP12501089210004",
     "SP12501089237400",
+    "SP12501102250004",
     "SP12501102250400",
+    "SP12501103051400",
     "SP12501103060045",
     "SP12501103175004",
     "SP12501103175400",
@@ -1050,6 +1053,7 @@
     "SP12501103477437",
     "SP12501103477483",
     "SP12501103477484",
+    "SP12501109661004",
     "SP12501111518030",
     "SP12501111631026",
     "SP12501111631032",
@@ -1059,7 +1063,11 @@
     "SP12501116749400",
     "SP12501116765012",
     "SP12501116765400",
+    "SP12501116765488",
+    "SP12501116790400",
+    "SP12501117389007",
     "SP12501117389030",
+    "SP12501117397004",
     "SP12501117680012",
     "SP12501117737004",
     "SP12501117745400",
@@ -1073,6 +1081,7 @@
     "SP12501005211400",
     "SP12501009705400",
     "SP12501010452400",
+    "SP12501014091400",
     "SP12501014873015",
     "SP12501015160002",
     "SP12501015535049",
@@ -1090,7 +1099,9 @@
     "SP12501088133030",
     "SP12501089210004",
     "SP12501089237400",
+    "SP12501102250004",
     "SP12501102250400",
+    "SP12501103051400",
     "SP12501103060045",
     "SP12501103175004",
     "SP12501103175400",
@@ -1104,6 +1115,7 @@
     "SP12501103477437",
     "SP12501103477483",
     "SP12501103477484",
+    "SP12501109661004",
     "SP12501111518030",
     "SP12501111631026",
     "SP12501111631032",
@@ -1113,7 +1125,11 @@
     "SP12501116749400",
     "SP12501116765012",
     "SP12501116765400",
+    "SP12501116765488",
+    "SP12501116790400",
+    "SP12501117389007",
     "SP12501117389030",
+    "SP12501117397004",
     "SP12501117680012",
     "SP12501117737004",
     "SP12501117745400",
@@ -1188,7 +1204,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -1644,7 +1660,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S 1.6 16V FLEXSTAR 5P MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": null,
       "qtd_images": "8"
@@ -4404,7 +4420,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CAPTUR LIFE 1.6 16V FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -4428,7 +4444,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.4 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -5064,7 +5080,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -5352,7 +5368,7 @@
       "marca": "MITSUBISHI",
       "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -5364,7 +5380,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "BORA 2.0 FLEX 8V AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -5376,7 +5392,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "AMAROK EXTREME CD 3.0 4X4 TB DIES. AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -5400,7 +5416,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -6098,7 +6114,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -6150,6 +6166,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "11"
+    },
+    {
+      "sku": "SP12501014091400",
+      "id_produto": "3209",
+      "nome": "MOTOR COMPLETO NISSAN KICKS S 1.6 16V FLEXSTAR MEC 2018/19",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS S 1.6 16V FLEXSTAR 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": null,
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501014873015",
@@ -6356,6 +6384,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501102250004",
+      "id_produto": "18693",
+      "nome": "CÂMBIO AUTOMATICO RENAULT CAPTUR LIFE 1.6 16V FLEX 5P 20/21",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CAPTUR LIFE 1.6 16V FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501102250400",
       "id_produto": "18955",
       "nome": "MOTOR COMPLETO RENAULT CAPTUR LIFE 1.6 16V FLEX AUT. 20/21",
@@ -6366,6 +6406,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103051400",
+      "id_produto": "18694",
+      "nome": "MOTOR COMPLETO CITROEN C3 EXCLUSIVE 1.4 FLEX 8V 5P 2009/2009",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.4 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501103060045",
@@ -6524,6 +6576,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501109661004",
+      "id_produto": "18701",
+      "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC LIFE 1.0 VHC FLEXPOWER 2006",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501111518030",
       "id_produto": "19517",
       "nome": "PARA-LAMA DIANTEIRO DIREITO HONDA FIT LX 1.4 2005/2005",
@@ -6632,6 +6696,42 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501116765488",
+      "id_produto": "18648",
+      "nome": "JOGO DE BAGAGEIROS DO TETO MITSUBISHI PAJERO TR4 4X4 2007/08",
+      "marca": "MITSUBISHI",
+      "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501116790400",
+      "id_produto": "18728",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN BORA 2.0 FLEX 8V AUT. 2010/2011",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "BORA 2.0 FLEX 8V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501117389007",
+      "id_produto": "18670",
+      "nome": "CAPÔ VOLKSWAGEN AMAROK EXTREME CD 3.0 4X4 TB DIES. AUT 21/22",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "AMAROK EXTREME CD 3.0 4X4 TB DIES. AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501117389030",
       "id_produto": "19196",
       "nome": "PARA-LAMA DIANTEIRO DIREITO VOLKSWAGEN AMAROK EXTR 3.0 21/22",
@@ -6642,6 +6742,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501117397004",
+      "id_produto": "18751",
+      "nome": "CÂMBIO MANUAL FIAT UNO MILLE 1.0 F.FLEX 2005/2006",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501117680012",
@@ -7804,7 +7916,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -7900,7 +8012,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S 1.6 16V FLEXSTAR 5P MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": null,
       "qtd_images": "8"
@@ -10120,7 +10232,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "AMAROK EXTREME CD 3.0 4X4 TB DIES. AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -10132,7 +10244,7 @@
       "marca": "MITSUBISHI",
       "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -10228,7 +10340,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -10384,7 +10496,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CAPTUR LIFE 1.6 16V FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -10768,7 +10880,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -10972,7 +11084,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.4 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -11848,7 +11960,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "BORA 2.0 FLEX 8V AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
