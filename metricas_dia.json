@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 12:12:27",
+  "ultima_atualizacao": "02/09/2026 12:17:12",
   "total_base_dia": 87,
   "total_atual": 461,
-  "novos_produtos": 399,
-  "total_subidos": 25,
+  "novos_produtos": 402,
+  "total_subidos": 28,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -258,6 +258,7 @@
     "SP12501055219036",
     "SP12501055219039",
     "SP12501056274026",
+    "SP12501056274034",
     "SP12501057114004",
     "SP12501057114400",
     "SP12501057149004",
@@ -498,6 +499,8 @@
     "SP12501109661004",
     "SP12501109670012",
     "SP12501111518030",
+    "SP12501111542035",
+    "SP12501111542045",
     "SP12501111631026",
     "SP12501111631032",
     "SP12501111631034",
@@ -707,6 +710,7 @@
     "SP12501054328026",
     "SP12501054379024",
     "SP12501054379038",
+    "SP12501056274034",
     "SP12501057114004",
     "SP12501057114400",
     "SP12501057149004",
@@ -909,6 +913,8 @@
     "SP12501109661004",
     "SP12501109670012",
     "SP12501111518030",
+    "SP12501111542035",
+    "SP12501111542045",
     "SP12501114266004",
     "SP12501114274004",
     "SP12501114290004",
@@ -985,14 +991,17 @@
     "SP32501002594067"
   ],
   "skus_subidos_hoje": [
+    "SP12501015160002",
     "SP12501015535049",
     "SP12501015896001",
+    "SP12501016213400",
     "SP12501016787016",
     "SP12501053836026",
     "SP12501055219036",
     "SP12501055219039",
     "SP12501056274026",
     "SP12501088133030",
+    "SP12501089237400",
     "SP12501103396024",
     "SP12501103396025",
     "SP12501103400040",
@@ -1012,14 +1021,17 @@
     "SP32501000176124"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501015160002",
     "SP12501015535049",
     "SP12501015896001",
+    "SP12501016213400",
     "SP12501016787016",
     "SP12501053836026",
     "SP12501055219036",
     "SP12501055219039",
     "SP12501056274026",
     "SP12501088133030",
+    "SP12501089237400",
     "SP12501103396024",
     "SP12501103396025",
     "SP12501103400040",
@@ -1670,7 +1682,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO ULTRA 2.0 16V 4X4 TB DIESEL AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -1846,11 +1858,11 @@
     {
       "sku": "SP12501016213400",
       "id_produto": "210",
-      "nome": "Motor Completo Jeep Renegade Sport T270 1.3 Tb 4x2 2022",
+      "nome": "MOTOR COMPLETO JEEP RENEGADE SPORT T270 1.3 TURBO 4X2 2022",
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Sport T270 1.3 Turbo 4x2 Flex Automático",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -2514,6 +2526,18 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056274034",
+      "id_produto": "20900",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501057114004",
@@ -4142,7 +4166,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN DYNAMIQUE HI-FLEX 1.6 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -4938,6 +4962,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111542035",
+      "id_produto": "20905",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111542045",
+      "id_produto": "20906",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501114266004",
@@ -5830,6 +5878,18 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501015160002",
+      "id_produto": "19163",
+      "nome": "BLOCO DO MOTOR FIAT TORO ULTRA 2.0 16V 4X4 TB DIESEL 2019",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO ULTRA 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501015535049",
       "id_produto": "17244",
       "nome": "VOLANTE DO MOTORISTA PGT EXPERT BUSINESS PACK 1.6 2021",
@@ -5852,6 +5912,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501016213400",
+      "id_produto": "210",
+      "nome": "MOTOR COMPLETO JEEP RENEGADE SPORT T270 1.3 TURBO 4X2 2022",
+      "marca": "Jeep",
+      "modelo_do_veiculo": "Renegade Sport T270 1.3 Turbo 4x2 Flex Automático",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501016787016",
@@ -5923,6 +5995,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501089237400",
+      "id_produto": "19017",
+      "nome": "MOTOR COMPLETO RENAULT LOGAN DYNAMIQUE HI-FLEX 1.6 8V 16/17",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN DYNAMIQUE HI-FLEX 1.6 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "8"
     },
     {
@@ -7250,11 +7334,11 @@
     "SP12501016213400": {
       "sku": "SP12501016213400",
       "id_produto": "210",
-      "nome": "Motor Completo Jeep Renegade Sport T270 1.3 Tb 4x2 2022",
+      "nome": "MOTOR COMPLETO JEEP RENEGADE SPORT T270 1.3 TURBO 4X2 2022",
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Sport T270 1.3 Turbo 4x2 Flex Automático",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -7974,7 +8058,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO ULTRA 2.0 16V 4X4 TB DIESEL AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -10014,7 +10098,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN DYNAMIQUE HI-FLEX 1.6 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -11962,6 +12046,42 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "9"
+    },
+    "SP12501111542035": {
+      "sku": "SP12501111542035",
+      "id_produto": "20905",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501056274034": {
+      "sku": "SP12501056274034",
+      "id_produto": "20900",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501111542045": {
+      "sku": "SP12501111542045",
+      "id_produto": "20906",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
     }
   }
 }
