@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 08:47:31",
+  "ultima_atualizacao": "02/09/2026 08:57:20",
   "total_base_dia": 87,
-  "total_atual": 83,
+  "total_atual": 79,
   "novos_produtos": 0,
-  "total_subidos": 4,
+  "total_subidos": 8,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -186,12 +186,20 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501103396024",
+    "SP12501103396025",
+    "SP12501103418024",
+    "SP12501103442004",
     "SP12501111631026",
     "SP12501111631032",
     "SP12501111631034",
     "SP12501111631035"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501103396024",
+    "SP12501103396025",
+    "SP12501103418024",
+    "SP12501103442004",
     "SP12501111631026",
     "SP12501111631032",
     "SP12501111631034",
@@ -199,6 +207,54 @@
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501103396024",
+      "id_produto": "20724",
+      "nome": "MÓDULO DE INJEÇÃO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103396025",
+      "id_produto": "20725",
+      "nome": "MÓDULO DO CÂMBIO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103418024",
+      "id_produto": "20726",
+      "nome": "MÓDULO DE INJEÇÃO FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103442004",
+      "id_produto": "20583",
+      "nome": "CÂMBIO MANUAL CHEVROLET CORSA SEDAN 1.8 MPFI 8V 102CV 4P 03",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501111631026",
       "id_produto": "20890",
@@ -576,11 +632,11 @@
     "SP12501103418024": {
       "sku": "SP12501103418024",
       "id_produto": "20726",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -660,11 +716,11 @@
     "SP12501103396025": {
       "sku": "SP12501103396025",
       "id_produto": "20725",
-      "nome": "MÓDULO DO CÂMBIO",
+      "nome": "MÓDULO DO CÂMBIO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1048,7 +1104,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SEDAN 1.8 MPFI 8V 102CV 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1068,11 +1124,11 @@
     "SP12501103396024": {
       "sku": "SP12501103396024",
       "id_produto": "20724",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CITROEN C3 EXCLUSIVE 1.6 16V AUT 2010/2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.6 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1176,7 +1232,7 @@
     "SP12501103418400": {
       "sku": "SP12501103418400",
       "id_produto": "20728",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FIAT PALIO 1.0 FIRE FLEX 2P 2003/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 2P",
       "status": "Desabilitado",
