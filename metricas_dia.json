@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 13:37:44",
+  "ultima_atualizacao": "02/09/2026 13:43:00",
   "total_base_dia": 87,
-  "total_atual": 440,
+  "total_atual": 437,
   "novos_produtos": 413,
-  "total_subidos": 60,
+  "total_subidos": 63,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1059,6 +1059,7 @@
     "SP12501111631032",
     "SP12501111631034",
     "SP12501111631035",
+    "SP12501116684027",
     "SP12501116730004",
     "SP12501116749400",
     "SP12501116765012",
@@ -1071,6 +1072,8 @@
     "SP12501117680012",
     "SP12501117737004",
     "SP12501117745400",
+    "SP12501117761029",
+    "SP12501117761045",
     "SP32501000176124",
     "SP32501002594067"
   ],
@@ -1121,6 +1124,7 @@
     "SP12501111631032",
     "SP12501111631034",
     "SP12501111631035",
+    "SP12501116684027",
     "SP12501116730004",
     "SP12501116749400",
     "SP12501116765012",
@@ -1133,6 +1137,8 @@
     "SP12501117680012",
     "SP12501117737004",
     "SP12501117745400",
+    "SP12501117761029",
+    "SP12501117761045",
     "SP32501000176124",
     "SP32501002594067"
   ],
@@ -5308,7 +5314,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -5500,7 +5506,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT 2.4 16V ECOTEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -5512,7 +5518,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT 2.4 16V ECOTEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -6648,6 +6654,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501116684027",
+      "id_produto": "18508",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET CELTA SPIRIT 1.0 2008/2009",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501116730004",
       "id_produto": "18882",
       "nome": "CÂMBIO MANUAL FORD FIESTA PERSONNALITÉ 1.0 8V 2006/2006",
@@ -6789,6 +6807,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501117761029",
+      "id_produto": "18438",
+      "nome": "PARA-CHOQUE TRASEIRO CHEVROLET CAPTIVA SPORT 2.4 11/12",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CAPTIVA SPORT 2.4 16V ECOTEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501117761045",
+      "id_produto": "18336",
+      "nome": "TAMPA TRASEIRA CHEVROLET CAPTIVA SPORT 2.4 16V ECOTEC 11/12",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CAPTIVA SPORT 2.4 16V ECOTEC",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "8"
     },
     {
@@ -8384,7 +8426,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT 2.4 16V ECOTEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -11780,7 +11822,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -12584,7 +12626,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT 2.4 16V ECOTEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
