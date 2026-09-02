@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 15:21:21",
+  "ultima_atualizacao": "02/09/2026 15:27:35",
   "total_base_dia": 87,
-  "total_atual": 426,
+  "total_atual": 425,
   "novos_produtos": 417,
-  "total_subidos": 78,
+  "total_subidos": 79,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1096,6 +1096,7 @@
     "SP12501117761029",
     "SP12501117761045",
     "SP12501121858004",
+    "SP12501121882542",
     "SP12501123320004",
     "SP32501000176124",
     "SP32501002594067"
@@ -1176,6 +1177,7 @@
     "SP12501117761029",
     "SP12501117761045",
     "SP12501121858004",
+    "SP12501121882542",
     "SP12501123320004",
     "SP32501000176124",
     "SP32501002594067"
@@ -5736,10 +5738,10 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CAPTUR INTENSE 1.6 16V FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "5"
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501121890004",
@@ -7086,6 +7088,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "4"
+    },
+    {
+      "sku": "SP12501121882542",
+      "id_produto": "14928",
+      "nome": "MOTOR LIMPADOR DE PARA-BRISA RENAULT CAPTUR INTENSE 2017/18",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CAPTUR INTENSE 1.6 16V FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501123320004",
@@ -12628,10 +12642,10 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CAPTUR INTENSE 1.6 16V FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "5"
+      "qtd_images": "7"
     },
     "SP12501087374400": {
       "sku": "SP12501087374400",
