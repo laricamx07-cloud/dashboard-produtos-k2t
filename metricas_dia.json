@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 12:17:12",
+  "ultima_atualizacao": "02/09/2026 12:20:59",
   "total_base_dia": 87,
   "total_atual": 461,
-  "novos_produtos": 402,
-  "total_subidos": 28,
+  "novos_produtos": 403,
+  "total_subidos": 29,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -499,6 +499,7 @@
     "SP12501109661004",
     "SP12501109670012",
     "SP12501111518030",
+    "SP12501111542032",
     "SP12501111542035",
     "SP12501111542045",
     "SP12501111631026",
@@ -913,6 +914,7 @@
     "SP12501109661004",
     "SP12501109670012",
     "SP12501111518030",
+    "SP12501111542032",
     "SP12501111542035",
     "SP12501111542045",
     "SP12501114266004",
@@ -995,6 +997,7 @@
     "SP12501015535049",
     "SP12501015896001",
     "SP12501016213400",
+    "SP12501016701007",
     "SP12501016787016",
     "SP12501053836026",
     "SP12501055219036",
@@ -1025,6 +1028,7 @@
     "SP12501015535049",
     "SP12501015896001",
     "SP12501016213400",
+    "SP12501016701007",
     "SP12501016787016",
     "SP12501053836026",
     "SP12501055219036",
@@ -1862,7 +1866,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Sport T270 1.3 Turbo 4x2 Flex Automático",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -1894,11 +1898,11 @@
     {
       "sku": "SP12501016701007",
       "id_produto": "530",
-      "nome": "Capô Jeep Renegade Longitude Branco 2015",
+      "nome": "CAPÔ JEEP RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT BCO 2015",
       "marca": "JEEP",
       "modelo_do_veiculo": "Renegade Longitude 1.8 4X2 Flex 16V Automático",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -4166,7 +4170,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN DYNAMIQUE HI-FLEX 1.6 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -4962,6 +4966,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111542032",
+      "id_produto": "20902",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501111542035",
@@ -5920,10 +5936,22 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Sport T270 1.3 Turbo 4x2 Flex Automático",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501016701007",
+      "id_produto": "530",
+      "nome": "CAPÔ JEEP RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT BCO 2015",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "Renegade Longitude 1.8 4X2 Flex 16V Automático",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501016787016",
@@ -6004,7 +6032,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN DYNAMIQUE HI-FLEX 1.6 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -7338,7 +7366,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Sport T270 1.3 Turbo 4x2 Flex Automático",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -7526,11 +7554,11 @@
     "SP12501016701007": {
       "sku": "SP12501016701007",
       "id_produto": "530",
-      "nome": "Capô Jeep Renegade Longitude Branco 2015",
+      "nome": "CAPÔ JEEP RENEGADE LONGITUDE 1.8 4X2 FLEX 16V AUT BCO 2015",
       "marca": "JEEP",
       "modelo_do_veiculo": "Renegade Longitude 1.8 4X2 Flex 16V Automático",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -10098,7 +10126,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN DYNAMIQUE HI-FLEX 1.6 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -12082,6 +12110,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
+    },
+    "SP12501111542032": {
+      "sku": "SP12501111542032",
+      "id_produto": "20902",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "10"
     }
   }
 }
