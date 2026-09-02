@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 09:12:35",
+  "ultima_atualizacao": "02/09/2026 09:17:22",
   "total_base_dia": 87,
-  "total_atual": 79,
+  "total_atual": 77,
   "novos_produtos": 0,
-  "total_subidos": 8,
+  "total_subidos": 10,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -186,6 +186,8 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501053836026",
+    "SP12501055219036",
     "SP12501103396024",
     "SP12501103396025",
     "SP12501103418024",
@@ -196,6 +198,8 @@
     "SP12501111631035"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501053836026",
+    "SP12501055219036",
     "SP12501103396024",
     "SP12501103396025",
     "SP12501103418024",
@@ -207,6 +211,30 @@
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501053836026",
+      "id_produto": "20878",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN SPACEFOX 1.6 TOTAL FLEX 8V 2008",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501055219036",
+      "id_produto": "20745",
+      "nome": "RADIADOR BMW X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO 2013",
+      "marca": "BMW",
+      "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
     {
       "sku": "SP12501103396024",
       "id_produto": "20724",
@@ -704,11 +732,11 @@
     "SP12501053836026": {
       "sku": "SP12501053836026",
       "id_produto": "20878",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN SPACEFOX 1.6 TOTAL FLEX 8V 2008",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -884,11 +912,11 @@
     "SP12501055219036": {
       "sku": "SP12501055219036",
       "id_produto": "20745",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR BMW X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO 2013",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
