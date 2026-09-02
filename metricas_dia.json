@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 15:57:25",
+  "ultima_atualizacao": "02/09/2026 16:12:35",
   "total_base_dia": 87,
-  "total_atual": 408,
+  "total_atual": 397,
   "novos_produtos": 418,
-  "total_subidos": 97,
+  "total_subidos": 108,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1049,6 +1049,7 @@
     "SP12501017082026",
     "SP12501017104027",
     "SP12501017465024",
+    "SP12501040793001",
     "SP12501053836026",
     "SP12501054328026",
     "SP12501055219036",
@@ -1057,7 +1058,10 @@
     "SP12501057149004",
     "SP12501057858004",
     "SP12501080302048",
+    "SP12501080752011",
+    "SP12501084855026",
     "SP12501088133030",
+    "SP12501089130004",
     "SP12501089156011",
     "SP12501089210004",
     "SP12501089237400",
@@ -1078,19 +1082,25 @@
     "SP12501103477437",
     "SP12501103477483",
     "SP12501103477484",
+    "SP12501104503004",
     "SP12501104520033",
+    "SP12501105542024",
     "SP12501105658010",
+    "SP12501105844026",
+    "SP12501108010004",
     "SP12501109386004",
     "SP12501109394400",
     "SP12501109483515",
     "SP12501109556004",
     "SP12501109661004",
     "SP12501111518030",
+    "SP12501111550029",
     "SP12501111550045",
     "SP12501111631026",
     "SP12501111631032",
     "SP12501111631034",
     "SP12501111631035",
+    "SP12501111631400",
     "SP12501115181049",
     "SP12501116684027",
     "SP12501116730004",
@@ -1116,6 +1126,7 @@
     "SP12501123320004",
     "SP12501123397025",
     "SP12501123478011",
+    "SP12501123486400",
     "SP12501123613012",
     "SP12501123664550",
     "SP32501000176124",
@@ -1148,6 +1159,7 @@
     "SP12501017082026",
     "SP12501017104027",
     "SP12501017465024",
+    "SP12501040793001",
     "SP12501053836026",
     "SP12501054328026",
     "SP12501055219036",
@@ -1156,7 +1168,10 @@
     "SP12501057149004",
     "SP12501057858004",
     "SP12501080302048",
+    "SP12501080752011",
+    "SP12501084855026",
     "SP12501088133030",
+    "SP12501089130004",
     "SP12501089156011",
     "SP12501089210004",
     "SP12501089237400",
@@ -1177,19 +1192,25 @@
     "SP12501103477437",
     "SP12501103477483",
     "SP12501103477484",
+    "SP12501104503004",
     "SP12501104520033",
+    "SP12501105542024",
     "SP12501105658010",
+    "SP12501105844026",
+    "SP12501108010004",
     "SP12501109386004",
     "SP12501109394400",
     "SP12501109483515",
     "SP12501109556004",
     "SP12501109661004",
     "SP12501111518030",
+    "SP12501111550029",
     "SP12501111550045",
     "SP12501111631026",
     "SP12501111631032",
     "SP12501111631034",
     "SP12501111631035",
+    "SP12501111631400",
     "SP12501115181049",
     "SP12501116684027",
     "SP12501116730004",
@@ -1215,6 +1236,7 @@
     "SP12501123320004",
     "SP12501123397025",
     "SP12501123478011",
+    "SP12501123486400",
     "SP12501123613012",
     "SP12501123664550",
     "SP32501000176124",
@@ -1985,7 +2007,7 @@
       "modelo_do_veiculo": "LINEA ESSENCE 1.8 FLEX 16V 4P",
       "status": "Habilitado",
       "status_ml": "active",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
     },
@@ -2055,7 +2077,7 @@
       "nome": "ALTERNADOR FIAT BRAVO ABSOLUTE DUALOGIC 1.8 FLEX 16V 2011",
       "marca": "FIAT",
       "modelo_do_veiculo": "BRAVO ABSOLUTE DUALOGIC 1.8 FLEX 16V 5P",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": "paused",
       "quantidade": "0",
       "classificacao": "7",
@@ -2188,7 +2210,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "CRONOS 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "9"
@@ -3316,7 +3338,7 @@
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "RANGE ROVER SPORT HSE 3.0 4X4 SDV6 DIES.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "11"
@@ -3415,7 +3437,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "8",
-      "qtd_images": "6"
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501080671400",
@@ -3448,7 +3470,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -3940,8 +3962,8 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA ENDURANCE 1.4 FLEX 8V CS PLUS",
       "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "8",
       "qtd_images": "10"
     },
@@ -4264,7 +4286,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE FIRE ECONOMY 1.0 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -4468,7 +4490,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -4636,7 +4658,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO CELEBRATION 1.0 FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -4708,7 +4730,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE 1.6 16V SCE MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -4888,7 +4910,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -4900,7 +4922,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -5292,11 +5314,11 @@
     {
       "sku": "SP12501111550029",
       "id_produto": "20911",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -5320,7 +5342,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -5328,10 +5350,10 @@
     {
       "sku": "SP12501111631004",
       "id_produto": "20907",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CELTA SPIRIT/ LT 1.0 MPFI 2005/2006",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
@@ -5340,11 +5362,11 @@
     {
       "sku": "SP12501111631400",
       "id_produto": "20908",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA SPIRIT/ LT 1.0 MPF 2005/06",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -5428,7 +5450,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO VIVACE 1.0 EVO FIRE FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -6100,7 +6122,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -6148,7 +6170,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "4"
@@ -6439,7 +6461,7 @@
       "modelo_do_veiculo": "LINEA ESSENCE 1.8 FLEX 16V 4P",
       "status": "Habilitado",
       "status_ml": "active",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
     },
@@ -6473,7 +6495,7 @@
       "nome": "ALTERNADOR FIAT BRAVO ABSOLUTE DUALOGIC 1.8 FLEX 16V 2011",
       "marca": "FIAT",
       "modelo_do_veiculo": "BRAVO ABSOLUTE DUALOGIC 1.8 FLEX 16V 5P",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": "paused",
       "quantidade": "0",
       "classificacao": "7",
@@ -6550,6 +6572,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "3"
+    },
+    {
+      "sku": "SP12501040793001",
+      "id_produto": "6618",
+      "nome": "ALTERNADOR FIAT CRONOS 1.0 6V FLEX 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "CRONOS 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501053836026",
@@ -6642,10 +6676,34 @@
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "RANGE ROVER SPORT HSE 3.0 4X4 SDV6 DIES.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "11"
+    },
+    {
+      "sku": "SP12501080752011",
+      "id_produto": "6266",
+      "nome": "COMPRESSOR AR-CONDICIONADO NISSAN KICKS S DIRECT 1.6 2019",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501084855026",
+      "id_produto": "6314",
+      "nome": "ALTERNADOR FIAT STRADA ENDURANCE 1.4 FLEX 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA ENDURANCE 1.4 FLEX 8V CS PLUS",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "0",
+      "classificacao": "8",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501088133030",
@@ -6658,6 +6716,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501089130004",
+      "id_produto": "16250",
+      "nome": "CÂMBIO MANUAL FIAT UNO MILLE FIRE ECONOMY 1.0 2008/2009",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE FIRE ECONOMY 1.0 2P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501089156011",
@@ -6702,7 +6772,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -6900,6 +6970,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501104503004",
+      "id_produto": "16251",
+      "nome": "CÂMBIO MANUAL FIAT PALIO CELEBRATION 1.0 FIRE 8V 2008/2009",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO CELEBRATION 1.0 FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501104520033",
       "id_produto": "18221",
       "nome": "PORTA DIANTEIRA ESQUERDA CHERY TIGGO 7 T 1.5 16V TURBO 19/20",
@@ -6907,6 +6989,18 @@
       "modelo_do_veiculo": "TIGGO 7 T 1.5 16V TURBO FLEX AUT.",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501105542024",
+      "id_produto": "16131",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT DUSTER INTENSE 1.6 2022/2023",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER INTENSE 1.6 16V SCE MEC",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -6922,6 +7016,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "3"
+    },
+    {
+      "sku": "SP12501105844026",
+      "id_produto": "16144",
+      "nome": "MOTOR DE PARTIDA FORD FIESTA 1.0 8V FLEX/CLASS 2010/2010",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501108010004",
+      "id_produto": "16252",
+      "nome": "CÂMBIO AUTOMATICO CHEVROLET ONIX PREM. 1.0 12V TB 2023/2024",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501109386004",
@@ -6996,13 +7114,25 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501111550029",
+      "id_produto": "20911",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501111550045",
       "id_produto": "20913",
       "nome": "TAMPA TRASEIRA FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -7056,13 +7186,25 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501111631400",
+      "id_produto": "20908",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA SPIRIT/ LT 1.0 MPF 2005/06",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501115181049",
       "id_produto": "16104",
       "nome": "VOLANTE DO MOTORISTA FIAT UNO VIVACE 1.0 EVO FIRE FLEX 10/11",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO VIVACE 1.0 EVO FIRE FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -7356,13 +7498,25 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501123486400",
+      "id_produto": "16249",
+      "nome": "MOTOR COMPLETO TOYOTA HILUX CD SRV 4X4 3.0 TDI DIESEL 2009",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501123613012",
       "id_produto": "16044",
       "nome": "CONDENSADOR DO AR-CONDICIONADO HONDA FIT LX 1.4 MEC 2003/04",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "4"
@@ -8924,7 +9078,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -9380,7 +9534,7 @@
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "RANGE ROVER SPORT HSE 3.0 4X4 SDV6 DIES.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "11"
@@ -9548,7 +9702,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -9740,7 +9894,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE FIRE ECONOMY 1.0 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -10004,7 +10158,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -10328,7 +10482,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "CRONOS 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "9"
@@ -10363,7 +10517,7 @@
       "nome": "ALTERNADOR FIAT BRAVO ABSOLUTE DUALOGIC 1.8 FLEX 16V 2011",
       "marca": "FIAT",
       "modelo_do_veiculo": "BRAVO ABSOLUTE DUALOGIC 1.8 FLEX 16V 5P",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": "paused",
       "quantidade": "0",
       "classificacao": "7",
@@ -10628,7 +10782,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE 1.6 16V SCE MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -10712,7 +10866,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "4"
@@ -10967,7 +11121,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "8",
-      "qtd_images": "6"
+      "qtd_images": "7"
     },
     "SP12501093200400": {
       "sku": "SP12501093200400",
@@ -11096,8 +11250,8 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA ENDURANCE 1.4 FLEX 8V CS PLUS",
       "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "8",
       "qtd_images": "10"
     },
@@ -11204,7 +11358,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO VIVACE 1.0 EVO FIRE FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -11348,7 +11502,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -12260,7 +12414,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO CELEBRATION 1.0 FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -12429,7 +12583,7 @@
       "modelo_do_veiculo": "LINEA ESSENCE 1.8 FLEX 16V 4P",
       "status": "Habilitado",
       "status_ml": "active",
-      "quantidade": "0",
+      "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
     },
@@ -12776,7 +12930,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -13312,11 +13466,11 @@
     "SP12501111631400": {
       "sku": "SP12501111631400",
       "id_produto": "20908",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA SPIRIT/ LT 1.0 MPF 2005/06",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -13384,10 +13538,10 @@
     "SP12501111631004": {
       "sku": "SP12501111631004",
       "id_produto": "20907",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CELTA SPIRIT/ LT 1.0 MPFI 2005/2006",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
@@ -13420,11 +13574,11 @@
     "SP12501111550029": {
       "sku": "SP12501111550029",
       "id_produto": "20911",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -13436,7 +13590,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
