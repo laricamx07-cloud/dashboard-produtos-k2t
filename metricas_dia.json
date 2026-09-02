@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 14:27:41",
+  "ultima_atualizacao": "02/09/2026 14:42:53",
   "total_base_dia": 87,
   "total_atual": 428,
-  "novos_produtos": 413,
-  "total_subidos": 72,
+  "novos_produtos": 414,
+  "total_subidos": 73,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -181,6 +181,7 @@
     "SP12501015748004",
     "SP12501015764029",
     "SP12501015799031",
+    "SP12501015810004",
     "SP12501015837001",
     "SP12501015896001",
     "SP12501016000032",
@@ -660,6 +661,7 @@
     "SP12501015748004",
     "SP12501015764029",
     "SP12501015799031",
+    "SP12501015810004",
     "SP12501015837001",
     "SP12501015896001",
     "SP12501016124001",
@@ -1026,6 +1028,7 @@
     "SP12501014989036",
     "SP12501015160002",
     "SP12501015535049",
+    "SP12501015748004",
     "SP12501015799031",
     "SP12501015896001",
     "SP12501016213400",
@@ -1100,6 +1103,7 @@
     "SP12501014989036",
     "SP12501015160002",
     "SP12501015535049",
+    "SP12501015748004",
     "SP12501015799031",
     "SP12501015896001",
     "SP12501016213400",
@@ -1693,7 +1697,7 @@
       "sku": "SP12501014121004",
       "id_produto": "3210",
       "nome": "CÂMBIO AUTOMÁTICO CITROËN C3 PICASSO GLX 1.6 FLEX 16V 2014",
-      "marca": "&nbsp;CITROËN",
+      "marca": "CITROËN",
       "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P AUT",
       "status": "Habilitado",
       "status_ml": null,
@@ -1732,7 +1736,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 GRIFFE 1.6 FLEX 16V 5 PORTAS AUTOMÁTICO&lt;/p&gt;&lt;p&gt;",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -1876,7 +1880,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -1904,6 +1908,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501015810004",
+      "id_produto": "2193",
+      "nome": "CÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 2012/2013",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501015837001",
@@ -6222,7 +6238,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 GRIFFE 1.6 FLEX 16V 5 PORTAS AUTOMÁTICO&lt;/p&gt;&lt;p&gt;",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -6274,6 +6290,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015748004",
+      "id_produto": "1942",
+      "nome": "CÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 2012",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501015799031",
@@ -8060,7 +8088,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 GRIFFE 1.6 FLEX 16V 5 PORTAS AUTOMÁTICO&lt;/p&gt;&lt;p&gt;",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -8072,7 +8100,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -8201,7 +8229,7 @@
       "sku": "SP12501014121004",
       "id_produto": "3210",
       "nome": "CÂMBIO AUTOMÁTICO CITROËN C3 PICASSO GLX 1.6 FLEX 16V 2014",
-      "marca": "&nbsp;CITROËN",
+      "marca": "CITROËN",
       "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P AUT",
       "status": "Habilitado",
       "status_ml": null,
@@ -12984,6 +13012,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    "SP12501015810004": {
+      "sku": "SP12501015810004",
+      "id_produto": "2193",
+      "nome": "CÂMBIO AUTOMÁTICO JEEP GRAND CHEROKEE LIMITED 2012/2013",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
     }
   }
 }
