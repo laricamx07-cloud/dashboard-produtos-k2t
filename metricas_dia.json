@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 13:47:28",
+  "ultima_atualizacao": "02/09/2026 14:02:47",
   "total_base_dia": 87,
-  "total_atual": 437,
+  "total_atual": 432,
   "novos_produtos": 413,
-  "total_subidos": 63,
+  "total_subidos": 68,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1020,7 +1020,9 @@
     "SP12501009705400",
     "SP12501010452400",
     "SP12501014091400",
+    "SP12501014768020",
     "SP12501014873015",
+    "SP12501014989036",
     "SP12501015160002",
     "SP12501015535049",
     "SP12501015896001",
@@ -1035,6 +1037,7 @@
     "SP12501056274026",
     "SP12501057858004",
     "SP12501088133030",
+    "SP12501089156011",
     "SP12501089210004",
     "SP12501089237400",
     "SP12501102250004",
@@ -1053,6 +1056,7 @@
     "SP12501103477437",
     "SP12501103477483",
     "SP12501103477484",
+    "SP12501104520033",
     "SP12501109661004",
     "SP12501111518030",
     "SP12501111631026",
@@ -1070,6 +1074,7 @@
     "SP12501117389030",
     "SP12501117397004",
     "SP12501117680012",
+    "SP12501117729028",
     "SP12501117737004",
     "SP12501117745400",
     "SP12501117761029",
@@ -1085,7 +1090,9 @@
     "SP12501009705400",
     "SP12501010452400",
     "SP12501014091400",
+    "SP12501014768020",
     "SP12501014873015",
+    "SP12501014989036",
     "SP12501015160002",
     "SP12501015535049",
     "SP12501015896001",
@@ -1100,6 +1107,7 @@
     "SP12501056274026",
     "SP12501057858004",
     "SP12501088133030",
+    "SP12501089156011",
     "SP12501089210004",
     "SP12501089237400",
     "SP12501102250004",
@@ -1118,6 +1126,7 @@
     "SP12501103477437",
     "SP12501103477483",
     "SP12501103477484",
+    "SP12501104520033",
     "SP12501109661004",
     "SP12501111518030",
     "SP12501111631026",
@@ -1135,6 +1144,7 @@
     "SP12501117389030",
     "SP12501117397004",
     "SP12501117680012",
+    "SP12501117729028",
     "SP12501117737004",
     "SP12501117745400",
     "SP12501117761029",
@@ -1690,7 +1700,7 @@
       "marca": "Fiat",
       "modelo_do_veiculo": "Fiorino Furgão Fire 1.3 Flex",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -1750,7 +1760,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Trailhawk 2.0 4X4 Turbo Diesel Automático",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "4"
@@ -4186,7 +4196,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CRUZE SPORT LTZ 1.4 16V TB FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -4570,7 +4580,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "TIGGO 7 T 1.5 16V TURBO FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -5470,7 +5480,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PULSE DRIVE 1.3 8V FLEX MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -6186,6 +6196,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501014768020",
+      "id_produto": "878",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FIAT FIORINO FURGÃO FIRE 1.3 2013",
+      "marca": "Fiat",
+      "modelo_do_veiculo": "Fiorino Furgão Fire 1.3 Flex",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501014873015",
       "id_produto": "757",
       "nome": "FAROL DIANTEIRO DIREITO FIAT DUCATO CARGO CURTO 2.3 16V 2018",
@@ -6196,6 +6218,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501014989036",
+      "id_produto": "943",
+      "nome": "RADIADOR JEEP RENEGADE TRAILHAWK 2.0 4X4 TURBO AUT 2019",
+      "marca": "Jeep",
+      "modelo_do_veiculo": "Renegade Trailhawk 2.0 4X4 Turbo Diesel Automático",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "4"
     },
     {
       "sku": "SP12501015160002",
@@ -6363,6 +6397,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501089156011",
+      "id_produto": "18240",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET CRUZE SPORT 1.4 2019",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CRUZE SPORT LTZ 1.4 16V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "8"
     },
     {
@@ -6582,6 +6628,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501104520033",
+      "id_produto": "18221",
+      "nome": "PORTA DIANTEIRA ESQUERDA CHERY TIGGO 7 T 1.5 16V TURBO 19/20",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "TIGGO 7 T 1.5 16V TURBO FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501109661004",
       "id_produto": "18701",
       "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC LIFE 1.0 VHC FLEXPOWER 2006",
@@ -6784,6 +6842,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501117729028",
+      "id_produto": "18326",
+      "nome": "PARA-CHOQUE DIANTEIRO FIAT PULSE DRIVE 1.3 8V MEC. 23/24",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PULSE DRIVE 1.3 8V FLEX MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501117737004",
@@ -8198,7 +8268,7 @@
       "marca": "Fiat",
       "modelo_do_veiculo": "Fiorino Furgão Fire 1.3 Flex",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -8318,7 +8388,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Trailhawk 2.0 4X4 Turbo Diesel Automático",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "4"
@@ -9902,7 +9972,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CRUZE SPORT LTZ 1.4 16V TB FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -10598,7 +10668,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "TIGGO 7 T 1.5 16V TURBO FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -11258,7 +11328,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PULSE DRIVE 1.3 8V FLEX MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
