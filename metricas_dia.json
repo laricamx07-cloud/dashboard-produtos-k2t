@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 12:42:29",
+  "ultima_atualizacao": "02/09/2026 12:47:13",
   "total_base_dia": 87,
-  "total_atual": 464,
+  "total_atual": 461,
   "novos_produtos": 413,
-  "total_subidos": 36,
+  "total_subidos": 39,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1013,8 +1013,10 @@
     "SP32501002594067"
   ],
   "skus_subidos_hoje": [
+    "SP12401016450018",
     "SP12501005211400",
     "SP12501009705400",
+    "SP12501010452400",
     "SP12501015160002",
     "SP12501015535049",
     "SP12501015896001",
@@ -1026,6 +1028,7 @@
     "SP12501055219039",
     "SP12501056274026",
     "SP12501088133030",
+    "SP12501089210004",
     "SP12501089237400",
     "SP12501102250400",
     "SP12501103175004",
@@ -1051,8 +1054,10 @@
     "SP32501002594067"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12401016450018",
     "SP12501005211400",
     "SP12501009705400",
+    "SP12501010452400",
     "SP12501015160002",
     "SP12501015535049",
     "SP12501015896001",
@@ -1064,6 +1069,7 @@
     "SP12501055219039",
     "SP12501056274026",
     "SP12501088133030",
+    "SP12501089210004",
     "SP12501089237400",
     "SP12501102250400",
     "SP12501103175004",
@@ -1092,11 +1098,11 @@
     {
       "sku": "SP12401016450018",
       "id_produto": "968",
-      "nome": "Radiador Intercooler Jeep Grand Cherokee Limit 3.0 2014/15",
+      "nome": "RADIADOR INTERCOOLER JEEP GRAND CHEROKEE LIMITED 3.0 2015",
       "marca": "Jeep",
       "modelo_do_veiculo": "Grand Cherokee Limited 3.0 Turbo Diesel Automático",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "3"
@@ -1512,11 +1518,11 @@
     {
       "sku": "SP12501010452400",
       "id_produto": "3071",
-      "nome": "MOTOR COMPLETO VOLKSWAGEN POLO TRACK 1.0 12V FLEX 2023/24",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN POLO TRACK 1.0 FLEX 12V  2023/24",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO TRACK 1.0 FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "11"
@@ -1632,7 +1638,7 @@
     {
       "sku": "SP12501014768020",
       "id_produto": "878",
-      "nome": "Lanterna Traseira Esquerda Fiat Fiorino Furgão Fire 2013",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FIAT FIORINO FURGÃO FIRE 1.3 2013",
       "marca": "Fiat",
       "modelo_do_veiculo": "Fiorino Furgão Fire 1.3 Flex",
       "status": "Habilitado",
@@ -1692,7 +1698,7 @@
     {
       "sku": "SP12501014989036",
       "id_produto": "943",
-      "nome": "Radiador Jeep Renegade Trailhawk 2.0 Turbo Diesel 2018/2019",
+      "nome": "RADIADOR JEEP RENEGADE TRAILHAWK 2.0 4X4 TURBO AUT 2019",
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Trailhawk 2.0 4X4 Turbo Diesel Automático",
       "status": "Habilitado",
@@ -4240,7 +4246,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SEDAN 1.6 16V FLEX MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -5272,7 +5278,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -6048,6 +6054,18 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12401016450018",
+      "id_produto": "968",
+      "nome": "RADIADOR INTERCOOLER JEEP GRAND CHEROKEE LIMITED 3.0 2015",
+      "marca": "Jeep",
+      "modelo_do_veiculo": "Grand Cherokee Limited 3.0 Turbo Diesel Automático",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "3"
+    },
+    {
       "sku": "SP12501005211400",
       "id_produto": "3060",
       "nome": "MOTOR COMPLETO TOYOTA YARIS XL LIVE 1.3 FLEX 16V 5P 2020/21",
@@ -6070,6 +6088,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501010452400",
+      "id_produto": "3071",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN POLO TRACK 1.0 FLEX 12V  2023/24",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "POLO TRACK 1.0 FLEX 12V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "11"
     },
     {
       "sku": "SP12501015160002",
@@ -6202,6 +6232,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501089210004",
+      "id_produto": "18880",
+      "nome": "CÂMBIO MANUAL FORD FIESTA SEDAN 1.6 16V 2014/2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA SEDAN 1.6 16V FLEX MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501089237400",
@@ -6438,7 +6480,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -7732,11 +7774,11 @@
     "SP12401016450018": {
       "sku": "SP12401016450018",
       "id_produto": "968",
-      "nome": "Radiador Intercooler Jeep Grand Cherokee Limit 3.0 2014/15",
+      "nome": "RADIADOR INTERCOOLER JEEP GRAND CHEROKEE LIMITED 3.0 2015",
       "marca": "Jeep",
       "modelo_do_veiculo": "Grand Cherokee Limited 3.0 Turbo Diesel Automático",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "3"
@@ -7768,11 +7810,11 @@
     "SP12501010452400": {
       "sku": "SP12501010452400",
       "id_produto": "3071",
-      "nome": "MOTOR COMPLETO VOLKSWAGEN POLO TRACK 1.0 12V FLEX 2023/24",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN POLO TRACK 1.0 FLEX 12V  2023/24",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO TRACK 1.0 FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "11"
@@ -7816,7 +7858,7 @@
     "SP12501014768020": {
       "sku": "SP12501014768020",
       "id_produto": "878",
-      "nome": "Lanterna Traseira Esquerda Fiat Fiorino Furgão Fire 2013",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FIAT FIORINO FURGÃO FIRE 1.3 2013",
       "marca": "Fiat",
       "modelo_do_veiculo": "Fiorino Furgão Fire 1.3 Flex",
       "status": "Habilitado",
@@ -7936,7 +7978,7 @@
     "SP12501014989036": {
       "sku": "SP12501014989036",
       "id_produto": "943",
-      "nome": "Radiador Jeep Renegade Trailhawk 2.0 Turbo Diesel 2018/2019",
+      "nome": "RADIADOR JEEP RENEGADE TRAILHAWK 2.0 4X4 TURBO AUT 2019",
       "marca": "Jeep",
       "modelo_do_veiculo": "Renegade Trailhawk 2.0 4X4 Turbo Diesel Automático",
       "status": "Habilitado",
@@ -10520,7 +10562,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SEDAN 1.6 16V FLEX MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -11576,7 +11618,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
