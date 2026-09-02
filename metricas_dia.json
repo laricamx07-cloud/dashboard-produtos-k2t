@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 17:12:46",
+  "ultima_atualizacao": "02/09/2026 17:17:41",
   "total_base_dia": 87,
   "total_atual": 364,
-  "novos_produtos": 418,
-  "total_subidos": 141,
+  "novos_produtos": 420,
+  "total_subidos": 143,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -507,11 +507,13 @@
     "SP12501109670012",
     "SP12501111518030",
     "SP12501111542007",
+    "SP12501111542027",
     "SP12501111542032",
     "SP12501111542033",
     "SP12501111542034",
     "SP12501111542035",
     "SP12501111542045",
+    "SP12501111550010",
     "SP12501111550029",
     "SP12501111550034",
     "SP12501111550045",
@@ -937,11 +939,13 @@
     "SP12501109670012",
     "SP12501111518030",
     "SP12501111542007",
+    "SP12501111542027",
     "SP12501111542032",
     "SP12501111542033",
     "SP12501111542034",
     "SP12501111542035",
     "SP12501111542045",
+    "SP12501111550010",
     "SP12501111550029",
     "SP12501111550034",
     "SP12501111550045",
@@ -1077,6 +1081,7 @@
     "SP12501080671400",
     "SP12501080752011",
     "SP12501084260400",
+    "SP12501084529400",
     "SP12501084642400",
     "SP12501084855026",
     "SP12501087358004",
@@ -1133,6 +1138,7 @@
     "SP12501111631034",
     "SP12501111631035",
     "SP12501111631400",
+    "SP12501115181004",
     "SP12501115181049",
     "SP12501116684027",
     "SP12501116730004",
@@ -1220,6 +1226,7 @@
     "SP12501080671400",
     "SP12501080752011",
     "SP12501084260400",
+    "SP12501084529400",
     "SP12501084642400",
     "SP12501084855026",
     "SP12501087358004",
@@ -1276,6 +1283,7 @@
     "SP12501111631034",
     "SP12501111631035",
     "SP12501111631400",
+    "SP12501115181004",
     "SP12501115181049",
     "SP12501116684027",
     "SP12501116730004",
@@ -2360,7 +2368,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "VERSA EXCLUSIVE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -3820,11 +3828,11 @@
     {
       "sku": "SP12501084529400",
       "id_produto": "7521",
-      "nome": "MOTOR COMPLETO VOLKSWAGEN JETTA COMFORTLINE 2.0 T.FLEX 11/12",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN JETTA COMFORTLINE 2.0 T.FLEX 2012",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "JETTA COMFORTLINE 2.0 T.FLEX 8V 4P TIPT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -4820,7 +4828,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -5318,6 +5326,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501111542027",
+      "id_produto": "20920",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501111542032",
       "id_produto": "20902",
       "nome": "PORTA DIANTEIRA DIREITA",
@@ -5376,6 +5396,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111550010",
+      "id_produto": "20925",
+      "nome": "CHAVE DE SETA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501111550029",
@@ -5504,7 +5536,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO VIVACE 1.0 EVO FIRE FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -6706,7 +6738,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "VERSA EXCLUSIVE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -6974,6 +7006,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501084529400",
+      "id_produto": "7521",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN JETTA COMFORTLINE 2.0 T.FLEX 2012",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "JETTA COMFORTLINE 2.0 T.FLEX 8V 4P TIPT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501084642400",
@@ -7414,7 +7458,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -7646,6 +7690,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501115181004",
+      "id_produto": "16446",
+      "nome": "CÂMBIO MANUAL FIAT UNO VIVACE 1.0 EVO FIRE FLEX 8V 5P 10/11",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO VIVACE 1.0 EVO FIRE FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501115181049",
@@ -10020,7 +10076,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO VIVACE 1.0 EVO FIRE FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -10788,7 +10844,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -11268,7 +11324,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "VERSA EXCLUSIVE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -12692,11 +12748,11 @@
     "SP12501084529400": {
       "sku": "SP12501084529400",
       "id_produto": "7521",
-      "nome": "MOTOR COMPLETO VOLKSWAGEN JETTA COMFORTLINE 2.0 T.FLEX 11/12",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN JETTA COMFORTLINE 2.0 T.FLEX 2012",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "JETTA COMFORTLINE 2.0 T.FLEX 8V 4P TIPT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -14080,6 +14136,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501111542027": {
+      "sku": "SP12501111542027",
+      "id_produto": "20920",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    "SP12501111550010": {
+      "sku": "SP12501111550010",
+      "id_produto": "20925",
+      "nome": "CHAVE DE SETA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     }
   }
 }
