@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 11:21:10",
+  "ultima_atualizacao": "02/09/2026 11:27:11",
   "total_base_dia": 87,
   "total_atual": 465,
   "novos_produtos": 399,
-  "total_subidos": 21,
+  "total_subidos": 22,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -986,6 +986,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501015535049",
+    "SP12501015896001",
     "SP12501016787016",
     "SP12501053836026",
     "SP12501055219036",
@@ -1009,6 +1010,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015535049",
+    "SP12501015896001",
     "SP12501016787016",
     "SP12501053836026",
     "SP12501055219036",
@@ -1794,7 +1796,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO VIVACE CELEB. 1.0 EVO F.FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -1902,7 +1904,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Commander Overl TD380 2.0 4x4 Diesel Automática",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -5834,13 +5836,25 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501015896001",
+      "id_produto": "2580",
+      "nome": "ALTERNADOR FIAT UNO VIVACE CELEB. 1.0 EVO F.FLEX 8V 2013/14",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO VIVACE CELEB. 1.0 EVO F.FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501016787016",
       "id_produto": "117",
       "nome": "FAROL ESQUERDO JEEP COMMANDER OVERL TD380 2021/2022",
       "marca": "Jeep",
       "modelo_do_veiculo": "Commander Overl TD380 2.0 4x4 Diesel Automática",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -7222,7 +7236,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO VIVACE CELEB. 1.0 EVO F.FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -7402,7 +7416,7 @@
       "marca": "Jeep",
       "modelo_do_veiculo": "Commander Overl TD380 2.0 4x4 Diesel Automática",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
