@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 08:17:24",
+  "ultima_atualizacao": "02/09/2026 08:27:23",
   "total_base_dia": 87,
-  "total_atual": 87,
+  "total_atual": 84,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 3,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -185,10 +185,55 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501111631032",
+    "SP12501111631034",
+    "SP12501111631035"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501111631032",
+    "SP12501111631034",
+    "SP12501111631035"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501111631032",
+      "id_produto": "20891",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA SPIRIT/ LT 1.0 2006",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111631034",
+      "id_produto": "20892",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET CELTA SPIRIT/ LT 1.0 2006",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111631035",
+      "id_produto": "20893",
+      "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CELTA SPIRIT/ LT 1.0 2006",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501055219039": {
       "sku": "SP12501055219039",
@@ -217,11 +262,11 @@
     "SP12501111631034": {
       "sku": "SP12501111631034",
       "id_produto": "20892",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET CELTA SPIRIT/ LT 1.0 2006",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -661,11 +706,11 @@
     "SP12501111631032": {
       "sku": "SP12501111631032",
       "id_produto": "20891",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA SPIRIT/ LT 1.0 2006",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -721,11 +766,11 @@
     "SP12501111631035": {
       "sku": "SP12501111631035",
       "id_produto": "20893",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CELTA SPIRIT/ LT 1.0 2006",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
