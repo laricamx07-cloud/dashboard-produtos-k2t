@@ -1,7 +1,7 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 09:51:30",
+  "ultima_atualizacao": "02/09/2026 09:57:34",
   "total_base_dia": 87,
   "total_atual": 73,
   "novos_produtos": 0,
@@ -620,7 +620,7 @@
     "SP12501103477484": {
       "sku": "SP12501103477484",
       "id_produto": "20853",
-      "nome": "PNEU TRASEIRO DIREITO",
+      "nome": "PNEU TRASEIRO DIREITO HONDA FIT LX 1.4 FLEX 8V ARO 15 2009",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P AUT.",
       "status": "Desabilitado",
