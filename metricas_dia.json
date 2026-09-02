@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 09:17:22",
+  "ultima_atualizacao": "02/09/2026 09:27:51",
   "total_base_dia": 87,
-  "total_atual": 77,
+  "total_atual": 76,
   "novos_produtos": 0,
-  "total_subidos": 10,
+  "total_subidos": 11,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -188,6 +188,7 @@
   "skus_subidos_hoje": [
     "SP12501053836026",
     "SP12501055219036",
+    "SP12501055219039",
     "SP12501103396024",
     "SP12501103396025",
     "SP12501103418024",
@@ -200,6 +201,7 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501053836026",
     "SP12501055219036",
+    "SP12501055219039",
     "SP12501103396024",
     "SP12501103396025",
     "SP12501103418024",
@@ -218,7 +220,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -234,6 +236,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501055219039",
+      "id_produto": "20748",
+      "nome": "RODA DIANTEIRA DIREITA BMW X5 ARO 19 4.4 V8 2013",
+      "marca": "BMW",
+      "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501103396024",
@@ -336,11 +350,11 @@
     "SP12501055219039": {
       "sku": "SP12501055219039",
       "id_produto": "20748",
-      "nome": "RODA DIANTEIRA DIREITA BMW X5 XDRIVE50I 4.4 V8 2013",
+      "nome": "RODA DIANTEIRA DIREITA BMW X5 ARO 19 4.4 V8 2013",
       "marca": "BMW",
       "modelo_do_veiculo": "X5 XDRIVE50I 4.4 V8 TWINPOWER TURBO",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -736,7 +750,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
