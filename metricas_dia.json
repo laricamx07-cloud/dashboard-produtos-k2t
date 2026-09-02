@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 17:42:36",
+  "ultima_atualizacao": "02/09/2026 17:47:09",
   "total_base_dia": 87,
-  "total_atual": 359,
+  "total_atual": 358,
   "novos_produtos": 433,
-  "total_subidos": 161,
+  "total_subidos": 162,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -1122,6 +1122,7 @@
     "SP12501084855026",
     "SP12501087358004",
     "SP12501087382005",
+    "SP12501087390045",
     "SP12501088044012",
     "SP12501088133030",
     "SP12501089130004",
@@ -1285,6 +1286,7 @@
     "SP12501084855026",
     "SP12501087358004",
     "SP12501087382005",
+    "SP12501087390045",
     "SP12501088044012",
     "SP12501088133030",
     "SP12501089130004",
@@ -4242,7 +4244,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT AWD 3.0 V6 24V 268CV",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -5466,7 +5468,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -5490,7 +5492,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -7406,6 +7408,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501087390045",
+      "id_produto": "17393",
+      "nome": "TAMPA TRASEIRA CHEVROLET CAPTIVA SPORT AWD 3.0 V6 24V 2013",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CAPTIVA SPORT AWD 3.0 V6 24V 268CV",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501088044012",
       "id_produto": "16359",
       "nome": "CONDENSADOR DO AR-COND FIAT UNO ATTRACTIVE 1.0 2020",
@@ -7964,7 +7978,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -7988,7 +8002,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -13894,7 +13908,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CAPTIVA SPORT AWD 3.0 V6 24V 268CV",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -14386,7 +14400,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -14434,7 +14448,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
