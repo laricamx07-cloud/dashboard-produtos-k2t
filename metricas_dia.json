@@ -1,11 +1,11 @@
 {
   "data": "2026-09-02",
   "primeira_atualizacao": "02/09/2026 08:12:34",
-  "ultima_atualizacao": "02/09/2026 17:17:41",
+  "ultima_atualizacao": "02/09/2026 17:21:01",
   "total_base_dia": 87,
-  "total_atual": 364,
-  "novos_produtos": 420,
-  "total_subidos": 143,
+  "total_atual": 363,
+  "novos_produtos": 423,
+  "total_subidos": 147,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -512,8 +512,11 @@
     "SP12501111542033",
     "SP12501111542034",
     "SP12501111542035",
+    "SP12501111542037",
     "SP12501111542045",
+    "SP12501111542480",
     "SP12501111550010",
+    "SP12501111550027",
     "SP12501111550029",
     "SP12501111550034",
     "SP12501111550045",
@@ -944,8 +947,11 @@
     "SP12501111542033",
     "SP12501111542034",
     "SP12501111542035",
+    "SP12501111542037",
     "SP12501111542045",
+    "SP12501111542480",
     "SP12501111550010",
+    "SP12501111550027",
     "SP12501111550029",
     "SP12501111550034",
     "SP12501111550045",
@@ -1082,6 +1088,8 @@
     "SP12501080752011",
     "SP12501084260400",
     "SP12501084529400",
+    "SP12501084545400",
+    "SP12501084553400",
     "SP12501084642400",
     "SP12501084855026",
     "SP12501087358004",
@@ -1156,6 +1164,7 @@
     "SP12501117745400",
     "SP12501117761029",
     "SP12501117761045",
+    "SP12501121777012",
     "SP12501121785400",
     "SP12501121858004",
     "SP12501121882542",
@@ -1165,6 +1174,7 @@
     "SP12501123320004",
     "SP12501123397025",
     "SP12501123478011",
+    "SP12501123486004",
     "SP12501123486400",
     "SP12501123613012",
     "SP12501123664550",
@@ -1227,6 +1237,8 @@
     "SP12501080752011",
     "SP12501084260400",
     "SP12501084529400",
+    "SP12501084545400",
+    "SP12501084553400",
     "SP12501084642400",
     "SP12501084855026",
     "SP12501087358004",
@@ -1301,6 +1313,7 @@
     "SP12501117745400",
     "SP12501117761029",
     "SP12501117761045",
+    "SP12501121777012",
     "SP12501121785400",
     "SP12501121858004",
     "SP12501121882542",
@@ -1310,6 +1323,7 @@
     "SP12501123320004",
     "SP12501123397025",
     "SP12501123478011",
+    "SP12501123486004",
     "SP12501123486400",
     "SP12501123613012",
     "SP12501123664550",
@@ -3832,7 +3846,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "JETTA COMFORTLINE 2.0 T.FLEX 8V 4P TIPT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -3840,11 +3854,11 @@
     {
       "sku": "SP12501084545400",
       "id_produto": "7522",
-      "nome": "MOTOR COMPLETO CHEVROLET TRACKER 1.0 TURBO 12V FLEX 20/21",
+      "nome": "MOTOR COMPLETO CHEVROLET TRACKER 1.0 TURBO 12V FLEX 2021",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER 1.0 TURBO 12V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -3856,7 +3870,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PUNTO ESSENCE SP 1.6 FLEX 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -5386,6 +5400,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501111542037",
+      "id_produto": "20922",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501111542045",
       "id_produto": "20906",
       "nome": "TAMPA TRASEIRA FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 5P 2006",
@@ -5398,6 +5424,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501111542480",
+      "id_produto": "20924",
+      "nome": "PORTINHOLA DO TANQUE",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501111550010",
       "id_produto": "20925",
       "nome": "CHAVE DE SETA",
@@ -5407,6 +5445,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111550027",
+      "id_produto": "20927",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "6"
     },
     {
@@ -5836,7 +5886,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -6196,7 +6246,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -7014,10 +7064,34 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "JETTA COMFORTLINE 2.0 T.FLEX 8V 4P TIPT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501084545400",
+      "id_produto": "7522",
+      "nome": "MOTOR COMPLETO CHEVROLET TRACKER 1.0 TURBO 12V FLEX 2021",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER 1.0 TURBO 12V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501084553400",
+      "id_produto": "7524",
+      "nome": "MOTOR COMPLETO FIAT PUNTO ESSENCE SP 1.6 FLEX 16V 2014",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PUNTO ESSENCE SP 1.6 FLEX 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501084642400",
@@ -7908,6 +7982,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501121777012",
+      "id_produto": "16449",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FIAT SIENA CELEBRATION 1.0 07",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501121785400",
       "id_produto": "16265",
       "nome": "MOTOR COMPLETO VOLKSWAGEN FOX CITY 1.0 MI T.FLEX 8V 2005",
@@ -8013,6 +8099,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123486004",
+      "id_produto": "16458",
+      "nome": "CÂMBIO AUTOMATICO TOYOTA HILUX CD SRV D4-D 4X4 3.0 DIESEL 09",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "8"
     },
     {
@@ -10144,11 +10242,11 @@
     "SP12501084545400": {
       "sku": "SP12501084545400",
       "id_produto": "7522",
-      "nome": "MOTOR COMPLETO CHEVROLET TRACKER 1.0 TURBO 12V FLEX 20/21",
+      "nome": "MOTOR COMPLETO CHEVROLET TRACKER 1.0 TURBO 12V FLEX 2021",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER 1.0 TURBO 12V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -10160,7 +10258,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -11660,7 +11758,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PUNTO ESSENCE SP 1.6 FLEX 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -12752,7 +12850,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "JETTA COMFORTLINE 2.0 T.FLEX 8V 4P TIPT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -13004,7 +13102,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -14160,6 +14258,42 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    "SP12501111550027": {
+      "sku": "SP12501111550027",
+      "id_produto": "20927",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP12501111542037": {
+      "sku": "SP12501111542037",
+      "id_produto": "20922",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501111542480": {
+      "sku": "SP12501111542480",
+      "id_produto": "20924",
+      "nome": "PORTINHOLA DO TANQUE",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     }
   }
 }
