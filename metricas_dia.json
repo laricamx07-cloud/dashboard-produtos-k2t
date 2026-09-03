@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 09:57:26",
+  "ultima_atualizacao": "03/09/2026 10:15:39",
   "total_base_dia": 344,
-  "total_atual": 324,
+  "total_atual": 323,
   "novos_produtos": 0,
-  "total_subidos": 20,
+  "total_subidos": 21,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -707,6 +707,7 @@
     "SP12501080213400",
     "SP12501080221400",
     "SP12501080485026",
+    "SP12501080540026",
     "SP12501083760027",
     "SP12501084170029",
     "SP12501084596011",
@@ -729,6 +730,7 @@
     "SP12501080213400",
     "SP12501080221400",
     "SP12501080485026",
+    "SP12501080540026",
     "SP12501083760027",
     "SP12501084170029",
     "SP12501084596011",
@@ -764,7 +766,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -824,9 +826,21 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501080540026",
+      "id_produto": "9107",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN GOL SPECIAL 1.0 TOTAL FLEX 2016",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL SPECIAL 1.0 TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "7",
       "qtd_images": "8"
     },
     {
@@ -860,7 +874,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -1086,11 +1100,11 @@
     "SP12501080540026": {
       "sku": "SP12501080540026",
       "id_produto": "9107",
-      "nome": "MOTOR DE PARTIDA VOLKSWAGEN GOL SPECIAL 1.0 TOTAL FLEX 15/16",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN GOL SPECIAL 1.0 TOTAL FLEX 2016",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL SPECIAL 1.0 TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -2050,7 +2064,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -4774,7 +4788,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -5038,7 +5052,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
