@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 08:42:38",
+  "ultima_atualizacao": "03/09/2026 08:47:30",
   "total_base_dia": 344,
-  "total_atual": 341,
+  "total_atual": 339,
   "novos_produtos": 0,
-  "total_subidos": 3,
+  "total_subidos": 5,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -701,13 +701,17 @@
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
     "SP12501041358400",
+    "SP12501111542480",
     "SP12501111550010",
-    "SP12501111550024"
+    "SP12501111550024",
+    "SP12501111550049"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501041358400",
+    "SP12501111542480",
     "SP12501111550010",
-    "SP12501111550024"
+    "SP12501111550024",
+    "SP12501111550049"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
@@ -722,6 +726,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111542480",
+      "id_produto": "20924",
+      "nome": "Portinhola Tanque Combustível Fiesta 1996 a 2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501111550010",
@@ -746,6 +762,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111550049",
+      "id_produto": "20929",
+      "nome": "VOLANTE DO MOTORISTA FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -992,11 +1020,11 @@
     "SP12501111550049": {
       "sku": "SP12501111550049",
       "id_produto": "20929",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2444,11 +2472,11 @@
     "SP12501111542480": {
       "sku": "SP12501111542480",
       "id_produto": "20924",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "Portinhola Tanque Combustível Fiesta 1996 a 2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
