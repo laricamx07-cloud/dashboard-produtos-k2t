@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 08:47:30",
+  "ultima_atualizacao": "03/09/2026 08:57:30",
   "total_base_dia": 344,
-  "total_atual": 339,
+  "total_atual": 336,
   "novos_produtos": 0,
-  "total_subidos": 5,
+  "total_subidos": 8,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -701,6 +701,9 @@
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
     "SP12501041358400",
+    "SP12501084170029",
+    "SP12501111542037",
+    "SP12501111542411",
     "SP12501111542480",
     "SP12501111550010",
     "SP12501111550024",
@@ -708,6 +711,9 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501041358400",
+    "SP12501084170029",
+    "SP12501111542037",
+    "SP12501111542411",
     "SP12501111542480",
     "SP12501111550010",
     "SP12501111550024",
@@ -728,13 +734,49 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501084170029",
+      "id_produto": "11624",
+      "nome": "PARA-CHOQUE TRASEIRO CITROEN C4 2022/2022",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 CACTUS FEEL PACK 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111542037",
+      "id_produto": "20922",
+      "nome": "RETROVISOR DIREITO FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111542411",
+      "id_produto": "20923",
+      "nome": "ELETROVENTILADOR FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501111542480",
       "id_produto": "20924",
       "nome": "Portinhola Tanque Combustível Fiesta 1996 a 2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -770,7 +812,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1008,11 +1050,11 @@
     "SP12501111542037": {
       "sku": "SP12501111542037",
       "id_produto": "20922",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 2006",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -1024,7 +1066,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2476,7 +2518,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -3480,11 +3522,11 @@
     "SP12501084170029": {
       "sku": "SP12501084170029",
       "id_produto": "11624",
-      "nome": "Parachoque Traseiro Citroen C4 Cactus 2019 2020 a 2024",
+      "nome": "PARA-CHOQUE TRASEIRO CITROEN C4 2022/2022",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 CACTUS FEEL PACK 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "5"
@@ -4236,11 +4278,11 @@
     "SP12501111542411": {
       "sku": "SP12501111542411",
       "id_produto": "20923",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 2006",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
