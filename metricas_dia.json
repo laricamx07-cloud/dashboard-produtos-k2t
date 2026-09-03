@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 10:15:39",
+  "ultima_atualizacao": "03/09/2026 10:18:36",
   "total_base_dia": 344,
-  "total_atual": 323,
+  "total_atual": 322,
   "novos_produtos": 0,
-  "total_subidos": 21,
+  "total_subidos": 22,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -709,6 +709,7 @@
     "SP12501080485026",
     "SP12501080540026",
     "SP12501083760027",
+    "SP12501083964424",
     "SP12501084170029",
     "SP12501084596011",
     "SP12501111542026",
@@ -732,6 +733,7 @@
     "SP12501080485026",
     "SP12501080540026",
     "SP12501083760027",
+    "SP12501083964424",
     "SP12501084170029",
     "SP12501084596011",
     "SP12501111542026",
@@ -854,6 +856,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501083964424",
+      "id_produto": "11728",
+      "nome": "MULTIMÍDIA VOLKSWAGEN VIRTUS TSI 1.0 2024/2025",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VIRTUS TSI 1.0 FLEX 12V 4P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501084170029",
@@ -3936,7 +3950,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VIRTUS TSI 1.0 FLEX 12V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
