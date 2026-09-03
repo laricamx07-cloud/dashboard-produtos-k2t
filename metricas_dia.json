@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 12:17:09",
+  "ultima_atualizacao": "03/09/2026 12:21:01",
   "total_base_dia": 344,
-  "total_atual": 273,
+  "total_atual": 270,
   "novos_produtos": 2,
-  "total_subidos": 73,
+  "total_subidos": 76,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -707,6 +707,7 @@
   "skus_subidos_hoje": [
     "SP12501004355400",
     "SP12501004550400",
+    "SP12501004606004",
     "SP12501004665029",
     "SP12501041110400",
     "SP12501041188400",
@@ -725,6 +726,7 @@
     "SP12501057300012",
     "SP12501057327400",
     "SP12501057327515",
+    "SP12501057343584",
     "SP12501079975029",
     "SP12501080019400",
     "SP12501080191400",
@@ -760,6 +762,7 @@
     "SP12501111550049",
     "SP12501117397400",
     "SP12501121726027",
+    "SP12501122099010",
     "SP12501122102011",
     "SP12501123079400",
     "SP12501123214004",
@@ -782,6 +785,7 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501004355400",
     "SP12501004550400",
+    "SP12501004606004",
     "SP12501004665029",
     "SP12501041110400",
     "SP12501041188400",
@@ -800,6 +804,7 @@
     "SP12501057300012",
     "SP12501057327400",
     "SP12501057327515",
+    "SP12501057343584",
     "SP12501079975029",
     "SP12501080019400",
     "SP12501080191400",
@@ -835,6 +840,7 @@
     "SP12501111550049",
     "SP12501117397400",
     "SP12501121726027",
+    "SP12501122099010",
     "SP12501122102011",
     "SP12501123079400",
     "SP12501123214004",
@@ -904,6 +910,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501004606004",
+      "id_produto": "8405",
+      "nome": "CÂMBIO AUT NIVUS 2024/2024",
+      "marca": "VOLKSWAGEM",
+      "modelo_do_veiculo": "NIVUS HIGHLINE 1.0 200 TSI FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501004665029",
@@ -1119,6 +1137,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501057343584",
+      "id_produto": "13215",
+      "nome": "ALAVANCA DE MARCHA MANUAL VOLKSWAGEN FOX 1.0 MI 2005/2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
       "qtd_images": "8"
     },
     {
@@ -1540,6 +1570,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501122099010",
+      "id_produto": "9903",
+      "nome": "ALAVANCA COMANDO CHAVE DE SETA VOLKSWAGEN VOYAGE 1.6 11/12",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE COMF/HIGHLI. 1.6 T.FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501122102011",
@@ -3793,8 +3835,8 @@
       "nome": "ALAVANCA DE MARCHA MANUAL VOLKSWAGEN FOX 1.0 MI 2005/2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX 1.0MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -4622,7 +4664,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE COMF/HIGHLI. 1.6 T.FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
@@ -4810,11 +4852,11 @@
     "SP12501004606004": {
       "sku": "SP12501004606004",
       "id_produto": "8405",
-      "nome": "CÂMBIO AUT",
-      "marca": "VW",
+      "nome": "CÂMBIO AUT NIVUS 2024/2024",
+      "marca": "VOLKSWAGEM",
       "modelo_do_veiculo": "NIVUS HIGHLINE 1.0 200 TSI FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
