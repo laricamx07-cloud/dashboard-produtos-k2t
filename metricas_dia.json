@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 11:57:05",
+  "ultima_atualizacao": "03/09/2026 12:12:24",
   "total_base_dia": 344,
-  "total_atual": 278,
+  "total_atual": 273,
   "novos_produtos": 2,
-  "total_subidos": 68,
+  "total_subidos": 73,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -723,6 +723,8 @@
     "SP12501057262020",
     "SP12501057297400",
     "SP12501057300012",
+    "SP12501057327400",
+    "SP12501057327515",
     "SP12501079975029",
     "SP12501080019400",
     "SP12501080191400",
@@ -758,7 +760,10 @@
     "SP12501111550049",
     "SP12501117397400",
     "SP12501121726027",
+    "SP12501122102011",
     "SP12501123079400",
+    "SP12501123214004",
+    "SP12501123214400",
     "SP12501123222007",
     "SP12501123230400",
     "SP12501123290004",
@@ -793,6 +798,8 @@
     "SP12501057262020",
     "SP12501057297400",
     "SP12501057300012",
+    "SP12501057327400",
+    "SP12501057327515",
     "SP12501079975029",
     "SP12501080019400",
     "SP12501080191400",
@@ -828,7 +835,10 @@
     "SP12501111550049",
     "SP12501117397400",
     "SP12501121726027",
+    "SP12501122102011",
     "SP12501123079400",
+    "SP12501123214004",
+    "SP12501123214400",
     "SP12501123222007",
     "SP12501123230400",
     "SP12501123290004",
@@ -1085,6 +1095,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501057327400",
+      "id_produto": "13770",
+      "nome": "MOTOR COMPLETO CHEVROLET PRISMA SED. MAXX/LT 1.4 8V 2012",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501057327515",
+      "id_produto": "14365",
+      "nome": "TRIANGULO DE SEGURANÇA CHEVROLET PRISMA SED. MAXX 1.4 2012",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "8"
     },
     {
@@ -1508,6 +1542,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501122102011",
+      "id_produto": "10034",
+      "nome": "COMPRESSOR AR-CONDICIONADO TOYOTA ETIOS XLS SEDAN 1.5 17/18",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS XLS SEDAN 1.5 FLEX 16V 4P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501123079400",
       "id_produto": "12668",
       "nome": "MOTOR COMPLETO FORD FIESTA SEDAN 1.6 8V FLEX 2005/2006",
@@ -1518,6 +1564,30 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501123214004",
+      "id_produto": "14165",
+      "nome": "CÂMBIO AUTOMÁTICO JEEP RENEGADE LONG. T270 1.3 TB FLX 25/26",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONG. T270 1.3 TB 4X2 FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123214400",
+      "id_produto": "14167",
+      "nome": "MOTOR COMPLETO JEEP RENEGADE LONG. T270 1.3 TB FLEX 2025/26",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONG. T270 1.3 TB 4X2 FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "4"
     },
     {
       "sku": "SP12501123222007",
@@ -2056,7 +2126,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONG. T270 1.3 TB 4X2 FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "4"
@@ -2296,7 +2366,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "5"
@@ -2920,7 +2990,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3856,7 +3926,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XLS SEDAN 1.5 FLEX 16V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -5248,7 +5318,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONG. T270 1.3 TB 4X2 FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
