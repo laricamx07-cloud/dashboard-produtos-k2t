@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 11:27:06",
+  "ultima_atualizacao": "03/09/2026 11:42:34",
   "total_base_dia": 344,
-  "total_atual": 294,
-  "novos_produtos": 1,
-  "total_subidos": 51,
+  "total_atual": 286,
+  "novos_produtos": 2,
+  "total_subidos": 60,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -471,6 +471,7 @@
     "SP12501054301004",
     "SP12501054379024",
     "SP12501054379038",
+    "SP12501056231032",
     "SP12501056231034",
     "SP12501056274004",
     "SP12501056274012",
@@ -700,9 +701,11 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [
+    "SP12501056231032",
     "SP12501056231034"
   ],
   "skus_subidos_hoje": [
+    "SP12501004355400",
     "SP12501004665029",
     "SP12501041110400",
     "SP12501041188400",
@@ -715,7 +718,9 @@
     "SP12501056274012",
     "SP12501056274036",
     "SP12501057114400",
+    "SP12501057149016",
     "SP12501057262020",
+    "SP12501057297400",
     "SP12501079975029",
     "SP12501080019400",
     "SP12501080191400",
@@ -752,10 +757,17 @@
     "SP12501117397400",
     "SP12501121726027",
     "SP12501123079400",
+    "SP12501123486013",
+    "SP12501123532028",
+    "SP12501123559049",
+    "SP12501123567029",
+    "SP12501123664004",
+    "SP12501123699030",
     "SP12501123761026",
     "SP32501000486034"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501004355400",
     "SP12501004665029",
     "SP12501041110400",
     "SP12501041188400",
@@ -768,7 +780,9 @@
     "SP12501056274012",
     "SP12501056274036",
     "SP12501057114400",
+    "SP12501057149016",
     "SP12501057262020",
+    "SP12501057297400",
     "SP12501079975029",
     "SP12501080019400",
     "SP12501080191400",
@@ -805,16 +819,34 @@
     "SP12501117397400",
     "SP12501121726027",
     "SP12501123079400",
+    "SP12501123486013",
+    "SP12501123532028",
+    "SP12501123559049",
+    "SP12501123567029",
+    "SP12501123664004",
+    "SP12501123699030",
     "SP12501123761026",
     "SP32501000486034"
   ],
   "itens_novos_hoje": [
     {
+      "sku": "SP12501056231032",
+      "id_produto": "20932",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501056231034",
       "id_produto": "20933",
       "nome": "PORTA TRASEIRA DIREITA",
       "marca": "HONDA",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -824,14 +856,26 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501004355400",
+      "id_produto": "5625",
+      "nome": "MOTOR COMPLETO NISSAN KICKS PLAY ACTIVE PLUS 1.6 2025",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS PLAY ACTIVE PLUS 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501004665029",
       "id_produto": "12932",
       "nome": "PARA-CHOQUE TRASEIRO FIAT MOBI DRIVE GSR 1.0 2017/2018",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
       "status": "Habilitado",
-      "status_ml": "under_review",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "4"
     },
@@ -968,6 +1012,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501057149016",
+      "id_produto": "13963",
+      "nome": "FAROL ESQUERDO FIAT UNO MILLE 1.0 F.FLEX 2006/2006",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501057262020",
       "id_produto": "12858",
       "nome": "LANTERNA TRASEIRA ESQUERDA FIAT MOBI LIKE 1.0 FIRE 2023/2024",
@@ -978,6 +1034,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501057297400",
+      "id_produto": "16257",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN FOX PLUS 1.6 MI T.FLEX 8V 2007",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX PLUS 1.6MI TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501079975029",
@@ -1410,6 +1478,78 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501123486013",
+      "id_produto": "15976",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO TOYOTA HILUX CD SRV 4X4 3.0 2009",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501123532028",
+      "id_produto": "11702",
+      "nome": "PARA-CHOQUE DIANTEIRO VERMELHO FORD FIESTA 2005/2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.6 8V FLEX 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "3"
+    },
+    {
+      "sku": "SP12501123559049",
+      "id_produto": "10253",
+      "nome": "VOLANTE DO MOTORISTA RENAULT SANDERO GT LINE POWER 1.6 2017",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO GT LINE HI-POWER 1.6 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501123567029",
+      "id_produto": "9839",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT ARGO DRIVE 1.0 6V FLEX 2020/2021",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501123664004",
+      "id_produto": "14305",
+      "nome": "CÂMBIO MANUAL RENAULT SANDERO EXPRESS. FLEX 1.0 16V 2012/13",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501123699030",
+      "id_produto": "10279",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO VOLKSWAGEN GOL CITY 1.0 10/11",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY (TREND) 1.0 MI TOTAL FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501123761026",
@@ -2416,7 +2556,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS PLAY ACTIVE PLUS 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -2524,7 +2664,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY (TREND) 1.0 MI TOTAL FLEX 8V 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -2604,11 +2744,11 @@
     "SP12501123532028": {
       "sku": "SP12501123532028",
       "id_produto": "11702",
-      "nome": "Parachoque Dianteiro Vermelho Ford Fiesta 2003 2004 a 2007",
+      "nome": "PARA-CHOQUE DIANTEIRO VERMELHO FORD FIESTA 2005/2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.6 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "3"
@@ -2680,7 +2820,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -2788,7 +2928,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
@@ -2896,7 +3036,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO GT LINE HI-POWER 1.6 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "6"
@@ -3148,7 +3288,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -3376,7 +3516,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "10"
@@ -4000,7 +4140,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX PLUS 1.6MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -4756,8 +4896,8 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
       "status": "Habilitado",
-      "status_ml": "under_review",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "4"
     },
@@ -5570,7 +5710,19 @@
       "id_produto": "20933",
       "nome": "PORTA TRASEIRA DIREITA",
       "marca": "HONDA",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501056231032": {
+      "sku": "SP12501056231032",
+      "id_produto": "20932",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
