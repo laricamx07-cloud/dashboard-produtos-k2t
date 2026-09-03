@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 09:47:17",
+  "ultima_atualizacao": "03/09/2026 09:51:14",
   "total_base_dia": 344,
-  "total_atual": 331,
+  "total_atual": 330,
   "novos_produtos": 0,
-  "total_subidos": 13,
+  "total_subidos": 14,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -712,7 +712,8 @@
     "SP12501111542480",
     "SP12501111550010",
     "SP12501111550024",
-    "SP12501111550049"
+    "SP12501111550049",
+    "SP12501121726027"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501041358400",
@@ -727,7 +728,8 @@
     "SP12501111542480",
     "SP12501111550010",
     "SP12501111550024",
-    "SP12501111550049"
+    "SP12501111550049",
+    "SP12501121726027"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
@@ -774,7 +776,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "9"
@@ -886,6 +888,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501121726027",
+      "id_produto": "11685",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT UNO MILLE 1.0 FIRE ECONOMY 2008",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -3344,7 +3358,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "9"
@@ -4064,7 +4078,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
