@@ -1,10 +1,10 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 11:12:48",
+  "ultima_atualizacao": "03/09/2026 11:17:10",
   "total_base_dia": 344,
-  "total_atual": 296,
-  "novos_produtos": 0,
+  "total_atual": 297,
+  "novos_produtos": 1,
   "total_subidos": 48,
   "skus_base_dia": [
     "SP12501004355400",
@@ -471,6 +471,7 @@
     "SP12501054301004",
     "SP12501054379024",
     "SP12501054379038",
+    "SP12501056231034",
     "SP12501056274004",
     "SP12501056274012",
     "SP12501056274036",
@@ -698,7 +699,9 @@
     "SP32501000486034",
     "SP42501001064042"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501056231034"
+  ],
   "skus_subidos_hoje": [
     "SP12501004665029",
     "SP12501041110400",
@@ -799,7 +802,20 @@
     "SP12501121726027",
     "SP12501123079400"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501056231034",
+      "id_produto": "20933",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501004665029",
@@ -5505,6 +5521,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "5",
+      "qtd_images": "10"
+    },
+    "SP12501056231034": {
+      "sku": "SP12501056231034",
+      "id_produto": "20933",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "10"
     }
   }
