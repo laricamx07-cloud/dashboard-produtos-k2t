@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 09:27:28",
+  "ultima_atualizacao": "03/09/2026 09:42:38",
   "total_base_dia": 344,
-  "total_atual": 336,
+  "total_atual": 332,
   "novos_produtos": 0,
-  "total_subidos": 8,
+  "total_subidos": 12,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -701,7 +701,11 @@
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
     "SP12501041358400",
+    "SP12501080191400",
+    "SP12501080205400",
     "SP12501084170029",
+    "SP12501111542027",
+    "SP12501111542036",
     "SP12501111542037",
     "SP12501111542411",
     "SP12501111542480",
@@ -711,7 +715,11 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501041358400",
+    "SP12501080191400",
+    "SP12501080205400",
     "SP12501084170029",
+    "SP12501111542027",
+    "SP12501111542036",
     "SP12501111542037",
     "SP12501111542411",
     "SP12501111542480",
@@ -734,6 +742,30 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501080191400",
+      "id_produto": "9099",
+      "nome": "MOTOR COMPLETO FIAT STRADA WORKING HARD 1.4 FIRE FLEX 2018",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CD",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501080205400",
+      "id_produto": "9100",
+      "nome": "MOTOR COMPLETO CITROEN C3 PICASSO EXC. 1.6 FLEX 16V 2013/14",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501084170029",
       "id_produto": "11624",
       "nome": "PARA-CHOQUE TRASEIRO CITROEN C4 2022/2022",
@@ -743,6 +775,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111542027",
+      "id_produto": "20920",
+      "nome": "PAINEL DE INSTRUMENTOS FORD FIESTA PERSONNALITÉ 1.0 8V 2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111542036",
+      "id_produto": "20921",
+      "nome": "RADIADOR FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 5P 2005/2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "5"
     },
     {
@@ -1638,11 +1694,11 @@
     "SP12501111542036": {
       "sku": "SP12501111542036",
       "id_produto": "20921",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 5P 2005/2006",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1954,7 +2010,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CD",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "9"
@@ -3586,7 +3642,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "6"
@@ -4170,11 +4226,11 @@
     "SP12501111542027": {
       "sku": "SP12501111542027",
       "id_produto": "20920",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FORD FIESTA PERSONNALITÉ 1.0 8V 2006",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
