@@ -1,7 +1,7 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 12:12:24",
+  "ultima_atualizacao": "03/09/2026 12:17:09",
   "total_base_dia": 344,
   "total_atual": 273,
   "novos_produtos": 2,
@@ -1548,7 +1548,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XLS SEDAN 1.5 FLEX 16V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -3926,7 +3926,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XLS SEDAN 1.5 FLEX 16V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
