@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 09:51:14",
+  "ultima_atualizacao": "03/09/2026 09:57:26",
   "total_base_dia": 344,
-  "total_atual": 330,
+  "total_atual": 324,
   "novos_produtos": 0,
-  "total_subidos": 14,
+  "total_subidos": 20,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -701,10 +701,16 @@
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
     "SP12501041358400",
+    "SP12501041960019",
     "SP12501080191400",
     "SP12501080205400",
     "SP12501080213400",
+    "SP12501080221400",
+    "SP12501080485026",
+    "SP12501083760027",
     "SP12501084170029",
+    "SP12501084596011",
+    "SP12501111542026",
     "SP12501111542027",
     "SP12501111542036",
     "SP12501111542037",
@@ -717,10 +723,16 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501041358400",
+    "SP12501041960019",
     "SP12501080191400",
     "SP12501080205400",
     "SP12501080213400",
+    "SP12501080221400",
+    "SP12501080485026",
+    "SP12501083760027",
     "SP12501084170029",
+    "SP12501084596011",
+    "SP12501111542026",
     "SP12501111542027",
     "SP12501111542036",
     "SP12501111542037",
@@ -744,6 +756,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501041960019",
+      "id_produto": "11400",
+      "nome": "LANTERNA TRASEIRA DIREITA VOLKSWAGEN GOL 1.0 MI 2008/2009",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501080191400",
@@ -782,6 +806,42 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501080221400",
+      "id_produto": "9102",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH LT 1.0 8V FLEX 2017/2018",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.0 8V FLEXPOWER 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501080485026",
+      "id_produto": "9106",
+      "nome": "MOTOR DE PARTIDA HYUNDAI CRETA ATTITUDE 1.6 16V FLEX 2021",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501083760027",
+      "id_produto": "11532",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN GOL (NOVO) 1.0 MI 2008/09",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501084170029",
       "id_produto": "11624",
       "nome": "PARA-CHOQUE TRASEIRO CITROEN C4 2022/2022",
@@ -792,6 +852,30 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501084596011",
+      "id_produto": "11184",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET PRISMA JOY 1.0 2019",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111542026",
+      "id_produto": "20919",
+      "nome": "MOTOR DE PARTIDA FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501111542027",
@@ -896,7 +980,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -1966,7 +2050,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -2914,7 +2998,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -3078,11 +3162,11 @@
     "SP12501111542026": {
       "sku": "SP12501111542026",
       "id_produto": "20919",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 2006",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -3126,11 +3210,11 @@
     "SP12501080221400": {
       "sku": "SP12501080221400",
       "id_produto": "9102",
-      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH LT 1.0 8V FLEX 17/18",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH LT 1.0 8V FLEX 2017/2018",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LT 1.0 8V FLEXPOWER 5P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -4078,7 +4162,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -4690,7 +4774,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -4954,7 +5038,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
