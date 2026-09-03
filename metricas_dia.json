@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 08:28:50",
+  "ultima_atualizacao": "03/09/2026 08:42:38",
   "total_base_dia": 344,
-  "total_atual": 344,
+  "total_atual": 341,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 3,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -699,10 +699,55 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501041358400",
+    "SP12501111550010",
+    "SP12501111550024"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501041358400",
+    "SP12501111550010",
+    "SP12501111550024"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501041358400",
+      "id_produto": "9085",
+      "nome": "MOTOR COMPLETO JAC J2 1.4 16V 2012/2013",
+      "marca": "JAC",
+      "modelo_do_veiculo": "J2 1.4 16V 5PORTAS MECANICO",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111550010",
+      "id_produto": "20925",
+      "nome": "CHAVE DE SETA FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111550024",
+      "id_produto": "20926",
+      "nome": "MÓDULO DE INJEÇÃO FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501040793026": {
       "sku": "SP12501040793026",
@@ -959,11 +1004,11 @@
     "SP12501111550024": {
       "sku": "SP12501111550024",
       "id_produto": "20926",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1395,7 +1440,7 @@
       "marca": "JAC",
       "modelo_do_veiculo": "J2 1.4 16V 5PORTAS MECANICO",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -1427,11 +1472,11 @@
     "SP12501111550010": {
       "sku": "SP12501111550010",
       "id_produto": "20925",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
