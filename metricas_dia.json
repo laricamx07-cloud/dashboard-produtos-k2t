@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 11:42:34",
+  "ultima_atualizacao": "03/09/2026 11:47:23",
   "total_base_dia": 344,
-  "total_atual": 286,
+  "total_atual": 284,
   "novos_produtos": 2,
-  "total_subidos": 60,
+  "total_subidos": 62,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -706,6 +706,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501004355400",
+    "SP12501004550400",
     "SP12501004665029",
     "SP12501041110400",
     "SP12501041188400",
@@ -757,6 +758,7 @@
     "SP12501117397400",
     "SP12501121726027",
     "SP12501123079400",
+    "SP12501123460040",
     "SP12501123486013",
     "SP12501123532028",
     "SP12501123559049",
@@ -768,6 +770,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004355400",
+    "SP12501004550400",
     "SP12501004665029",
     "SP12501041110400",
     "SP12501041188400",
@@ -819,6 +822,7 @@
     "SP12501117397400",
     "SP12501121726027",
     "SP12501123079400",
+    "SP12501123460040",
     "SP12501123486013",
     "SP12501123532028",
     "SP12501123559049",
@@ -866,6 +870,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501004550400",
+      "id_produto": "13480",
+      "nome": "MOTOR COMPLETO NISSAN KICKS S DIRECT 1.6 16V FLEX 2020/2020",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501004665029",
@@ -1480,6 +1496,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501123460040",
+      "id_produto": "15880",
+      "nome": "RODA LIGA LEVE ARO 16 4 FUROS CHEVROLET ONIX",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "4"
+    },
+    {
       "sku": "SP12501123486013",
       "id_produto": "15976",
       "nome": "DIFERENCIAL EIXO DIANTEIRO TOYOTA HILUX CD SRV 4X4 3.0 2009",
@@ -2040,7 +2068,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -4740,7 +4768,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "4"
