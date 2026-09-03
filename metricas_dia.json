@@ -1,7 +1,7 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 10:47:23",
+  "ultima_atualizacao": "03/09/2026 10:51:40",
   "total_base_dia": 344,
   "total_atual": 315,
   "novos_produtos": 0,
@@ -1106,7 +1106,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SED. 1.6 8V FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
@@ -3628,7 +3628,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SED. 1.6 8V FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
