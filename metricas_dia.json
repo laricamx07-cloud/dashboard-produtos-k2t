@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 11:51:04",
+  "ultima_atualizacao": "03/09/2026 11:57:05",
   "total_base_dia": 344,
-  "total_atual": 280,
+  "total_atual": 278,
   "novos_produtos": 2,
-  "total_subidos": 66,
+  "total_subidos": 68,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -759,6 +759,8 @@
     "SP12501117397400",
     "SP12501121726027",
     "SP12501123079400",
+    "SP12501123222007",
+    "SP12501123230400",
     "SP12501123290004",
     "SP12501123311004",
     "SP12501123389400",
@@ -827,6 +829,8 @@
     "SP12501117397400",
     "SP12501121726027",
     "SP12501123079400",
+    "SP12501123222007",
+    "SP12501123230400",
     "SP12501123290004",
     "SP12501123311004",
     "SP12501123389400",
@@ -1074,11 +1078,11 @@
     {
       "sku": "SP12501057300012",
       "id_produto": "16355",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO CHEVROLET PRISMA SED 20211/12",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO CHEVROLET PRISMA SED 2011/12",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "8"
@@ -1516,13 +1520,37 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501123222007",
+      "id_produto": "13936",
+      "nome": "CAPÔ VOLKSWAGEN FOX CITY 1.0 TOTAL FLEX 2006/2006",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "3"
+    },
+    {
+      "sku": "SP12501123230400",
+      "id_produto": "13782",
+      "nome": "MOTOR COMPLETO PEUGEOT 307 SED PRESENCE 1.6 FLEX 16V 2009/10",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "307 SED. PRESENCE 1.6 FLEX 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501123290004",
       "id_produto": "14303",
       "nome": "CÂMBIO MANUAL HYUNDAI HB20 COMF. 1.0 FLEX 2018/2019",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMF. 1.0 FLEX 12V",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "5"
@@ -1546,7 +1574,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -2600,11 +2628,11 @@
     "SP12501057300012": {
       "sku": "SP12501057300012",
       "id_produto": "16355",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO CHEVROLET PRISMA SED 20211/12",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO CHEVROLET PRISMA SED 2011/12",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "8"
@@ -2928,7 +2956,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "307 SED. PRESENCE 1.6 FLEX 16V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
@@ -3072,7 +3100,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMF. 1.0 FLEX 12V",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "5"
@@ -4968,7 +4996,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -5304,7 +5332,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "3"
