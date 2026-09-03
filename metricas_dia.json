@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 09:42:38",
+  "ultima_atualizacao": "03/09/2026 09:47:17",
   "total_base_dia": 344,
-  "total_atual": 332,
+  "total_atual": 331,
   "novos_produtos": 0,
-  "total_subidos": 12,
+  "total_subidos": 13,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -703,6 +703,7 @@
     "SP12501041358400",
     "SP12501080191400",
     "SP12501080205400",
+    "SP12501080213400",
     "SP12501084170029",
     "SP12501111542027",
     "SP12501111542036",
@@ -717,6 +718,7 @@
     "SP12501041358400",
     "SP12501080191400",
     "SP12501080205400",
+    "SP12501080213400",
     "SP12501084170029",
     "SP12501111542027",
     "SP12501111542036",
@@ -760,10 +762,22 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501080213400",
+      "id_produto": "9101",
+      "nome": "MOTOR COMPLETO CITROËN C3 PICASSO EXCLUSIVE 1.6 FLEX 2012/13",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501084170029",
@@ -3326,11 +3340,11 @@
     "SP12501080213400": {
       "sku": "SP12501080213400",
       "id_produto": "9101",
-      "nome": "MOTOR COMPLETO CITROËN C3 PICASSO EXCLUSIVE 1.6 FLEX 12/13",
+      "nome": "MOTOR COMPLETO CITROËN C3 PICASSO EXCLUSIVE 1.6 FLEX 2012/13",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "9"
@@ -3642,7 +3656,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "6"
