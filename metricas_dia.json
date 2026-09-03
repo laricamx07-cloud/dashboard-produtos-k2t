@@ -1,11 +1,11 @@
 {
   "data": "2026-09-03",
   "primeira_atualizacao": "03/09/2026 08:28:50",
-  "ultima_atualizacao": "03/09/2026 10:51:40",
+  "ultima_atualizacao": "03/09/2026 10:57:30",
   "total_base_dia": 344,
-  "total_atual": 315,
+  "total_atual": 311,
   "novos_produtos": 0,
-  "total_subidos": 29,
+  "total_subidos": 33,
   "skus_base_dia": [
     "SP12501004355400",
     "SP12501004550032",
@@ -700,9 +700,13 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501004665029",
     "SP12501041188400",
     "SP12501041358400",
     "SP12501041960019",
+    "SP12501054298024",
+    "SP12501054301004",
+    "SP12501057262020",
     "SP12501080191400",
     "SP12501080205400",
     "SP12501080213400",
@@ -731,9 +735,13 @@
     "SP12501123079400"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501004665029",
     "SP12501041188400",
     "SP12501041358400",
     "SP12501041960019",
+    "SP12501054298024",
+    "SP12501054301004",
+    "SP12501057262020",
     "SP12501080191400",
     "SP12501080205400",
     "SP12501080213400",
@@ -763,6 +771,18 @@
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501004665029",
+      "id_produto": "12932",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT MOBI DRIVE GSR 1.0 2017/2018",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "4"
+    },
     {
       "sku": "SP12501041188400",
       "id_produto": "9129",
@@ -795,6 +815,42 @@
       "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501054298024",
+      "id_produto": "12755",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET MERIVA JOY 1.8 MPFI 8V 2005/2006",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MERIVA JOY 1.8 MPFI 8V FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501054301004",
+      "id_produto": "12929",
+      "nome": "CÂMBIO MANUAL CHEVROLET CORSA SED. MAXX 1.8 2006/2006",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CORSA SED. MAXX 1.8 MPFI 8V FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501057262020",
+      "id_produto": "12858",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FIAT MOBI LIKE 1.0 FIRE 2023/2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -1732,7 +1788,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MERIVA JOY 1.8 MPFI 8V FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -2140,7 +2196,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -3208,7 +3264,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SED. MAXX 1.8 MPFI 8V FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "5"
@@ -4432,7 +4488,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI DRIVE GSR 1.0 FLEX 6V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "4"
