@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 11:47:30",
+  "ultima_atualizacao": "04/09/2026 11:57:22",
   "total_base_dia": 191,
-  "total_atual": 143,
+  "total_atual": 141,
   "novos_produtos": 7,
-  "total_subidos": 55,
+  "total_subidos": 57,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -425,9 +425,11 @@
     "SP12501042273400",
     "SP12501053836004",
     "SP12501054379038",
+    "SP12501056231001",
     "SP12501056231010",
     "SP12501056231011",
     "SP12501056231019",
+    "SP12501056231028",
     "SP12501056231037",
     "SP12501056231400",
     "SP12501056231411",
@@ -482,9 +484,11 @@
     "SP12501042273400",
     "SP12501053836004",
     "SP12501054379038",
+    "SP12501056231001",
     "SP12501056231010",
     "SP12501056231011",
     "SP12501056231019",
+    "SP12501056231028",
     "SP12501056231037",
     "SP12501056231400",
     "SP12501056231411",
@@ -586,11 +590,11 @@
     {
       "sku": "SP12501080132400",
       "id_produto": "5543",
-      "nome": "MOTOR COMPLETO HONDA WR-V EX 1.5 FLEXONE 16V 2017/2018",
+      "nome": "Motor Honda Fit City Wr-v 1.5 Flex 2015 2016 a 2021",
       "marca": "HONDA",
       "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -802,13 +806,25 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501056231001",
+      "id_produto": "20948",
+      "nome": "ALTERNADOR HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501056231010",
       "id_produto": "20949",
       "nome": "CHAVE DE SETA HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -836,6 +852,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056231028",
+      "id_produto": "20945",
+      "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501056231037",
@@ -924,11 +952,11 @@
     {
       "sku": "SP12501080132400",
       "id_produto": "5543",
-      "nome": "MOTOR COMPLETO HONDA WR-V EX 1.5 FLEXONE 16V 2017/2018",
+      "nome": "Motor Honda Fit City Wr-v 1.5 Flex 2015 2016 a 2021",
       "marca": "HONDA",
       "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -2006,11 +2034,11 @@
     "SP12501056231028": {
       "sku": "SP12501056231028",
       "id_produto": "20945",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -2142,7 +2170,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2366,10 +2394,10 @@
     "SP12501111550004": {
       "sku": "SP12501111550004",
       "id_produto": "20947",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
@@ -3038,11 +3066,11 @@
     "SP12501056231001": {
       "sku": "SP12501056231001",
       "id_produto": "20948",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3626,11 +3654,11 @@
     "SP12501080132400": {
       "sku": "SP12501080132400",
       "id_produto": "5543",
-      "nome": "MOTOR COMPLETO HONDA WR-V EX 1.5 FLEXONE 16V 2017/2018",
+      "nome": "Motor Honda Fit City Wr-v 1.5 Flex 2015 2016 a 2021",
       "marca": "HONDA",
       "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
