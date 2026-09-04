@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 11:57:22",
+  "ultima_atualizacao": "04/09/2026 12:12:48",
   "total_base_dia": 191,
-  "total_atual": 141,
+  "total_atual": 138,
   "novos_produtos": 7,
-  "total_subidos": 57,
+  "total_subidos": 60,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -424,12 +424,14 @@
     "SP12501042265001",
     "SP12501042273400",
     "SP12501053836004",
+    "SP12501053852400",
     "SP12501054379038",
     "SP12501056231001",
     "SP12501056231010",
     "SP12501056231011",
     "SP12501056231019",
     "SP12501056231028",
+    "SP12501056231029",
     "SP12501056231037",
     "SP12501056231400",
     "SP12501056231411",
@@ -463,6 +465,7 @@
     "SP12501111550019",
     "SP12501111550020",
     "SP12501111550026",
+    "SP12501111550400",
     "SP12501111550411",
     "SP12501111550424",
     "SP12501111550448"
@@ -483,12 +486,14 @@
     "SP12501042265001",
     "SP12501042273400",
     "SP12501053836004",
+    "SP12501053852400",
     "SP12501054379038",
     "SP12501056231001",
     "SP12501056231010",
     "SP12501056231011",
     "SP12501056231019",
     "SP12501056231028",
+    "SP12501056231029",
     "SP12501056231037",
     "SP12501056231400",
     "SP12501056231411",
@@ -522,6 +527,7 @@
     "SP12501111550019",
     "SP12501111550020",
     "SP12501111550026",
+    "SP12501111550400",
     "SP12501111550411",
     "SP12501111550424",
     "SP12501111550448"
@@ -590,11 +596,11 @@
     {
       "sku": "SP12501080132400",
       "id_produto": "5543",
-      "nome": "Motor Honda Fit City Wr-v 1.5 Flex 2015 2016 a 2021",
+      "nome": "MOTOR COMPLETO HONDA WR-V EX 1.5 FLEXONE 16V 2017/2018",
       "marca": "HONDA",
       "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -794,6 +800,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501053852400",
+      "id_produto": "20944",
+      "nome": "MOTOR COMPLETO PEUGEOT 206 FELINE 1.6 16V 4P 2006/2007",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501054379038",
       "id_produto": "9879",
       "nome": "RETROVISOR ESQUERDO CHEVROLET CELTA SPIRIT/ LT 1.0 FLX 12/13",
@@ -860,9 +878,21 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056231029",
+      "id_produto": "20946",
+      "nome": "PARA-CHOQUE TRASEIRO HONDA FIT EX 1.5 FLEX 16V 2005/05",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "10"
     },
     {
@@ -952,11 +982,11 @@
     {
       "sku": "SP12501080132400",
       "id_produto": "5543",
-      "nome": "Motor Honda Fit City Wr-v 1.5 Flex 2015 2016 a 2021",
+      "nome": "MOTOR COMPLETO HONDA WR-V EX 1.5 FLEXONE 16V 2017/2018",
       "marca": "HONDA",
       "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -1260,6 +1290,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111550400",
+      "id_produto": "20943",
+      "nome": "MOTOR COMPLETO FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501111550411",
@@ -2038,7 +2080,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -2334,11 +2376,11 @@
     "SP12501111550400": {
       "sku": "SP12501111550400",
       "id_produto": "20943",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2478,11 +2520,11 @@
     "SP12501056231029": {
       "sku": "SP12501056231029",
       "id_produto": "20946",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO HONDA FIT EX 1.5 FLEX 16V 2005/05",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3030,11 +3072,11 @@
     "SP12501053852400": {
       "sku": "SP12501053852400",
       "id_produto": "20944",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO PEUGEOT 206 FELINE 1.6 16V 4P 2006/2007",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3654,11 +3696,11 @@
     "SP12501080132400": {
       "sku": "SP12501080132400",
       "id_produto": "5543",
-      "nome": "Motor Honda Fit City Wr-v 1.5 Flex 2015 2016 a 2021",
+      "nome": "MOTOR COMPLETO HONDA WR-V EX 1.5 FLEXONE 16V 2017/2018",
       "marca": "HONDA",
       "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
