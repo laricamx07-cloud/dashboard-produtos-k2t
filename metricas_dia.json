@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 08:27:07",
+  "ultima_atualizacao": "04/09/2026 08:42:26",
   "total_base_dia": 191,
-  "total_atual": 191,
+  "total_atual": 185,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 6,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -393,10 +393,97 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501041366400",
+    "SP12501041455001",
+    "SP12501041455027",
+    "SP12501041501400",
+    "SP12501041838001",
+    "SP12501105690400"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501041366400",
+    "SP12501041455001",
+    "SP12501041455027",
+    "SP12501041501400",
+    "SP12501041838001",
+    "SP12501105690400"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501041366400",
+      "id_produto": "5748",
+      "nome": "MOTOR COMPLETO RENAULT SANDERO GT LINE HI-POWER 1.6 2016",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO GT LINE HI-POWER 1.6 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501041455001",
+      "id_produto": "8726",
+      "nome": "ALTERNADOR CHEVROLET CELTA SPIRIT/LT 1.0 MPFI 8V FLEXP 2012",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "0",
+      "classificacao": "8",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501041455027",
+      "id_produto": "13339",
+      "nome": "PAINEL DE INSTRUMENTOS CELTA 2011/2012",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501041501400",
+      "id_produto": "13596",
+      "nome": "MOTOR COMPLETO FORD ECOSPORT XLT 2.0 FLEX 16V 5P 2004/2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLT 2.0 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501041838001",
+      "id_produto": "13546",
+      "nome": "ALTERNADOR FIAT MOBI LIKE 1.0 FIRE FLEX 2021/2022",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501105690400",
+      "id_produto": "16784",
+      "nome": "MOTOR COMPLETO FORD RANGER CD LIMITED 3.2 2017/2018",
+      "marca": "FORD",
+      "modelo_do_veiculo": "RANGER CD LIMITED 3.2 DURATORQ TDCI",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501116765043": {
       "sku": "SP12501116765043",
@@ -825,7 +912,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLT 2.0 FLEX 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -837,7 +924,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "RANGER CD LIMITED 3.2 DURATORQ TDCI",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -897,7 +984,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -1169,12 +1256,12 @@
     "SP12501041455001": {
       "sku": "SP12501041455001",
       "id_produto": "8726",
-      "nome": "ALTERNADOR CHEVROLET CELTA SPIRIT/LT MPFI 8V FLEXP 2011/12",
+      "nome": "ALTERNADOR CHEVROLET CELTA SPIRIT/LT 1.0 MPFI 8V FLEXP 2012",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status_ml": "under_review",
+      "quantidade": "0",
       "classificacao": "8",
       "qtd_images": "9"
     },
@@ -1709,11 +1796,11 @@
     "SP12501041455027": {
       "sku": "SP12501041455027",
       "id_produto": "13339",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS CELTA 2011/2012",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
@@ -2061,7 +2148,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO GT LINE HI-POWER 1.6 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
