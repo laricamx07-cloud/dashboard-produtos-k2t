@@ -1,10 +1,10 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 10:12:44",
+  "ultima_atualizacao": "04/09/2026 10:18:24",
   "total_base_dia": 191,
-  "total_atual": 169,
-  "novos_produtos": 1,
+  "total_atual": 170,
+  "novos_produtos": 2,
   "total_subidos": 23,
   "skus_base_dia": [
     "SP12501004550032",
@@ -221,6 +221,7 @@
     "SP12501010312034",
     "SP12501010835034",
     "SP12501014806045",
+    "SP12501014873015",
     "SP12501014881011",
     "SP12501015101424",
     "SP12501015241004",
@@ -394,6 +395,7 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [
+    "SP12501014873015",
     "SP12501056258035"
   ],
   "skus_subidos_hoje": [
@@ -447,6 +449,18 @@
     "SP12501105828032"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501014873015",
+      "id_produto": "757",
+      "nome": "FAROL DIANTEIRO DIREITO FIAT DUCATO CARGO CURTO 2.3 16V 2018",
+      "marca": "Fiat",
+      "modelo_do_veiculo": "Ducato Cargo Curto 2.3 16V Diesel",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501056258035",
       "id_produto": "20965",
@@ -732,7 +746,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FUSION SEL 3.0 V6 AWD 24V 243CV AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1154,7 +1168,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FUSION SEL 3.0 V6 AWD 24V 243CV AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3042,6 +3056,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501014873015": {
+      "sku": "SP12501014873015",
+      "id_produto": "757",
+      "nome": "FAROL DIANTEIRO DIREITO FIAT DUCATO CARGO CURTO 2.3 16V 2018",
+      "marca": "Fiat",
+      "modelo_do_veiculo": "Ducato Cargo Curto 2.3 16V Diesel",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "7"
     }
   }
 }
