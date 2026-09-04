@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 16:27:39",
+  "ultima_atualizacao": "04/09/2026 16:42:44",
   "total_base_dia": 191,
-  "total_atual": 118,
-  "novos_produtos": 32,
-  "total_subidos": 106,
+  "total_atual": 124,
+  "novos_produtos": 40,
+  "total_subidos": 108,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -262,11 +262,16 @@
     "SP12501042273041",
     "SP12501042273400",
     "SP12501042281004",
+    "SP12501053810001",
     "SP12501053810010",
+    "SP12501053810026",
+    "SP12501053810027",
     "SP12501053810032",
     "SP12501053810033",
     "SP12501053810034",
     "SP12501053810035",
+    "SP12501053810037",
+    "SP12501053810411",
     "SP12501053836004",
     "SP12501053852001",
     "SP12501053852004",
@@ -282,6 +287,7 @@
     "SP12501056215010",
     "SP12501056215024",
     "SP12501056215026",
+    "SP12501056215027",
     "SP12501056215029",
     "SP12501056215033",
     "SP12501056215045",
@@ -408,10 +414,12 @@
     "SP12501111550424",
     "SP12501111550448",
     "SP12501111569026",
+    "SP12501111585007",
     "SP12501111585010",
     "SP12501111585019",
     "SP12501111585029",
     "SP12501111585035",
+    "SP12501111585038",
     "SP12501111585045",
     "SP12501114290020",
     "SP12501116765039",
@@ -426,11 +434,16 @@
   ],
   "skus_novos_hoje": [
     "SP12501014873015",
+    "SP12501053810001",
     "SP12501053810010",
+    "SP12501053810026",
+    "SP12501053810027",
     "SP12501053810032",
     "SP12501053810033",
     "SP12501053810034",
     "SP12501053810035",
+    "SP12501053810037",
+    "SP12501053810411",
     "SP12501053852001",
     "SP12501053852004",
     "SP12501053852026",
@@ -438,6 +451,7 @@
     "SP12501056215010",
     "SP12501056215024",
     "SP12501056215026",
+    "SP12501056215027",
     "SP12501056215029",
     "SP12501056215033",
     "SP12501056215045",
@@ -451,10 +465,12 @@
     "SP12501080132400",
     "SP12501108100599",
     "SP12501111569026",
+    "SP12501111585007",
     "SP12501111585010",
     "SP12501111585019",
     "SP12501111585029",
     "SP12501111585035",
+    "SP12501111585038",
     "SP12501111585045",
     "SP12501123702033"
   ],
@@ -491,6 +507,7 @@
     "SP12501053852045",
     "SP12501053852400",
     "SP12501054379038",
+    "SP12501056215004",
     "SP12501056215033",
     "SP12501056215045",
     "SP12501056231001",
@@ -540,6 +557,7 @@
     "SP12501089199004",
     "SP12501089199400",
     "SP12501089202004",
+    "SP12501089229012",
     "SP12501093200400",
     "SP12501094621004",
     "SP12501105690005",
@@ -599,6 +617,7 @@
     "SP12501053852045",
     "SP12501053852400",
     "SP12501054379038",
+    "SP12501056215004",
     "SP12501056215033",
     "SP12501056215045",
     "SP12501056231001",
@@ -648,6 +667,7 @@
     "SP12501089199004",
     "SP12501089199400",
     "SP12501089202004",
+    "SP12501089229012",
     "SP12501093200400",
     "SP12501094621004",
     "SP12501105690005",
@@ -688,6 +708,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501053810001",
+      "id_produto": "20981",
+      "nome": "ALTERNADOR",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501053810010",
       "id_produto": "20982",
       "nome": "CHAVE DE SETA",
@@ -697,6 +729,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501053810026",
+      "id_produto": "20983",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501053810027",
+      "id_produto": "20984",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "5"
     },
     {
@@ -748,6 +804,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501053810037",
+      "id_produto": "20985",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501053810411",
+      "id_produto": "20986",
+      "nome": "ELETROVENTILADOR",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501053852001",
       "id_produto": "20987",
       "nome": "ALTERNADOR",
@@ -786,11 +866,11 @@
     {
       "sku": "SP12501056215004",
       "id_produto": "20976",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC SPIRIT 1.0 FLEXPOWER 2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -830,6 +910,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056215027",
+      "id_produto": "20994",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501056215029",
@@ -988,6 +1080,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501111585007",
+      "id_produto": "21000",
+      "nome": "CAPÔ",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501111585010",
       "id_produto": "21001",
       "nome": "CHAVE DE SETA",
@@ -1034,6 +1138,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111585038",
+      "id_produto": "21005",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501111585045",
@@ -1444,6 +1560,18 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056215004",
+      "id_produto": "20976",
+      "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC SPIRIT 1.0 FLEXPOWER 2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501056215033",
@@ -2032,6 +2160,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501089229012",
+      "id_produto": "17135",
+      "nome": "CONDENSADOR AR-COND NISSAN KICKS EXCLUSIVE 1.6 16V AUT 23/24",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS EXCLUSIVE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501093200400",
@@ -3530,7 +3670,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS EXCLUSIVE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -4822,11 +4962,11 @@
     "SP12501056215004": {
       "sku": "SP12501056215004",
       "id_produto": "20976",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC SPIRIT 1.0 FLEXPOWER 2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -5010,6 +5150,102 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501111585038": {
+      "sku": "SP12501111585038",
+      "id_produto": "21005",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501053810001": {
+      "sku": "SP12501053810001",
+      "id_produto": "20981",
+      "nome": "ALTERNADOR",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501053810027": {
+      "sku": "SP12501053810027",
+      "id_produto": "20984",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501111585007": {
+      "sku": "SP12501111585007",
+      "id_produto": "21000",
+      "nome": "CAPÔ",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501056215027": {
+      "sku": "SP12501056215027",
+      "id_produto": "20994",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    "SP12501053810026": {
+      "sku": "SP12501053810026",
+      "id_produto": "20983",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501053810411": {
+      "sku": "SP12501053810411",
+      "id_produto": "20986",
+      "nome": "ELETROVENTILADOR",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501053810037": {
+      "sku": "SP12501053810037",
+      "id_produto": "20985",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     }
   }
 }
