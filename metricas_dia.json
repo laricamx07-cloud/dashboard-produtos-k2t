@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 13:27:05",
+  "ultima_atualizacao": "04/09/2026 15:23:17",
   "total_base_dia": 191,
-  "total_atual": 127,
-  "novos_produtos": 12,
-  "total_subidos": 76,
+  "total_atual": 119,
+  "novos_produtos": 15,
+  "total_subidos": 87,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -267,6 +267,7 @@
     "SP12501053810034",
     "SP12501053810035",
     "SP12501053836004",
+    "SP12501053852004",
     "SP12501053852007",
     "SP12501053852033",
     "SP12501053852034",
@@ -276,6 +277,7 @@
     "SP12501054379038",
     "SP12501056215033",
     "SP12501056215045",
+    "SP12501056215400",
     "SP12501056231001",
     "SP12501056231010",
     "SP12501056231011",
@@ -288,6 +290,7 @@
     "SP12501056231045",
     "SP12501056231400",
     "SP12501056231411",
+    "SP12501056258004",
     "SP12501056258035",
     "SP12501056266020",
     "SP12501056274004",
@@ -410,8 +413,11 @@
     "SP12501053810033",
     "SP12501053810034",
     "SP12501053810035",
+    "SP12501053852004",
     "SP12501056215033",
     "SP12501056215045",
+    "SP12501056215400",
+    "SP12501056258004",
     "SP12501056258035",
     "SP12501056274400",
     "SP12501057327400",
@@ -419,7 +425,9 @@
     "SP12501123702033"
   ],
   "skus_subidos_hoje": [
+    "SP12501009870400",
     "SP12501014873015",
+    "SP12501015241004",
     "SP12501041366400",
     "SP12501041455001",
     "SP12501041455027",
@@ -433,6 +441,8 @@
     "SP12501042222045",
     "SP12501042265001",
     "SP12501042273400",
+    "SP12501053810033",
+    "SP12501053810034",
     "SP12501053810035",
     "SP12501053836004",
     "SP12501053852007",
@@ -461,6 +471,13 @@
     "SP12501056274400",
     "SP12501057300004",
     "SP12501057327400",
+    "SP12501057815004",
+    "SP12501079916004",
+    "SP12501080000004",
+    "SP12501080035004",
+    "SP12501080051004",
+    "SP12501080078004",
+    "SP12501080132004",
     "SP12501080132400",
     "SP12501084855004",
     "SP12501087374400",
@@ -497,7 +514,9 @@
     "SP12501123702033"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501009870400",
     "SP12501014873015",
+    "SP12501015241004",
     "SP12501041366400",
     "SP12501041455001",
     "SP12501041455027",
@@ -511,6 +530,8 @@
     "SP12501042222045",
     "SP12501042265001",
     "SP12501042273400",
+    "SP12501053810033",
+    "SP12501053810034",
     "SP12501053810035",
     "SP12501053836004",
     "SP12501053852007",
@@ -539,6 +560,13 @@
     "SP12501056274400",
     "SP12501057300004",
     "SP12501057327400",
+    "SP12501057815004",
+    "SP12501079916004",
+    "SP12501080000004",
+    "SP12501080035004",
+    "SP12501080051004",
+    "SP12501080078004",
+    "SP12501080132004",
     "SP12501080132400",
     "SP12501084855004",
     "SP12501087374400",
@@ -602,11 +630,11 @@
     {
       "sku": "SP12501053810033",
       "id_produto": "20972",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT CLIO EXPRESSION 1.0 2014",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -614,11 +642,11 @@
     {
       "sku": "SP12501053810034",
       "id_produto": "20973",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT CLIO EXPRESSION 1.0 16V 2014",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -633,6 +661,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053852004",
+      "id_produto": "20975",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -658,6 +698,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056215400",
+      "id_produto": "20977",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056258004",
+      "id_produto": "20978",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501056258035",
@@ -722,6 +786,18 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501009870400",
+      "id_produto": "3414",
+      "nome": "MOTOR COMPLETO FORD KA+ SEDAN 1.0 SE/SE PLUS TIVCT FLEX 2021",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA+ SEDAN 1.0 SE/SE PLUS TIVCT FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501014873015",
       "id_produto": "757",
       "nome": "FAROL DIANTEIRO DIREITO FIAT DUCATO CARGO CURTO 2.3 16V 2018",
@@ -732,6 +808,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501015241004",
+      "id_produto": "3453",
+      "nome": "CÂMBIO AUTOMÁTICO HONDA FIT EX/S 1.5 FLEX 2012/2013",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501041366400",
@@ -888,6 +976,30 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "11"
+    },
+    {
+      "sku": "SP12501053810033",
+      "id_produto": "20972",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT CLIO EXPRESSION 1.0 2014",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053810034",
+      "id_produto": "20973",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT CLIO EXPRESSION 1.0 16V 2014",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501053810035",
@@ -1224,6 +1336,90 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501057815004",
+      "id_produto": "8619",
+      "nome": "CÂMBIO MANUAL RENAULT LOGAN EXPRESSION HI-FLEX 1.6 2012/2013",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN EXPRESSION HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": null,
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501079916004",
+      "id_produto": "5603",
+      "nome": "CAMBIO AUTOMÁTICO HYUNDAI CRETA ATTITUDE 1.6 2018/19",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501080000004",
+      "id_produto": "5711",
+      "nome": "CÂMBIO AUTOMATICO VOLKSWAGEN POLO HIGHLINE TSI 1.0 FLEX 2025",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "POLO HIGHLINE TSI 1.0 FLEX 12V AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501080035004",
+      "id_produto": "5607",
+      "nome": "CÂMBIO AUTOMATICO CITROEN C3 EXCLUSIVE BUS. 1.6 2018/19",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE BUS. 1.6 FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501080051004",
+      "id_produto": "5537",
+      "nome": "CÂMBIO AUTOMÁTICO HONDA FIT LX 1.5 FLEXONE 16V 2015",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501080078004",
+      "id_produto": "5609",
+      "nome": "CÂMBIO MANUAL CHEVROLET ONIX HATCH LT 1.4 8V 2013",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501080132004",
+      "id_produto": "5542",
+      "nome": "CÂMBIO AUTOMÁTICO HONDA WR-V EX 1.5 FLEXONE 16V 2017/2018",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501080132400",
@@ -1774,7 +1970,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -1810,7 +2006,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE BUS. 1.6 FLEX 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -2146,7 +2342,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA+ SEDAN 1.0 SE/SE PLUS TIVCT FLEX 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -2218,7 +2414,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
@@ -2329,7 +2525,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "6",
-      "qtd_images": "3"
+      "qtd_images": "5"
     },
     "SP12501015730034": {
       "sku": "SP12501015730034",
@@ -2473,7 +2669,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
-      "qtd_images": "8"
+      "qtd_images": "10"
     },
     "SP12501056231034": {
       "sku": "SP12501056231034",
@@ -3226,7 +3422,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN EXPRESSION HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": null,
       "qtd_images": "9"
@@ -3502,7 +3698,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -3538,7 +3734,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO HIGHLINE TSI 1.0 FLEX 12V AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "9"
@@ -3574,7 +3770,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.5 FLEXONE 16V 5P AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
@@ -3814,7 +4010,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -4038,11 +4234,11 @@
     "SP12501053810033": {
       "sku": "SP12501053810033",
       "id_produto": "20972",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT CLIO EXPRESSION 1.0 2014",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -4050,11 +4246,11 @@
     "SP12501053810034": {
       "sku": "SP12501053810034",
       "id_produto": "20973",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT CLIO EXPRESSION 1.0 16V 2014",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -4070,6 +4266,42 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "7"
+    },
+    "SP12501056215400": {
+      "sku": "SP12501056215400",
+      "id_produto": "20977",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501053852004": {
+      "sku": "SP12501053852004",
+      "id_produto": "20975",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501056258004": {
+      "sku": "SP12501056258004",
+      "id_produto": "20978",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
