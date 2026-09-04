@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 09:42:26",
+  "ultima_atualizacao": "04/09/2026 09:47:08",
   "total_base_dia": 191,
-  "total_atual": 177,
+  "total_atual": 175,
   "novos_produtos": 1,
-  "total_subidos": 15,
+  "total_subidos": 17,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -411,6 +411,8 @@
     "SP12501042265001",
     "SP12501042273400",
     "SP12501053836004",
+    "SP12501084855004",
+    "SP12501105690005",
     "SP12501105690400"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -428,6 +430,8 @@
     "SP12501042265001",
     "SP12501042273400",
     "SP12501053836004",
+    "SP12501084855004",
+    "SP12501105690005",
     "SP12501105690400"
   ],
   "itens_novos_hoje": [
@@ -614,6 +618,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501084855004",
+      "id_produto": "9070",
+      "nome": "CÂMBIO MANUAL FIAT STRADA ENDURANCE 1.4 2023/2023 STRADA END",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA ENDURANCE 1.4 FLEX 8V CS PLUS",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501105690005",
+      "id_produto": "16769",
+      "nome": "TOMADA DE FORÇA CAIXA DE TRAÇÃO FORD RANGER LIMITED 3.2 18",
+      "marca": "FORD",
+      "modelo_do_veiculo": "RANGER CD LIMITED 3.2 DURATORQ TDCI",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501105690400",
       "id_produto": "16784",
       "nome": "MOTOR COMPLETO FORD RANGER CD LIMITED 3.2 2017/2018",
@@ -790,7 +818,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA ENDURANCE 1.4 FLEX 8V CS PLUS",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -1342,7 +1370,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "RANGER CD LIMITED 3.2 DURATORQ TDCI",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
