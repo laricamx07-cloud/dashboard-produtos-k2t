@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 10:47:32",
+  "ultima_atualizacao": "04/09/2026 10:51:02",
   "total_base_dia": 191,
-  "total_atual": 156,
+  "total_atual": 155,
   "novos_produtos": 4,
-  "total_subidos": 39,
+  "total_subidos": 40,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -436,6 +436,7 @@
     "SP12501108088400",
     "SP12501109246004",
     "SP12501109262004",
+    "SP12501111550011",
     "SP12501111550019",
     "SP12501111550020",
     "SP12501111550026",
@@ -477,6 +478,7 @@
     "SP12501108088400",
     "SP12501109246004",
     "SP12501109262004",
+    "SP12501111550011",
     "SP12501111550019",
     "SP12501111550020",
     "SP12501111550026",
@@ -830,7 +832,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -902,7 +904,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
@@ -914,7 +916,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI EASY ON 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -930,6 +932,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111550011",
+      "id_produto": "20958",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FIAT ARGO DRIVE 1.0 6V 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501111550019",
@@ -1132,7 +1146,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI EASY ON 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1572,11 +1586,11 @@
     "SP12501111550011": {
       "sku": "SP12501111550011",
       "id_produto": "20958",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FIAT ARGO DRIVE 1.0 6V 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2212,7 +2226,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -2368,7 +2382,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
