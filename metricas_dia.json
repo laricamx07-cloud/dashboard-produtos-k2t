@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 12:21:22",
+  "ultima_atualizacao": "04/09/2026 12:27:27",
   "total_base_dia": 191,
   "total_atual": 136,
-  "novos_produtos": 8,
-  "total_subidos": 63,
+  "novos_produtos": 9,
+  "total_subidos": 64,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -263,6 +263,7 @@
     "SP12501042273400",
     "SP12501042281004",
     "SP12501053810032",
+    "SP12501053810035",
     "SP12501053836004",
     "SP12501053852007",
     "SP12501053852033",
@@ -403,6 +404,7 @@
   "skus_novos_hoje": [
     "SP12501014873015",
     "SP12501053810032",
+    "SP12501053810035",
     "SP12501056215033",
     "SP12501056215045",
     "SP12501056258035",
@@ -466,6 +468,7 @@
     "SP12501108088400",
     "SP12501109246004",
     "SP12501109262004",
+    "SP12501111550004",
     "SP12501111550011",
     "SP12501111550019",
     "SP12501111550020",
@@ -531,6 +534,7 @@
     "SP12501108088400",
     "SP12501109246004",
     "SP12501109262004",
+    "SP12501111550004",
     "SP12501111550011",
     "SP12501111550019",
     "SP12501111550020",
@@ -564,6 +568,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501053810035",
+      "id_produto": "20974",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501056215033",
@@ -838,7 +854,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1298,6 +1314,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111550004",
+      "id_produto": "20947",
+      "nome": "CÂMBIO MANUAL FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501111550011",
@@ -2496,7 +2524,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -3624,7 +3652,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -3784,6 +3812,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    "SP12501053810035": {
+      "sku": "SP12501053810035",
+      "id_produto": "20974",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     }
   }
 }
