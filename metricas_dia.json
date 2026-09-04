@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 10:18:24",
+  "ultima_atualizacao": "04/09/2026 10:27:28",
   "total_base_dia": 191,
-  "total_atual": 170,
-  "novos_produtos": 2,
-  "total_subidos": 23,
+  "total_atual": 165,
+  "novos_produtos": 3,
+  "total_subidos": 29,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -270,6 +270,7 @@
     "SP12501053852045",
     "SP12501053852400",
     "SP12501054379038",
+    "SP12501056215033",
     "SP12501056231001",
     "SP12501056231010",
     "SP12501056231011",
@@ -396,6 +397,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501014873015",
+    "SP12501056215033",
     "SP12501056258035"
   ],
   "skus_subidos_hoje": [
@@ -418,10 +420,16 @@
     "SP12501056274004",
     "SP12501057300004",
     "SP12501084855004",
+    "SP12501087374400",
+    "SP12501087447026",
     "SP12501105690005",
     "SP12501105690400",
     "SP12501105798012",
-    "SP12501105828032"
+    "SP12501105801012",
+    "SP12501105828032",
+    "SP12501111550411",
+    "SP12501111550424",
+    "SP12501111550448"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501041366400",
@@ -443,10 +451,16 @@
     "SP12501056274004",
     "SP12501057300004",
     "SP12501084855004",
+    "SP12501087374400",
+    "SP12501087447026",
     "SP12501105690005",
     "SP12501105690400",
     "SP12501105798012",
-    "SP12501105828032"
+    "SP12501105801012",
+    "SP12501105828032",
+    "SP12501111550411",
+    "SP12501111550424",
+    "SP12501111550448"
   ],
   "itens_novos_hoje": [
     {
@@ -460,6 +474,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056215033",
+      "id_produto": "20966",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501056258035",
@@ -704,6 +730,30 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501087374400",
+      "id_produto": "16035",
+      "nome": "MOTOR COMPLETO RENAULT DUSTER EXPRESSION 1.6 HI-FLEX 17/18",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER EXPRESSION 1.6 HI-FLEX 16V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501087447026",
+      "id_produto": "12245",
+      "nome": "MOTOR DE PARTIDA FIAT MOBI EASY 1.0 FIRE FLEX 2017/2018",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI EASY 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501105690005",
       "id_produto": "16769",
       "nome": "TOMADA DE FORÇA CAIXA DE TRAÇÃO FORD RANGER LIMITED 3.2 18",
@@ -740,6 +790,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501105801012",
+      "id_produto": "17116",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO NISSAN MARCH SL 1.6 15/16",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "MARCH SL 1.6 16V FLEX FUEL 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501105828032",
       "id_produto": "18056",
       "nome": "PORTA DIANTEIRA DIREITA FORD FUSION SEL 3.0 2009/2010",
@@ -750,6 +812,42 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111550411",
+      "id_produto": "20962",
+      "nome": "ELETROVENTILADOR FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111550424",
+      "id_produto": "20963",
+      "nome": "MULTIMÍDIA FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111550448",
+      "id_produto": "20964",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO FIAT ARGO DRIVE 1.0 6V FLEX 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1215,8 +1313,8 @@
       "nome": "MOTOR DE PARTIDA FIAT MOBI EASY 1.0 FIRE FLEX 2017/2018",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI EASY 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -1920,11 +2018,11 @@
     "SP12501111550424": {
       "sku": "SP12501111550424",
       "id_produto": "20963",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -2244,11 +2342,11 @@
     "SP12501111550448": {
       "sku": "SP12501111550448",
       "id_produto": "20964",
-      "nome": "SEMI-EIXO DIANTEIRO DIREITO",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO FIAT ARGO DRIVE 1.0 6V FLEX 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -2776,7 +2874,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER EXPRESSION 1.6 HI-FLEX 16V MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2992,7 +3090,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "MARCH SL 1.6 16V FLEX FUEL 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -3012,11 +3110,11 @@
     "SP12501111550411": {
       "sku": "SP12501111550411",
       "id_produto": "20962",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -3068,6 +3166,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
+    },
+    "SP12501056215033": {
+      "sku": "SP12501056215033",
+      "id_produto": "20966",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
