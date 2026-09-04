@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 12:58:17",
+  "ultima_atualizacao": "04/09/2026 13:12:58",
   "total_base_dia": 191,
   "total_atual": 128,
-  "novos_produtos": 11,
-  "total_subidos": 74,
+  "novos_produtos": 12,
+  "total_subidos": 75,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -294,6 +294,7 @@
     "SP12501056274400",
     "SP12501057114004",
     "SP12501057300004",
+    "SP12501057327400",
     "SP12501057343550",
     "SP12501057815004",
     "SP12501057831514",
@@ -413,6 +414,7 @@
     "SP12501056215045",
     "SP12501056258035",
     "SP12501056274400",
+    "SP12501057327400",
     "SP12501080132400",
     "SP12501123702033"
   ],
@@ -431,6 +433,7 @@
     "SP12501042222045",
     "SP12501042265001",
     "SP12501042273400",
+    "SP12501053810035",
     "SP12501053836004",
     "SP12501053852007",
     "SP12501053852033",
@@ -507,6 +510,7 @@
     "SP12501042222045",
     "SP12501042265001",
     "SP12501042273400",
+    "SP12501053810035",
     "SP12501053836004",
     "SP12501053852007",
     "SP12501053852033",
@@ -620,11 +624,11 @@
     {
       "sku": "SP12501053810035",
       "id_produto": "20974",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA RENAULT CLIO EXPRESSION 1.0 13/14",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -676,6 +680,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501057327400",
+      "id_produto": "13770",
+      "nome": "MOTOR COMPLETO CHEVROLET PRISMA SED. MAXX/LT 1.4 8V 2012",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501080132400",
@@ -870,6 +886,18 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "11"
+    },
+    {
+      "sku": "SP12501053810035",
+      "id_produto": "20974",
+      "nome": "PORTA TRASEIRA ESQUERDA RENAULT CLIO EXPRESSION 1.0 13/14",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501053836004",
@@ -1070,7 +1098,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2968,7 +2996,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -3984,11 +4012,11 @@
     "SP12501053810035": {
       "sku": "SP12501053810035",
       "id_produto": "20974",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA RENAULT CLIO EXPRESSION 1.0 13/14",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -4016,6 +4044,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501057327400": {
+      "sku": "SP12501057327400",
+      "id_produto": "13770",
+      "nome": "MOTOR COMPLETO CHEVROLET PRISMA SED. MAXX/LT 1.4 8V 2012",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "5"
     }
   }
 }
