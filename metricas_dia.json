@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 11:12:40",
+  "ultima_atualizacao": "04/09/2026 11:17:20",
   "total_base_dia": 191,
-  "total_atual": 150,
+  "total_atual": 148,
   "novos_produtos": 5,
-  "total_subidos": 46,
+  "total_subidos": 48,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -421,6 +421,7 @@
     "SP12501042273400",
     "SP12501053836004",
     "SP12501054379038",
+    "SP12501056231019",
     "SP12501056231037",
     "SP12501056231400",
     "SP12501056231411",
@@ -435,6 +436,7 @@
     "SP12501087749035",
     "SP12501087773004",
     "SP12501088230011",
+    "SP12501089164400",
     "SP12501105690005",
     "SP12501105690400",
     "SP12501105798012",
@@ -469,6 +471,7 @@
     "SP12501042273400",
     "SP12501053836004",
     "SP12501054379038",
+    "SP12501056231019",
     "SP12501056231037",
     "SP12501056231400",
     "SP12501056231411",
@@ -483,6 +486,7 @@
     "SP12501087749035",
     "SP12501087773004",
     "SP12501088230011",
+    "SP12501089164400",
     "SP12501105690005",
     "SP12501105690400",
     "SP12501105798012",
@@ -756,13 +760,25 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501056231019",
+      "id_produto": "20951",
+      "nome": "LANTERNA TRASEIRA DIREITA HONDA FIT EX 1.5 FLEX 16V 5P 2005",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501056231037",
       "id_produto": "20952",
       "nome": "RETROVISOR DIREITO HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -774,7 +790,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -924,6 +940,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501089164400",
+      "id_produto": "16290",
+      "nome": "MOTOR COMPLETO FIAT PALIO 1.0 FIRE FLEX 2006/2007",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501105690005",
       "id_produto": "16769",
       "nome": "TOMADA DE FORÇA CAIXA DE TRAÇÃO FORD RANGER LIMITED 3.2 18",
@@ -990,7 +1018,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 R SPEC 1.6 16V CVVT AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1340,7 +1368,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 R SPEC 1.6 16V CVVT AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1592,7 +1620,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -1736,7 +1764,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -3208,11 +3236,11 @@
     "SP12501056231019": {
       "sku": "SP12501056231019",
       "id_produto": "20951",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA HONDA FIT EX 1.5 FLEX 16V 5P 2005",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -3308,7 +3336,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
