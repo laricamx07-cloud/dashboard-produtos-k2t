@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 16:12:43",
+  "ultima_atualizacao": "04/09/2026 16:17:22",
   "total_base_dia": 191,
-  "total_atual": 105,
-  "novos_produtos": 18,
-  "total_subidos": 104,
+  "total_atual": 109,
+  "novos_produtos": 23,
+  "total_subidos": 106,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -267,6 +267,7 @@
     "SP12501053810034",
     "SP12501053810035",
     "SP12501053836004",
+    "SP12501053852001",
     "SP12501053852004",
     "SP12501053852007",
     "SP12501053852033",
@@ -399,6 +400,10 @@
     "SP12501111550411",
     "SP12501111550424",
     "SP12501111550448",
+    "SP12501111569026",
+    "SP12501111585019",
+    "SP12501111585029",
+    "SP12501111585045",
     "SP12501114290020",
     "SP12501116765039",
     "SP12501116765040",
@@ -416,6 +421,7 @@
     "SP12501053810033",
     "SP12501053810034",
     "SP12501053810035",
+    "SP12501053852001",
     "SP12501053852004",
     "SP12501056215004",
     "SP12501056215033",
@@ -428,6 +434,10 @@
     "SP12501057327400",
     "SP12501080132400",
     "SP12501108100599",
+    "SP12501111569026",
+    "SP12501111585019",
+    "SP12501111585029",
+    "SP12501111585045",
     "SP12501123702033"
   ],
   "skus_subidos_hoje": [
@@ -455,6 +465,7 @@
     "SP12501053810034",
     "SP12501053810035",
     "SP12501053836004",
+    "SP12501053852004",
     "SP12501053852007",
     "SP12501053852033",
     "SP12501053852034",
@@ -510,6 +521,7 @@
     "SP12501089172400",
     "SP12501089199004",
     "SP12501089199400",
+    "SP12501089202004",
     "SP12501093200400",
     "SP12501094621004",
     "SP12501105690005",
@@ -561,6 +573,7 @@
     "SP12501053810034",
     "SP12501053810035",
     "SP12501053836004",
+    "SP12501053852004",
     "SP12501053852007",
     "SP12501053852033",
     "SP12501053852034",
@@ -616,6 +629,7 @@
     "SP12501089172400",
     "SP12501089199004",
     "SP12501089199400",
+    "SP12501089202004",
     "SP12501093200400",
     "SP12501094621004",
     "SP12501105690005",
@@ -704,13 +718,25 @@
       "qtd_images": "10"
     },
     {
-      "sku": "SP12501053852004",
-      "id_produto": "20975",
-      "nome": "CÂMBIO MANUAL",
+      "sku": "SP12501053852001",
+      "id_produto": "20987",
+      "nome": "ALTERNADOR",
       "marca": "PEUGEOT",
-      "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501053852004",
+      "id_produto": "20975",
+      "nome": "CÂMBIO MANUAL PEUGEOT 206 FELINE 1.6 16V 4P 2006/2007",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -846,6 +872,54 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111569026",
+      "id_produto": "20999",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111585019",
+      "id_produto": "21002",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111585029",
+      "id_produto": "21003",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111585045",
+      "id_produto": "21006",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501123702033",
@@ -1147,6 +1221,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053852004",
+      "id_produto": "20975",
+      "nome": "CÂMBIO MANUAL PEUGEOT 206 FELINE 1.6 16V 4P 2006/2007",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -1804,9 +1890,21 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SEDAN 2.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501089202004",
+      "id_produto": "16275",
+      "nome": "CÂMBIO MANUAL FORD KA 1.0 8V ST FLEX 2008/2009",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "6"
     },
     {
@@ -2322,7 +2420,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SEDAN 2.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -2406,7 +2504,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -4562,11 +4660,11 @@
     "SP12501053852004": {
       "sku": "SP12501053852004",
       "id_produto": "20975",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL PEUGEOT 206 FELINE 1.6 16V 4P 2006/2007",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -4618,6 +4716,66 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    "SP12501111569026": {
+      "sku": "SP12501111569026",
+      "id_produto": "20999",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    "SP12501111585019": {
+      "sku": "SP12501111585019",
+      "id_produto": "21002",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501053852001": {
+      "sku": "SP12501053852001",
+      "id_produto": "20987",
+      "nome": "ALTERNADOR",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501111585045": {
+      "sku": "SP12501111585045",
+      "id_produto": "21006",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501111585029": {
+      "sku": "SP12501111585029",
+      "id_produto": "21003",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
