@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 10:27:28",
+  "ultima_atualizacao": "04/09/2026 10:42:42",
   "total_base_dia": 191,
-  "total_atual": 165,
-  "novos_produtos": 3,
-  "total_subidos": 29,
+  "total_atual": 159,
+  "novos_produtos": 4,
+  "total_subidos": 36,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -271,6 +271,7 @@
     "SP12501053852400",
     "SP12501054379038",
     "SP12501056215033",
+    "SP12501056215045",
     "SP12501056231001",
     "SP12501056231010",
     "SP12501056231011",
@@ -398,9 +399,11 @@
   "skus_novos_hoje": [
     "SP12501014873015",
     "SP12501056215033",
+    "SP12501056215045",
     "SP12501056258035"
   ],
   "skus_subidos_hoje": [
+    "SP12501014873015",
     "SP12501041366400",
     "SP12501041455001",
     "SP12501041455027",
@@ -422,16 +425,23 @@
     "SP12501084855004",
     "SP12501087374400",
     "SP12501087447026",
+    "SP12501087722004",
+    "SP12501087749035",
+    "SP12501087773004",
     "SP12501105690005",
     "SP12501105690400",
     "SP12501105798012",
     "SP12501105801012",
     "SP12501105828032",
+    "SP12501109262004",
+    "SP12501111550020",
+    "SP12501111550026",
     "SP12501111550411",
     "SP12501111550424",
     "SP12501111550448"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501014873015",
     "SP12501041366400",
     "SP12501041455001",
     "SP12501041455027",
@@ -453,11 +463,17 @@
     "SP12501084855004",
     "SP12501087374400",
     "SP12501087447026",
+    "SP12501087722004",
+    "SP12501087749035",
+    "SP12501087773004",
     "SP12501105690005",
     "SP12501105690400",
     "SP12501105798012",
     "SP12501105801012",
     "SP12501105828032",
+    "SP12501109262004",
+    "SP12501111550020",
+    "SP12501111550026",
     "SP12501111550411",
     "SP12501111550424",
     "SP12501111550448"
@@ -470,7 +486,7 @@
       "marca": "Fiat",
       "modelo_do_veiculo": "Ducato Cargo Curto 2.3 16V Diesel",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
@@ -480,12 +496,24 @@
       "id_produto": "20966",
       "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056215045",
+      "id_produto": "20967",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501056258035",
@@ -501,6 +529,18 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501014873015",
+      "id_produto": "757",
+      "nome": "FAROL DIANTEIRO DIREITO FIAT DUCATO CARGO CURTO 2.3 16V 2018",
+      "marca": "Fiat",
+      "modelo_do_veiculo": "Ducato Cargo Curto 2.3 16V Diesel",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501041366400",
       "id_produto": "5748",
@@ -754,6 +794,42 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501087722004",
+      "id_produto": "12230",
+      "nome": "CÂMBIO MANUAL FORD FIESTA 1.0 8V FLEX/CLASS 2009/2010",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501087749035",
+      "id_produto": "12055",
+      "nome": "PORTA TRASEIRA ESQUERDA PRATA VOLKSWAGEN FOX PRIME 2010/2011",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "Fox PRIME/Higli. 1.6 Total Flex 8V 5p",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501087773004",
+      "id_produto": "12232",
+      "nome": "CÂMBIO MANUAL CLASSIC 2010/2010",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501105690005",
       "id_produto": "16769",
       "nome": "TOMADA DE FORÇA CAIXA DE TRAÇÃO FORD RANGER LIMITED 3.2 18",
@@ -812,6 +888,42 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501109262004",
+      "id_produto": "16284",
+      "nome": "CÂMBIO AUTOMATICO JEEP COMPASS LONG. T270 1.3 TB 4X2 2024/25",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS LONG. T270 1.3 TB 4X2 FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111550020",
+      "id_produto": "20960",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FIAT ARGO DRIVE 1.0 6V FLEX 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111550026",
+      "id_produto": "20961",
+      "nome": "MOTOR DE PARTIDA FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501111550411",
@@ -1238,11 +1350,11 @@
     "SP12501111550020": {
       "sku": "SP12501111550020",
       "id_produto": "20960",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA FIAT ARGO DRIVE 1.0 6V FLEX 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1514,11 +1626,11 @@
     "SP12501087722004": {
       "sku": "SP12501087722004",
       "id_produto": "12230",
-      "nome": "CÂMBIO MANUAL FORD FIESTA 1.0 8V FLEX/CLASS 2009/10",
+      "nome": "CÂMBIO MANUAL FORD FIESTA 1.0 8V FLEX/CLASS 2009/2010",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "10"
@@ -1526,11 +1638,11 @@
     "SP12501111550026": {
       "sku": "SP12501111550026",
       "id_produto": "20961",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FIAT ARGO DRIVE 1.0 6V FLEX 2022/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1782,7 +1894,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "Fox PRIME/Higli. 1.6 Total Flex 8V 5p",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -2054,11 +2166,11 @@
     "SP12501087773004": {
       "sku": "SP12501087773004",
       "id_produto": "12232",
-      "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC LIFE/LS 1.0 VHC FLEX 2010",
+      "nome": "CÂMBIO MANUAL CLASSIC 2010/2010",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -2742,7 +2854,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS LONG. T270 1.3 TB 4X2 FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -3162,7 +3274,7 @@
       "marca": "Fiat",
       "modelo_do_veiculo": "Ducato Cargo Curto 2.3 16V Diesel",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
@@ -3172,12 +3284,24 @@
       "id_produto": "20966",
       "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501056215045": {
+      "sku": "SP12501056215045",
+      "id_produto": "20967",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     }
   }
 }
