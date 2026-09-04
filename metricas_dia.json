@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 09:47:08",
+  "ultima_atualizacao": "04/09/2026 09:57:07",
   "total_base_dia": 191,
-  "total_atual": 175,
+  "total_atual": 172,
   "novos_produtos": 1,
-  "total_subidos": 17,
+  "total_subidos": 20,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -411,6 +411,9 @@
     "SP12501042265001",
     "SP12501042273400",
     "SP12501053836004",
+    "SP12501054379038",
+    "SP12501056274004",
+    "SP12501057300004",
     "SP12501084855004",
     "SP12501105690005",
     "SP12501105690400"
@@ -430,6 +433,9 @@
     "SP12501042265001",
     "SP12501042273400",
     "SP12501053836004",
+    "SP12501054379038",
+    "SP12501056274004",
+    "SP12501057300004",
     "SP12501084855004",
     "SP12501105690005",
     "SP12501105690400"
@@ -618,13 +624,49 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501054379038",
+      "id_produto": "9879",
+      "nome": "RETROVISOR ESQUERDO CHEVROLET CELTA SPIRIT/ LT 1.0 FLX 12/13",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056274004",
+      "id_produto": "20896",
+      "nome": "CÂMBIO MANUAL FIAT PALIO ELX 1.3 4P 2005/2005",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO ELX 1.3 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501057300004",
+      "id_produto": "16266",
+      "nome": "CÂMBIO MANUAL CHEVROLET PRISMA SED. MAXX/LT 1.4 8V 2011/12",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501084855004",
       "id_produto": "9070",
       "nome": "CÂMBIO MANUAL FIAT STRADA ENDURANCE 1.4 2023/2023 STRADA END",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA ENDURANCE 1.4 FLEX 8V CS PLUS",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -818,7 +860,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA ENDURANCE 1.4 FLEX 8V CS PLUS",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -2234,7 +2276,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2630,7 +2672,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ELX 1.3 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -2762,7 +2804,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
