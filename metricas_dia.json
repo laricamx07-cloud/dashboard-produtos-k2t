@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 08:47:02",
+  "ultima_atualizacao": "04/09/2026 08:50:58",
   "total_base_dia": 191,
-  "total_atual": 185,
+  "total_atual": 183,
   "novos_produtos": 0,
-  "total_subidos": 6,
+  "total_subidos": 8,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -399,6 +399,8 @@
     "SP12501041455027",
     "SP12501041501400",
     "SP12501041838001",
+    "SP12501041900027",
+    "SP12501041935400",
     "SP12501105690400"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -407,6 +409,8 @@
     "SP12501041455027",
     "SP12501041501400",
     "SP12501041838001",
+    "SP12501041900027",
+    "SP12501041935400",
     "SP12501105690400"
   ],
   "itens_novos_hoje": [],
@@ -470,6 +474,30 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501041900027",
+      "id_produto": "10408",
+      "nome": "PAINEL DE INSTRUMENTOS FORD KA 1.0 8V/1.0 8V ST FLEX 2009",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501041935400",
+      "id_produto": "10788",
+      "nome": "MOTOR COMPLETO CITROEN C3 GLX/SONORA 1.4 FLEX 8V 2008",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 GLX 1.4/ GLX SONORA 1.4 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "4"
     },
     {
       "sku": "SP12501105690400",
@@ -1392,7 +1420,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -1740,7 +1768,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 GLX 1.4/ GLX SONORA 1.4 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "4"
