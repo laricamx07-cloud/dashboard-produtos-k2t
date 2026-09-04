@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 15:42:52",
+  "ultima_atualizacao": "04/09/2026 15:47:19",
   "total_base_dia": 191,
-  "total_atual": 111,
+  "total_atual": 108,
   "novos_produtos": 17,
-  "total_subidos": 97,
+  "total_subidos": 100,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -432,6 +432,7 @@
     "SP12501009870400",
     "SP12501014873015",
     "SP12501015241004",
+    "SP12501041277004",
     "SP12501041358004",
     "SP12501041366400",
     "SP12501041455001",
@@ -488,8 +489,10 @@
     "SP12501080132400",
     "SP12501084146010",
     "SP12501084146036",
+    "SP12501084308400",
     "SP12501084375001",
     "SP12501084480400",
+    "SP12501084847004",
     "SP12501084855004",
     "SP12501087374400",
     "SP12501087447026",
@@ -531,6 +534,7 @@
     "SP12501009870400",
     "SP12501014873015",
     "SP12501015241004",
+    "SP12501041277004",
     "SP12501041358004",
     "SP12501041366400",
     "SP12501041455001",
@@ -587,8 +591,10 @@
     "SP12501080132400",
     "SP12501084146010",
     "SP12501084146036",
+    "SP12501084308400",
     "SP12501084375001",
     "SP12501084480400",
+    "SP12501084847004",
     "SP12501084855004",
     "SP12501087374400",
     "SP12501087447026",
@@ -868,6 +874,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501041277004",
+      "id_produto": "13535",
+      "nome": "CÂMBIO MANUAL FIAT PALIO ATTRACTIVE/ITÁLIA 1.4 2016/2016",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO ATTRACTIVE/ITÁLIA 1.4 EVO F.FLEX 8",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501041358004",
@@ -1542,6 +1560,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501084308400",
+      "id_produto": "13445",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN GOL 1.0 MI TOTAL FLEX 2009/2009",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501084375001",
       "id_produto": "11082",
       "nome": "ALTERNADOR VOLKSWAGEM FOX 1.6 MI 2012/2013",
@@ -1564,6 +1594,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501084847004",
+      "id_produto": "13568",
+      "nome": "CÂMBIO MANUAL FIAT MOBI LIKE 1.0 FLEX 2019/2019",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501084855004",
@@ -1644,7 +1686,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
@@ -2450,7 +2492,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "6"
@@ -2546,7 +2588,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
@@ -3014,7 +3056,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ATTRACTIVE/ITÁLIA 1.4 EVO F.FLEX 8",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -3878,7 +3920,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
