@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 13:12:58",
+  "ultima_atualizacao": "04/09/2026 13:17:27",
   "total_base_dia": 191,
-  "total_atual": 128,
+  "total_atual": 127,
   "novos_produtos": 12,
-  "total_subidos": 75,
+  "total_subidos": 76,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -460,6 +460,7 @@
     "SP12501056274004",
     "SP12501056274400",
     "SP12501057300004",
+    "SP12501057327400",
     "SP12501080132400",
     "SP12501084855004",
     "SP12501087374400",
@@ -537,6 +538,7 @@
     "SP12501056274004",
     "SP12501056274400",
     "SP12501057300004",
+    "SP12501057327400",
     "SP12501080132400",
     "SP12501084855004",
     "SP12501087374400",
@@ -688,10 +690,10 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "5"
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501080132400",
@@ -1210,6 +1212,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501057327400",
+      "id_produto": "13770",
+      "nome": "MOTOR COMPLETO CHEVROLET PRISMA SED. MAXX/LT 1.4 8V 2012",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501080132400",
@@ -4052,10 +4066,10 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "5"
+      "qtd_images": "7"
     }
   }
 }
