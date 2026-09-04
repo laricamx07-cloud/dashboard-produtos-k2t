@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 15:23:17",
+  "ultima_atualizacao": "04/09/2026 15:27:51",
   "total_base_dia": 191,
-  "total_atual": 119,
+  "total_atual": 116,
   "novos_produtos": 15,
-  "total_subidos": 87,
+  "total_subidos": 90,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -428,6 +428,7 @@
     "SP12501009870400",
     "SP12501014873015",
     "SP12501015241004",
+    "SP12501041358004",
     "SP12501041366400",
     "SP12501041455001",
     "SP12501041455027",
@@ -441,6 +442,7 @@
     "SP12501042222045",
     "SP12501042265001",
     "SP12501042273400",
+    "SP12501042281004",
     "SP12501053810033",
     "SP12501053810034",
     "SP12501053810035",
@@ -479,6 +481,7 @@
     "SP12501080078004",
     "SP12501080132004",
     "SP12501080132400",
+    "SP12501084480400",
     "SP12501084855004",
     "SP12501087374400",
     "SP12501087447026",
@@ -517,6 +520,7 @@
     "SP12501009870400",
     "SP12501014873015",
     "SP12501015241004",
+    "SP12501041358004",
     "SP12501041366400",
     "SP12501041455001",
     "SP12501041455027",
@@ -530,6 +534,7 @@
     "SP12501042222045",
     "SP12501042265001",
     "SP12501042273400",
+    "SP12501042281004",
     "SP12501053810033",
     "SP12501053810034",
     "SP12501053810035",
@@ -568,6 +573,7 @@
     "SP12501080078004",
     "SP12501080132004",
     "SP12501080132400",
+    "SP12501084480400",
     "SP12501084855004",
     "SP12501087374400",
     "SP12501087447026",
@@ -822,6 +828,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501041358004",
+      "id_produto": "9084",
+      "nome": "CÂMBIO MANUAL JAC J2 1.4 16V 2012/2013",
+      "marca": "JAC",
+      "modelo_do_veiculo": "J2 1.4 16V 5PORTAS MECANICO",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501041366400",
       "id_produto": "5748",
       "nome": "MOTOR COMPLETO RENAULT SANDERO GT LINE HI-POWER 1.6 2016",
@@ -976,6 +994,18 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "11"
+    },
+    {
+      "sku": "SP12501042281004",
+      "id_produto": "7545",
+      "nome": "CÂMBIO MANUAL RENAULT SANDERO EXPRESSION HI-FLEX 1.6 2012/13",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.6 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501053810033",
@@ -1368,7 +1398,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO HIGHLINE TSI 1.0 FLEX 12V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "9"
@@ -1404,7 +1434,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -1432,6 +1462,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501084480400",
+      "id_produto": "7518",
+      "nome": "MOTOR COMPLETO JAC MOTORS J3 S 1.5 JET FLEX 2014/2015",
+      "marca": "JAC MOTORS",
+      "modelo_do_veiculo": "J3 S 1.5 JET FLEX 16V VVT 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501084855004",
@@ -1970,7 +2012,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -2582,7 +2624,7 @@
       "marca": "JAC MOTORS",
       "modelo_do_veiculo": "J3 S 1.5 JET FLEX 16V VVT 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -2942,7 +2984,7 @@
       "marca": "JAC",
       "modelo_do_veiculo": "J2 1.4 16V 5PORTAS MECANICO",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
@@ -3734,7 +3776,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO HIGHLINE TSI 1.0 FLEX 12V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "9"
@@ -4106,7 +4148,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.6 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "10"
