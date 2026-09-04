@@ -1,10 +1,10 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 16:17:22",
+  "ultima_atualizacao": "04/09/2026 16:21:19",
   "total_base_dia": 191,
-  "total_atual": 109,
-  "novos_produtos": 23,
+  "total_atual": 112,
+  "novos_produtos": 26,
   "total_subidos": 106,
   "skus_base_dia": [
     "SP12501004550032",
@@ -262,6 +262,7 @@
     "SP12501042273041",
     "SP12501042273400",
     "SP12501042281004",
+    "SP12501053810010",
     "SP12501053810032",
     "SP12501053810033",
     "SP12501053810034",
@@ -277,6 +278,8 @@
     "SP12501053852400",
     "SP12501054379038",
     "SP12501056215004",
+    "SP12501056215010",
+    "SP12501056215029",
     "SP12501056215033",
     "SP12501056215045",
     "SP12501056215400",
@@ -417,6 +420,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501014873015",
+    "SP12501053810010",
     "SP12501053810032",
     "SP12501053810033",
     "SP12501053810034",
@@ -424,6 +428,8 @@
     "SP12501053852001",
     "SP12501053852004",
     "SP12501056215004",
+    "SP12501056215010",
+    "SP12501056215029",
     "SP12501056215033",
     "SP12501056215045",
     "SP12501056215400",
@@ -670,6 +676,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501053810010",
+      "id_produto": "20982",
+      "nome": "CHAVE DE SETA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501053810032",
       "id_produto": "20971",
       "nome": "PORTA DIANTEIRA DIREITA",
@@ -736,7 +754,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -751,6 +769,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056215010",
+      "id_produto": "20990",
+      "nome": "CHAVE DE SETA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056215029",
+      "id_produto": "20995",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "10"
     },
     {
@@ -1230,7 +1272,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1893,7 +1935,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
-      "qtd_images": "6"
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501089202004",
@@ -1902,7 +1944,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -2423,7 +2465,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
-      "qtd_images": "6"
+      "qtd_images": "8"
     },
     "SP12501108037004": {
       "sku": "SP12501108037004",
@@ -2504,7 +2546,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V/1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -4664,7 +4706,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -4775,6 +4817,42 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501056215010": {
+      "sku": "SP12501056215010",
+      "id_produto": "20990",
+      "nome": "CHAVE DE SETA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501053810010": {
+      "sku": "SP12501053810010",
+      "id_produto": "20982",
+      "nome": "CHAVE DE SETA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501056215029": {
+      "sku": "SP12501056215029",
+      "id_produto": "20995",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "10"
     }
   }
