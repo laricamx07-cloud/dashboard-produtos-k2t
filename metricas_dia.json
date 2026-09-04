@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 12:44:40",
+  "ultima_atualizacao": "04/09/2026 12:47:42",
   "total_base_dia": 191,
-  "total_atual": 133,
+  "total_atual": 130,
   "novos_produtos": 11,
-  "total_subidos": 70,
+  "total_subidos": 72,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -448,6 +448,7 @@
     "SP12501056231028",
     "SP12501056231029",
     "SP12501056231037",
+    "SP12501056231045",
     "SP12501056231400",
     "SP12501056231411",
     "SP12501056258035",
@@ -486,7 +487,8 @@
     "SP12501111550400",
     "SP12501111550411",
     "SP12501111550424",
-    "SP12501111550448"
+    "SP12501111550448",
+    "SP12501123702033"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501014873015",
@@ -520,6 +522,7 @@
     "SP12501056231028",
     "SP12501056231029",
     "SP12501056231037",
+    "SP12501056231045",
     "SP12501056231400",
     "SP12501056231411",
     "SP12501056258035",
@@ -558,7 +561,8 @@
     "SP12501111550400",
     "SP12501111550411",
     "SP12501111550424",
-    "SP12501111550448"
+    "SP12501111550448",
+    "SP12501123702033"
   ],
   "itens_novos_hoje": [
     {
@@ -640,7 +644,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -684,11 +688,11 @@
     {
       "sku": "SP12501123702033",
       "id_produto": "20968",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT CLIO RN/ALIZÉ/EXPR./1.0",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO RN/ALIZÉ/EXPR./1.0 HI-POWER 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -882,7 +886,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -978,7 +982,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1068,6 +1072,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501056231045",
+      "id_produto": "20934",
+      "nome": "TAMPA TRASEIRA HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501056231400",
       "id_produto": "20953",
       "nome": "MOTOR COMPLETO HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
@@ -1134,7 +1150,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1534,6 +1550,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501123702033",
+      "id_produto": "20968",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT CLIO RN/ALIZÉ/EXPR./1.0",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO RN/ALIZÉ/EXPR./1.0 HI-POWER 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -2956,11 +2984,11 @@
     "SP12501056231045": {
       "sku": "SP12501056231045",
       "id_produto": "20934",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -3020,7 +3048,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -3116,7 +3144,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3872,7 +3900,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -3880,11 +3908,11 @@
     "SP12501123702033": {
       "sku": "SP12501123702033",
       "id_produto": "20968",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT CLIO RN/ALIZÉ/EXPR./1.0",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO RN/ALIZÉ/EXPR./1.0 HI-POWER 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
