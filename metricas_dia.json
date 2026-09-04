@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 16:47:25",
+  "ultima_atualizacao": "04/09/2026 16:57:17",
   "total_base_dia": 191,
-  "total_atual": 124,
+  "total_atual": 123,
   "novos_produtos": 40,
-  "total_subidos": 108,
+  "total_subidos": 109,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -558,6 +558,7 @@
     "SP12501089199400",
     "SP12501089202004",
     "SP12501089229012",
+    "SP12501089989035",
     "SP12501093200400",
     "SP12501094621004",
     "SP12501105690005",
@@ -668,6 +669,7 @@
     "SP12501089199400",
     "SP12501089202004",
     "SP12501089229012",
+    "SP12501089989035",
     "SP12501093200400",
     "SP12501094621004",
     "SP12501105690005",
@@ -2172,6 +2174,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501089989035",
+      "id_produto": "18166",
+      "nome": "PORTA TRASEIRA ESQU PRETA MITSUBISHI L200 TRITON 3.2 2011",
+      "marca": "MITSUBISHI",
+      "modelo_do_veiculo": "L200 TRITON HPE 3.2 TURBO",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501093200400",
@@ -4510,10 +4524,10 @@
       "marca": "MITSUBISHI",
       "modelo_do_veiculo": "L200 TRITON HPE 3.2 TURBO",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
-      "qtd_images": "8"
+      "qtd_images": "10"
     },
     "SP12501080469424": {
       "sku": "SP12501080469424",
