@@ -1,10 +1,10 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 09:17:10",
+  "ultima_atualizacao": "04/09/2026 09:21:01",
   "total_base_dia": 191,
-  "total_atual": 177,
-  "novos_produtos": 0,
+  "total_atual": 178,
+  "novos_produtos": 1,
   "total_subidos": 14,
   "skus_base_dia": [
     "SP12501004550032",
@@ -281,6 +281,7 @@
     "SP12501056231045",
     "SP12501056231400",
     "SP12501056231411",
+    "SP12501056258035",
     "SP12501056266020",
     "SP12501056274004",
     "SP12501057114004",
@@ -392,7 +393,9 @@
     "SP12501123273032",
     "SP42501001064042"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501056258035"
+  ],
   "skus_subidos_hoje": [
     "SP12501041366400",
     "SP12501041455001",
@@ -425,7 +428,20 @@
     "SP12501042273400",
     "SP12501105690400"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501056258035",
+      "id_produto": "20965",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501041366400",
@@ -578,7 +594,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER LT 1.4 TURBO 16V FLEX 4X2 AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "11"
@@ -1576,7 +1592,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER LT 1.4 TURBO 16V FLEX 4X2 AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "11"
@@ -2455,7 +2471,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "6"
+      "qtd_images": "8"
     },
     "SP12501080132004": {
       "sku": "SP12501080132004",
@@ -2888,6 +2904,18 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
+    },
+    "SP12501056258035": {
+      "sku": "SP12501056258035",
+      "id_produto": "20965",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
