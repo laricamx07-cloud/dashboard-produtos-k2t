@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 10:42:42",
+  "ultima_atualizacao": "04/09/2026 10:47:32",
   "total_base_dia": 191,
-  "total_atual": 159,
+  "total_atual": 156,
   "novos_produtos": 4,
-  "total_subidos": 36,
+  "total_subidos": 39,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -433,7 +433,10 @@
     "SP12501105798012",
     "SP12501105801012",
     "SP12501105828032",
+    "SP12501108088400",
+    "SP12501109246004",
     "SP12501109262004",
+    "SP12501111550019",
     "SP12501111550020",
     "SP12501111550026",
     "SP12501111550411",
@@ -471,7 +474,10 @@
     "SP12501105798012",
     "SP12501105801012",
     "SP12501105828032",
+    "SP12501108088400",
+    "SP12501109246004",
     "SP12501109262004",
+    "SP12501111550019",
     "SP12501111550020",
     "SP12501111550026",
     "SP12501111550411",
@@ -890,6 +896,30 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501108088400",
+      "id_produto": "12281",
+      "nome": "MOTOR COMPLETO FIAT UNO MILLE 1.0 F.FLEX 2006/2006",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501109246004",
+      "id_produto": "16283",
+      "nome": "CÂMBIO MANUAL FIAT MOBI EASY ON 1.0 FIRE FLEX 2017/2017",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI EASY ON 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501109262004",
       "id_produto": "16284",
       "nome": "CÂMBIO AUTOMATICO JEEP COMPASS LONG. T270 1.3 TB 4X2 2024/25",
@@ -902,13 +932,25 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501111550019",
+      "id_produto": "20959",
+      "nome": "LANTERNA TRASEIRA DIREITA FIAT ARGO DRIVE 1.0 6V FLEX 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501111550020",
       "id_produto": "20960",
       "nome": "LANTERNA TRASEIRA ESQUERDA FIAT ARGO DRIVE 1.0 6V FLEX 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -920,7 +962,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1090,7 +1132,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI EASY ON 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1354,7 +1396,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1642,7 +1684,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -2326,7 +2368,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
@@ -2670,11 +2712,11 @@
     "SP12501111550019": {
       "sku": "SP12501111550019",
       "id_produto": "20959",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA FIAT ARGO DRIVE 1.0 6V FLEX 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
