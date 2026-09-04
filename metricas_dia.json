@@ -1,7 +1,7 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 16:42:44",
+  "ultima_atualizacao": "04/09/2026 16:47:25",
   "total_base_dia": 191,
   "total_atual": 124,
   "novos_produtos": 40,
@@ -2168,7 +2168,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS EXCLUSIVE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -3670,7 +3670,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS EXCLUSIVE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -4225,7 +4225,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "8"
+      "qtd_images": "10"
     },
     "SP12501105836004": {
       "sku": "SP12501105836004",
