@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 12:17:21",
+  "ultima_atualizacao": "04/09/2026 12:21:22",
   "total_base_dia": 191,
-  "total_atual": 137,
-  "novos_produtos": 7,
-  "total_subidos": 61,
+  "total_atual": 136,
+  "novos_produtos": 8,
+  "total_subidos": 63,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -262,6 +262,7 @@
     "SP12501042273041",
     "SP12501042273400",
     "SP12501042281004",
+    "SP12501053810032",
     "SP12501053836004",
     "SP12501053852007",
     "SP12501053852033",
@@ -401,6 +402,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501014873015",
+    "SP12501053810032",
     "SP12501056215033",
     "SP12501056215045",
     "SP12501056258035",
@@ -424,6 +426,8 @@
     "SP12501042265001",
     "SP12501042273400",
     "SP12501053836004",
+    "SP12501053852034",
+    "SP12501053852045",
     "SP12501053852400",
     "SP12501054379038",
     "SP12501056231001",
@@ -487,6 +491,8 @@
     "SP12501042265001",
     "SP12501042273400",
     "SP12501053836004",
+    "SP12501053852034",
+    "SP12501053852045",
     "SP12501053852400",
     "SP12501054379038",
     "SP12501056231001",
@@ -546,6 +552,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501053810032",
+      "id_produto": "20971",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501056215033",
@@ -800,6 +818,30 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053852034",
+      "id_produto": "20940",
+      "nome": "PORTA TRASEIRA DIREITA PEUGEOT 206 FELINE 1.6 16V 4P 2006/07",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053852045",
+      "id_produto": "20942",
+      "nome": "TAMPA TRASEIRA PEUGEOT 206 FELINE 1.6 16V 4P 2006/2007",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501053852400",
@@ -1084,7 +1126,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE T270 1.3 TB 4X2 FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2142,7 +2184,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE T270 1.3 TB 4X2 FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2978,11 +3020,11 @@
     "SP12501053852034": {
       "sku": "SP12501053852034",
       "id_produto": "20940",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA PEUGEOT 206 FELINE 1.6 16V 4P 2006/07",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3578,11 +3620,11 @@
     "SP12501053852045": {
       "sku": "SP12501053852045",
       "id_produto": "20942",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA PEUGEOT 206 FELINE 1.6 16V 4P 2006/2007",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "206 FELINE 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -3730,6 +3772,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    "SP12501053810032": {
+      "sku": "SP12501053810032",
+      "id_produto": "20971",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     }
   }
 }
