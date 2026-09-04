@@ -1,7 +1,7 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 09:27:03",
+  "ultima_atualizacao": "04/09/2026 09:42:26",
   "total_base_dia": 191,
   "total_atual": 177,
   "novos_produtos": 1,
@@ -436,7 +436,7 @@
       "id_produto": "20965",
       "nome": "PORTA TRASEIRA ESQUERDA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4 PORTAS",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -608,7 +608,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -786,7 +786,7 @@
     "SP12501084855004": {
       "sku": "SP12501084855004",
       "id_produto": "9070",
-      "nome": "CÂMBIO MANUAL FIAT STRADA ENDURANCE 1.4 2023/2023",
+      "nome": "CÂMBIO MANUAL FIAT STRADA ENDURANCE 1.4 2023/2023 STRADA END",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA ENDURANCE 1.4 FLEX 8V CS PLUS",
       "status": "Habilitado",
@@ -982,7 +982,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -2924,7 +2924,7 @@
       "id_produto": "20965",
       "nome": "PORTA TRASEIRA ESQUERDA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4 PORTAS",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
