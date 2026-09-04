@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 15:47:19",
+  "ultima_atualizacao": "04/09/2026 15:57:49",
   "total_base_dia": 191,
   "total_atual": 108,
   "novos_produtos": 17,
-  "total_subidos": 100,
+  "total_subidos": 101,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -477,6 +477,7 @@
     "SP12501056266020",
     "SP12501056274004",
     "SP12501056274400",
+    "SP12501057114004",
     "SP12501057300004",
     "SP12501057327400",
     "SP12501057815004",
@@ -579,6 +580,7 @@
     "SP12501056266020",
     "SP12501056274004",
     "SP12501056274400",
+    "SP12501057114004",
     "SP12501057300004",
     "SP12501057327400",
     "SP12501057815004",
@@ -882,7 +884,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ATTRACTIVE/ITÁLIA 1.4 EVO F.FLEX 8",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -1416,6 +1418,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501057114004",
+      "id_produto": "13788",
+      "nome": "CÂMBIO MANUAL FIAT UNO MILLE 1.0 F.FLEX 2006/2006",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501057300004",
       "id_produto": "16266",
       "nome": "CÂMBIO MANUAL CHEVROLET PRISMA SED. MAXX/LT 1.4 8V 2011/12",
@@ -1602,7 +1616,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "6"
@@ -1722,7 +1736,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE T270 1.3 TB 4X2 FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2492,7 +2506,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "6"
@@ -2828,7 +2842,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE T270 1.3 TB 4X2 FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3056,7 +3070,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ATTRACTIVE/ITÁLIA 1.4 EVO F.FLEX 8",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -4208,7 +4222,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
