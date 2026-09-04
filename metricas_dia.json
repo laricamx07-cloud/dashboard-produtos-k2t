@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 17:17:18",
+  "ultima_atualizacao": "04/09/2026 17:27:16",
   "total_base_dia": 191,
-  "total_atual": 122,
-  "novos_produtos": 40,
-  "total_subidos": 110,
+  "total_atual": 121,
+  "novos_produtos": 41,
+  "total_subidos": 112,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -263,6 +263,7 @@
     "SP12501042273400",
     "SP12501042281004",
     "SP12501053810001",
+    "SP12501053810004",
     "SP12501053810010",
     "SP12501053810026",
     "SP12501053810027",
@@ -435,6 +436,7 @@
   "skus_novos_hoje": [
     "SP12501014873015",
     "SP12501053810001",
+    "SP12501053810004",
     "SP12501053810010",
     "SP12501053810026",
     "SP12501053810027",
@@ -522,7 +524,9 @@
     "SP12501056231045",
     "SP12501056231400",
     "SP12501056231411",
+    "SP12501056258004",
     "SP12501056258035",
+    "SP12501056258400",
     "SP12501056266020",
     "SP12501056274004",
     "SP12501056274400",
@@ -634,7 +638,9 @@
     "SP12501056231045",
     "SP12501056231400",
     "SP12501056231411",
+    "SP12501056258004",
     "SP12501056258035",
+    "SP12501056258400",
     "SP12501056266020",
     "SP12501056274004",
     "SP12501056274400",
@@ -722,6 +728,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501053810004",
+      "id_produto": "21007",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501053810010",
@@ -958,7 +976,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "closed",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -978,11 +996,11 @@
     {
       "sku": "SP12501056258004",
       "id_produto": "20978",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC LIFE/LS 1.0 VHC FLEXP 2012",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4 PORTAS",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1002,11 +1020,11 @@
     {
       "sku": "SP12501056258400",
       "id_produto": "20979",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CLASSIC LIFE/LS 1.0 VHC FLEXP. 2012",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4 PORTAS",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1596,7 +1614,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "closed",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1746,6 +1764,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501056258004",
+      "id_produto": "20978",
+      "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC LIFE/LS 1.0 VHC FLEXP 2012",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4 PORTAS",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501056258035",
       "id_produto": "20965",
       "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CLASSIC LIFE/LS 1.0 2012",
@@ -1753,6 +1783,18 @@
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4 PORTAS",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056258400",
+      "id_produto": "20979",
+      "nome": "MOTOR COMPLETO CHEVROLET CLASSIC LIFE/LS 1.0 VHC FLEXP. 2012",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4 PORTAS",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -4838,7 +4880,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "closed",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -4966,11 +5008,11 @@
     "SP12501056258004": {
       "sku": "SP12501056258004",
       "id_produto": "20978",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC LIFE/LS 1.0 VHC FLEXP 2012",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4 PORTAS",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -4978,11 +5020,11 @@
     "SP12501056258400": {
       "sku": "SP12501056258400",
       "id_produto": "20979",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CLASSIC LIFE/LS 1.0 VHC FLEXP. 2012",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEXP. 4 PORTAS",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -5274,6 +5316,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    "SP12501053810004": {
+      "sku": "SP12501053810004",
+      "id_produto": "21007",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     }
   }
 }
