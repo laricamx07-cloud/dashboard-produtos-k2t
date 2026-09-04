@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 08:50:58",
+  "ultima_atualizacao": "04/09/2026 08:57:10",
   "total_base_dia": 191,
-  "total_atual": 183,
+  "total_atual": 181,
   "novos_produtos": 0,
-  "total_subidos": 8,
+  "total_subidos": 10,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -401,6 +401,8 @@
     "SP12501041838001",
     "SP12501041900027",
     "SP12501041935400",
+    "SP12501041960411",
+    "SP12501041960570",
     "SP12501105690400"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -411,6 +413,8 @@
     "SP12501041838001",
     "SP12501041900027",
     "SP12501041935400",
+    "SP12501041960411",
+    "SP12501041960570",
     "SP12501105690400"
   ],
   "itens_novos_hoje": [],
@@ -498,6 +502,30 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "4"
+    },
+    {
+      "sku": "SP12501041960411",
+      "id_produto": "10843",
+      "nome": "ELETROVENTILADOR VOLKSWAGEN GOL 1.0 MI T.FLEX 8V 2008/2009",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501041960570",
+      "id_produto": "12315",
+      "nome": "RÁDIO VOLKSWAGEN GOL NOVO 1.0 MI TOTAL FLEX 8V 2008/2009",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501105690400",
@@ -820,7 +848,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
@@ -2344,7 +2372,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
