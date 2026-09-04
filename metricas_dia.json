@@ -1,7 +1,7 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 08:17:46",
+  "ultima_atualizacao": "04/09/2026 08:21:37",
   "total_base_dia": 191,
   "total_atual": 191,
   "novos_produtos": 0,
@@ -1505,7 +1505,7 @@
     "SP12501041358004": {
       "sku": "SP12501041358004",
       "id_produto": "9084",
-      "nome": "CÂMBIO MANUAL JAC  J2 1.4 16V 2012/2013",
+      "nome": "CÂMBIO MANUAL JAC J2 1.4 16V 2012/2013",
       "marca": "JAC",
       "modelo_do_veiculo": "J2 1.4 16V 5PORTAS MECANICO",
       "status": "Habilitado",
