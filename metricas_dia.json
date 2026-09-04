@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 09:21:01",
+  "ultima_atualizacao": "04/09/2026 09:27:03",
   "total_base_dia": 191,
-  "total_atual": 178,
+  "total_atual": 177,
   "novos_produtos": 1,
-  "total_subidos": 14,
+  "total_subidos": 15,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -410,6 +410,7 @@
     "SP12501042222045",
     "SP12501042265001",
     "SP12501042273400",
+    "SP12501053836004",
     "SP12501105690400"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -426,6 +427,7 @@
     "SP12501042222045",
     "SP12501042265001",
     "SP12501042273400",
+    "SP12501053836004",
     "SP12501105690400"
   ],
   "itens_novos_hoje": [
@@ -598,6 +600,18 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "11"
+    },
+    {
+      "sku": "SP12501053836004",
+      "id_produto": "20894",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN SPACEFOX 1.6 TOTAL FLEX 8V 2008",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501105690400",
@@ -968,7 +982,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
