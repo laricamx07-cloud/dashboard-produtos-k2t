@@ -1,7 +1,7 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 08:42:26",
+  "ultima_atualizacao": "04/09/2026 08:47:02",
   "total_base_dia": 191,
   "total_atual": 185,
   "novos_produtos": 0,
@@ -429,8 +429,8 @@
       "nome": "ALTERNADOR CHEVROLET CELTA SPIRIT/LT 1.0 MPFI 8V FLEXP 2012",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Habilitado",
-      "status_ml": "under_review",
+      "status": "Desabilitado",
+      "status_ml": "closed",
       "quantidade": "0",
       "classificacao": "8",
       "qtd_images": "9"
@@ -1259,8 +1259,8 @@
       "nome": "ALTERNADOR CHEVROLET CELTA SPIRIT/LT 1.0 MPFI 8V FLEXP 2012",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Habilitado",
-      "status_ml": "under_review",
+      "status": "Desabilitado",
+      "status_ml": "closed",
       "quantidade": "0",
       "classificacao": "8",
       "qtd_images": "9"
