@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 10:57:28",
+  "ultima_atualizacao": "04/09/2026 11:12:40",
   "total_base_dia": 191,
-  "total_atual": 155,
-  "novos_produtos": 4,
-  "total_subidos": 40,
+  "total_atual": 150,
+  "novos_produtos": 5,
+  "total_subidos": 46,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -394,13 +394,15 @@
     "SP12501116765043",
     "SP12501121793038",
     "SP12501123273032",
+    "SP12501123702033",
     "SP42501001064042"
   ],
   "skus_novos_hoje": [
     "SP12501014873015",
     "SP12501056215033",
     "SP12501056215045",
-    "SP12501056258035"
+    "SP12501056258035",
+    "SP12501123702033"
   ],
   "skus_subidos_hoje": [
     "SP12501014873015",
@@ -419,7 +421,11 @@
     "SP12501042273400",
     "SP12501053836004",
     "SP12501054379038",
+    "SP12501056231037",
+    "SP12501056231400",
+    "SP12501056231411",
     "SP12501056258035",
+    "SP12501056266020",
     "SP12501056274004",
     "SP12501057300004",
     "SP12501084855004",
@@ -428,11 +434,13 @@
     "SP12501087722004",
     "SP12501087749035",
     "SP12501087773004",
+    "SP12501088230011",
     "SP12501105690005",
     "SP12501105690400",
     "SP12501105798012",
     "SP12501105801012",
     "SP12501105828032",
+    "SP12501108037004",
     "SP12501108088400",
     "SP12501109246004",
     "SP12501109262004",
@@ -461,7 +469,11 @@
     "SP12501042273400",
     "SP12501053836004",
     "SP12501054379038",
+    "SP12501056231037",
+    "SP12501056231400",
+    "SP12501056231411",
     "SP12501056258035",
+    "SP12501056266020",
     "SP12501056274004",
     "SP12501057300004",
     "SP12501084855004",
@@ -470,11 +482,13 @@
     "SP12501087722004",
     "SP12501087749035",
     "SP12501087773004",
+    "SP12501088230011",
     "SP12501105690005",
     "SP12501105690400",
     "SP12501105798012",
     "SP12501105801012",
     "SP12501105828032",
+    "SP12501108037004",
     "SP12501108088400",
     "SP12501109246004",
     "SP12501109262004",
@@ -534,6 +548,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501123702033",
+      "id_produto": "20968",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO RN/ALIZÉ/EXPR./1.0 HI-POWER 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     }
   ],
   "itens_subidos_hoje": [
@@ -730,6 +756,42 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501056231037",
+      "id_produto": "20952",
+      "nome": "RETROVISOR DIREITO HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056231400",
+      "id_produto": "20953",
+      "nome": "MOTOR COMPLETO HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056231411",
+      "id_produto": "20954",
+      "nome": "ELETROVENTILADOR HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501056258035",
       "id_produto": "20965",
       "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CLASSIC LIFE/LS 1.0 2012",
@@ -740,6 +802,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056266020",
+      "id_produto": "20957",
+      "nome": "LANTERNA TRASEIRA ESQUERDA CHEVROLET CORSA 1.6 8V 1996",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CORSA 1.6 8V GASOLINA",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501056274004",
@@ -838,6 +912,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501088230011",
+      "id_produto": "16943",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO JEEP RENEGADE T270 1.3 24/25",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE T270 1.3 TB 4X2 FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501105690005",
       "id_produto": "16769",
       "nome": "TOMADA DE FORÇA CAIXA DE TRAÇÃO FORD RANGER LIMITED 3.2 18",
@@ -896,6 +982,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501108037004",
+      "id_produto": "16282",
+      "nome": "CÂMBIO AUTOMATICO HYUNDAI HB20 R SPEC 1.6 16V CVVT 2016",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 R SPEC 1.6 16V CVVT AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501108088400",
@@ -1094,11 +1192,11 @@
     "SP12501056231411": {
       "sku": "SP12501056231411",
       "id_produto": "20954",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1242,7 +1340,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 R SPEC 1.6 16V CVVT AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1629,16 +1727,16 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "8",
-      "qtd_images": "8"
+      "qtd_images": "10"
     },
     "SP12501056231400": {
       "sku": "SP12501056231400",
       "id_produto": "20953",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2150,11 +2248,11 @@
     "SP12501056266020": {
       "sku": "SP12501056266020",
       "id_produto": "20957",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA CHEVROLET CORSA 1.6 8V 1996",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA 1.6 8V GASOLINA",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "5"
@@ -2345,8 +2443,8 @@
       "nome": "COMPRESSOR DO AR-CONDICIONADO JEEP RENEGADE T270 1.3 24/25",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE T270 1.3 TB 4X2 FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3206,11 +3304,11 @@
     "SP12501056231037": {
       "sku": "SP12501056231037",
       "id_produto": "20952",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -3358,6 +3456,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    "SP12501123702033": {
+      "sku": "SP12501123702033",
+      "id_produto": "20968",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO RN/ALIZÉ/EXPR./1.0 HI-POWER 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     }
   }
 }
