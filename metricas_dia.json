@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 11:42:43",
+  "ultima_atualizacao": "04/09/2026 11:47:30",
   "total_base_dia": 191,
-  "total_atual": 145,
+  "total_atual": 143,
   "novos_produtos": 7,
-  "total_subidos": 53,
+  "total_subidos": 55,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -425,6 +425,7 @@
     "SP12501042273400",
     "SP12501053836004",
     "SP12501054379038",
+    "SP12501056231010",
     "SP12501056231011",
     "SP12501056231019",
     "SP12501056231037",
@@ -434,6 +435,7 @@
     "SP12501056266020",
     "SP12501056274004",
     "SP12501057300004",
+    "SP12501080132400",
     "SP12501084855004",
     "SP12501087374400",
     "SP12501087447026",
@@ -480,6 +482,7 @@
     "SP12501042273400",
     "SP12501053836004",
     "SP12501054379038",
+    "SP12501056231010",
     "SP12501056231011",
     "SP12501056231019",
     "SP12501056231037",
@@ -489,6 +492,7 @@
     "SP12501056266020",
     "SP12501056274004",
     "SP12501057300004",
+    "SP12501080132400",
     "SP12501084855004",
     "SP12501087374400",
     "SP12501087447026",
@@ -586,7 +590,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
@@ -798,6 +802,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501056231010",
+      "id_produto": "20949",
+      "nome": "CHAVE DE SETA HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501056231011",
       "id_produto": "20950",
       "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT EX 1.5 FLEX 16V 2005",
@@ -904,6 +920,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501080132400",
+      "id_produto": "5543",
+      "nome": "MOTOR COMPLETO HONDA WR-V EX 1.5 FLEXONE 16V 2017/2018",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501084855004",
@@ -2110,11 +2138,11 @@
     "SP12501056231010": {
       "sku": "SP12501056231010",
       "id_produto": "20949",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA HONDA FIT EX 1.5 FLEX 16V 5P AUT. 2005",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -3602,7 +3630,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "WR-V EX 1.5 FLEXONE 16V 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
