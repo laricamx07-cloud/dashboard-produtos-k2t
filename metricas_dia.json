@@ -1,11 +1,11 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 17:47:21",
+  "ultima_atualizacao": "04/09/2026 17:51:04",
   "total_base_dia": 191,
-  "total_atual": 118,
+  "total_atual": 117,
   "novos_produtos": 42,
-  "total_subidos": 116,
+  "total_subidos": 117,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -592,6 +592,7 @@
     "SP12501111550411",
     "SP12501111550424",
     "SP12501111550448",
+    "SP12501111585045",
     "SP12501114290020",
     "SP12501121793038",
     "SP12501123702033"
@@ -710,6 +711,7 @@
     "SP12501111550411",
     "SP12501111550424",
     "SP12501111550448",
+    "SP12501111585045",
     "SP12501114290020",
     "SP12501121793038",
     "SP12501123702033"
@@ -1198,11 +1200,11 @@
     {
       "sku": "SP12501111585045",
       "id_produto": "21006",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA VOLKSWAGEN POLO SEDAN 2.0 FLEX 8V 04/04",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO SEDAN 2.0 FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -2576,6 +2578,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111585045",
+      "id_produto": "21006",
+      "nome": "TAMPA TRASEIRA VOLKSWAGEN POLO SEDAN 2.0 FLEX 8V 04/04",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "POLO SEDAN 2.0 FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501114290020",
@@ -5162,11 +5176,11 @@
     "SP12501111585045": {
       "sku": "SP12501111585045",
       "id_produto": "21006",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA VOLKSWAGEN POLO SEDAN 2.0 FLEX 8V 04/04",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO SEDAN 2.0 FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
