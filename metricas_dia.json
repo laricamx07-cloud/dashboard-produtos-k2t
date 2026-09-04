@@ -1,7 +1,7 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 09:14:53",
+  "ultima_atualizacao": "04/09/2026 09:17:10",
   "total_base_dia": 191,
   "total_atual": 177,
   "novos_produtos": 0,
@@ -554,7 +554,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "407 SW ALLURE 2.0 16V",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
@@ -1516,7 +1516,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "407 SW ALLURE 2.0 16V",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
