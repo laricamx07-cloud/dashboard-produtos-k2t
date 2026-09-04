@@ -1,7 +1,7 @@
 {
   "data": "2026-09-04",
   "primeira_atualizacao": "04/09/2026 08:17:46",
-  "ultima_atualizacao": "04/09/2026 17:42:35",
+  "ultima_atualizacao": "04/09/2026 17:47:21",
   "total_base_dia": 191,
   "total_atual": 118,
   "novos_produtos": 42,
@@ -782,7 +782,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -842,7 +842,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1492,7 +1492,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1540,7 +1540,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -5322,7 +5322,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -5382,7 +5382,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
