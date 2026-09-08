@@ -1,11 +1,11 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 09:42:25",
+  "ultima_atualizacao": "08/09/2026 09:47:05",
   "total_base_dia": 115,
-  "total_atual": 101,
+  "total_atual": 100,
   "novos_produtos": 0,
-  "total_subidos": 14,
+  "total_subidos": 15,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -245,6 +245,7 @@
     "SP12501015403003",
     "SP12501053810004",
     "SP12501053852001",
+    "SP12501056215026",
     "SP12501056215027",
     "SP12501056215029",
     "SP12501056258411",
@@ -261,6 +262,7 @@
     "SP12501015403003",
     "SP12501053810004",
     "SP12501053852001",
+    "SP12501056215026",
     "SP12501056215027",
     "SP12501056215029",
     "SP12501056258411",
@@ -309,6 +311,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056215026",
+      "id_produto": "20993",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CLASSIC SPIRIT 1.0 FLEXPOWER 2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "8"
     },
     {
@@ -1708,11 +1722,11 @@
     "SP12501056215026": {
       "sku": "SP12501056215026",
       "id_produto": "20993",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CLASSIC SPIRIT 1.0 FLEXPOWER 2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC SPIRIT 1.0 FLEXPOWER",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
