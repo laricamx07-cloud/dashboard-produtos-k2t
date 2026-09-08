@@ -1,11 +1,11 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 08:27:01",
+  "ultima_atualizacao": "08/09/2026 08:42:24",
   "total_base_dia": 115,
-  "total_atual": 115,
+  "total_atual": 113,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -241,10 +241,41 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501053810004",
+    "SP12501111585035"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501053810004",
+    "SP12501111585035"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501053810004",
+      "id_produto": "21007",
+      "nome": "CÂMBIO MANUAL RENAULT CLIO EXPRESSION 1.0 16V HI-POWER 2014",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111585035",
+      "id_produto": "21004",
+      "nome": "PORTA TRASEIRA ESQUERDA VOLKSWAGEN POLO SEDAN 2.0 FLEX 2004",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "POLO SEDAN 2.0 FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501079975034": {
       "sku": "SP12501079975034",
@@ -349,7 +380,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -945,11 +976,11 @@
     "SP12501111585035": {
       "sku": "SP12501111585035",
       "id_produto": "21004",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA VOLKSWAGEN POLO SEDAN 2.0 FLEX 2004",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO SEDAN 2.0 FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
