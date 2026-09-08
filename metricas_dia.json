@@ -1,10 +1,10 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 17:27:21",
+  "ultima_atualizacao": "08/09/2026 17:42:49",
   "total_base_dia": 115,
-  "total_atual": 60,
-  "novos_produtos": 6,
+  "total_atual": 61,
+  "novos_produtos": 7,
   "total_subidos": 61,
   "skus_base_dia": [
     "SP12501004550032",
@@ -167,6 +167,7 @@
     "SP12501041935411",
     "SP12501042273041",
     "SP12501052945440",
+    "SP12501053798007",
     "SP12501053810004",
     "SP12501053810010",
     "SP12501053810032",
@@ -248,6 +249,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501052945440",
+    "SP12501053798007",
     "SP12501111585411",
     "SP12501111658007",
     "SP12501111658032",
@@ -392,6 +394,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501053798007",
+      "id_produto": "21035",
+      "nome": "CAPÔ",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501111585411",
@@ -2640,6 +2654,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
+    },
+    "SP12501053798007": {
+      "sku": "SP12501053798007",
+      "id_produto": "21035",
+      "nome": "CAPÔ",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     }
   }
 }
