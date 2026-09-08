@@ -1,11 +1,11 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 09:17:11",
+  "ultima_atualizacao": "08/09/2026 09:21:02",
   "total_base_dia": 115,
-  "total_atual": 105,
+  "total_atual": 104,
   "novos_produtos": 0,
-  "total_subidos": 10,
+  "total_subidos": 11,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -246,6 +246,7 @@
     "SP12501053852001",
     "SP12501056215029",
     "SP12501056258411",
+    "SP12501057866001",
     "SP12501111569026",
     "SP12501111585007",
     "SP12501111585010",
@@ -258,6 +259,7 @@
     "SP12501053852001",
     "SP12501056215029",
     "SP12501056258411",
+    "SP12501057866001",
     "SP12501111569026",
     "SP12501111585007",
     "SP12501111585010",
@@ -314,6 +316,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501057866001",
+      "id_produto": "13307",
+      "nome": "ALTERNADOR FIAT STRADA RANCH 1.0 FLEX 2025/2026",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501111569026",
@@ -708,7 +722,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
