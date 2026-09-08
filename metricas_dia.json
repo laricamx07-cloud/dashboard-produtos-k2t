@@ -1,11 +1,11 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 11:57:37",
+  "ultima_atualizacao": "08/09/2026 12:12:43",
   "total_base_dia": 115,
-  "total_atual": 81,
+  "total_atual": 80,
   "novos_produtos": 0,
-  "total_subidos": 34,
+  "total_subidos": 35,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -245,6 +245,7 @@
     "SP12501015403003",
     "SP12501053810004",
     "SP12501053810010",
+    "SP12501053810032",
     "SP12501053810411",
     "SP12501053852001",
     "SP12501053852026",
@@ -281,6 +282,7 @@
     "SP12501015403003",
     "SP12501053810004",
     "SP12501053810010",
+    "SP12501053810032",
     "SP12501053810411",
     "SP12501053852001",
     "SP12501053852026",
@@ -350,6 +352,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501053810032",
+      "id_produto": "20971",
+      "nome": "PORTA DIANTEIRA DIREITA RENAULT CLIO EXPRESSION 1.0 13/14",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501053810411",
@@ -514,7 +528,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "YARIS XL SEDAN 1.5 FLEX 16V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -610,7 +624,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -768,7 +782,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "YARIS XL SEDAN 1.5 FLEX 16V 4P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -884,7 +898,7 @@
     "SP12501005173484": {
       "sku": "SP12501005173484",
       "id_produto": "13785",
-      "nome": "PNEU 205/55 R17 91V Continental PowerContact Tubeless Radial",
+      "nome": "PNEU 205/55 R17 91V CONTINENTAL POWERCONTACT TUBELESS RADIAL",
       "marca": "Continental",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
@@ -1680,7 +1694,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 FIRE ECONOMY 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2024,11 +2038,11 @@
     "SP12501053810032": {
       "sku": "SP12501053810032",
       "id_produto": "20971",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA RENAULT CLIO EXPRESSION 1.0 13/14",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
