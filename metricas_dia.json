@@ -1,11 +1,11 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 14:50:55",
+  "ultima_atualizacao": "08/09/2026 14:57:08",
   "total_base_dia": 115,
-  "total_atual": 65,
+  "total_atual": 63,
   "novos_produtos": 1,
-  "total_subidos": 52,
+  "total_subidos": 54,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -251,6 +251,8 @@
     "SP12501015381034",
     "SP12501015403003",
     "SP12501016159024",
+    "SP12501041749039",
+    "SP12501041749040",
     "SP12501053810004",
     "SP12501053810010",
     "SP12501053810032",
@@ -305,6 +307,8 @@
     "SP12501015381034",
     "SP12501015403003",
     "SP12501016159024",
+    "SP12501041749039",
+    "SP12501041749040",
     "SP12501053810004",
     "SP12501053810010",
     "SP12501053810032",
@@ -438,6 +442,30 @@
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501041749039",
+      "id_produto": "12600",
+      "nome": "RODA DIANTEIRA DIREITA IX35 2014/2015",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501041749040",
+      "id_produto": "12601",
+      "nome": "RODA DIANTEIRA ESQUERDA IX35 2014/2015",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501053810004",
@@ -1656,11 +1684,11 @@
     "SP12501041749039": {
       "sku": "SP12501041749039",
       "id_produto": "12600",
-      "nome": "RODA DIANTEIRA DIREITA",
+      "nome": "RODA DIANTEIRA DIREITA IX35 2014/2015",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -2220,11 +2248,11 @@
     "SP12501041749040": {
       "sku": "SP12501041749040",
       "id_produto": "12601",
-      "nome": "RODA DIANTEIRA ESQUERDA",
+      "nome": "RODA DIANTEIRA ESQUERDA IX35 2014/2015",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
