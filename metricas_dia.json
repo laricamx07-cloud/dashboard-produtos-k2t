@@ -1,7 +1,7 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 11:21:20",
+  "ultima_atualizacao": "08/09/2026 11:27:23",
   "total_base_dia": 115,
   "total_atual": 87,
   "novos_produtos": 0,
@@ -776,14 +776,14 @@
     "SP12501016000034": {
       "sku": "SP12501016000034",
       "id_produto": "13519",
-      "nome": "PORTATD",
+      "nome": "PORTATD COROLLA 2025/2025",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA XEI 2.0 FLEX 16V AUT",
       "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "9",
-      "qtd_images": "6"
+      "qtd_images": "8"
     },
     "SP12501009853034": {
       "sku": "SP12501009853034",
