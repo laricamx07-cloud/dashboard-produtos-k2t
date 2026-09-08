@@ -1,11 +1,11 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 13:17:17",
+  "ultima_atualizacao": "08/09/2026 13:21:18",
   "total_base_dia": 115,
-  "total_atual": 67,
+  "total_atual": 66,
   "novos_produtos": 1,
-  "total_subidos": 50,
+  "total_subidos": 51,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -291,6 +291,7 @@
     "SP12501111585029",
     "SP12501111585035",
     "SP12501111585411",
+    "SP12501116765039",
     "SP12501116765040",
     "SP12501116765041",
     "SP12501116765042",
@@ -343,6 +344,7 @@
     "SP12501111585029",
     "SP12501111585035",
     "SP12501111585411",
+    "SP12501116765039",
     "SP12501116765040",
     "SP12501116765041",
     "SP12501116765042",
@@ -916,6 +918,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501116765039",
+      "id_produto": "18858",
+      "nome": "RODA DIANTEIRA DIREITA MITSUBISHI PAJERO TR4 2.0 FLEX 2008",
+      "marca": "MITSUBISHI",
+      "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "3"
+    },
+    {
       "sku": "SP12501116765040",
       "id_produto": "18859",
       "nome": "RODA DIANTEIRA ESQUERDA MITSUBISHI PAJERO TR4 2.0 FLEX 2008",
@@ -1364,11 +1378,11 @@
     "SP12501116765039": {
       "sku": "SP12501116765039",
       "id_produto": "18858",
-      "nome": "RODA DIANTEIRA DIREITA",
+      "nome": "RODA DIANTEIRA DIREITA MITSUBISHI PAJERO TR4 2.0 FLEX 2008",
       "marca": "MITSUBISHI",
       "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "3"
