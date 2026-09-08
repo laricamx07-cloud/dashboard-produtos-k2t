@@ -1,11 +1,11 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 12:47:12",
+  "ultima_atualizacao": "08/09/2026 12:57:18",
   "total_base_dia": 115,
-  "total_atual": 72,
+  "total_atual": 71,
   "novos_produtos": 1,
-  "total_subidos": 44,
+  "total_subidos": 46,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -264,6 +264,7 @@
     "SP12501056231034",
     "SP12501056258411",
     "SP12501057866001",
+    "SP12501079916049",
     "SP12501080124010",
     "SP12501080167004",
     "SP12501084162030",
@@ -288,6 +289,7 @@
     "SP12501111585019",
     "SP12501111585029",
     "SP12501111585035",
+    "SP12501116765042",
     "SP12501116765043"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -310,6 +312,7 @@
     "SP12501056231034",
     "SP12501056258411",
     "SP12501057866001",
+    "SP12501079916049",
     "SP12501080124010",
     "SP12501080167004",
     "SP12501084162030",
@@ -334,6 +337,7 @@
     "SP12501111585019",
     "SP12501111585029",
     "SP12501111585035",
+    "SP12501116765042",
     "SP12501116765043"
   ],
   "itens_novos_hoje": [
@@ -358,7 +362,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
-      "status_ml": "closed",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "3"
@@ -578,6 +582,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501079916049",
+      "id_produto": "5604",
+      "nome": "VOLANTE MOTORISTA HYUNDAI CRETA ATTITUDE 1.6 2018/19",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501080124010",
@@ -868,6 +884,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501116765042",
+      "id_produto": "18861",
+      "nome": "RODA TRASEIRA ESQUERDA MITSUBISHI PAJERO TR4 2.0 2007/2008",
+      "marca": "MITSUBISHI",
+      "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "3"
+    },
+    {
       "sku": "SP12501116765043",
       "id_produto": "18862",
       "nome": "RODA SOBRES./ESTEPE MITSUBISHI PAJERO TR4 2.0 FLEX 16V 2008",
@@ -960,7 +988,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -1160,11 +1188,11 @@
     "SP12501116765042": {
       "sku": "SP12501116765042",
       "id_produto": "18861",
-      "nome": "RODA TRASEIRA ESQUERDA",
+      "nome": "RODA TRASEIRA ESQUERDA MITSUBISHI PAJERO TR4 2.0 2007/2008",
       "marca": "MITSUBISHI",
       "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "3"
@@ -1224,7 +1252,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
-      "status_ml": "closed",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "3"
