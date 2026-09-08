@@ -1,10 +1,10 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 15:20:57",
+  "ultima_atualizacao": "08/09/2026 15:27:08",
   "total_base_dia": 115,
-  "total_atual": 62,
-  "novos_produtos": 2,
+  "total_atual": 63,
+  "novos_produtos": 3,
   "total_subidos": 56,
   "skus_base_dia": [
     "SP12501004550032",
@@ -234,6 +234,7 @@
     "SP12501111585035",
     "SP12501111585411",
     "SP12501111658007",
+    "SP12501111658033",
     "SP12501116765039",
     "SP12501116765040",
     "SP12501116765041",
@@ -244,7 +245,8 @@
   ],
   "skus_novos_hoje": [
     "SP12501111585411",
-    "SP12501111658007"
+    "SP12501111658007",
+    "SP12501111658033"
   ],
   "skus_subidos_hoje": [
     "SP12501004550032",
@@ -386,6 +388,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111658033",
+      "id_produto": "21033",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -2466,6 +2480,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    "SP12501111658033": {
+      "sku": "SP12501111658033",
+      "id_produto": "21033",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
