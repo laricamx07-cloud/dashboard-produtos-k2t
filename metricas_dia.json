@@ -1,11 +1,11 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 11:27:23",
+  "ultima_atualizacao": "08/09/2026 11:42:42",
   "total_base_dia": 115,
-  "total_atual": 87,
+  "total_atual": 85,
   "novos_produtos": 0,
-  "total_subidos": 28,
+  "total_subidos": 30,
   "skus_base_dia": [
     "SP12501004550032",
     "SP12501004584032",
@@ -253,6 +253,7 @@
     "SP12501056215026",
     "SP12501056215027",
     "SP12501056215029",
+    "SP12501056231034",
     "SP12501056258411",
     "SP12501057866001",
     "SP12501080124010",
@@ -261,6 +262,7 @@
     "SP12501087390012",
     "SP12501088087004",
     "SP12501088249004",
+    "SP12501089199400",
     "SP12501089970004",
     "SP12501108100599",
     "SP12501109521004",
@@ -283,6 +285,7 @@
     "SP12501056215026",
     "SP12501056215027",
     "SP12501056215029",
+    "SP12501056231034",
     "SP12501056258411",
     "SP12501057866001",
     "SP12501080124010",
@@ -291,6 +294,7 @@
     "SP12501087390012",
     "SP12501088087004",
     "SP12501088249004",
+    "SP12501089199400",
     "SP12501089970004",
     "SP12501108100599",
     "SP12501109521004",
@@ -436,6 +440,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501056231034",
+      "id_produto": "20933",
+      "nome": "PORTA TRASEIRA DIREITA HONDA FIT EX 1.5 FLEX 16V 5P AUT.2005",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501056258411",
       "id_produto": "20998",
       "nome": "ELETROVENTILADOR CHEVROLET CLASSIC LIFE/LS 1.0 VHC FLEX 2012",
@@ -529,6 +545,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501089199400",
+      "id_produto": "16259",
+      "nome": "MOTOR COMPLETO FORD FOCUS SEDAN 2.0 16V 2006/2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FOCUS SEDAN 2.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "8"
     },
     {
@@ -1436,11 +1464,11 @@
     "SP12501056231034": {
       "sku": "SP12501056231034",
       "id_produto": "20933",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA HONDA FIT EX 1.5 FLEX 16V 5P AUT.2005",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1488,7 +1516,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SEDAN 2.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1820,14 +1848,14 @@
     "SP12501109548045": {
       "sku": "SP12501109548045",
       "id_produto": "14276",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA UNO 2011/2012",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO WAY 1.0 EVO FIRE FLEX 8V 5P",
       "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "8",
-      "qtd_images": "8"
+      "qtd_images": "10"
     },
     "SP12501005300035": {
       "sku": "SP12501005300035",
