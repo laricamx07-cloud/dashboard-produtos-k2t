@@ -1,7 +1,7 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 11:17:27",
+  "ultima_atualizacao": "08/09/2026 11:21:20",
   "total_base_dia": 115,
   "total_atual": 87,
   "novos_produtos": 0,
@@ -788,14 +788,14 @@
     "SP12501009853034": {
       "sku": "SP12501009853034",
       "id_produto": "13514",
-      "nome": "PORTA TD",
+      "nome": "PORTA TD HB20S 2016/2017",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20S COMFORT PLUS 1.0 TB FLEX 12V MEC.",
       "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "8",
-      "qtd_images": "6"
+      "qtd_images": "8"
     },
     "SP12501005173484": {
       "sku": "SP12501005173484",
