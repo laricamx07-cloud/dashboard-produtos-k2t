@@ -1,7 +1,7 @@
 {
   "data": "2026-09-08",
   "primeira_atualizacao": "08/09/2026 08:17:03",
-  "ultima_atualizacao": "08/09/2026 08:17:03",
+  "ultima_atualizacao": "08/09/2026 08:27:01",
   "total_base_dia": 115,
   "total_atual": 115,
   "novos_produtos": 0,
@@ -345,10 +345,10 @@
     "SP12501053810004": {
       "sku": "SP12501053810004",
       "id_produto": "21007",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL RENAULT CLIO EXPRESSION 1.0 16V HI-POWER 2014",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
