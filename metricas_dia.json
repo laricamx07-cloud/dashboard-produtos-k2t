@@ -1,11 +1,11 @@
 {
   "data": "2026-09-09",
   "primeira_atualizacao": "09/09/2026 08:21:33",
-  "ultima_atualizacao": "09/09/2026 17:38:33",
+  "ultima_atualizacao": "09/09/2026 17:50:54",
   "total_base_dia": 61,
-  "total_atual": 141,
+  "total_atual": 138,
   "novos_produtos": 98,
-  "total_subidos": 18,
+  "total_subidos": 21,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005106034",
@@ -339,7 +339,9 @@
     "SP12501053798026",
     "SP12501053798411",
     "SP12501103418400",
+    "SP12501103434024",
     "SP12501103434027",
+    "SP12501103434030",
     "SP12501111534011",
     "SP12501111534026",
     "SP12501111534036",
@@ -347,6 +349,7 @@
     "SP12501111593001",
     "SP12501111623424",
     "SP12501111623480",
+    "SP12501111623522",
     "SP12501111623567",
     "SP12501111658031"
   ],
@@ -359,7 +362,9 @@
     "SP12501053798026",
     "SP12501053798411",
     "SP12501103418400",
+    "SP12501103434024",
     "SP12501103434027",
+    "SP12501103434030",
     "SP12501111534011",
     "SP12501111534026",
     "SP12501111534036",
@@ -367,6 +372,7 @@
     "SP12501111593001",
     "SP12501111623424",
     "SP12501111623480",
+    "SP12501111623522",
     "SP12501111623567",
     "SP12501111658031"
   ],
@@ -438,7 +444,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -542,11 +548,11 @@
     {
       "sku": "SP12501103434024",
       "id_produto": "21068",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FIAT PALIO ED 1.0 2P 1997/1998",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ED 1.0 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -570,7 +576,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ED 1.0 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -578,11 +584,11 @@
     {
       "sku": "SP12501103434030",
       "id_produto": "21071",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT PALIO ED 1.0 2P 1997/1998",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ED 1.0 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1370,11 +1376,11 @@
     {
       "sku": "SP12501111623522",
       "id_produto": "21118",
-      "nome": "COMANDO CENTRAL DOS VIDROS ELÉTRICOS",
+      "nome": "COMANDO CENTRAL DOS VIDROS ELÉTRICOS NISSAN KICKS SL 2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1616,7 +1622,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1646,16 +1652,40 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103434024",
+      "id_produto": "21068",
+      "nome": "MÓDULO DE INJEÇÃO FIAT PALIO ED 1.0 2P 1997/1998",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO ED 1.0 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501103434027",
       "id_produto": "21070",
       "nome": "PAINEL DE INSTRUMENTOS FIAT PALIO ED 1.0 2P 1997/1998",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ED 1.0 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103434030",
+      "id_produto": "21071",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT PALIO ED 1.0 2P 1997/1998",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO ED 1.0 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501111534011",
@@ -1740,6 +1770,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111623522",
+      "id_produto": "21118",
+      "nome": "COMANDO CENTRAL DOS VIDROS ELÉTRICOS NISSAN KICKS SL 2018",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501111623567",
@@ -2550,11 +2592,11 @@
     "SP12501103434030": {
       "sku": "SP12501103434030",
       "id_produto": "21071",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT PALIO ED 1.0 2P 1997/1998",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ED 1.0 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -2638,7 +2680,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ED 1.0 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -3006,11 +3048,11 @@
     "SP12501103434024": {
       "sku": "SP12501103434024",
       "id_produto": "21068",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FIAT PALIO ED 1.0 2P 1997/1998",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ED 1.0 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -3106,7 +3148,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3210,11 +3252,11 @@
     "SP12501111623522": {
       "sku": "SP12501111623522",
       "id_produto": "21118",
-      "nome": "COMANDO CENTRAL DOS VIDROS ELÉTRICOS",
+      "nome": "COMANDO CENTRAL DOS VIDROS ELÉTRICOS NISSAN KICKS SL 2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
