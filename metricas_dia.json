@@ -1,10 +1,10 @@
 {
   "data": "2026-09-09",
   "primeira_atualizacao": "09/09/2026 08:21:33",
-  "ultima_atualizacao": "09/09/2026 09:17:05",
+  "ultima_atualizacao": "09/09/2026 09:20:56",
   "total_base_dia": 61,
-  "total_atual": 59,
-  "novos_produtos": 0,
+  "total_atual": 60,
+  "novos_produtos": 1,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004584032",
@@ -129,10 +129,13 @@
     "SP12501105631026",
     "SP12501109521034",
     "SP12501109548045",
+    "SP12501111658031",
     "SP12501123273032",
     "SP42501001064042"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501111658031"
+  ],
   "skus_subidos_hoje": [
     "SP12501053798007",
     "SP12501103418400"
@@ -141,7 +144,20 @@
     "SP12501053798007",
     "SP12501103418400"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501111658031",
+      "id_produto": "21039",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501053798007",
@@ -900,6 +916,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
+    },
+    "SP12501111658031": {
+      "sku": "SP12501111658031",
+      "id_produto": "21039",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     }
   }
 }
