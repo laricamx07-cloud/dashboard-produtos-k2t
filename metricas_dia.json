@@ -1,11 +1,11 @@
 {
   "data": "2026-09-09",
   "primeira_atualizacao": "09/09/2026 08:21:33",
-  "ultima_atualizacao": "09/09/2026 09:27:06",
+  "ultima_atualizacao": "09/09/2026 09:42:29",
   "total_base_dia": 61,
-  "total_atual": 60,
+  "total_atual": 59,
   "novos_produtos": 1,
-  "total_subidos": 2,
+  "total_subidos": 3,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005106034",
@@ -138,21 +138,23 @@
   ],
   "skus_subidos_hoje": [
     "SP12501053798007",
-    "SP12501103418400"
+    "SP12501103418400",
+    "SP12501111658031"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501053798007",
-    "SP12501103418400"
+    "SP12501103418400",
+    "SP12501111658031"
   ],
   "itens_novos_hoje": [
     {
       "sku": "SP12501111658031",
       "id_produto": "21039",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO CHEVROLET MERIVA 1.8 2002/2003",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "MERIVA 1.8 CD 1.8 MPFI 16V 122CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -182,6 +184,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111658031",
+      "id_produto": "21039",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO CHEVROLET MERIVA 1.8 2002/2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MERIVA 1.8 CD 1.8 MPFI 16V 122CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -920,11 +934,11 @@
     "SP12501111658031": {
       "sku": "SP12501111658031",
       "id_produto": "21039",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO CHEVROLET MERIVA 1.8 2002/2003",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "MERIVA 1.8 CD 1.8 MPFI 16V 122CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
