@@ -1,10 +1,10 @@
 {
   "data": "2026-09-10",
   "primeira_atualizacao": "10/09/2026 08:21:23",
-  "ultima_atualizacao": "10/09/2026 16:21:09",
+  "ultima_atualizacao": "10/09/2026 16:51:13",
   "total_base_dia": 136,
-  "total_atual": 58,
-  "novos_produtos": 8,
+  "total_atual": 62,
+  "novos_produtos": 12,
   "total_subidos": 77,
   "skus_base_dia": [
     "SP12501004584032",
@@ -183,6 +183,9 @@
     "SP12501053798400",
     "SP12501053798480",
     "SP12501053828007",
+    "SP12501053828032",
+    "SP12501053828034",
+    "SP12501053828035",
     "SP12501053828400",
     "SP12501056231030",
     "SP12501057343550",
@@ -260,6 +263,7 @@
     "SP12501111607038",
     "SP12501111607049",
     "SP12501111607411",
+    "SP12501111607488",
     "SP12501111623004",
     "SP12501111623007",
     "SP12501111623028",
@@ -292,13 +296,17 @@
   ],
   "skus_novos_hoje": [
     "SP12501053828007",
+    "SP12501053828032",
+    "SP12501053828034",
+    "SP12501053828035",
     "SP12501053828400",
     "SP12501111534030",
     "SP12501111607030",
     "SP12501111607032",
     "SP12501111607033",
     "SP12501111607034",
-    "SP12501111607035"
+    "SP12501111607035",
+    "SP12501111607488"
   ],
   "skus_subidos_hoje": [
     "SP12501053798010",
@@ -472,12 +480,48 @@
       "qtd_images": "7"
     },
     {
-      "sku": "SP12501053828400",
-      "id_produto": "21155",
-      "nome": "MOTOR COMPLETO",
+      "sku": "SP12501053828032",
+      "id_produto": "21157",
+      "nome": "PORTA DIANTEIRA DIREITA",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
       "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053828034",
+      "id_produto": "21158",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053828035",
+      "id_produto": "21159",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053828400",
+      "id_produto": "21155",
+      "nome": "MOTOR COMPLETO RENAULT CLIO SED. AUTHENTIQUE HI-FLEX 1.6",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
@@ -554,6 +598,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111607488",
+      "id_produto": "21160",
+      "nome": "JOGO DE BAGAGEIROS DO TETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     }
   ],
   "itens_subidos_hoje": [
@@ -3202,13 +3258,61 @@
     "SP12501053828400": {
       "sku": "SP12501053828400",
       "id_produto": "21155",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO RENAULT CLIO SED. AUTHENTIQUE HI-FLEX 1.6",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501053828032": {
+      "sku": "SP12501053828032",
+      "id_produto": "21157",
+      "nome": "PORTA DIANTEIRA DIREITA",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501053828034": {
+      "sku": "SP12501053828034",
+      "id_produto": "21158",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501111607488": {
+      "sku": "SP12501111607488",
+      "id_produto": "21160",
+      "nome": "JOGO DE BAGAGEIROS DO TETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    "SP12501053828035": {
+      "sku": "SP12501053828035",
+      "id_produto": "21159",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "10"
     }
   }
