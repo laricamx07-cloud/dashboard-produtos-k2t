@@ -1,11 +1,11 @@
 {
   "data": "2026-09-10",
   "primeira_atualizacao": "10/09/2026 08:21:23",
-  "ultima_atualizacao": "10/09/2026 17:50:51",
+  "ultima_atualizacao": "10/09/2026 17:52:51",
   "total_base_dia": 136,
-  "total_atual": 58,
+  "total_atual": 57,
   "novos_produtos": 13,
-  "total_subidos": 82,
+  "total_subidos": 83,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005106034",
@@ -319,6 +319,7 @@
     "SP12501053828032",
     "SP12501053828034",
     "SP12501053828035",
+    "SP12501053828400",
     "SP12501056231030",
     "SP12501100664001",
     "SP12501100664026",
@@ -403,6 +404,7 @@
     "SP12501053828032",
     "SP12501053828034",
     "SP12501053828035",
+    "SP12501053828400",
     "SP12501056231030",
     "SP12501100664001",
     "SP12501100664026",
@@ -498,7 +500,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -546,7 +548,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -692,7 +694,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -731,6 +733,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053828400",
+      "id_produto": "21155",
+      "nome": "MOTOR COMPLETO RENAULT CLIO SED. AUTHENTIQUE HI-FLEX 1.6",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -3346,7 +3360,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3406,7 +3420,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
