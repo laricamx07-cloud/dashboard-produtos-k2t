@@ -1,11 +1,11 @@
 {
   "data": "2026-09-10",
   "primeira_atualizacao": "10/09/2026 08:21:23",
-  "ultima_atualizacao": "10/09/2026 17:45:36",
+  "ultima_atualizacao": "10/09/2026 17:50:51",
   "total_base_dia": 136,
-  "total_atual": 60,
+  "total_atual": 58,
   "novos_produtos": 13,
-  "total_subidos": 80,
+  "total_subidos": 82,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005106034",
@@ -315,6 +315,7 @@
     "SP12501053798400",
     "SP12501053798480",
     "SP12501053828007",
+    "SP12501053828024",
     "SP12501053828032",
     "SP12501053828034",
     "SP12501053828035",
@@ -366,6 +367,7 @@
     "SP12501111607038",
     "SP12501111607049",
     "SP12501111607411",
+    "SP12501111607488",
     "SP12501111623007",
     "SP12501111623028",
     "SP12501111623034",
@@ -397,6 +399,7 @@
     "SP12501053798400",
     "SP12501053798480",
     "SP12501053828007",
+    "SP12501053828024",
     "SP12501053828032",
     "SP12501053828034",
     "SP12501053828035",
@@ -448,6 +451,7 @@
     "SP12501111607038",
     "SP12501111607049",
     "SP12501111607411",
+    "SP12501111607488",
     "SP12501111623007",
     "SP12501111623028",
     "SP12501111623034",
@@ -490,11 +494,11 @@
     {
       "sku": "SP12501053828024",
       "id_produto": "21161",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT CLIO SED. AUTHENTIQUE HI-FLEX 1.6",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -622,11 +626,11 @@
     {
       "sku": "SP12501111607488",
       "id_produto": "21160",
-      "nome": "JOGO DE BAGAGEIROS DO TETO",
+      "nome": "JOGO DE BAGAGEIROS DO TETO CHEVROLET ZAFIRA CD 2.0 2004",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -680,6 +684,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501053828024",
+      "id_produto": "21161",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT CLIO SED. AUTHENTIQUE HI-FLEX 1.6",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501053828032",
@@ -1292,6 +1308,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111607488",
+      "id_produto": "21160",
+      "nome": "JOGO DE BAGAGEIROS DO TETO CHEVROLET ZAFIRA CD 2.0 2004",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501111623007",
@@ -3350,11 +3378,11 @@
     "SP12501111607488": {
       "sku": "SP12501111607488",
       "id_produto": "21160",
-      "nome": "JOGO DE BAGAGEIROS DO TETO",
+      "nome": "JOGO DE BAGAGEIROS DO TETO CHEVROLET ZAFIRA CD 2.0 2004",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -3374,11 +3402,11 @@
     "SP12501053828024": {
       "sku": "SP12501053828024",
       "id_produto": "21161",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT CLIO SED. AUTHENTIQUE HI-FLEX 1.6",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
