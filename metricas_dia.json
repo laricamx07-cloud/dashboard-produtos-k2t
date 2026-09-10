@@ -1,11 +1,11 @@
 {
   "data": "2026-09-10",
   "primeira_atualizacao": "10/09/2026 08:21:23",
-  "ultima_atualizacao": "10/09/2026 17:21:19",
+  "ultima_atualizacao": "10/09/2026 17:38:07",
   "total_base_dia": 136,
-  "total_atual": 61,
-  "novos_produtos": 12,
-  "total_subidos": 78,
+  "total_atual": 60,
+  "novos_produtos": 13,
+  "total_subidos": 80,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005106034",
@@ -183,6 +183,7 @@
     "SP12501053798400",
     "SP12501053798480",
     "SP12501053828007",
+    "SP12501053828024",
     "SP12501053828032",
     "SP12501053828034",
     "SP12501053828035",
@@ -296,6 +297,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501053828007",
+    "SP12501053828024",
     "SP12501053828032",
     "SP12501053828034",
     "SP12501053828035",
@@ -313,6 +315,8 @@
     "SP12501053798400",
     "SP12501053798480",
     "SP12501053828007",
+    "SP12501053828032",
+    "SP12501053828034",
     "SP12501053828035",
     "SP12501056231030",
     "SP12501100664001",
@@ -393,6 +397,8 @@
     "SP12501053798400",
     "SP12501053798480",
     "SP12501053828007",
+    "SP12501053828032",
+    "SP12501053828034",
     "SP12501053828035",
     "SP12501056231030",
     "SP12501100664001",
@@ -482,13 +488,25 @@
       "qtd_images": "7"
     },
     {
-      "sku": "SP12501053828032",
-      "id_produto": "21157",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "sku": "SP12501053828024",
+      "id_produto": "21161",
+      "nome": "MÓDULO DE INJEÇÃO",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501053828032",
+      "id_produto": "21157",
+      "nome": "PORTA DIANTEIRA DIREITA RENAULT CLIO SED. AUTHE 1.6 2006",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -496,11 +514,11 @@
     {
       "sku": "SP12501053828034",
       "id_produto": "21158",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT CLIO SED. AUTHE. 1.6 06/06",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -662,6 +680,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501053828032",
+      "id_produto": "21157",
+      "nome": "PORTA DIANTEIRA DIREITA RENAULT CLIO SED. AUTHE 1.6 2006",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053828034",
+      "id_produto": "21158",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT CLIO SED. AUTHE. 1.6 06/06",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501053828035",
@@ -3284,11 +3326,11 @@
     "SP12501053828032": {
       "sku": "SP12501053828032",
       "id_produto": "21157",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA RENAULT CLIO SED. AUTHE 1.6 2006",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3296,11 +3338,11 @@
     "SP12501053828034": {
       "sku": "SP12501053828034",
       "id_produto": "21158",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT CLIO SED. AUTHE. 1.6 06/06",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3328,6 +3370,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501053828024": {
+      "sku": "SP12501053828024",
+      "id_produto": "21161",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     }
   }
 }
