@@ -1,11 +1,11 @@
 {
   "data": "2026-09-10",
   "primeira_atualizacao": "10/09/2026 08:21:23",
-  "ultima_atualizacao": "10/09/2026 16:51:13",
+  "ultima_atualizacao": "10/09/2026 17:21:19",
   "total_base_dia": 136,
-  "total_atual": 62,
+  "total_atual": 61,
   "novos_produtos": 12,
-  "total_subidos": 77,
+  "total_subidos": 78,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005106034",
@@ -313,6 +313,7 @@
     "SP12501053798400",
     "SP12501053798480",
     "SP12501053828007",
+    "SP12501053828035",
     "SP12501056231030",
     "SP12501100664001",
     "SP12501100664026",
@@ -392,6 +393,7 @@
     "SP12501053798400",
     "SP12501053798480",
     "SP12501053828007",
+    "SP12501053828035",
     "SP12501056231030",
     "SP12501100664001",
     "SP12501100664026",
@@ -506,11 +508,11 @@
     {
       "sku": "SP12501053828035",
       "id_produto": "21159",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA RENAULT CLIO SED. AUTHE. HI-FLEX 1.6",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -660,6 +662,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501053828035",
+      "id_produto": "21159",
+      "nome": "PORTA TRASEIRA ESQUERDA RENAULT CLIO SED. AUTHE. HI-FLEX 1.6",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501056231030",
@@ -968,7 +982,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1654,7 +1668,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -3306,11 +3320,11 @@
     "SP12501053828035": {
       "sku": "SP12501053828035",
       "id_produto": "21159",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA RENAULT CLIO SED. AUTHE. HI-FLEX 1.6",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
