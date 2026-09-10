@@ -1,11 +1,11 @@
 {
   "data": "2026-09-10",
   "primeira_atualizacao": "10/09/2026 08:21:23",
-  "ultima_atualizacao": "10/09/2026 09:21:16",
+  "ultima_atualizacao": "10/09/2026 09:51:21",
   "total_base_dia": 136,
-  "total_atual": 127,
+  "total_atual": 123,
   "novos_produtos": 0,
-  "total_subidos": 9,
+  "total_subidos": 13,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005106034",
@@ -284,6 +284,8 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501100664001",
+    "SP12501100664026",
     "SP12501111607001",
     "SP12501111607011",
     "SP12501111607012",
@@ -291,10 +293,14 @@
     "SP12501111607038",
     "SP12501111607049",
     "SP12501111607411",
+    "SP12501111623007",
+    "SP12501111623042",
     "SP12501111658004",
     "SP12501111658400"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501100664001",
+    "SP12501100664026",
     "SP12501111607001",
     "SP12501111607011",
     "SP12501111607012",
@@ -302,11 +308,37 @@
     "SP12501111607038",
     "SP12501111607049",
     "SP12501111607411",
+    "SP12501111623007",
+    "SP12501111623042",
     "SP12501111658004",
     "SP12501111658400"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501100664001",
+      "id_produto": "21132",
+      "nome": "ALTERNADOR CHEVROLET CORSA SUPER 1.0 MPFI 2P 1997/1998",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CORSA SUPER 1.0 MPFI 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501100664026",
+      "id_produto": "21133",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CORSA SUPER 1.0 MPFI 2P 1997/1998",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CORSA SUPER 1.0 MPFI 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501111607001",
       "id_produto": "21137",
@@ -314,7 +346,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -390,6 +422,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111623007",
+      "id_produto": "21100",
+      "nome": "CAPÔ NISSAN KICKS SL 1.6 16V FLEXSTAR 5P AUT 2017/2018",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111623042",
+      "id_produto": "21109",
+      "nome": "RODA LIGA LEVE ARO 17 4 FUROS NISSAN KICKS",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501111658004",
@@ -744,11 +800,11 @@
     "SP12501111623042": {
       "sku": "SP12501111623042",
       "id_produto": "21109",
-      "nome": "RODA TRASEIRA ESQUERDA",
+      "nome": "RODA LIGA LEVE ARO 17 4 FUROS NISSAN KICKS",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1080,10 +1136,10 @@
     "SP12501111534004": {
       "sku": "SP12501111534004",
       "id_produto": "21135",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FORD ECOSPORT XLS 1.6 FLEX 8V 2006/2007",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
@@ -1176,11 +1232,11 @@
     "SP12501100664026": {
       "sku": "SP12501100664026",
       "id_produto": "21133",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CORSA SUPER 1.0 MPFI 2P 1997/1998",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SUPER 1.0 MPFI 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1296,10 +1352,10 @@
     "SP12501111593004": {
       "sku": "SP12501111593004",
       "id_produto": "21136",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL NISSAN TIIDA SL 1.8 FLEX 16V MEC. 2011/2012",
       "marca": "NISSAN",
       "modelo_do_veiculo": "TIIDA SL 1.8 FLEX 16V MEC.",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
@@ -1512,11 +1568,11 @@
     "SP12501100664001": {
       "sku": "SP12501100664001",
       "id_produto": "21132",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR CHEVROLET CORSA SUPER 1.0 MPFI 2P 1997/1998",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CORSA SUPER 1.0 MPFI 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1560,10 +1616,10 @@
     "SP12501053798004": {
       "sku": "SP12501053798004",
       "id_produto": "21131",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FIAT PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE 2003",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
@@ -1644,11 +1700,11 @@
     "SP12501111623007": {
       "sku": "SP12501111623007",
       "id_produto": "21100",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ NISSAN KICKS SL 1.6 16V FLEXSTAR 5P AUT 2017/2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1948,7 +2004,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
