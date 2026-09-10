@@ -1,11 +1,11 @@
 {
   "data": "2026-09-10",
   "primeira_atualizacao": "10/09/2026 08:21:23",
-  "ultima_atualizacao": "10/09/2026 08:51:26",
+  "ultima_atualizacao": "10/09/2026 09:21:16",
   "total_base_dia": 136,
-  "total_atual": 133,
+  "total_atual": 127,
   "novos_produtos": 0,
-  "total_subidos": 3,
+  "total_subidos": 9,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005106034",
@@ -284,17 +284,53 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501111607001",
+    "SP12501111607011",
     "SP12501111607012",
+    "SP12501111607026",
     "SP12501111607038",
+    "SP12501111607049",
+    "SP12501111607411",
+    "SP12501111658004",
     "SP12501111658400"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501111607001",
+    "SP12501111607011",
     "SP12501111607012",
+    "SP12501111607026",
     "SP12501111607038",
+    "SP12501111607049",
+    "SP12501111607411",
+    "SP12501111658004",
     "SP12501111658400"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501111607001",
+      "id_produto": "21137",
+      "nome": "ALTERNADOR CHEVROLET ZAFIRA CD 2.0 MPFI 5P MEC. 2004",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111607011",
+      "id_produto": "21138",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET ZAFIRA CD 2.0 2004",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501111607012",
       "id_produto": "21139",
@@ -302,10 +338,22 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111607026",
+      "id_produto": "21140",
+      "nome": "MOTOR DE PARTIDA CHEVROLET ZAFIRA CD 2.0 MPFI 5P MEC. 2004",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501111607038",
@@ -314,10 +362,46 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111607049",
+      "id_produto": "21142",
+      "nome": "VOLANTE DO MOTORISTA CHEVROLET ZAFIRA CD 2.0 MPFI 2004",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111607411",
+      "id_produto": "21143",
+      "nome": "ELETROVENTILADOR CHEVROLET ZAFIRA CD 2.0 MPFI 5P MEC. 2004",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111658004",
+      "id_produto": "21144",
+      "nome": "CÂMBIO MANUAL CHEVROLET MERIVA 1.8 CD 1.8 MPFI 16V 2002/2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MERIVA 1.8 CD 1.8 MPFI 16V 122CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501111658400",
@@ -326,7 +410,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MERIVA 1.8 CD 1.8 MPFI 16V 122CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -528,11 +612,11 @@
     "SP12501111607049": {
       "sku": "SP12501111607049",
       "id_produto": "21142",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA CHEVROLET ZAFIRA CD 2.0 MPFI 2004",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -672,11 +756,11 @@
     "SP12501111607011": {
       "sku": "SP12501111607011",
       "id_produto": "21138",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CHEVROLET ZAFIRA CD 2.0 2004",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -828,11 +912,11 @@
     "SP12501111607411": {
       "sku": "SP12501111607411",
       "id_produto": "21143",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR CHEVROLET ZAFIRA CD 2.0 MPFI 5P MEC. 2004",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1068,11 +1152,11 @@
     "SP12501111658004": {
       "sku": "SP12501111658004",
       "id_produto": "21144",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET MERIVA 1.8 CD 1.8 MPFI 16V 2002/2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MERIVA 1.8 CD 1.8 MPFI 16V 122CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1300,7 +1384,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MERIVA 1.8 CD 1.8 MPFI 16V 122CV 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1516,7 +1600,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1804,7 +1888,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1860,11 +1944,11 @@
     "SP12501111607001": {
       "sku": "SP12501111607001",
       "id_produto": "21137",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR CHEVROLET ZAFIRA CD 2.0 MPFI 5P MEC. 2004",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1944,11 +2028,11 @@
     "SP12501111607026": {
       "sku": "SP12501111607026",
       "id_produto": "21140",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET ZAFIRA CD 2.0 MPFI 5P MEC. 2004",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
