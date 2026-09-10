@@ -1,11 +1,11 @@
 {
   "data": "2026-09-10",
   "primeira_atualizacao": "10/09/2026 08:21:23",
-  "ultima_atualizacao": "10/09/2026 10:42:00",
+  "ultima_atualizacao": "10/09/2026 10:51:12",
   "total_base_dia": 136,
-  "total_atual": 106,
+  "total_atual": 102,
   "novos_produtos": 4,
-  "total_subidos": 34,
+  "total_subidos": 38,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005106034",
@@ -293,6 +293,7 @@
     "SP12501111607035"
   ],
   "skus_subidos_hoje": [
+    "SP12501053798480",
     "SP12501100664001",
     "SP12501100664026",
     "SP12501103469011",
@@ -301,6 +302,7 @@
     "SP12501103469035",
     "SP12501103469036",
     "SP12501103469037",
+    "SP12501111534010",
     "SP12501111534024",
     "SP12501111534032",
     "SP12501111534033",
@@ -317,6 +319,8 @@
     "SP12501111607411",
     "SP12501111623007",
     "SP12501111623028",
+    "SP12501111623035",
+    "SP12501111623037",
     "SP12501111623038",
     "SP12501111623039",
     "SP12501111623040",
@@ -329,6 +333,7 @@
     "SP12501111658400"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501053798480",
     "SP12501100664001",
     "SP12501100664026",
     "SP12501103469011",
@@ -337,6 +342,7 @@
     "SP12501103469035",
     "SP12501103469036",
     "SP12501103469037",
+    "SP12501111534010",
     "SP12501111534024",
     "SP12501111534032",
     "SP12501111534033",
@@ -353,6 +359,8 @@
     "SP12501111607411",
     "SP12501111623007",
     "SP12501111623028",
+    "SP12501111623035",
+    "SP12501111623037",
     "SP12501111623038",
     "SP12501111623039",
     "SP12501111623040",
@@ -415,6 +423,18 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501053798480",
+      "id_produto": "21050",
+      "nome": "PORTINHOLA DO TANQUE FIAT PALIO 1.0 TROFEO/FIRE FLEX 2003",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
     {
       "sku": "SP12501100664001",
       "id_produto": "21132",
@@ -512,13 +532,25 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501111534010",
+      "id_produto": "21051",
+      "nome": "CHAVE DE SETA FORD ECOSPORT XLS 1.6 FLEX 8V 2006/2007",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501111534024",
       "id_produto": "21052",
       "nome": "MÓDULO DE INJEÇÃO FORD ECOSPORT XLS 1.6 FLEX 8V 2006/2007",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -704,6 +736,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501111623035",
+      "id_produto": "21103",
+      "nome": "PORTA TRASEIRA ESQUERDA NISSAN KICKS SL 1.6 16V FLEX 2017/18",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111623037",
+      "id_produto": "21104",
+      "nome": "RETROVISOR DIREITO NISSAN KICKS SL 1.6 16V FLEX 2017/2018",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501111623038",
       "id_produto": "21105",
       "nome": "RETROVISOR ESQUERDO NISSAN KICKS SL 1.6 16V FLEX 2017/2018",
@@ -876,11 +932,11 @@
     "SP12501111623035": {
       "sku": "SP12501111623035",
       "id_produto": "21103",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA NISSAN KICKS SL 1.6 16V FLEX 2017/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -984,11 +1040,11 @@
     "SP12501111534010": {
       "sku": "SP12501111534010",
       "id_produto": "21051",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA FORD ECOSPORT XLS 1.6 FLEX 8V 2006/2007",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -1288,7 +1344,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2172,11 +2228,11 @@
     "SP12501111623037": {
       "sku": "SP12501111623037",
       "id_produto": "21104",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO NISSAN KICKS SL 1.6 16V FLEX 2017/2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -2400,11 +2456,11 @@
     "SP12501053798480": {
       "sku": "SP12501053798480",
       "id_produto": "21050",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE FIAT PALIO 1.0 TROFEO/FIRE FLEX 2003",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
