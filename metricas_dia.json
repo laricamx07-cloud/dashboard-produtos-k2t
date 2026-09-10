@@ -1,11 +1,11 @@
 {
   "data": "2026-09-10",
   "primeira_atualizacao": "10/09/2026 08:21:23",
-  "ultima_atualizacao": "10/09/2026 15:20:58",
+  "ultima_atualizacao": "10/09/2026 15:48:57",
   "total_base_dia": 136,
   "total_atual": 58,
-  "novos_produtos": 7,
-  "total_subidos": 76,
+  "novos_produtos": 8,
+  "total_subidos": 77,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005106034",
@@ -183,6 +183,7 @@
     "SP12501053798400",
     "SP12501053798480",
     "SP12501053828007",
+    "SP12501053828400",
     "SP12501056231030",
     "SP12501057343550",
     "SP12501057831514",
@@ -291,6 +292,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501053828007",
+    "SP12501053828400",
     "SP12501111534030",
     "SP12501111607030",
     "SP12501111607032",
@@ -300,6 +302,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501053798010",
+    "SP12501053798400",
     "SP12501053798480",
     "SP12501053828007",
     "SP12501056231030",
@@ -378,6 +381,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501053798010",
+    "SP12501053798400",
     "SP12501053798480",
     "SP12501053828007",
     "SP12501056231030",
@@ -468,6 +472,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501053828400",
+      "id_produto": "21155",
+      "nome": "MOTOR COMPLETO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501111534030",
       "id_produto": "21153",
       "nome": "PARA-LAMA DIANTEIRO DIREITO FORD ECOSPORT XLS 1.6 FLEX 06/07",
@@ -552,6 +568,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501053798400",
+      "id_produto": "21146",
+      "nome": "MOTOR COMPLETO FIAT PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE 2003",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501053798480",
@@ -1148,7 +1176,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1712,7 +1740,7 @@
       "id_produto": "2571",
       "nome": "Módulo de Injeção Fiat Argo Precision 1.8 2017/2018",
       "marca": "FIAT",
-      "modelo_do_veiculo": "ARGO PRECISION 1.8 16V FLEX AUT</p><p>",
+      "modelo_do_veiculo": "ARGO PRECISION 1.8 16V FLEX AUT&lt;/p&gt;&lt;p&gt;",
       "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -1954,7 +1982,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2502,11 +2530,11 @@
     "SP12501053798400": {
       "sku": "SP12501053798400",
       "id_produto": "21146",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FIAT PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE 2003",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3170,6 +3198,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    "SP12501053828400": {
+      "sku": "SP12501053828400",
+      "id_produto": "21155",
+      "nome": "MOTOR COMPLETO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
