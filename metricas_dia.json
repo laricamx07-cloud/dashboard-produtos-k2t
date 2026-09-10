@@ -1,11 +1,11 @@
 {
   "data": "2026-09-10",
   "primeira_atualizacao": "10/09/2026 08:21:23",
-  "ultima_atualizacao": "10/09/2026 09:51:21",
+  "ultima_atualizacao": "10/09/2026 10:21:18",
   "total_base_dia": 136,
-  "total_atual": 123,
-  "novos_produtos": 0,
-  "total_subidos": 13,
+  "total_atual": 113,
+  "novos_produtos": 1,
+  "total_subidos": 24,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005106034",
@@ -249,6 +249,7 @@
     "SP12501111607011",
     "SP12501111607012",
     "SP12501111607026",
+    "SP12501111607034",
     "SP12501111607038",
     "SP12501111607049",
     "SP12501111607411",
@@ -282,10 +283,18 @@
     "SP12501123273032",
     "SP42501001064042"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501111607034"
+  ],
   "skus_subidos_hoje": [
     "SP12501100664001",
     "SP12501100664026",
+    "SP12501103469011",
+    "SP12501103469012",
+    "SP12501103469024",
+    "SP12501103469035",
+    "SP12501103469036",
+    "SP12501103469037",
     "SP12501111607001",
     "SP12501111607011",
     "SP12501111607012",
@@ -294,13 +303,24 @@
     "SP12501111607049",
     "SP12501111607411",
     "SP12501111623007",
+    "SP12501111623028",
+    "SP12501111623041",
     "SP12501111623042",
+    "SP12501111623483",
+    "SP12501111623484",
+    "SP12501111623485",
     "SP12501111658004",
     "SP12501111658400"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501100664001",
     "SP12501100664026",
+    "SP12501103469011",
+    "SP12501103469012",
+    "SP12501103469024",
+    "SP12501103469035",
+    "SP12501103469036",
+    "SP12501103469037",
     "SP12501111607001",
     "SP12501111607011",
     "SP12501111607012",
@@ -309,11 +329,29 @@
     "SP12501111607049",
     "SP12501111607411",
     "SP12501111623007",
+    "SP12501111623028",
+    "SP12501111623041",
     "SP12501111623042",
+    "SP12501111623483",
+    "SP12501111623484",
+    "SP12501111623485",
     "SP12501111658004",
     "SP12501111658400"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501111607034",
+      "id_produto": "21150",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501100664001",
@@ -338,6 +376,78 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103469011",
+      "id_produto": "21086",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CITROEN C4 GLX 2.0 FLEX",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103469012",
+      "id_produto": "21087",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO CITROEN C4 GLX 2.0 FLEX 09/10",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103469024",
+      "id_produto": "21089",
+      "nome": "MÓDULO DE INJEÇÃO CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103469035",
+      "id_produto": "21094",
+      "nome": "PORTA TRASEIRA ESQUERDA CITROEN C4 GLX 2.0 FLEX 16V 2009/10",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103469036",
+      "id_produto": "21095",
+      "nome": "RADIADOR CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103469037",
+      "id_produto": "21096",
+      "nome": "RETROVISOR DIREITO CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501111607001",
@@ -436,6 +546,30 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501111623028",
+      "id_produto": "21101",
+      "nome": "PARA-CHOQUE DIANTEIRO NISSAN KICKS SL 1.6 16V FLEXSTAR 17/18",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111623041",
+      "id_produto": "21108",
+      "nome": "RODA TRASEIRA DIREITA NISSAN KICKS SL 1.6 16V FLEX 2017/2018",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501111623042",
       "id_produto": "21109",
       "nome": "RODA LIGA LEVE ARO 17 4 FUROS NISSAN KICKS",
@@ -446,6 +580,42 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111623483",
+      "id_produto": "21113",
+      "nome": "PNEU DIANTEIRO ESQUERDO NISSAN KICKS SL 1.6 16V FLEX 2017/18",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111623484",
+      "id_produto": "21114",
+      "nome": "PNEU TRASEIRO DIREITO NISSAN KICKS SL 1.6 16V FLEX 2017/2018",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111623485",
+      "id_produto": "21115",
+      "nome": "PNEU TRASEIRO ESQUERDO NISSAN KICKS SL 1.6 16V FLEX 2017/18",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501111658004",
@@ -1100,11 +1270,11 @@
     "SP12501103469012": {
       "sku": "SP12501103469012",
       "id_produto": "21087",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO CITROEN C4 GLX 2.0 FLEX 09/10",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1256,11 +1426,11 @@
     "SP12501103469036": {
       "sku": "SP12501103469036",
       "id_produto": "21095",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1304,11 +1474,11 @@
     "SP12501103469035": {
       "sku": "SP12501103469035",
       "id_produto": "21094",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA CITROEN C4 GLX 2.0 FLEX 16V 2009/10",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1340,11 +1510,11 @@
     "SP12501103469024": {
       "sku": "SP12501103469024",
       "id_produto": "21089",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1556,11 +1726,11 @@
     "SP12501103469037": {
       "sku": "SP12501103469037",
       "id_produto": "21096",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO CITROEN C4 GLX 2.0 FLEX 16V 5P. 2009/2010",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1640,11 +1810,11 @@
     "SP12501111623484": {
       "sku": "SP12501111623484",
       "id_produto": "21114",
-      "nome": "PNEU TRASEIRO DIREITO",
+      "nome": "PNEU TRASEIRO DIREITO NISSAN KICKS SL 1.6 16V FLEX 2017/2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1676,11 +1846,11 @@
     "SP12501111623028": {
       "sku": "SP12501111623028",
       "id_produto": "21101",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO NISSAN KICKS SL 1.6 16V FLEXSTAR 17/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -1784,11 +1954,11 @@
     "SP12501111623483": {
       "sku": "SP12501111623483",
       "id_produto": "21113",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "PNEU DIANTEIRO ESQUERDO NISSAN KICKS SL 1.6 16V FLEX 2017/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1832,11 +2002,11 @@
     "SP12501111623041": {
       "sku": "SP12501111623041",
       "id_produto": "21108",
-      "nome": "RODA TRASEIRA DIREITA",
+      "nome": "RODA TRASEIRA DIREITA NISSAN KICKS SL 1.6 16V FLEX 2017/2018",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1904,11 +2074,11 @@
     "SP12501111623485": {
       "sku": "SP12501111623485",
       "id_produto": "21115",
-      "nome": "PNEU TRASEIRO ESQUERDO",
+      "nome": "PNEU TRASEIRO ESQUERDO NISSAN KICKS SL 1.6 16V FLEX 2017/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2096,14 +2266,26 @@
     "SP12501103469011": {
       "sku": "SP12501103469011",
       "id_produto": "21086",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CITROEN C4 GLX 2.0 FLEX",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 GLX 2.0 FLEX 16V 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    "SP12501111607034": {
+      "sku": "SP12501111607034",
+      "id_produto": "21150",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
