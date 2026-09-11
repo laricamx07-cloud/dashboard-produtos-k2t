@@ -1,11 +1,11 @@
 {
   "data": "2026-09-11",
   "primeira_atualizacao": "11/09/2026 08:17:37",
-  "ultima_atualizacao": "11/09/2026 11:16:56",
+  "ultima_atualizacao": "11/09/2026 11:21:25",
   "total_base_dia": 217,
-  "total_atual": 188,
+  "total_atual": 187,
   "novos_produtos": 1,
-  "total_subidos": 30,
+  "total_subidos": 31,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -460,6 +460,7 @@
     "SP12501053798449",
     "SP12501053810031",
     "SP12501053810036",
+    "SP12501111607570",
     "SP12501111615001",
     "SP12501111615004",
     "SP12501111615007",
@@ -492,6 +493,7 @@
     "SP12501053798449",
     "SP12501053810031",
     "SP12501053810036",
+    "SP12501111607570",
     "SP12501111615001",
     "SP12501111615004",
     "SP12501111615007",
@@ -546,7 +548,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -660,13 +662,25 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501111607570",
+      "id_produto": "21332",
+      "nome": "RÁDIO CHEVROLET ZAFIRA CD 2.0 MPFI 5P MEC. 2004/2004",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501111615001",
       "id_produto": "21333",
       "nome": "ALTERNADOR FORD FOCUS SEDAN GHIA 2.0 16V MEC 2005/2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1576,10 +1590,10 @@
     "SP12501053810485": {
       "sku": "SP12501053810485",
       "id_produto": "21182",
-      "nome": "PNEU TRASEIRO ESQUERDO",
+      "nome": "PNEU TRASEIRO ESQUERDO RENAULT CLIO EXPRESSION 1.0 16V 2014",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
@@ -1712,7 +1726,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SEDAN GHIA 2.0 16V MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2804,7 +2818,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3112,11 +3126,11 @@
     "SP12501111607570": {
       "sku": "SP12501111607570",
       "id_produto": "21332",
-      "nome": "RÁDIO",
+      "nome": "RÁDIO CHEVROLET ZAFIRA CD 2.0 MPFI 5P MEC. 2004/2004",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
