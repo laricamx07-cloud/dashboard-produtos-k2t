@@ -1,11 +1,11 @@
 {
   "data": "2026-09-11",
   "primeira_atualizacao": "11/09/2026 08:17:37",
-  "ultima_atualizacao": "11/09/2026 13:51:20",
+  "ultima_atualizacao": "11/09/2026 14:53:46",
   "total_base_dia": 217,
-  "total_atual": 140,
+  "total_atual": 138,
   "novos_produtos": 1,
-  "total_subidos": 78,
+  "total_subidos": 80,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -481,6 +481,8 @@
     "SP12501103434004",
     "SP12501103469004",
     "SP12501111534004",
+    "SP12501111585034",
+    "SP12501111585037",
     "SP12501111585400",
     "SP12501111585480",
     "SP12501111593004",
@@ -561,6 +563,8 @@
     "SP12501103434004",
     "SP12501103469004",
     "SP12501111534004",
+    "SP12501111585034",
+    "SP12501111585037",
     "SP12501111585400",
     "SP12501111585480",
     "SP12501111593004",
@@ -930,7 +934,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO WEEKEND ADVENTURE 1.6 16V",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1008,6 +1012,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501111585034",
+      "id_produto": "21296",
+      "nome": "PORTA TRASEIRA DIREITA VOLKSWAGEN POLO SEDAN 2.0 2004",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "POLO SEDAN 2.0 FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111585037",
+      "id_produto": "21297",
+      "nome": "RETROVISOR DIREITO VOLKSWAGEN POLO SEDAN 2.0 FLEX 2004",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "POLO SEDAN 2.0 FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501111585400",
       "id_produto": "21298",
       "nome": "MOTOR COMPLETO VOLKSWAGEN POLO SEDAN 2.0 FLEX 2004",
@@ -1050,7 +1078,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "TIIDA SL 1.8 FLEX 16V MEC.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -2972,7 +3000,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "TIIDA SL 1.8 FLEX 16V MEC.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -3212,7 +3240,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO WEEKEND ADVENTURE 1.6 16V",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -3304,11 +3332,11 @@
     "SP12501111585037": {
       "sku": "SP12501111585037",
       "id_produto": "21297",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO VOLKSWAGEN POLO SEDAN 2.0 FLEX 2004",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO SEDAN 2.0 FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -3496,11 +3524,11 @@
     "SP12501111585034": {
       "sku": "SP12501111585034",
       "id_produto": "21296",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA VOLKSWAGEN POLO SEDAN 2.0 2004",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO SEDAN 2.0 FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
