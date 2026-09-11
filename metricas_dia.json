@@ -1,11 +1,11 @@
 {
   "data": "2026-09-11",
   "primeira_atualizacao": "11/09/2026 08:17:37",
-  "ultima_atualizacao": "11/09/2026 08:51:10",
+  "ultima_atualizacao": "11/09/2026 09:21:50",
   "total_base_dia": 217,
-  "total_atual": 216,
+  "total_atual": 213,
   "novos_produtos": 0,
-  "total_subidos": 1,
+  "total_subidos": 4,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -446,13 +446,55 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501111631027",
+    "SP12501111631030",
+    "SP12501111631031",
     "SP12501111631037"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501111631027",
+    "SP12501111631030",
+    "SP12501111631031",
     "SP12501111631037"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501111631027",
+      "id_produto": "21350",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET CELTA SPIRIT/LT 1.0 2005/06",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111631030",
+      "id_produto": "21352",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CHEVROLET CELTA SPIRIT/LT 1.0",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111631031",
+      "id_produto": "21353",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO CHEVROLET CELTA SPIRIT/LT 1.0",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501111631037",
       "id_produto": "21354",
@@ -460,7 +502,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -902,11 +944,11 @@
     "SP12501111631030": {
       "sku": "SP12501111631030",
       "id_produto": "21352",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CHEVROLET CELTA SPIRIT/LT 1.0",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1274,11 +1316,11 @@
     "SP12501111631027": {
       "sku": "SP12501111631027",
       "id_produto": "21350",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET CELTA SPIRIT/LT 1.0 2005/06",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -2006,11 +2048,11 @@
     "SP12501111631031": {
       "sku": "SP12501111631031",
       "id_produto": "21353",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO CHEVROLET CELTA SPIRIT/LT 1.0",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -2562,7 +2604,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
