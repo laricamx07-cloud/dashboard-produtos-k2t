@@ -1,11 +1,11 @@
 {
   "data": "2026-09-11",
   "primeira_atualizacao": "11/09/2026 08:17:37",
-  "ultima_atualizacao": "11/09/2026 11:34:24",
+  "ultima_atualizacao": "11/09/2026 11:51:12",
   "total_base_dia": 217,
-  "total_atual": 185,
+  "total_atual": 184,
   "novos_produtos": 1,
-  "total_subidos": 33,
+  "total_subidos": 34,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -461,6 +461,7 @@
     "SP12501053810031",
     "SP12501053810036",
     "SP12501053836038",
+    "SP12501111607449",
     "SP12501111607480",
     "SP12501111607570",
     "SP12501111615001",
@@ -496,6 +497,7 @@
     "SP12501053810031",
     "SP12501053810036",
     "SP12501053836038",
+    "SP12501111607449",
     "SP12501111607480",
     "SP12501111607570",
     "SP12501111615001",
@@ -600,7 +602,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -678,13 +680,25 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501111607449",
+      "id_produto": "21330",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO CHEVROLET ZAFIRA CD 2.0 2004",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501111607480",
       "id_produto": "21331",
       "nome": "PORTINHOLA DO TANQUE CHEVROLET ZAFIRA CD 2.0 MPFI MEC. 2004",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1582,11 +1596,11 @@
     "SP12501111607449": {
       "sku": "SP12501111607449",
       "id_produto": "21330",
-      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO CHEVROLET ZAFIRA CD 2.0 2004",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -2282,7 +2296,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0/ TROFEO 1.0 FIRE/ FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2318,7 +2332,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -3430,10 +3444,10 @@
     "SP12501053844004": {
       "sku": "SP12501053844004",
       "id_produto": "21189",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FIAT PALIO WEEKEND ADVENTURE 1.6 16V 2002/2003",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO WEEKEND ADVENTURE 1.6 16V",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
