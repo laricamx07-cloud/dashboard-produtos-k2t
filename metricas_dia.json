@@ -1,11 +1,11 @@
 {
   "data": "2026-09-11",
   "primeira_atualizacao": "11/09/2026 08:17:37",
-  "ultima_atualizacao": "11/09/2026 08:21:31",
+  "ultima_atualizacao": "11/09/2026 08:51:10",
   "total_base_dia": 217,
-  "total_atual": 217,
+  "total_atual": 216,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 1,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -445,10 +445,27 @@
     "SP42501001064042"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501111631037"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501111631037"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501111631037",
+      "id_produto": "21354",
+      "nome": "RETROVISOR DIREITO CHEVROLET CELTA SPIRIT/LT 1.0 2005/2006",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501111550480": {
       "sku": "SP12501111550480",
@@ -2541,11 +2558,11 @@
     "SP12501111631037": {
       "sku": "SP12501111631037",
       "id_produto": "21354",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO CHEVROLET CELTA SPIRIT/LT 1.0 2005/2006",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
