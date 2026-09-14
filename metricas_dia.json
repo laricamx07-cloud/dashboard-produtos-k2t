@@ -1,11 +1,11 @@
 {
   "data": "2026-09-14",
   "primeira_atualizacao": "14/09/2026 15:21:43",
-  "ultima_atualizacao": "14/09/2026 15:51:15",
+  "ultima_atualizacao": "14/09/2026 16:23:22",
   "total_base_dia": 75,
-  "total_atual": 75,
+  "total_atual": 66,
   "novos_produtos": 1,
-  "total_subidos": 1,
+  "total_subidos": 10,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -165,20 +165,38 @@
     "SP12501015055027"
   ],
   "skus_subidos_hoje": [
-    "SP12501055197400"
+    "SP12501015055027",
+    "SP12501053801400",
+    "SP12501053828027",
+    "SP12501053828037",
+    "SP12501055197026",
+    "SP12501055197036",
+    "SP12501055197400",
+    "SP12501055197411",
+    "SP12501055197480",
+    "SP12501111577026"
   ],
   "skus_subidos_status_ml_hoje": [
-    "SP12501055197400"
+    "SP12501015055027",
+    "SP12501053801400",
+    "SP12501053828027",
+    "SP12501053828037",
+    "SP12501055197026",
+    "SP12501055197036",
+    "SP12501055197400",
+    "SP12501055197411",
+    "SP12501055197480",
+    "SP12501111577026"
   ],
   "itens_novos_hoje": [
     {
       "sku": "SP12501015055027",
       "id_produto": "18891",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT TORO VOLCANO 2.4 16V FLEX 2020",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO VOLCANO 2.4 16V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -186,16 +204,124 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501015055027",
+      "id_produto": "18891",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT TORO VOLCANO 2.4 16V FLEX 2020",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO VOLCANO 2.4 16V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501053801400",
+      "id_produto": "21384",
+      "nome": "MOTOR COMPLETO FIAT UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P 2013",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501053828027",
+      "id_produto": "21371",
+      "nome": "PAINEL DE INSTRUMENTOS RENAULT CLIO SED. AUTHE. HI-FLEX 2006",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501053828037",
+      "id_produto": "21372",
+      "nome": "RETROVISOR DIREITO RENAULT CLIO SED. AUTHENTIQUE HI-FLEX 1.6",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501055197026",
+      "id_produto": "21379",
+      "nome": "MOTOR DE PARTIDA FIAT PALIO 1.0 FIRE FLEX 4P 2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501055197036",
+      "id_produto": "21380",
+      "nome": "RADIADOR FIAT PALIO 1.0 FIRE FLEX 4P 2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501055197400",
       "id_produto": "21385",
       "nome": "MOTOR COMPLETO FIAT PALIO 1.0 FIRE FLEX 4P 2004/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501055197411",
+      "id_produto": "21381",
+      "nome": "ELETROVENTILADOR FIAT PALIO 1.0 FIRE FLEX 4P 2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501055197480",
+      "id_produto": "21382",
+      "nome": "PORTINHOLA DO TANQUE FIAT PALIO 1.0 FIRE FLEX 4P 2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111577026",
+      "id_produto": "21383",
+      "nome": "MOTOR DE PARTIDA CHEVROLET VECTRA GLS 2.0 CD 8V 1996/1997",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -286,11 +412,11 @@
     "SP12501111577026": {
       "sku": "SP12501111577026",
       "id_produto": "21383",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET VECTRA GLS 2.0 CD 8V 1996/1997",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -322,11 +448,11 @@
     "SP12501055197480": {
       "sku": "SP12501055197480",
       "id_produto": "21382",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE FIAT PALIO 1.0 FIRE FLEX 4P 2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -334,11 +460,11 @@
     "SP12501055197036": {
       "sku": "SP12501055197036",
       "id_produto": "21380",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FIAT PALIO 1.0 FIRE FLEX 4P 2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -382,11 +508,11 @@
     "SP12501053828037": {
       "sku": "SP12501053828037",
       "id_produto": "21372",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO RENAULT CLIO SED. AUTHENTIQUE HI-FLEX 1.6",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -418,11 +544,11 @@
     "SP12501055197411": {
       "sku": "SP12501055197411",
       "id_produto": "21381",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT PALIO 1.0 FIRE FLEX 4P 2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -598,11 +724,11 @@
     "SP12501053801400": {
       "sku": "SP12501053801400",
       "id_produto": "21384",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FIAT UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P 2013",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -622,11 +748,11 @@
     "SP12501053828027": {
       "sku": "SP12501053828027",
       "id_produto": "21371",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS RENAULT CLIO SED. AUTHE. HI-FLEX 2006",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -886,11 +1012,11 @@
     "SP12501055197026": {
       "sku": "SP12501055197026",
       "id_produto": "21379",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FIAT PALIO 1.0 FIRE FLEX 4P 2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1010,7 +1136,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1102,11 +1228,11 @@
     "SP12501015055027": {
       "sku": "SP12501015055027",
       "id_produto": "18891",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT TORO VOLCANO 2.4 16V FLEX 2020",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO VOLCANO 2.4 16V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
