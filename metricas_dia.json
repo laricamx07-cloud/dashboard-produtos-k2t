@@ -1,11 +1,11 @@
 {
   "data": "2026-09-14",
   "primeira_atualizacao": "14/09/2026 15:21:43",
-  "ultima_atualizacao": "14/09/2026 15:21:43",
+  "ultima_atualizacao": "14/09/2026 15:51:15",
   "total_base_dia": 75,
   "total_atual": 75,
-  "novos_produtos": 0,
-  "total_subidos": 0,
+  "novos_produtos": 1,
+  "total_subidos": 1,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -99,6 +99,7 @@
     "SP12501013397011",
     "SP12501014806045",
     "SP12501014970011",
+    "SP12501015055027",
     "SP12501015586034",
     "SP12501016027033",
     "SP12501016728034",
@@ -160,11 +161,43 @@
     "SP42501001064042",
     "SP42501001528084"
   ],
-  "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501015055027"
+  ],
+  "skus_subidos_hoje": [
+    "SP12501055197400"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501055197400"
+  ],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501015055027",
+      "id_produto": "18891",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO VOLCANO 2.4 16V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    }
+  ],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501055197400",
+      "id_produto": "21385",
+      "nome": "MOTOR COMPLETO FIAT PALIO 1.0 FIRE FLEX 4P 2004/2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501009802034": {
       "sku": "SP12501009802034",
@@ -973,11 +1006,11 @@
     "SP12501055197400": {
       "sku": "SP12501055197400",
       "id_produto": "21385",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FIAT PALIO 1.0 FIRE FLEX 4P 2004/2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1065,6 +1098,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    "SP12501015055027": {
+      "sku": "SP12501015055027",
+      "id_produto": "18891",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO VOLCANO 2.4 16V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     }
   }
 }
