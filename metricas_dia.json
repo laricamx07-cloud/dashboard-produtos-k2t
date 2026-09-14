@@ -1,11 +1,11 @@
 {
   "data": "2026-09-14",
   "primeira_atualizacao": "14/09/2026 15:21:43",
-  "ultima_atualizacao": "14/09/2026 16:50:56",
+  "ultima_atualizacao": "14/09/2026 17:20:53",
   "total_base_dia": 75,
-  "total_atual": 59,
+  "total_atual": 55,
   "novos_produtos": 1,
-  "total_subidos": 17,
+  "total_subidos": 21,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -169,18 +169,22 @@
     "SP12501053801400",
     "SP12501053801411",
     "SP12501053828012",
+    "SP12501053828020",
     "SP12501053828026",
     "SP12501053828027",
     "SP12501053828037",
     "SP12501053828038",
     "SP12501055197001",
+    "SP12501055197007",
     "SP12501055197019",
     "SP12501055197024",
     "SP12501055197026",
+    "SP12501055197032",
     "SP12501055197036",
     "SP12501055197400",
     "SP12501055197411",
     "SP12501055197480",
+    "SP12501057343550",
     "SP12501111577026"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -188,18 +192,22 @@
     "SP12501053801400",
     "SP12501053801411",
     "SP12501053828012",
+    "SP12501053828020",
     "SP12501053828026",
     "SP12501053828027",
     "SP12501053828037",
     "SP12501053828038",
     "SP12501055197001",
+    "SP12501055197007",
     "SP12501055197019",
     "SP12501055197024",
     "SP12501055197026",
+    "SP12501055197032",
     "SP12501055197036",
     "SP12501055197400",
     "SP12501055197411",
     "SP12501055197480",
+    "SP12501057343550",
     "SP12501111577026"
   ],
   "itens_novos_hoje": [
@@ -266,6 +274,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501053828020",
+      "id_produto": "21369",
+      "nome": "LANTERNA TRASEIRA ESQ RENAULT CLIO SED HI-FLEX 1.6 2006",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501053828026",
       "id_produto": "21370",
       "nome": "MOTOR DE PARTIDA RENAULT CLIO SED. AUTHENTIQUE HI-FLEX 2006",
@@ -326,6 +346,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501055197007",
+      "id_produto": "21359",
+      "nome": "CAPÔ FIAT PALIO 1.0 FIRE FLEX 4P 2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501055197019",
       "id_produto": "21377",
       "nome": "LANTERNA TRASEIRA DIREITA FIAT PALIO 1.0 FIRE FLEX 4P 2004",
@@ -360,6 +392,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501055197032",
+      "id_produto": "21360",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT PALIO 1.0 FIRE FLEX 4P 2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501055197036",
@@ -407,6 +451,18 @@
       "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501057343550",
+      "id_produto": "13213",
+      "nome": "INTERRUPTOR DO PISCA ALERTA VOLKSWAGEN FOX 1.0 MI 2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
       "qtd_images": "5"
     },
     {
@@ -934,10 +990,10 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX 1.0MI TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "3"
+      "qtd_images": "5"
     },
     "SP12501041145437": {
       "sku": "SP12501041145437",
@@ -954,11 +1010,11 @@
     "SP12501053828020": {
       "sku": "SP12501053828020",
       "id_produto": "21369",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQ RENAULT CLIO SED HI-FLEX 1.6 2006",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1014,11 +1070,11 @@
     "SP12501055197007": {
       "sku": "SP12501055197007",
       "id_produto": "21359",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FIAT PALIO 1.0 FIRE FLEX 4P 2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1086,11 +1142,11 @@
     "SP12501055197032": {
       "sku": "SP12501055197032",
       "id_produto": "21360",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT PALIO 1.0 FIRE FLEX 4P 2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
