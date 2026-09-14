@@ -1,11 +1,11 @@
 {
   "data": "2026-09-14",
   "primeira_atualizacao": "14/09/2026 15:21:43",
-  "ultima_atualizacao": "14/09/2026 17:20:53",
+  "ultima_atualizacao": "14/09/2026 17:50:56",
   "total_base_dia": 75,
-  "total_atual": 55,
+  "total_atual": 52,
   "novos_produtos": 1,
-  "total_subidos": 21,
+  "total_subidos": 24,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -166,6 +166,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501015055027",
+    "SP12501041935411",
     "SP12501053801400",
     "SP12501053801411",
     "SP12501053828012",
@@ -174,6 +175,8 @@
     "SP12501053828027",
     "SP12501053828037",
     "SP12501053828038",
+    "SP12501053836484",
+    "SP12501053844004",
     "SP12501055197001",
     "SP12501055197007",
     "SP12501055197019",
@@ -189,6 +192,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015055027",
+    "SP12501041935411",
     "SP12501053801400",
     "SP12501053801411",
     "SP12501053828012",
@@ -197,6 +201,8 @@
     "SP12501053828027",
     "SP12501053828037",
     "SP12501053828038",
+    "SP12501053836484",
+    "SP12501053844004",
     "SP12501055197001",
     "SP12501055197007",
     "SP12501055197019",
@@ -236,6 +242,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501041935411",
+      "id_produto": "10831",
+      "nome": "ELETROVENTILADOR CITROEN C3 GLX / GLX SONORA 1.4 2008/2008",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 GLX 1.4/ GLX SONORA 1.4 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "11"
     },
     {
       "sku": "SP12501053801400",
@@ -332,6 +350,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501053836484",
+      "id_produto": "21186",
+      "nome": "PNEU 195/55 R15 85H VOLKSWAGEN SPACEFOX 1.6 T FLEX 8V 2008",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501053844004",
+      "id_produto": "21189",
+      "nome": "CÂMBIO MANUAL FIAT PALIO WEEKEND ADVENTURE 1.6 16V 2002/2003",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO WEEKEND ADVENTURE 1.6 16V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501055197001",
@@ -894,7 +936,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACEFOX 1.6 TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -1158,7 +1200,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO WEEKEND ADVENTURE 1.6 16V",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1278,10 +1320,10 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 GLX 1.4/ GLX SONORA 1.4 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
-      "qtd_images": "18"
+      "qtd_images": "11"
     },
     "SP12501055197400": {
       "sku": "SP12501055197400",
