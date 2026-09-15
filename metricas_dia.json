@@ -1,10 +1,10 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 13:43:40",
+  "ultima_atualizacao": "15/09/2026 13:51:12",
   "total_base_dia": 65,
-  "total_atual": 55,
-  "novos_produtos": 35,
+  "total_atual": 57,
+  "novos_produtos": 37,
   "total_subidos": 45,
   "skus_base_dia": [
     "SP12501004584032",
@@ -88,6 +88,7 @@
     "SP12501009888032",
     "SP12501009888034",
     "SP12501010312034",
+    "SP12501010517016",
     "SP12501010517024",
     "SP12501010517049",
     "SP12501014024024",
@@ -157,6 +158,7 @@
     "SP12501109360004",
     "SP12501109521034",
     "SP12501109548045",
+    "SP12501109670512",
     "SP12501111593039",
     "SP12501111593040",
     "SP12501111593041",
@@ -178,6 +180,7 @@
   "skus_novos_hoje": [
     "SP12501004290019",
     "SP12501009845024",
+    "SP12501010517016",
     "SP12501010517049",
     "SP12501014024027",
     "SP12501015390037",
@@ -201,6 +204,7 @@
     "SP12501108010424",
     "SP12501108061480",
     "SP12501109360004",
+    "SP12501109670512",
     "SP12501115181027",
     "SP12501115203037",
     "SP12501115203038",
@@ -330,6 +334,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501010517016",
+      "id_produto": "17367",
+      "nome": "FAROL ESQUERDO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY EXL 1.5 16V i-VTEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501010517049",
@@ -606,6 +622,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501109670512",
+      "id_produto": "16544",
+      "nome": "MACACO MECÂNICO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "BRAVO ESSENCE DUALOGIC 1.8 16V E.TORQ",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501115181027",
@@ -1096,7 +1124,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMFORT 1.0 12V MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1350,7 +1378,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMFORT 1.0 12V MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -2470,6 +2498,30 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
+    },
+    "SP12501109670512": {
+      "sku": "SP12501109670512",
+      "id_produto": "16544",
+      "nome": "MACACO MECÂNICO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "BRAVO ESSENCE DUALOGIC 1.8 16V E.TORQ",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501010517016": {
+      "sku": "SP12501010517016",
+      "id_produto": "17367",
+      "nome": "FAROL ESQUERDO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY EXL 1.5 16V i-VTEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   }
 }
