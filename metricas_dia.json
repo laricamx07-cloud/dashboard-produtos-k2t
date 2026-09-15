@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 16:21:19",
+  "ultima_atualizacao": "15/09/2026 16:43:56",
   "total_base_dia": 65,
-  "total_atual": 65,
+  "total_atual": 62,
   "novos_produtos": 69,
-  "total_subidos": 69,
+  "total_subidos": 72,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -296,6 +296,7 @@
     "SP12501015624423",
     "SP12501016183019",
     "SP12501016183020",
+    "SP12501016582014",
     "SP12501016779411",
     "SP12501040734001",
     "SP12501041439400",
@@ -346,6 +347,8 @@
     "SP12501121858019",
     "SP12501121947584",
     "SP12501122358004",
+    "SP12501123133004",
+    "SP12501123354036",
     "SP12501123397011",
     "SP12501123486036",
     "SP12501123630400",
@@ -367,6 +370,7 @@
     "SP12501015624423",
     "SP12501016183019",
     "SP12501016183020",
+    "SP12501016582014",
     "SP12501016779411",
     "SP12501040734001",
     "SP12501041439400",
@@ -417,6 +421,8 @@
     "SP12501121858019",
     "SP12501121947584",
     "SP12501122358004",
+    "SP12501123133004",
+    "SP12501123354036",
     "SP12501123397011",
     "SP12501123486036",
     "SP12501123630400",
@@ -606,11 +612,11 @@
     {
       "sku": "SP12501016582014",
       "id_produto": "19182",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP COMMANDER LIMITED TD380 2.0",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1194,11 +1200,11 @@
     {
       "sku": "SP12501123133004",
       "id_produto": "14451",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL RENAULT LOGAN EXPRESSION HI-FLEX 1.6 16V 2013",
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN EXPRESSION HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1206,11 +1212,11 @@
     {
       "sku": "SP12501123354036",
       "id_produto": "16421",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR CHEVROLET SPIN LTZ 1.8 8V ECONO.FLEX AUT. 2013/14",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "SPIN LTZ 1.8 8V ECONO.FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1432,6 +1438,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501016582014",
+      "id_produto": "19182",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP COMMANDER LIMITED TD380 2.0",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501016779411",
@@ -2032,6 +2050,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501123133004",
+      "id_produto": "14451",
+      "nome": "CÂMBIO MANUAL RENAULT LOGAN EXPRESSION HI-FLEX 1.6 16V 2013",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN EXPRESSION HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501123354036",
+      "id_produto": "16421",
+      "nome": "RADIADOR CHEVROLET SPIN LTZ 1.8 8V ECONO.FLEX AUT. 2013/14",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "SPIN LTZ 1.8 8V ECONO.FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501123397011",
@@ -3490,11 +3532,11 @@
     "SP12501123354036": {
       "sku": "SP12501123354036",
       "id_produto": "16421",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR CHEVROLET SPIN LTZ 1.8 8V ECONO.FLEX AUT. 2013/14",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "SPIN LTZ 1.8 8V ECONO.FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -3502,11 +3544,11 @@
     "SP12501123133004": {
       "sku": "SP12501123133004",
       "id_produto": "14451",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL RENAULT LOGAN EXPRESSION HI-FLEX 1.6 16V 2013",
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN EXPRESSION HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -3646,11 +3688,11 @@
     "SP12501016582014": {
       "sku": "SP12501016582014",
       "id_produto": "19182",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP COMMANDER LIMITED TD380 2.0",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
