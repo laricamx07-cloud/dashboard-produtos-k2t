@@ -1,10 +1,10 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 10:44:22",
+  "ultima_atualizacao": "15/09/2026 10:51:51",
   "total_base_dia": 65,
-  "total_atual": 72,
-  "novos_produtos": 14,
+  "total_atual": 77,
+  "novos_produtos": 19,
   "total_subidos": 7,
   "skus_base_dia": [
     "SP12501004584032",
@@ -82,12 +82,14 @@
     "SP12501009713035",
     "SP12501009730035",
     "SP12501009802034",
+    "SP12501009845024",
     "SP12501009853034",
     "SP12501009888032",
     "SP12501009888034",
     "SP12501010312034",
     "SP12501010517024",
     "SP12501014024024",
+    "SP12501014024027",
     "SP12501014105024",
     "SP12501014750032",
     "SP12501014750034",
@@ -117,6 +119,7 @@
     "SP12501053950035",
     "SP12501053950038",
     "SP12501053950045",
+    "SP12501057289480",
     "SP12501057831514",
     "SP12501079959400",
     "SP12501080353034",
@@ -147,28 +150,35 @@
     "SP12501111593039",
     "SP12501111593040",
     "SP12501111593041",
+    "SP12501115181027",
     "SP12501116773026",
     "SP12501116927034",
     "SP12501122358004",
     "SP12501123273032",
+    "SP12501123630400",
     "SP42501001064042",
     "SP42501001528084"
   ],
   "skus_novos_hoje": [
+    "SP12501009845024",
+    "SP12501014024027",
     "SP12501016779411",
     "SP12501040734001",
     "SP12501041439400",
     "SP12501041730563",
     "SP12501042192027",
     "SP12501053950038",
+    "SP12501057289480",
     "SP12501087277411",
     "SP12501088320475",
     "SP12501102454038",
     "SP12501108010424",
     "SP12501108061480",
     "SP12501109360004",
+    "SP12501115181027",
     "SP12501116773026",
-    "SP12501122358004"
+    "SP12501122358004",
+    "SP12501123630400"
   ],
   "skus_subidos_hoje": [
     "SP12501053810437",
@@ -189,6 +199,30 @@
     "SP42501001528084"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501009845024",
+      "id_produto": "3439",
+      "nome": "MÓD. INJEÇÃO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO WAY 1.4 EVO FIRE FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501014024027",
+      "id_produto": "17031",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO TROOPER 1.6 MI TOTAL FLEX 8V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
     {
       "sku": "SP12501016779411",
       "id_produto": "13521",
@@ -260,6 +294,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501057289480",
+      "id_produto": "15623",
+      "nome": "PORTINHOLA DO TANQUE",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501087277411",
@@ -334,6 +380,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501115181027",
+      "id_produto": "16499",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO VIVACE 1.0 EVO FIRE FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501116773026",
       "id_produto": "18609",
       "nome": "MOTOR DE PARTIDA",
@@ -355,6 +413,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501123630400",
+      "id_produto": "16593",
+      "nome": "MOTOR COMPLETO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     }
   ],
@@ -1392,6 +1462,66 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    "SP12501123630400": {
+      "sku": "SP12501123630400",
+      "id_produto": "16593",
+      "nome": "MOTOR COMPLETO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501115181027": {
+      "sku": "SP12501115181027",
+      "id_produto": "16499",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO VIVACE 1.0 EVO FIRE FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501057289480": {
+      "sku": "SP12501057289480",
+      "id_produto": "15623",
+      "nome": "PORTINHOLA DO TANQUE",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION HI-FLEX 1.0 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501014024027": {
+      "sku": "SP12501014024027",
+      "id_produto": "17031",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO TROOPER 1.6 MI TOTAL FLEX 8V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP12501009845024": {
+      "sku": "SP12501009845024",
+      "id_produto": "3439",
+      "nome": "MÓD. INJEÇÃO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO WAY 1.4 EVO FIRE FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "5"
     }
   }
 }
