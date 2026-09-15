@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 10:51:51",
+  "ultima_atualizacao": "15/09/2026 11:13:50",
   "total_base_dia": 65,
-  "total_atual": 77,
-  "novos_produtos": 19,
-  "total_subidos": 7,
+  "total_atual": 85,
+  "novos_produtos": 29,
+  "total_subidos": 9,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -74,6 +74,7 @@
     "SP42501001528084"
   ],
   "skus_vistos_hoje": [
+    "SP12501004290019",
     "SP12501004584032",
     "SP12501005173040",
     "SP12501005173484",
@@ -95,6 +96,7 @@
     "SP12501014750034",
     "SP12501014806045",
     "SP12501015144010",
+    "SP12501015390037",
     "SP12501015586034",
     "SP12501015624423",
     "SP12501016027033",
@@ -119,7 +121,10 @@
     "SP12501053950035",
     "SP12501053950038",
     "SP12501053950045",
+    "SP12501057122424",
+    "SP12501057157019",
     "SP12501057289480",
+    "SP12501057300027",
     "SP12501057831514",
     "SP12501079959400",
     "SP12501080353034",
@@ -151,8 +156,13 @@
     "SP12501111593040",
     "SP12501111593041",
     "SP12501115181027",
+    "SP12501115203037",
+    "SP12501115203038",
+    "SP12501116730032",
     "SP12501116773026",
     "SP12501116927034",
+    "SP12501117745032",
+    "SP12501121947584",
     "SP12501122358004",
     "SP12501123273032",
     "SP12501123630400",
@@ -160,15 +170,20 @@
     "SP42501001528084"
   ],
   "skus_novos_hoje": [
+    "SP12501004290019",
     "SP12501009845024",
     "SP12501014024027",
+    "SP12501015390037",
     "SP12501016779411",
     "SP12501040734001",
     "SP12501041439400",
     "SP12501041730563",
     "SP12501042192027",
     "SP12501053950038",
+    "SP12501057122424",
+    "SP12501057157019",
     "SP12501057289480",
+    "SP12501057300027",
     "SP12501087277411",
     "SP12501088320475",
     "SP12501102454038",
@@ -176,23 +191,32 @@
     "SP12501108061480",
     "SP12501109360004",
     "SP12501115181027",
+    "SP12501115203037",
+    "SP12501115203038",
+    "SP12501116730032",
     "SP12501116773026",
+    "SP12501117745032",
+    "SP12501121947584",
     "SP12501122358004",
     "SP12501123630400"
   ],
   "skus_subidos_hoje": [
+    "SP12501015624423",
     "SP12501053810437",
     "SP12501053810484",
     "SP12501053950032",
+    "SP12501053950038",
     "SP12501087331012",
     "SP12501088338012",
     "SP12501108010424",
     "SP42501001528084"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501015624423",
     "SP12501053810437",
     "SP12501053810484",
     "SP12501053950032",
+    "SP12501053950038",
     "SP12501087331012",
     "SP12501088338012",
     "SP12501108010424",
@@ -200,9 +224,21 @@
   ],
   "itens_novos_hoje": [
     {
+      "sku": "SP12501004290019",
+      "id_produto": "19204",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "GRAND SIENA 1.0 EVO FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501009845024",
       "id_produto": "3439",
-      "nome": "MÓD. INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO UNO WAY 1.4 EVO FIRE FLEX 2013/2014",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO WAY 1.4 EVO FIRE FLEX 8V 5P",
       "status": "Habilitado",
@@ -222,6 +258,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501015390037",
+      "id_produto": "19217",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EXL 1.5 FLEX/FLEXONE 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501016779411",
@@ -286,14 +334,38 @@
     {
       "sku": "SP12501053950038",
       "id_produto": "21392",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501057122424",
+      "id_produto": "15613",
+      "nome": "MULTIMÍDIA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "BRAVO ESSENCE DUALOGIC 1.8 FLEX 16V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
-      "qtd_images": "9"
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501057157019",
+      "id_produto": "16350",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501057289480",
@@ -305,6 +377,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501057300027",
+      "id_produto": "16461",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "5"
     },
     {
@@ -392,6 +476,42 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501115203037",
+      "id_produto": "18817",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501115203038",
+      "id_produto": "18818",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501116730032",
+      "id_produto": "18402",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501116773026",
       "id_produto": "18609",
       "nome": "MOTOR DE PARTIDA",
@@ -401,6 +521,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501117745032",
+      "id_produto": "18407",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO FIRE 1.0 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501121947584",
+      "id_produto": "15173",
+      "nome": "ALAVANCA DE MARCHA MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.0 8V FLEXPOWER 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "8"
     },
     {
@@ -429,6 +573,18 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501015624423",
+      "id_produto": "17247",
+      "nome": "CENTRAL DE DERIVAÇÃO FIAT TORO ULTRA 2.0 16V 4X4 2021/2022",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO ULTRA 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
     {
       "sku": "SP12501053810437",
       "id_produto": "21179",
@@ -464,6 +620,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053950038",
+      "id_produto": "21392",
+      "nome": "RETROVISOR ESQUERDO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501087331012",
@@ -1094,11 +1262,11 @@
     "SP12501015624423": {
       "sku": "SP12501015624423",
       "id_produto": "17247",
-      "nome": "CENTRAL DE DERIVAÇÃO",
+      "nome": "CENTRAL DE DERIVAÇÃO FIAT TORO ULTRA 2.0 16V 4X4 2021/2022",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO ULTRA 2.0 16V 4X4 TB DIESEL AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -1406,11 +1574,11 @@
     "SP12501053950038": {
       "sku": "SP12501053950038",
       "id_produto": "21392",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1514,7 +1682,7 @@
     "SP12501009845024": {
       "sku": "SP12501009845024",
       "id_produto": "3439",
-      "nome": "MÓD. INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO UNO WAY 1.4 EVO FIRE FLEX 2013/2014",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO WAY 1.4 EVO FIRE FLEX 8V 5P",
       "status": "Habilitado",
@@ -1522,6 +1690,126 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
+    },
+    "SP12501015390037": {
+      "sku": "SP12501015390037",
+      "id_produto": "19217",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EXL 1.5 FLEX/FLEXONE 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501121947584": {
+      "sku": "SP12501121947584",
+      "id_produto": "15173",
+      "nome": "ALAVANCA DE MARCHA MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.0 8V FLEXPOWER 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    "SP12501057157019": {
+      "sku": "SP12501057157019",
+      "id_produto": "16350",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP12501116730032": {
+      "sku": "SP12501116730032",
+      "id_produto": "18402",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501115203038": {
+      "sku": "SP12501115203038",
+      "id_produto": "18818",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    "SP12501004290019": {
+      "sku": "SP12501004290019",
+      "id_produto": "19204",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "GRAND SIENA 1.0 EVO FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501057300027": {
+      "sku": "SP12501057300027",
+      "id_produto": "16461",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. MAXX/ LT 1.4 8V ECONOF. 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501115203037": {
+      "sku": "SP12501115203037",
+      "id_produto": "18817",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501057122424": {
+      "sku": "SP12501057122424",
+      "id_produto": "15613",
+      "nome": "MULTIMÍDIA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "BRAVO ESSENCE DUALOGIC 1.8 FLEX 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    "SP12501117745032": {
+      "sku": "SP12501117745032",
+      "id_produto": "18407",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO FIRE 1.0 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
