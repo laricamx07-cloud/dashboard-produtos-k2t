@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 16:43:56",
+  "ultima_atualizacao": "15/09/2026 16:51:09",
   "total_base_dia": 65,
-  "total_atual": 62,
+  "total_atual": 61,
   "novos_produtos": 69,
-  "total_subidos": 72,
+  "total_subidos": 73,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -284,6 +284,7 @@
     "SP12501004290019",
     "SP12501005106031",
     "SP12501005122038",
+    "SP12501009730026",
     "SP12501009829024",
     "SP12501009845024",
     "SP12501009861030",
@@ -358,6 +359,7 @@
     "SP12501004290019",
     "SP12501005106031",
     "SP12501005122038",
+    "SP12501009730026",
     "SP12501009829024",
     "SP12501009845024",
     "SP12501009861030",
@@ -468,11 +470,11 @@
     {
       "sku": "SP12501009730026",
       "id_produto": "5857",
-      "nome": "MOT PARTIDA",
+      "nome": "MOTOR DE PARTIDA HYUNDAI COMFORT STYLE 1.0 HB20 2015/2016",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMFORT STYLE 1.0 TB FLEX 12V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -1294,6 +1296,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501009730026",
+      "id_produto": "5857",
+      "nome": "MOTOR DE PARTIDA HYUNDAI COMFORT STYLE 1.0 HB20 2015/2016",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 COMFORT STYLE 1.0 TB FLEX 12V MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501009829024",
@@ -3604,11 +3618,11 @@
     "SP12501009730026": {
       "sku": "SP12501009730026",
       "id_produto": "5857",
-      "nome": "MOT PARTIDA",
+      "nome": "MOTOR DE PARTIDA HYUNDAI COMFORT STYLE 1.0 HB20 2015/2016",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMFORT STYLE 1.0 TB FLEX 12V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
