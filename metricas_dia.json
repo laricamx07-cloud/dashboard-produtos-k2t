@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 15:51:10",
+  "ultima_atualizacao": "15/09/2026 16:13:57",
   "total_base_dia": 65,
-  "total_atual": 69,
+  "total_atual": 65,
   "novos_produtos": 69,
-  "total_subidos": 65,
+  "total_subidos": 69,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -332,7 +332,9 @@
     "SP12501108061480",
     "SP12501109360004",
     "SP12501109530027",
+    "SP12501109548569",
     "SP12501109670512",
+    "SP12501114304585",
     "SP12501115181027",
     "SP12501115203037",
     "SP12501115203038",
@@ -341,8 +343,10 @@
     "SP12501116927034",
     "SP12501116960031",
     "SP12501117745032",
+    "SP12501121858019",
     "SP12501121947584",
     "SP12501122358004",
+    "SP12501123397011",
     "SP12501123486036",
     "SP12501123630400",
     "SP42501001528084"
@@ -399,7 +403,9 @@
     "SP12501108061480",
     "SP12501109360004",
     "SP12501109530027",
+    "SP12501109548569",
     "SP12501109670512",
+    "SP12501114304585",
     "SP12501115181027",
     "SP12501115203037",
     "SP12501115203038",
@@ -408,8 +414,10 @@
     "SP12501116927034",
     "SP12501116960031",
     "SP12501117745032",
+    "SP12501121858019",
     "SP12501121947584",
     "SP12501122358004",
+    "SP12501123397011",
     "SP12501123486036",
     "SP12501123630400",
     "SP42501001528084"
@@ -994,11 +1002,11 @@
     {
       "sku": "SP12501109548569",
       "id_produto": "14809",
-      "nome": "BRAKE LIGHT",
+      "nome": "BRAKE LIGHT FIAT UNO WAY 1.0 EVO FIRE FLEX 8V 5P 2011/2012",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO WAY 1.0 EVO FIRE FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1018,11 +1026,11 @@
     {
       "sku": "SP12501114304585",
       "id_produto": "14879",
-      "nome": "ALAVANCA DE MARCHA AUTOMATICO",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO VOLKSWAGEN JETTA 2.0 12/13",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "JETTA HIGHLINE 2.0 TSI 16V 4P TIPTRONIC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1150,11 +1158,11 @@
     {
       "sku": "SP12501121858019",
       "id_produto": "14846",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA HYUNDAI CRETA PULSE 1.6 16V FLEX",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA PULSE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1210,11 +1218,11 @@
     {
       "sku": "SP12501123397011",
       "id_produto": "15047",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FIAT TORO VOLCANO 2.0 2020/21",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO VOLCANO 2.0 16V 4X4 TB DIESEL AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1858,6 +1866,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501109548569",
+      "id_produto": "14809",
+      "nome": "BRAKE LIGHT FIAT UNO WAY 1.0 EVO FIRE FLEX 8V 5P 2011/2012",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO WAY 1.0 EVO FIRE FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501109670512",
       "id_produto": "16544",
       "nome": "MACACO MECÂNICO FIAT BRAVO ESSENCE DUALOGIC 1.8 16V 2011/12",
@@ -1868,6 +1888,18 @@
       "quantidade": "0",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501114304585",
+      "id_produto": "14879",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO VOLKSWAGEN JETTA 2.0 12/13",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "JETTA HIGHLINE 2.0 TSI 16V 4P TIPTRONIC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501115181027",
@@ -1966,6 +1998,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501121858019",
+      "id_produto": "14846",
+      "nome": "LANTERNA TRASEIRA DIREITA HYUNDAI CRETA PULSE 1.6 16V FLEX",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA PULSE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501121947584",
       "id_produto": "15173",
       "nome": "ALAVANCA DE MARCHA MANUAL CHEVROLET ONIX HATCH LT 1.0",
@@ -1988,6 +2032,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501123397011",
+      "id_produto": "15047",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FIAT TORO VOLCANO 2.0 2020/21",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO VOLCANO 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501123486036",
@@ -3410,11 +3466,11 @@
     "SP12501109548569": {
       "sku": "SP12501109548569",
       "id_produto": "14809",
-      "nome": "BRAKE LIGHT",
+      "nome": "BRAKE LIGHT FIAT UNO WAY 1.0 EVO FIRE FLEX 8V 5P 2011/2012",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO WAY 1.0 EVO FIRE FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -3542,11 +3598,11 @@
     "SP12501114304585": {
       "sku": "SP12501114304585",
       "id_produto": "14879",
-      "nome": "ALAVANCA DE MARCHA AUTOMATICO",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO VOLKSWAGEN JETTA 2.0 12/13",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "JETTA HIGHLINE 2.0 TSI 16V 4P TIPTRONIC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -3554,11 +3610,11 @@
     "SP12501121858019": {
       "sku": "SP12501121858019",
       "id_produto": "14846",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA HYUNDAI CRETA PULSE 1.6 16V FLEX",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA PULSE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -3614,11 +3670,11 @@
     "SP12501123397011": {
       "sku": "SP12501123397011",
       "id_produto": "15047",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FIAT TORO VOLCANO 2.0 2020/21",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO VOLCANO 2.0 16V 4X4 TB DIESEL AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
