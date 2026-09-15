@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 13:13:49",
+  "ultima_atualizacao": "15/09/2026 13:21:01",
   "total_base_dia": 65,
-  "total_atual": 57,
-  "novos_produtos": 31,
-  "total_subidos": 39,
+  "total_atual": 58,
+  "novos_produtos": 34,
+  "total_subidos": 41,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -123,6 +123,7 @@
     "SP12501053950035",
     "SP12501053950038",
     "SP12501053950045",
+    "SP12501054476401",
     "SP12501057122424",
     "SP12501057157019",
     "SP12501057289480",
@@ -139,6 +140,7 @@
     "SP12501088273012",
     "SP12501088320475",
     "SP12501088338012",
+    "SP12501090545026",
     "SP12501100672514",
     "SP12501100842007",
     "SP12501102268024",
@@ -164,6 +166,7 @@
     "SP12501116773026",
     "SP12501116927034",
     "SP12501117745032",
+    "SP12501121807401",
     "SP12501121947584",
     "SP12501122358004",
     "SP12501123273032",
@@ -184,12 +187,14 @@
     "SP12501041730563",
     "SP12501042192027",
     "SP12501053950038",
+    "SP12501054476401",
     "SP12501057122424",
     "SP12501057157019",
     "SP12501057289480",
     "SP12501057300027",
     "SP12501087277411",
     "SP12501088320475",
+    "SP12501090545026",
     "SP12501102454038",
     "SP12501108010424",
     "SP12501108061480",
@@ -200,6 +205,7 @@
     "SP12501116730032",
     "SP12501116773026",
     "SP12501117745032",
+    "SP12501121807401",
     "SP12501121947584",
     "SP12501122358004",
     "SP12501123630400"
@@ -218,6 +224,8 @@
     "SP12501053810437",
     "SP12501053810484",
     "SP12501053950032",
+    "SP12501053950033",
+    "SP12501053950034",
     "SP12501053950035",
     "SP12501053950038",
     "SP12501053950045",
@@ -259,6 +267,8 @@
     "SP12501053810437",
     "SP12501053810484",
     "SP12501053950032",
+    "SP12501053950033",
+    "SP12501053950034",
     "SP12501053950035",
     "SP12501053950038",
     "SP12501053950045",
@@ -432,6 +442,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501054476401",
+      "id_produto": "11767",
+      "nome": "BOMBA INJETORA FIAT MOBI LIKE 1.0 FIRE 2023/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501057122424",
       "id_produto": "15613",
       "nome": "MULTIMÍDIA FIAT BRAVO ESSENCE DUALOGIC 1.8 FLEX 16V 2014/14",
@@ -502,6 +524,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501090545026",
+      "id_produto": "16367",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 ALLURE 1.6 FLEX 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501102454038",
@@ -622,6 +656,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501121807401",
+      "id_produto": "11816",
+      "nome": "BOMBA INJETORA CHEVROLET CLASSIC LIFE/LS 1.0 2012/2013",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501121947584",
@@ -815,6 +861,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053950033",
+      "id_produto": "21388",
+      "nome": "PORTA DIANTEIRA ESQUERDA CHEVROLET CELTA 1.0 MPFI 2004/2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053950034",
+      "id_produto": "21389",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 2004/05",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -1230,11 +1300,11 @@
     "SP12501053950033": {
       "sku": "SP12501053950033",
       "id_produto": "21388",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA CHEVROLET CELTA 1.0 MPFI 2004/2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1842,11 +1912,11 @@
     "SP12501053950034": {
       "sku": "SP12501053950034",
       "id_produto": "21389",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 2004/05",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2281,6 +2351,42 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501090545026": {
+      "sku": "SP12501090545026",
+      "id_produto": "16367",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 ALLURE 1.6 FLEX 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501121807401": {
+      "sku": "SP12501121807401",
+      "id_produto": "11816",
+      "nome": "BOMBA INJETORA CHEVROLET CLASSIC LIFE/LS 1.0 2012/2013",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE/LS 1.0 VHC FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    "SP12501054476401": {
+      "sku": "SP12501054476401",
+      "id_produto": "11767",
+      "nome": "BOMBA INJETORA FIAT MOBI LIKE 1.0 FIRE 2023/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
       "qtd_images": "7"
     }
   }
