@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 14:48:27",
+  "ultima_atualizacao": "15/09/2026 14:51:07",
   "total_base_dia": 65,
-  "total_atual": 72,
-  "novos_produtos": 53,
-  "total_subidos": 46,
+  "total_atual": 73,
+  "novos_produtos": 55,
+  "total_subidos": 47,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -77,6 +77,7 @@
     "SP12501004290019",
     "SP12501004584032",
     "SP12501005106031",
+    "SP12501005122038",
     "SP12501005173040",
     "SP12501005173484",
     "SP12501005300033",
@@ -186,6 +187,7 @@
     "SP12501121807401",
     "SP12501121947584",
     "SP12501122358004",
+    "SP12501123133004",
     "SP12501123273032",
     "SP12501123354036",
     "SP12501123486036",
@@ -196,6 +198,7 @@
   "skus_novos_hoje": [
     "SP12501004290019",
     "SP12501005106031",
+    "SP12501005122038",
     "SP12501009829024",
     "SP12501009845024",
     "SP12501009861030",
@@ -244,6 +247,7 @@
     "SP12501121807401",
     "SP12501121947584",
     "SP12501122358004",
+    "SP12501123133004",
     "SP12501123354036",
     "SP12501123486036",
     "SP12501123630400"
@@ -279,6 +283,7 @@
     "SP12501087331012",
     "SP12501088320475",
     "SP12501088338012",
+    "SP12501090545026",
     "SP12501102268024",
     "SP12501102454038",
     "SP12501108010424",
@@ -327,6 +332,7 @@
     "SP12501087331012",
     "SP12501088320475",
     "SP12501088338012",
+    "SP12501090545026",
     "SP12501102268024",
     "SP12501102454038",
     "SP12501108010424",
@@ -368,6 +374,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501005122038",
+      "id_produto": "3583",
+      "nome": "RETRO ESQ",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA PLATINUM 1.0 TB 12V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501009829024",
@@ -720,11 +738,11 @@
     {
       "sku": "SP12501090545026",
       "id_produto": "16367",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA PEUGEOT 2008 ALLURE 1.6 FLEX 16V 5P 2021/22",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -943,6 +961,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501123133004",
+      "id_produto": "14451",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN EXPRESSION HI-FLEX 1.6 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "10"
     },
     {
@@ -1342,6 +1372,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501090545026",
+      "id_produto": "16367",
+      "nome": "MOTOR DE PARTIDA PEUGEOT 2008 ALLURE 1.6 FLEX 16V 5P 2021/22",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 ALLURE 1.6 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501102268024",
@@ -2692,11 +2734,11 @@
     "SP12501090545026": {
       "sku": "SP12501090545026",
       "id_produto": "16367",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA PEUGEOT 2008 ALLURE 1.6 FLEX 16V 5P 2021/22",
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "2008 ALLURE 1.6 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2952,6 +2994,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    "SP12501123133004": {
+      "sku": "SP12501123133004",
+      "id_produto": "14451",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN EXPRESSION HI-FLEX 1.6 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501005122038": {
+      "sku": "SP12501005122038",
+      "id_produto": "3583",
+      "nome": "RETRO ESQ",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA PLATINUM 1.0 TB 12V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "9"
     }
   }
 }
