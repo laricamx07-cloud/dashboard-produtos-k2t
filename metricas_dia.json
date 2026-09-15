@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 09:51:14",
+  "ultima_atualizacao": "15/09/2026 10:13:54",
   "total_base_dia": 65,
-  "total_atual": 67,
-  "novos_produtos": 3,
-  "total_subidos": 1,
+  "total_atual": 70,
+  "novos_produtos": 7,
+  "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -102,6 +102,7 @@
     "SP12501016817034",
     "SP12501041145437",
     "SP12501041730563",
+    "SP12501042192027",
     "SP12501053810437",
     "SP12501053810483",
     "SP12501053810484",
@@ -126,12 +127,14 @@
     "SP12501100672514",
     "SP12501100842007",
     "SP12501102268024",
+    "SP12501102454038",
     "SP12501102470030",
     "SP12501102519033",
     "SP12501102519045",
     "SP12501102527032",
     "SP12501104520032",
     "SP12501105631026",
+    "SP12501108010424",
     "SP12501108061480",
     "SP12501109521034",
     "SP12501109548045",
@@ -139,19 +142,26 @@
     "SP12501111593040",
     "SP12501111593041",
     "SP12501116927034",
+    "SP12501122358004",
     "SP12501123273032",
     "SP42501001064042",
     "SP42501001528084"
   ],
   "skus_novos_hoje": [
     "SP12501041730563",
+    "SP12501042192027",
     "SP12501088320475",
-    "SP12501108061480"
+    "SP12501102454038",
+    "SP12501108010424",
+    "SP12501108061480",
+    "SP12501122358004"
   ],
   "skus_subidos_hoje": [
+    "SP12501053950032",
     "SP42501001528084"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501053950032",
     "SP42501001528084"
   ],
   "itens_novos_hoje": [
@@ -168,6 +178,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501042192027",
+      "id_produto": "10488",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO HI-FLEX 1.0 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501088320475",
       "id_produto": "17442",
       "nome": "MAQUINA ELETRICA VIDRO DIANTEIRA DIREITA",
@@ -177,6 +199,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501102454038",
+      "id_produto": "19531",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501108010424",
+      "id_produto": "16575",
+      "nome": "MULTIMÍDIA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "5"
     },
     {
@@ -190,9 +236,33 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501122358004",
+      "id_produto": "15945",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501053950032",
+      "id_produto": "21387",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 2004/05",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP42501001528084",
       "id_produto": "15929",
@@ -378,11 +448,11 @@
     "SP12501053950032": {
       "sku": "SP12501053950032",
       "id_produto": "21387",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 2004/05",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -930,7 +1000,7 @@
     "SP12501053810437": {
       "sku": "SP12501053810437",
       "id_produto": "21179",
-      "nome": "PNEU 185/60 R15 88H PIRELLI CINTURATO P1 2013",
+      "nome": "PNEU 185/60 R15 88H PIRELLI CINTURATO P1",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
@@ -1021,6 +1091,54 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501122358004": {
+      "sku": "SP12501122358004",
+      "id_produto": "15945",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501102454038": {
+      "sku": "SP12501102454038",
+      "id_produto": "19531",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501042192027": {
+      "sku": "SP12501042192027",
+      "id_produto": "10488",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO HI-FLEX 1.0 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "5"
+    },
+    "SP12501108010424": {
+      "sku": "SP12501108010424",
+      "id_produto": "16575",
+      "nome": "MULTIMÍDIA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "5"
     }
   }
