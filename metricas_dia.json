@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 12:43:50",
+  "ultima_atualizacao": "15/09/2026 12:51:04",
   "total_base_dia": 65,
-  "total_atual": 63,
+  "total_atual": 61,
   "novos_produtos": 29,
-  "total_subidos": 31,
+  "total_subidos": 33,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -221,6 +221,7 @@
     "SP12501057300027",
     "SP12501087277411",
     "SP12501087331012",
+    "SP12501088320475",
     "SP12501088338012",
     "SP12501102454038",
     "SP12501108010424",
@@ -229,6 +230,7 @@
     "SP12501115181027",
     "SP12501115203037",
     "SP12501115203038",
+    "SP12501116773026",
     "SP12501121947584",
     "SP12501122358004",
     "SP42501001528084"
@@ -254,6 +256,7 @@
     "SP12501057300027",
     "SP12501087277411",
     "SP12501087331012",
+    "SP12501088320475",
     "SP12501088338012",
     "SP12501102454038",
     "SP12501108010424",
@@ -262,6 +265,7 @@
     "SP12501115181027",
     "SP12501115203037",
     "SP12501115203038",
+    "SP12501116773026",
     "SP12501121947584",
     "SP12501122358004",
     "SP42501001528084"
@@ -442,7 +446,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT T270 1.3 TB 4X2 FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -450,11 +454,11 @@
     {
       "sku": "SP12501088320475",
       "id_produto": "17442",
-      "nome": "MAQUINA ELETRICA VIDRO DIANTEIRA DIREITA",
+      "nome": "MAQUINA ELETRICA VIDRO DIANTEIRA DIREITA RENAULT DUSTER 26",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE PLUS CVT 1.6 16V SCE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -526,7 +530,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -558,11 +562,11 @@
     {
       "sku": "SP12501116773026",
       "id_produto": "18609",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN FOX CITY 1.0 MI/ 1.0MI 2006",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -840,7 +844,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT T270 1.3 TB 4X2 FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -856,6 +860,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501088320475",
+      "id_produto": "17442",
+      "nome": "MAQUINA ELETRICA VIDRO DIANTEIRA DIREITA RENAULT DUSTER 26",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER INTENSE PLUS CVT 1.6 16V SCE",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501088338012",
@@ -936,7 +952,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -952,6 +968,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501116773026",
+      "id_produto": "18609",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN FOX CITY 1.0 MI/ 1.0MI 2006",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501121947584",
@@ -1798,11 +1826,11 @@
     "SP12501088320475": {
       "sku": "SP12501088320475",
       "id_produto": "17442",
-      "nome": "MAQUINA ELETRICA VIDRO DIANTEIRA DIREITA",
+      "nome": "MAQUINA ELETRICA VIDRO DIANTEIRA DIREITA RENAULT DUSTER 26",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE PLUS CVT 1.6 16V SCE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1858,11 +1886,11 @@
     "SP12501116773026": {
       "sku": "SP12501116773026",
       "id_produto": "18609",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN FOX CITY 1.0 MI/ 1.0MI 2006",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -1910,7 +1938,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT T270 1.3 TB 4X2 FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2090,7 +2118,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
