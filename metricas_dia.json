@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 13:21:01",
+  "ultima_atualizacao": "15/09/2026 13:43:40",
   "total_base_dia": 65,
-  "total_atual": 58,
-  "novos_produtos": 34,
-  "total_subidos": 41,
+  "total_atual": 55,
+  "novos_produtos": 35,
+  "total_subidos": 45,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -123,6 +123,7 @@
     "SP12501053950035",
     "SP12501053950038",
     "SP12501053950045",
+    "SP12501054328011",
     "SP12501054476401",
     "SP12501057122424",
     "SP12501057157019",
@@ -187,6 +188,7 @@
     "SP12501041730563",
     "SP12501042192027",
     "SP12501053950038",
+    "SP12501054328011",
     "SP12501054476401",
     "SP12501057122424",
     "SP12501057157019",
@@ -213,8 +215,10 @@
   "skus_subidos_hoje": [
     "SP12501004290019",
     "SP12501009845024",
+    "SP12501010517049",
     "SP12501014024027",
     "SP12501015390037",
+    "SP12501015608049",
     "SP12501015624423",
     "SP12501016779411",
     "SP12501040734001",
@@ -223,6 +227,7 @@
     "SP12501042192027",
     "SP12501053810437",
     "SP12501053810484",
+    "SP12501053950031",
     "SP12501053950032",
     "SP12501053950033",
     "SP12501053950034",
@@ -238,6 +243,7 @@
     "SP12501087331012",
     "SP12501088320475",
     "SP12501088338012",
+    "SP12501102268024",
     "SP12501102454038",
     "SP12501108010424",
     "SP12501108061480",
@@ -256,8 +262,10 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501004290019",
     "SP12501009845024",
+    "SP12501010517049",
     "SP12501014024027",
     "SP12501015390037",
+    "SP12501015608049",
     "SP12501015624423",
     "SP12501016779411",
     "SP12501040734001",
@@ -266,6 +274,7 @@
     "SP12501042192027",
     "SP12501053810437",
     "SP12501053810484",
+    "SP12501053950031",
     "SP12501053950032",
     "SP12501053950033",
     "SP12501053950034",
@@ -281,6 +290,7 @@
     "SP12501087331012",
     "SP12501088320475",
     "SP12501088338012",
+    "SP12501102268024",
     "SP12501102454038",
     "SP12501108010424",
     "SP12501108061480",
@@ -324,11 +334,11 @@
     {
       "sku": "SP12501010517049",
       "id_produto": "17234",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA HONDA CITY EXL 1.5 16V i-VTEC 2023/2023",
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY EXL 1.5 16V i-VTEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -360,11 +370,11 @@
     {
       "sku": "SP12501015608049",
       "id_produto": "17246",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA NISSAN KICKS SV 1.6 16V FLEXSTAR 17/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -440,6 +450,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501054328011",
+      "id_produto": "14318",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION FLEX 1.6 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501054476401",
@@ -732,6 +754,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501010517049",
+      "id_produto": "17234",
+      "nome": "VOLANTE DO MOTORISTA HONDA CITY EXL 1.5 16V i-VTEC 2023/2023",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY EXL 1.5 16V i-VTEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501014024027",
       "id_produto": "17031",
       "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN SAVEIRO TROOPER 1.6 20/21",
@@ -754,6 +788,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015608049",
+      "id_produto": "17246",
+      "nome": "VOLANTE DO MOTORISTA NISSAN KICKS SV 1.6 16V FLEXSTAR 17/18",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501015624423",
@@ -852,6 +898,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501053950031",
+      "id_produto": "21386",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO CHEVROLET CELTA 1.0 8V 2004/05",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501053950032",
       "id_produto": "21387",
       "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 2004/05",
@@ -870,7 +928,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -882,7 +940,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -894,7 +952,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1030,6 +1088,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501102268024",
+      "id_produto": "17627",
+      "nome": "MÓDULO DE INJEÇÃO HYUNDAI HB20 COMFORT 1.0 12V 2012/2013",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 COMFORT 1.0 12V MEC",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501102454038",
@@ -1276,11 +1346,11 @@
     "SP12501102268024": {
       "sku": "SP12501102268024",
       "id_produto": "17627",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO HYUNDAI HB20 COMFORT 1.0 12V 2012/2013",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMFORT 1.0 12V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1304,7 +1374,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1576,11 +1646,11 @@
     "SP12501053950031": {
       "sku": "SP12501053950031",
       "id_produto": "21386",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO CHEVROLET CELTA 1.0 8V 2004/05",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1676,7 +1746,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1916,7 +1986,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2332,11 +2402,11 @@
     "SP12501010517049": {
       "sku": "SP12501010517049",
       "id_produto": "17234",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA HONDA CITY EXL 1.5 16V i-VTEC 2023/2023",
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY EXL 1.5 16V i-VTEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -2344,11 +2414,11 @@
     "SP12501015608049": {
       "sku": "SP12501015608049",
       "id_produto": "17246",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA NISSAN KICKS SV 1.6 16V FLEXSTAR 17/18",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -2388,6 +2458,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
+    },
+    "SP12501054328011": {
+      "sku": "SP12501054328011",
+      "id_produto": "14318",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO EXPRESSION FLEX 1.6 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "10"
     }
   }
 }
