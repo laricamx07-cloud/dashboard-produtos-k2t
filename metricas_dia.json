@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 09:44:23",
+  "ultima_atualizacao": "15/09/2026 09:51:14",
   "total_base_dia": 65,
-  "total_atual": 66,
-  "novos_produtos": 1,
-  "total_subidos": 0,
+  "total_atual": 67,
+  "novos_produtos": 3,
+  "total_subidos": 1,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -121,6 +121,7 @@
     "SP12501084790035",
     "SP12501087331012",
     "SP12501088273012",
+    "SP12501088320475",
     "SP12501088338012",
     "SP12501100672514",
     "SP12501100842007",
@@ -131,6 +132,7 @@
     "SP12501102527032",
     "SP12501104520032",
     "SP12501105631026",
+    "SP12501108061480",
     "SP12501109521034",
     "SP12501109548045",
     "SP12501111593039",
@@ -142,10 +144,16 @@
     "SP42501001528084"
   ],
   "skus_novos_hoje": [
-    "SP12501041730563"
+    "SP12501041730563",
+    "SP12501088320475",
+    "SP12501108061480"
   ],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP42501001528084"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP42501001528084"
+  ],
   "itens_novos_hoje": [
     {
       "sku": "SP12501041730563",
@@ -158,9 +166,46 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501088320475",
+      "id_produto": "17442",
+      "nome": "MAQUINA ELETRICA VIDRO DIANTEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER INTENSE PLUS CVT 1.6 16V SCE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501108061480",
+      "id_produto": "14130",
+      "nome": "PORTINHOLA DO TANQUE",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "CELER SEDAN 1.5 16V FLEX 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "5"
     }
   ],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP42501001528084",
+      "id_produto": "15929",
+      "nome": "RADIADOR CITROEN JUMPY 1.6 FURGÃO TURBO DIESEL 2018",
+      "marca": "CTR",
+      "modelo_do_veiculo": "JUMPY 1.6 FURGÃO TURBO DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501088338012": {
       "sku": "SP12501088338012",
@@ -693,11 +738,11 @@
     "SP42501001528084": {
       "sku": "SP42501001528084",
       "id_produto": "15929",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR CITROEN JUMPY 1.6 FURGÃO TURBO DIESEL 2018",
       "marca": "CTR",
       "modelo_do_veiculo": "JUMPY 1.6 FURGÃO TURBO DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -952,6 +997,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "9",
+      "qtd_images": "5"
+    },
+    "SP12501108061480": {
+      "sku": "SP12501108061480",
+      "id_produto": "14130",
+      "nome": "PORTINHOLA DO TANQUE",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "CELER SEDAN 1.5 16V FLEX 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "5"
+    },
+    "SP12501088320475": {
+      "sku": "SP12501088320475",
+      "id_produto": "17442",
+      "nome": "MAQUINA ELETRICA VIDRO DIANTEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER INTENSE PLUS CVT 1.6 16V SCE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "5"
     }
   }
