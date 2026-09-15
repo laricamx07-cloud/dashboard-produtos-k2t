@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 12:31:50",
+  "ultima_atualizacao": "15/09/2026 12:43:50",
   "total_base_dia": 65,
-  "total_atual": 68,
+  "total_atual": 63,
   "novos_produtos": 29,
-  "total_subidos": 26,
+  "total_subidos": 31,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -203,9 +203,11 @@
   "skus_subidos_hoje": [
     "SP12501004290019",
     "SP12501009845024",
+    "SP12501014024027",
     "SP12501015390037",
     "SP12501015624423",
     "SP12501016779411",
+    "SP12501040734001",
     "SP12501041439400",
     "SP12501041730563",
     "SP12501042192027",
@@ -217,6 +219,7 @@
     "SP12501057157019",
     "SP12501057289480",
     "SP12501057300027",
+    "SP12501087277411",
     "SP12501087331012",
     "SP12501088338012",
     "SP12501102454038",
@@ -224,6 +227,8 @@
     "SP12501108061480",
     "SP12501109360004",
     "SP12501115181027",
+    "SP12501115203037",
+    "SP12501115203038",
     "SP12501121947584",
     "SP12501122358004",
     "SP42501001528084"
@@ -231,9 +236,11 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501004290019",
     "SP12501009845024",
+    "SP12501014024027",
     "SP12501015390037",
     "SP12501015624423",
     "SP12501016779411",
+    "SP12501040734001",
     "SP12501041439400",
     "SP12501041730563",
     "SP12501042192027",
@@ -245,6 +252,7 @@
     "SP12501057157019",
     "SP12501057289480",
     "SP12501057300027",
+    "SP12501087277411",
     "SP12501087331012",
     "SP12501088338012",
     "SP12501102454038",
@@ -252,6 +260,8 @@
     "SP12501108061480",
     "SP12501109360004",
     "SP12501115181027",
+    "SP12501115203037",
+    "SP12501115203038",
     "SP12501121947584",
     "SP12501122358004",
     "SP42501001528084"
@@ -284,11 +294,11 @@
     {
       "sku": "SP12501014024027",
       "id_produto": "17031",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN SAVEIRO TROOPER 1.6 20/21",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO TROOPER 1.6 MI TOTAL FLEX 8V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -320,11 +330,11 @@
     {
       "sku": "SP12501040734001",
       "id_produto": "19019",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR HONDA CITY HATCHBACK TOURING 1.5 FLEX AUT 2022",
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY HATCHBACK TOURING 1.5 FLEX 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -428,11 +438,11 @@
     {
       "sku": "SP12501087277411",
       "id_produto": "17131",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR JEEP RENEGADE SPORT T270 1.3 TB 4X2 2022/23",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT T270 1.3 TB 4X2 FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -512,11 +522,11 @@
     {
       "sku": "SP12501115203037",
       "id_produto": "18817",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO NISSAN KICKS S DIRECT 1.6 16V  2019/2020",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -524,11 +534,11 @@
     {
       "sku": "SP12501115203038",
       "id_produto": "18818",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO NISSAN KICKS S DIRECT 1.6 FLEX 2019/2020",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -632,6 +642,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501014024027",
+      "id_produto": "17031",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN SAVEIRO TROOPER 1.6 20/21",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO TROOPER 1.6 MI TOTAL FLEX 8V CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501015390037",
       "id_produto": "19217",
       "nome": "RETROVISOR DIREITO HONDA FIT EXL 1.5 FLEX/FLEXONE 16V 2020",
@@ -666,6 +688,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501040734001",
+      "id_produto": "19019",
+      "nome": "ALTERNADOR HONDA CITY HATCHBACK TOURING 1.5 FLEX AUT 2022",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY HATCHBACK TOURING 1.5 FLEX 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501041439400",
@@ -800,6 +834,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501087277411",
+      "id_produto": "17131",
+      "nome": "ELETROVENTILADOR JEEP RENEGADE SPORT T270 1.3 TB 4X2 2022/23",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT T270 1.3 TB 4X2 FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501087331012",
       "id_produto": "17088",
       "nome": "CONDENSADOR DO AR-CONDICIONADO FIAT CRONOS 1.8 16V FLEX 20",
@@ -882,6 +928,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501115203037",
+      "id_produto": "18817",
+      "nome": "RETROVISOR DIREITO NISSAN KICKS S DIRECT 1.6 16V  2019/2020",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501115203038",
+      "id_produto": "18818",
+      "nome": "RETROVISOR ESQUERDO NISSAN KICKS S DIRECT 1.6 FLEX 2019/2020",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501121947584",
@@ -1800,11 +1870,11 @@
     "SP12501040734001": {
       "sku": "SP12501040734001",
       "id_produto": "19019",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR HONDA CITY HATCHBACK TOURING 1.5 FLEX AUT 2022",
       "marca": "HONDA",
       "modelo_do_veiculo": "CITY HATCHBACK TOURING 1.5 FLEX 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1836,11 +1906,11 @@
     "SP12501087277411": {
       "sku": "SP12501087277411",
       "id_produto": "17131",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR JEEP RENEGADE SPORT T270 1.3 TB 4X2 2022/23",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT T270 1.3 TB 4X2 FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1908,11 +1978,11 @@
     "SP12501014024027": {
       "sku": "SP12501014024027",
       "id_produto": "17031",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN SAVEIRO TROOPER 1.6 20/21",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO TROOPER 1.6 MI TOTAL FLEX 8V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1980,11 +2050,11 @@
     "SP12501115203038": {
       "sku": "SP12501115203038",
       "id_produto": "18818",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO NISSAN KICKS S DIRECT 1.6 FLEX 2019/2020",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -2016,11 +2086,11 @@
     "SP12501115203037": {
       "sku": "SP12501115203037",
       "id_produto": "18817",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO NISSAN KICKS S DIRECT 1.6 16V  2019/2020",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS S DIRECT 1.6 16V FLEX 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
