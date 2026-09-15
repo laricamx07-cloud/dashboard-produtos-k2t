@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 12:51:04",
+  "ultima_atualizacao": "15/09/2026 13:13:49",
   "total_base_dia": 65,
-  "total_atual": 61,
-  "novos_produtos": 29,
-  "total_subidos": 33,
+  "total_atual": 57,
+  "novos_produtos": 31,
+  "total_subidos": 39,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -89,6 +89,7 @@
     "SP12501009888034",
     "SP12501010312034",
     "SP12501010517024",
+    "SP12501010517049",
     "SP12501014024024",
     "SP12501014024027",
     "SP12501014105024",
@@ -98,6 +99,7 @@
     "SP12501015144010",
     "SP12501015390037",
     "SP12501015586034",
+    "SP12501015608049",
     "SP12501015624423",
     "SP12501016027033",
     "SP12501016728034",
@@ -172,8 +174,10 @@
   "skus_novos_hoje": [
     "SP12501004290019",
     "SP12501009845024",
+    "SP12501010517049",
     "SP12501014024027",
     "SP12501015390037",
+    "SP12501015608049",
     "SP12501016779411",
     "SP12501040734001",
     "SP12501041439400",
@@ -214,11 +218,14 @@
     "SP12501053810437",
     "SP12501053810484",
     "SP12501053950032",
+    "SP12501053950035",
     "SP12501053950038",
+    "SP12501053950045",
     "SP12501057122424",
     "SP12501057157019",
     "SP12501057289480",
     "SP12501057300027",
+    "SP12501080680039",
     "SP12501087277411",
     "SP12501087331012",
     "SP12501088320475",
@@ -230,9 +237,12 @@
     "SP12501115181027",
     "SP12501115203037",
     "SP12501115203038",
+    "SP12501116730032",
     "SP12501116773026",
+    "SP12501117745032",
     "SP12501121947584",
     "SP12501122358004",
+    "SP12501123630400",
     "SP42501001528084"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -249,11 +259,14 @@
     "SP12501053810437",
     "SP12501053810484",
     "SP12501053950032",
+    "SP12501053950035",
     "SP12501053950038",
+    "SP12501053950045",
     "SP12501057122424",
     "SP12501057157019",
     "SP12501057289480",
     "SP12501057300027",
+    "SP12501080680039",
     "SP12501087277411",
     "SP12501087331012",
     "SP12501088320475",
@@ -265,9 +278,12 @@
     "SP12501115181027",
     "SP12501115203037",
     "SP12501115203038",
+    "SP12501116730032",
     "SP12501116773026",
+    "SP12501117745032",
     "SP12501121947584",
     "SP12501122358004",
+    "SP12501123630400",
     "SP42501001528084"
   ],
   "itens_novos_hoje": [
@@ -296,6 +312,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501010517049",
+      "id_produto": "17234",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY EXL 1.5 16V i-VTEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501014024027",
       "id_produto": "17031",
       "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN SAVEIRO TROOPER 1.6 20/21",
@@ -318,6 +346,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015608049",
+      "id_produto": "17246",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501016779411",
@@ -458,7 +498,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE PLUS CVT 1.6 16V SCE",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -550,11 +590,11 @@
     {
       "sku": "SP12501116730032",
       "id_produto": "18402",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FORD FIESTA PERSONNALITÉ 1.0 8V",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -566,7 +606,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -574,11 +614,11 @@
     {
       "sku": "SP12501117745032",
       "id_produto": "18407",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT PALIO FIRE 1.0 4P 2005/2006",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO FIRE 1.0 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -610,11 +650,11 @@
     {
       "sku": "SP12501123630400",
       "id_produto": "16593",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2006",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -778,6 +818,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501053950035",
+      "id_produto": "21390",
+      "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CELTA 1.0 MPFI VHC 2004/05",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501053950038",
       "id_produto": "21392",
       "nome": "RETROVISOR ESQUERDO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2005",
@@ -788,6 +840,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501053950045",
+      "id_produto": "21391",
+      "nome": "TAMPA TRASEIRA CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2004/2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501057122424",
@@ -838,6 +902,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501080680039",
+      "id_produto": "7509",
+      "nome": "RODA LIGA LEVE ARO 18 5 FUROS TOYOTA COROLLA",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "COROLLA CROSS XRE 2.0 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501087277411",
       "id_produto": "17131",
       "nome": "ELETROVENTILADOR JEEP RENEGADE SPORT T270 1.3 TB 4X2 2022/23",
@@ -868,7 +944,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE PLUS CVT 1.6 16V SCE",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -970,16 +1046,40 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501116730032",
+      "id_produto": "18402",
+      "nome": "PORTA DIANTEIRA DIREITA FORD FIESTA PERSONNALITÉ 1.0 8V",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501116773026",
       "id_produto": "18609",
       "nome": "MOTOR DE PARTIDA VOLKSWAGEN FOX CITY 1.0 MI/ 1.0MI 2006",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501117745032",
+      "id_produto": "18407",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT PALIO FIRE 1.0 4P 2005/2006",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO FIRE 1.0 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501121947584",
@@ -1003,6 +1103,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501123630400",
+      "id_produto": "16593",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2006",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -1454,11 +1566,11 @@
     "SP12501053950045": {
       "sku": "SP12501053950045",
       "id_produto": "21391",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2004/2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1490,11 +1602,11 @@
     "SP12501053950035": {
       "sku": "SP12501053950035",
       "id_produto": "21390",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CELTA 1.0 MPFI VHC 2004/05",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1610,11 +1722,11 @@
     "SP12501080680039": {
       "sku": "SP12501080680039",
       "id_produto": "7509",
-      "nome": "RODA LIGA LEVE ARO 18 5 FUROS DIAMANTADA TOYOTA COROLLA",
+      "nome": "RODA LIGA LEVE ARO 18 5 FUROS TOYOTA COROLLA",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA CROSS XRE 2.0 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
@@ -1830,7 +1942,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER INTENSE PLUS CVT 1.6 16V SCE",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1890,7 +2002,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -1970,11 +2082,11 @@
     "SP12501123630400": {
       "sku": "SP12501123630400",
       "id_produto": "16593",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN GOL CITY 1.0 T. FLEX 8V 4P 2006",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2066,11 +2178,11 @@
     "SP12501116730032": {
       "sku": "SP12501116730032",
       "id_produto": "18402",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FORD FIESTA PERSONNALITÉ 1.0 8V",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -2138,14 +2250,38 @@
     "SP12501117745032": {
       "sku": "SP12501117745032",
       "id_produto": "18407",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT PALIO FIRE 1.0 4P 2005/2006",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO FIRE 1.0 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501010517049": {
+      "sku": "SP12501010517049",
+      "id_produto": "17234",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY EXL 1.5 16V i-VTEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501015608049": {
+      "sku": "SP12501015608049",
+      "id_produto": "17246",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     }
   }
 }
