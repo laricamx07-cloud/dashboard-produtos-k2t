@@ -1,10 +1,10 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 09:43:34",
+  "ultima_atualizacao": "15/09/2026 09:44:23",
   "total_base_dia": 65,
-  "total_atual": 65,
-  "novos_produtos": 0,
+  "total_atual": 66,
+  "novos_produtos": 1,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004584032",
@@ -101,6 +101,7 @@
     "SP12501016779035",
     "SP12501016817034",
     "SP12501041145437",
+    "SP12501041730563",
     "SP12501053810437",
     "SP12501053810483",
     "SP12501053810484",
@@ -140,10 +141,25 @@
     "SP42501001064042",
     "SP42501001528084"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501041730563"
+  ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501041730563",
+      "id_produto": "12443",
+      "nome": "MÓDULO DE CONFORTO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX SEDAN PLUS LTZ 1.0 12V TB FLEX MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "5"
+    }
+  ],
   "itens_subidos_hoje": [],
   "detalhes_skus_vistos_hoje": {
     "SP12501088338012": {
@@ -925,6 +941,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501041730563": {
+      "sku": "SP12501041730563",
+      "id_produto": "12443",
+      "nome": "MÓDULO DE CONFORTO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX SEDAN PLUS LTZ 1.0 12V TB FLEX MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "5"
     }
   }
 }
