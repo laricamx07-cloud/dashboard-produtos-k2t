@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 15:13:53",
+  "ultima_atualizacao": "15/09/2026 15:21:08",
   "total_base_dia": 65,
   "total_atual": 77,
-  "novos_produtos": 65,
-  "total_subidos": 53,
+  "novos_produtos": 68,
+  "total_subidos": 56,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -111,6 +111,7 @@
     "SP12501016027033",
     "SP12501016183019",
     "SP12501016183020",
+    "SP12501016582014",
     "SP12501016728034",
     "SP12501016779033",
     "SP12501016779035",
@@ -148,6 +149,7 @@
     "SP12501080680039",
     "SP12501083751031",
     "SP12501084480012",
+    "SP12501084715011",
     "SP12501084790035",
     "SP12501087277411",
     "SP12501087331012",
@@ -200,6 +202,7 @@
     "SP12501123133004",
     "SP12501123273032",
     "SP12501123354036",
+    "SP12501123397011",
     "SP12501123486036",
     "SP12501123630400",
     "SP42501001064042",
@@ -221,6 +224,7 @@
     "SP12501015608049",
     "SP12501016183019",
     "SP12501016183020",
+    "SP12501016582014",
     "SP12501016779411",
     "SP12501040734001",
     "SP12501041439400",
@@ -237,6 +241,7 @@
     "SP12501079959030",
     "SP12501083751031",
     "SP12501084480012",
+    "SP12501084715011",
     "SP12501087277411",
     "SP12501088273030",
     "SP12501088320475",
@@ -269,13 +274,16 @@
     "SP12501122358004",
     "SP12501123133004",
     "SP12501123354036",
+    "SP12501123397011",
     "SP12501123486036",
     "SP12501123630400"
   ],
   "skus_subidos_hoje": [
     "SP12501004290019",
+    "SP12501005106031",
     "SP12501005122038",
     "SP12501009845024",
+    "SP12501009861030",
     "SP12501010517016",
     "SP12501010517049",
     "SP12501014024027",
@@ -303,6 +311,7 @@
     "SP12501057300027",
     "SP12501079959030",
     "SP12501080680039",
+    "SP12501083751031",
     "SP12501087277411",
     "SP12501087331012",
     "SP12501088320475",
@@ -329,8 +338,10 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004290019",
+    "SP12501005106031",
     "SP12501005122038",
     "SP12501009845024",
+    "SP12501009861030",
     "SP12501010517016",
     "SP12501010517049",
     "SP12501014024027",
@@ -358,6 +369,7 @@
     "SP12501057300027",
     "SP12501079959030",
     "SP12501080680039",
+    "SP12501083751031",
     "SP12501087277411",
     "SP12501087331012",
     "SP12501088320475",
@@ -398,11 +410,11 @@
     {
       "sku": "SP12501005106031",
       "id_produto": "18256",
-      "nome": "PARALAMA DE",
-      "marca": "GM",
+      "nome": "PARALAMA DE GM TRACKER 1.0 TURBO 12V FLEX MEC. 2020/2021",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER 1.0 TURBO 12V FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -458,11 +470,11 @@
     {
       "sku": "SP12501009861030",
       "id_produto": "11046",
-      "nome": "PARALAMA DD",
-      "marca": "VW",
+      "nome": "PARALAMA DD VOLKSWAGEN UP TRACK 1.0 TOTAL FLEX 2016/2017",
+      "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -562,6 +574,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501016582014",
+      "id_produto": "19182",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501016779411",
@@ -734,11 +758,11 @@
     {
       "sku": "SP12501083751031",
       "id_produto": "12902",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO VOLKSWAGEN GOL CITY 2005/2006",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY (TREND) 1.0 MI TOTAL FLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
@@ -754,6 +778,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501084715011",
+      "id_produto": "11259",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "COROLLA XEI 1.8/1.8 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501087277411",
@@ -1140,13 +1176,25 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501123397011",
+      "id_produto": "15047",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO VOLCANO 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501123486036",
       "id_produto": "18276",
       "nome": "RADIADOR TOYOTA HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL 2006",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1178,6 +1226,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501005106031",
+      "id_produto": "18256",
+      "nome": "PARALAMA DE GM TRACKER 1.0 TURBO 12V FLEX MEC. 2020/2021",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER 1.0 TURBO 12V FLEX MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501005122038",
       "id_produto": "3583",
       "nome": "RETROVISOR ESQUERDO HYUNDAI CRETA PLATINUM 1.0 2023/2023",
@@ -1200,6 +1260,18 @@
       "quantidade": "0",
       "classificacao": "9",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501009861030",
+      "id_produto": "11046",
+      "nome": "PARALAMA DD VOLKSWAGEN UP TRACK 1.0 TOTAL FLEX 2016/2017",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501010517016",
@@ -1526,6 +1598,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501083751031",
+      "id_produto": "12902",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO VOLKSWAGEN GOL CITY 2005/2006",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY (TREND) 1.0 MI TOTAL FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501087277411",
       "id_produto": "17131",
       "nome": "ELETROVENTILADOR JEEP RENEGADE SPORT T270 1.3 TB 4X2 2022/23",
@@ -1772,7 +1856,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3042,11 +3126,11 @@
     "SP12501083751031": {
       "sku": "SP12501083751031",
       "id_produto": "12902",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO VOLKSWAGEN GOL CITY 2005/2006",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY (TREND) 1.0 MI TOTAL FLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "7"
@@ -3078,11 +3162,11 @@
     "SP12501009861030": {
       "sku": "SP12501009861030",
       "id_produto": "11046",
-      "nome": "PARALAMA DD",
-      "marca": "VW",
+      "nome": "PARALAMA DD VOLKSWAGEN UP TRACK 1.0 TOTAL FLEX 2016/2017",
+      "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -3094,7 +3178,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV D4-D 4X4 3.0 TDI DIESEL AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3198,11 +3282,11 @@
     "SP12501005106031": {
       "sku": "SP12501005106031",
       "id_produto": "18256",
-      "nome": "PARALAMA DE",
-      "marca": "GM",
+      "nome": "PARALAMA DE GM TRACKER 1.0 TURBO 12V FLEX MEC. 2020/2021",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER 1.0 TURBO 12V FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -3357,6 +3441,42 @@
       "nome": "MOTOR DE PARTIDA",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    "SP12501016582014": {
+      "sku": "SP12501016582014",
+      "id_produto": "19182",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    "SP12501084715011": {
+      "sku": "SP12501084715011",
+      "id_produto": "11259",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "COROLLA XEI 1.8/1.8 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "8"
+    },
+    "SP12501123397011": {
+      "sku": "SP12501123397011",
+      "id_produto": "15047",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO VOLCANO 2.0 16V 4X4 TB DIESEL AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
