@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 17:51:07",
+  "ultima_atualizacao": "15/09/2026 17:56:28",
   "total_base_dia": 65,
-  "total_atual": 51,
+  "total_atual": 50,
   "novos_produtos": 69,
-  "total_subidos": 83,
+  "total_subidos": 84,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -292,6 +292,7 @@
     "SP12501010517049",
     "SP12501014024024",
     "SP12501014024027",
+    "SP12501014105024",
     "SP12501015314015",
     "SP12501015390037",
     "SP12501015608049",
@@ -377,6 +378,7 @@
     "SP12501010517049",
     "SP12501014024024",
     "SP12501014024027",
+    "SP12501014105024",
     "SP12501015314015",
     "SP12501015390037",
     "SP12501015608049",
@@ -1396,7 +1398,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO TROOPER 1.6 MI TOTAL FLEX 8V CE",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -1411,6 +1413,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501014105024",
+      "id_produto": "13692",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET TRACKER PREMIER 1.2 2020/2021",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
       "qtd_images": "5"
     },
     {
@@ -2462,11 +2476,11 @@
     "SP12501014105024": {
       "sku": "SP12501014105024",
       "id_produto": "13692",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET TRACKER PREMIER 1.2 2020/2021",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER PREMIER 1.2 TURBO 12V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "5"
@@ -3030,7 +3044,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO TROOPER 1.6 MI TOTAL FLEX 8V CE",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
