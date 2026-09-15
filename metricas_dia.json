@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 10:21:12",
+  "ultima_atualizacao": "15/09/2026 10:44:22",
   "total_base_dia": 65,
   "total_atual": 72,
-  "novos_produtos": 9,
-  "total_subidos": 2,
+  "novos_produtos": 14,
+  "total_subidos": 7,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -99,9 +99,11 @@
     "SP12501016728034",
     "SP12501016779033",
     "SP12501016779035",
+    "SP12501016779411",
     "SP12501016817034",
     "SP12501040734001",
     "SP12501041145437",
+    "SP12501041439400",
     "SP12501041730563",
     "SP12501042192027",
     "SP12501053810437",
@@ -113,6 +115,7 @@
     "SP12501053950033",
     "SP12501053950034",
     "SP12501053950035",
+    "SP12501053950038",
     "SP12501053950045",
     "SP12501057831514",
     "SP12501079959400",
@@ -121,6 +124,7 @@
     "SP12501080361032",
     "SP12501080680039",
     "SP12501084790035",
+    "SP12501087277411",
     "SP12501087331012",
     "SP12501088273012",
     "SP12501088320475",
@@ -137,6 +141,7 @@
     "SP12501105631026",
     "SP12501108010424",
     "SP12501108061480",
+    "SP12501109360004",
     "SP12501109521034",
     "SP12501109548045",
     "SP12501111593039",
@@ -150,25 +155,52 @@
     "SP42501001528084"
   ],
   "skus_novos_hoje": [
+    "SP12501016779411",
     "SP12501040734001",
+    "SP12501041439400",
     "SP12501041730563",
     "SP12501042192027",
+    "SP12501053950038",
+    "SP12501087277411",
     "SP12501088320475",
     "SP12501102454038",
     "SP12501108010424",
     "SP12501108061480",
+    "SP12501109360004",
     "SP12501116773026",
     "SP12501122358004"
   ],
   "skus_subidos_hoje": [
+    "SP12501053810437",
+    "SP12501053810484",
     "SP12501053950032",
+    "SP12501087331012",
+    "SP12501088338012",
+    "SP12501108010424",
     "SP42501001528084"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501053810437",
+    "SP12501053810484",
     "SP12501053950032",
+    "SP12501087331012",
+    "SP12501088338012",
+    "SP12501108010424",
     "SP42501001528084"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501016779411",
+      "id_produto": "13521",
+      "nome": "ELETROVENTILADOR",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER OVERLAND T270 1.3 TB FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "5"
+    },
     {
       "sku": "SP12501040734001",
       "id_produto": "19019",
@@ -180,6 +212,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501041439400",
+      "id_produto": "13471",
+      "nome": "MOTOR COMPLETO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO GT LINE HI-FLEX 1.6 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501041730563",
@@ -203,6 +247,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "6",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501053950038",
+      "id_produto": "21392",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501087277411",
+      "id_produto": "17131",
+      "nome": "ELETROVENTILADOR",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT T270 1.3 TB 4X2 FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "5"
     },
     {
@@ -232,11 +300,11 @@
     {
       "sku": "SP12501108010424",
       "id_produto": "16575",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA CHEVROLET ONIX HATCH PREM. 1.0 12V TB FLEX 23/24",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -252,6 +320,18 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501109360004",
+      "id_produto": "16012",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501116773026",
@@ -280,6 +360,30 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501053810437",
+      "id_produto": "21179",
+      "nome": "PNEU 185/60 R15 88H PIRELLI CINTURATO P1",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501053810484",
+      "id_produto": "21181",
+      "nome": "PNEU 195/70 R13 DUNLOP",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501053950032",
       "id_produto": "21387",
       "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 2004/05",
@@ -290,6 +394,42 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501087331012",
+      "id_produto": "17088",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FIAT CRONOS 1.8 16V FLEX 20",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "CRONOS 1.8 16V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501088338012",
+      "id_produto": "17218",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO VOLKSWAGEN VOYAGE 1.6 10/11",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VOYAGE COMFORTLINE 1.6 TOTAL FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501108010424",
+      "id_produto": "16575",
+      "nome": "MULTIMÍDIA CHEVROLET ONIX HATCH PREM. 1.0 12V TB FLEX 23/24",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP42501001528084",
@@ -312,7 +452,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VOYAGE COMFORTLINE 1.6 TOTAL FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -392,11 +532,11 @@
     "SP12501053810484": {
       "sku": "SP12501053810484",
       "id_produto": "21181",
-      "nome": "PNEU 175/70 R13 82T RENAULT CLIO EXPRESSION 1.0 16V 2013/14",
+      "nome": "PNEU 195/70 R13 DUNLOP",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -860,7 +1000,7 @@
     "SP12501053810485": {
       "sku": "SP12501053810485",
       "id_produto": "21182",
-      "nome": "PNEU 175/70 R13 82T RENAULT CLIO EXPRESSION 1.0 16V HI- 2014",
+      "nome": "PNEU 175/70 R13 82T GOODYEAR DIRECTION TOURING",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
@@ -1032,7 +1172,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1064,7 +1204,7 @@
     "SP12501053810483": {
       "sku": "SP12501053810483",
       "id_produto": "21180",
-      "nome": "PNEU 175/70 R13 82T RENAULT CLIO EXPRESSION 2013/2014",
+      "nome": "PNEU 215/70 R15 98T DUNLOP GRANDTREK",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO EXPRESSION 1.0 16V HI-POWER 4P",
       "status": "Habilitado",
@@ -1080,7 +1220,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "CRONOS 1.8 16V FLEX AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1160,11 +1300,11 @@
     "SP12501108010424": {
       "sku": "SP12501108010424",
       "id_produto": "16575",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA CHEVROLET ONIX HATCH PREM. 1.0 12V TB FLEX 23/24",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1192,6 +1332,66 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    "SP12501053950038": {
+      "sku": "SP12501053950038",
+      "id_produto": "21392",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    "SP12501016779411": {
+      "sku": "SP12501016779411",
+      "id_produto": "13521",
+      "nome": "ELETROVENTILADOR",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER OVERLAND T270 1.3 TB FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "5"
+    },
+    "SP12501087277411": {
+      "sku": "SP12501087277411",
+      "id_produto": "17131",
+      "nome": "ELETROVENTILADOR",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT T270 1.3 TB 4X2 FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501041439400": {
+      "sku": "SP12501041439400",
+      "id_produto": "13471",
+      "nome": "MOTOR COMPLETO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO GT LINE HI-FLEX 1.6 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "10"
+    },
+    "SP12501109360004": {
+      "sku": "SP12501109360004",
+      "id_produto": "16012",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     }
   }
 }
