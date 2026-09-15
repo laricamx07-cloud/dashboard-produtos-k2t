@@ -1,10 +1,10 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 10:13:54",
+  "ultima_atualizacao": "15/09/2026 10:21:12",
   "total_base_dia": 65,
-  "total_atual": 70,
-  "novos_produtos": 7,
+  "total_atual": 72,
+  "novos_produtos": 9,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004584032",
@@ -100,6 +100,7 @@
     "SP12501016779033",
     "SP12501016779035",
     "SP12501016817034",
+    "SP12501040734001",
     "SP12501041145437",
     "SP12501041730563",
     "SP12501042192027",
@@ -141,6 +142,7 @@
     "SP12501111593039",
     "SP12501111593040",
     "SP12501111593041",
+    "SP12501116773026",
     "SP12501116927034",
     "SP12501122358004",
     "SP12501123273032",
@@ -148,12 +150,14 @@
     "SP42501001528084"
   ],
   "skus_novos_hoje": [
+    "SP12501040734001",
     "SP12501041730563",
     "SP12501042192027",
     "SP12501088320475",
     "SP12501102454038",
     "SP12501108010424",
     "SP12501108061480",
+    "SP12501116773026",
     "SP12501122358004"
   ],
   "skus_subidos_hoje": [
@@ -165,6 +169,18 @@
     "SP42501001528084"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501040734001",
+      "id_produto": "19019",
+      "nome": "ALTERNADOR",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY HATCHBACK TOURING 1.5 FLEX 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501041730563",
       "id_produto": "12443",
@@ -236,6 +252,18 @@
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501116773026",
+      "id_produto": "18609",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501122358004",
@@ -1140,6 +1168,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    "SP12501116773026": {
+      "sku": "SP12501116773026",
+      "id_produto": "18609",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501040734001": {
+      "sku": "SP12501040734001",
+      "id_produto": "19019",
+      "nome": "ALTERNADOR",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CITY HATCHBACK TOURING 1.5 FLEX 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     }
   }
 }
