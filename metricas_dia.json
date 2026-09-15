@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 17:22:09",
+  "ultima_atualizacao": "15/09/2026 17:43:55",
   "total_base_dia": 65,
-  "total_atual": 57,
+  "total_atual": 52,
   "novos_produtos": 69,
-  "total_subidos": 77,
+  "total_subidos": 82,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -323,6 +323,7 @@
     "SP12501080680039",
     "SP12501083751031",
     "SP12501084480012",
+    "SP12501084715011",
     "SP12501087277411",
     "SP12501087331012",
     "SP12501088273030",
@@ -331,10 +332,14 @@
     "SP12501090545026",
     "SP12501102268024",
     "SP12501102454038",
+    "SP12501102489026",
+    "SP12501103060513",
     "SP12501105704027",
     "SP12501108010424",
     "SP12501108061480",
+    "SP12501109238004",
     "SP12501109360004",
+    "SP12501109408026",
     "SP12501109530027",
     "SP12501109548569",
     "SP12501109670512",
@@ -402,6 +407,7 @@
     "SP12501080680039",
     "SP12501083751031",
     "SP12501084480012",
+    "SP12501084715011",
     "SP12501087277411",
     "SP12501087331012",
     "SP12501088273030",
@@ -410,10 +416,14 @@
     "SP12501090545026",
     "SP12501102268024",
     "SP12501102454038",
+    "SP12501102489026",
+    "SP12501103060513",
     "SP12501105704027",
     "SP12501108010424",
     "SP12501108061480",
+    "SP12501109238004",
     "SP12501109360004",
+    "SP12501109408026",
     "SP12501109530027",
     "SP12501109548569",
     "SP12501109670512",
@@ -838,11 +848,11 @@
     {
       "sku": "SP12501084715011",
       "id_produto": "11259",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO TOYOTA COROLLA XEI 1.8 20033",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA XEI 1.8/1.8 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
@@ -910,11 +920,11 @@
     {
       "sku": "SP12501102489026",
       "id_produto": "19544",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -922,11 +932,11 @@
     {
       "sku": "SP12501103060513",
       "id_produto": "18699",
-      "nome": "MACACO HIDRÁULICO",
+      "nome": "MACACO HIDRÁULICO CHEVROLET S10 PICK-UP LS 2.8 4X4 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "S10 PICK-UP LS 2.8 TDI 4X4 CD DIES. MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -970,11 +980,11 @@
     {
       "sku": "SP12501109238004",
       "id_produto": "16100",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL RENAULT DUSTER 1.6 HI-FLEX 16V MEC. 2018/2019",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER EXPRESSION 1.6 HI-FLEX 16V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -994,11 +1004,11 @@
     {
       "sku": "SP12501109408026",
       "id_produto": "17537",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA PEUGOUT 208 ACTIVE 1.6 FLEX 16V 5P 2020/21",
       "marca": "PEUGOUT",
       "modelo_do_veiculo": "208 ACTIVE 1.6 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1774,6 +1784,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501084715011",
+      "id_produto": "11259",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO TOYOTA COROLLA XEI 1.8 20033",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "COROLLA XEI 1.8/1.8 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501087277411",
       "id_produto": "17131",
       "nome": "ELETROVENTILADOR JEEP RENEGADE SPORT T270 1.3 TB 4X2 2022/23",
@@ -1870,6 +1892,30 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501102489026",
+      "id_produto": "19544",
+      "nome": "MOTOR DE PARTIDA JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103060513",
+      "id_produto": "18699",
+      "nome": "MACACO HIDRÁULICO CHEVROLET S10 PICK-UP LS 2.8 4X4 2014/2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "S10 PICK-UP LS 2.8 TDI 4X4 CD DIES. MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501105704027",
       "id_produto": "16440",
       "nome": "PAINEL DE INSTRUMENTOS FORD ECOSPORT XLT FREESTYLE 1.6 2009",
@@ -1906,6 +1952,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501109238004",
+      "id_produto": "16100",
+      "nome": "CÂMBIO MANUAL RENAULT DUSTER 1.6 HI-FLEX 16V MEC. 2018/2019",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER EXPRESSION 1.6 HI-FLEX 16V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501109360004",
       "id_produto": "16012",
       "nome": "CÂMBIO MANUAL VOLKSWAGEN FOX 1.0MI TOTAL FLEX 8V 2008/2009",
@@ -1916,6 +1974,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501109408026",
+      "id_produto": "17537",
+      "nome": "MOTOR DE PARTIDA PEUGOUT 208 ACTIVE 1.6 FLEX 16V 5P 2020/21",
+      "marca": "PEUGOUT",
+      "modelo_do_veiculo": "208 ACTIVE 1.6 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501109530027",
@@ -3638,11 +3708,11 @@
     "SP12501103060513": {
       "sku": "SP12501103060513",
       "id_produto": "18699",
-      "nome": "MACACO HIDRÁULICO",
+      "nome": "MACACO HIDRÁULICO CHEVROLET S10 PICK-UP LS 2.8 4X4 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "S10 PICK-UP LS 2.8 TDI 4X4 CD DIES. MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -3698,11 +3768,11 @@
     "SP12501109408026": {
       "sku": "SP12501109408026",
       "id_produto": "17537",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA PEUGOUT 208 ACTIVE 1.6 FLEX 16V 5P 2020/21",
       "marca": "PEUGOUT",
       "modelo_do_veiculo": "208 ACTIVE 1.6 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -3734,11 +3804,11 @@
     "SP12501109238004": {
       "sku": "SP12501109238004",
       "id_produto": "16100",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL RENAULT DUSTER 1.6 HI-FLEX 16V MEC. 2018/2019",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER EXPRESSION 1.6 HI-FLEX 16V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -3746,11 +3816,11 @@
     "SP12501102489026": {
       "sku": "SP12501102489026",
       "id_produto": "19544",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -3770,11 +3840,11 @@
     "SP12501084715011": {
       "sku": "SP12501084715011",
       "id_produto": "11259",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO TOYOTA COROLLA XEI 1.8 20033",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "COROLLA XEI 1.8/1.8 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "8"
