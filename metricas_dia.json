@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 17:43:55",
+  "ultima_atualizacao": "15/09/2026 17:51:07",
   "total_base_dia": 65,
-  "total_atual": 52,
+  "total_atual": 51,
   "novos_produtos": 69,
-  "total_subidos": 82,
+  "total_subidos": 83,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -290,6 +290,7 @@
     "SP12501009861030",
     "SP12501010517016",
     "SP12501010517049",
+    "SP12501014024024",
     "SP12501014024027",
     "SP12501015314015",
     "SP12501015390037",
@@ -374,6 +375,7 @@
     "SP12501009861030",
     "SP12501010517016",
     "SP12501010517049",
+    "SP12501014024024",
     "SP12501014024027",
     "SP12501015314015",
     "SP12501015390037",
@@ -924,7 +926,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -984,7 +986,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER EXPRESSION 1.6 HI-FLEX 16V MEC.",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1386,6 +1388,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501014024024",
+      "id_produto": "13687",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN SAVEIRO TROOPER 1.6 MI 2020/21",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO TROOPER 1.6 MI TOTAL FLEX 8V CE",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501014024027",
@@ -1898,7 +1912,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1958,7 +1972,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER EXPRESSION 1.6 HI-FLEX 16V MEC.",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -3012,11 +3026,11 @@
     "SP12501014024024": {
       "sku": "SP12501014024024",
       "id_produto": "13687",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN SAVEIRO TROOPER 1.6 MI 2020/21",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO TROOPER 1.6 MI TOTAL FLEX 8V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -3808,7 +3822,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER EXPRESSION 1.6 HI-FLEX 16V MEC.",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -3820,7 +3834,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
