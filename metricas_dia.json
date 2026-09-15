@@ -1,11 +1,11 @@
 {
   "data": "2026-09-15",
   "primeira_atualizacao": "15/09/2026 09:43:34",
-  "ultima_atualizacao": "15/09/2026 16:51:09",
+  "ultima_atualizacao": "15/09/2026 17:13:52",
   "total_base_dia": 65,
-  "total_atual": 61,
+  "total_atual": 57,
   "novos_produtos": 69,
-  "total_subidos": 73,
+  "total_subidos": 77,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -301,6 +301,7 @@
     "SP12501016779411",
     "SP12501040734001",
     "SP12501041439400",
+    "SP12501041595400",
     "SP12501041730563",
     "SP12501042192027",
     "SP12501053810437",
@@ -317,6 +318,7 @@
     "SP12501057157019",
     "SP12501057289480",
     "SP12501057300027",
+    "SP12501057319542",
     "SP12501079959030",
     "SP12501080680039",
     "SP12501083751031",
@@ -340,6 +342,8 @@
     "SP12501115181027",
     "SP12501115203037",
     "SP12501115203038",
+    "SP12501116722037",
+    "SP12501116730001",
     "SP12501116730032",
     "SP12501116773026",
     "SP12501116927034",
@@ -376,6 +380,7 @@
     "SP12501016779411",
     "SP12501040734001",
     "SP12501041439400",
+    "SP12501041595400",
     "SP12501041730563",
     "SP12501042192027",
     "SP12501053810437",
@@ -392,6 +397,7 @@
     "SP12501057157019",
     "SP12501057289480",
     "SP12501057300027",
+    "SP12501057319542",
     "SP12501079959030",
     "SP12501080680039",
     "SP12501083751031",
@@ -415,6 +421,8 @@
     "SP12501115181027",
     "SP12501115203037",
     "SP12501115203038",
+    "SP12501116722037",
+    "SP12501116730001",
     "SP12501116730032",
     "SP12501116773026",
     "SP12501116927034",
@@ -474,7 +482,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMFORT STYLE 1.0 TB FLEX 12V MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -662,11 +670,11 @@
     {
       "sku": "SP12501041595400",
       "id_produto": "8323",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA LIFE/ LS 1.0 MPFI 2011/2012",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA LIFE/ LS 1.0 MPFI 8V FLEXPOWER 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "10"
@@ -782,11 +790,11 @@
     {
       "sku": "SP12501057319542",
       "id_produto": "14990",
-      "nome": "MOTOR DO LIMPADOR DE PARA-BRISA",
+      "nome": "MOTOR DO LIMPADOR DE PARA-BRISA FORD FOCUS SED.TI.PLUS 2.0",
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SED.TI.PLUS 2.0 16V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1082,11 +1090,11 @@
     {
       "sku": "SP12501116722037",
       "id_produto": "19357",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO HYUNDAI I30 2.0 16V 145CV 5P AUT. 2011/12",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "I30 2.0 16V 145CV 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1094,11 +1102,11 @@
     {
       "sku": "SP12501116730001",
       "id_produto": "18379",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 5P 2006/2006",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1304,7 +1312,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMFORT STYLE 1.0 TB FLEX 12V MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -1502,6 +1510,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501041595400",
+      "id_produto": "8323",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA LIFE/ LS 1.0 MPFI 2011/2012",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA LIFE/ LS 1.0 MPFI 8V FLEXPOWER 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501041730563",
       "id_produto": "12443",
       "nome": "MÓDULO DE CONFORTO CHEVROLET ONIX SEDAN PLUS LTZ 1.0 2022/22",
@@ -1691,6 +1711,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501057319542",
+      "id_produto": "14990",
+      "nome": "MOTOR DO LIMPADOR DE PARA-BRISA FORD FOCUS SED.TI.PLUS 2.0",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FOCUS SED.TI.PLUS 2.0 16V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "5"
     },
     {
@@ -1968,6 +2000,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501116722037",
+      "id_produto": "19357",
+      "nome": "RETROVISOR DIREITO HYUNDAI I30 2.0 16V 145CV 5P AUT. 2011/12",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "I30 2.0 16V 145CV 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501116730001",
+      "id_produto": "18379",
+      "nome": "ALTERNADOR FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 5P 2006/2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501116730032",
@@ -3594,11 +3650,11 @@
     "SP12501116722037": {
       "sku": "SP12501116722037",
       "id_produto": "19357",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO HYUNDAI I30 2.0 16V 145CV 5P AUT. 2011/12",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "I30 2.0 16V 145CV 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -3606,11 +3662,11 @@
     "SP12501116730001": {
       "sku": "SP12501116730001",
       "id_produto": "18379",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR FORD FIESTA PERSONNALITÉ 1.0 8V 66CV 5P 2006/2006",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA PERSONNALITÉ 1.0 8V 66CV 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3622,7 +3678,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMFORT STYLE 1.0 TB FLEX 12V MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
@@ -3630,11 +3686,11 @@
     "SP12501041595400": {
       "sku": "SP12501041595400",
       "id_produto": "8323",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA LIFE/ LS 1.0 MPFI 2011/2012",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA LIFE/ LS 1.0 MPFI 8V FLEXPOWER 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "10"
@@ -3738,11 +3794,11 @@
     "SP12501057319542": {
       "sku": "SP12501057319542",
       "id_produto": "14990",
-      "nome": "MOTOR DO LIMPADOR DE PARA-BRISA",
+      "nome": "MOTOR DO LIMPADOR DE PARA-BRISA FORD FOCUS SED.TI.PLUS 2.0",
       "marca": "FORD",
       "modelo_do_veiculo": "FOCUS SED.TI.PLUS 2.0 16V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
