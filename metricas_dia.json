@@ -1,11 +1,11 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 13:21:20",
+  "ultima_atualizacao": "16/09/2026 13:51:15",
   "total_base_dia": 50,
-  "total_atual": 66,
-  "novos_produtos": 27,
-  "total_subidos": 10,
+  "total_atual": 69,
+  "novos_produtos": 31,
+  "total_subidos": 11,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -62,6 +62,7 @@
     "SP12501004584032",
     "SP12501005173040",
     "SP12501005173484",
+    "SP12501005270024",
     "SP12501005297024",
     "SP12501005300033",
     "SP12501005300035",
@@ -111,9 +112,12 @@
     "SP12501084332001",
     "SP12501084448004",
     "SP12501084790035",
+    "SP12501087412400",
     "SP12501087420004",
     "SP12501088273012",
     "SP12501088311004",
+    "SP12501089148400",
+    "SP12501090383400",
     "SP12501100672514",
     "SP12501100842007",
     "SP12501102470030",
@@ -138,6 +142,7 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501005270024",
     "SP12501005297024",
     "SP12501009648039",
     "SP12501009969024",
@@ -157,8 +162,11 @@
     "SP12501084324004",
     "SP12501084332001",
     "SP12501084448004",
+    "SP12501087412400",
     "SP12501087420004",
     "SP12501088311004",
+    "SP12501089148400",
+    "SP12501090383400",
     "SP12501102543035",
     "SP12501105631045",
     "SP12501117397035",
@@ -170,6 +178,7 @@
     "SP12501015144010",
     "SP12501015187011",
     "SP12501017481400",
+    "SP12501040840011",
     "SP12501084324004",
     "SP12501087420004",
     "SP12501088273012",
@@ -182,6 +191,7 @@
     "SP12501015144010",
     "SP12501015187011",
     "SP12501017481400",
+    "SP12501040840011",
     "SP12501084324004",
     "SP12501087420004",
     "SP12501088273012",
@@ -191,6 +201,18 @@
     "SP12501117397035"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501005270024",
+      "id_produto": "16202",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID INTENSE 1.0 FLEX 12V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
     {
       "sku": "SP12501005297024",
       "id_produto": "16203",
@@ -290,11 +312,11 @@
     {
       "sku": "SP12501040840011",
       "id_produto": "17696",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO NISSAN MARCH SV 1.6 16V 2017",
       "marca": "NISSAN",
       "modelo_do_veiculo": "MARCH SV 1.6 16V FLEXSTART 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -420,6 +442,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501087412400",
+      "id_produto": "16671",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501087420004",
       "id_produto": "16545",
       "nome": "CÂMBIO MANUAL FORD FIESTA SED. 1.6 8V FLEX 4P 2006",
@@ -438,7 +472,31 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "TIGGO 5X PRO 1.5 TURBO FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501089148400",
+      "id_produto": "16821",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS GLX 2.0 FLEX 16V MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501090383400",
+      "id_produto": "16675",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA+ SEDAN 1.0 SE FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -554,6 +612,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501040840011",
+      "id_produto": "17696",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO NISSAN MARCH SV 1.6 16V 2017",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "MARCH SV 1.6 16V FLEXSTART 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501084324004",
       "id_produto": "14260",
       "nome": "CÂMBIO AUTOMATICO FORD KA 1.0 SE/SE PLUS TIVCT FLEX 2019/20",
@@ -596,7 +666,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "TIGGO 5X PRO 1.5 TURBO FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1330,7 +1400,7 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "TIGGO 5X PRO 1.5 TURBO FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1422,11 +1492,11 @@
     "SP12501040840011": {
       "sku": "SP12501040840011",
       "id_produto": "17696",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO NISSAN MARCH SV 1.6 16V 2017",
       "marca": "NISSAN",
       "modelo_do_veiculo": "MARCH SV 1.6 16V FLEXSTART 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1562,6 +1632,54 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    "SP12501087412400": {
+      "sku": "SP12501087412400",
+      "id_produto": "16671",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501090383400": {
+      "sku": "SP12501090383400",
+      "id_produto": "16675",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA+ SEDAN 1.0 SE FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501089148400": {
+      "sku": "SP12501089148400",
+      "id_produto": "16821",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS GLX 2.0 FLEX 16V MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501005270024": {
+      "sku": "SP12501005270024",
+      "id_produto": "16202",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID INTENSE 1.0 FLEX 12V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     }
   }
 }
