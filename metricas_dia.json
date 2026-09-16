@@ -1,11 +1,11 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 15:50:53",
+  "ultima_atualizacao": "16/09/2026 16:20:58",
   "total_base_dia": 50,
-  "total_atual": 68,
-  "novos_produtos": 45,
-  "total_subidos": 26,
+  "total_atual": 61,
+  "novos_produtos": 47,
+  "total_subidos": 35,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -138,6 +138,8 @@
     "SP12501109416032",
     "SP12501109521034",
     "SP12501109548045",
+    "SP12501111577437",
+    "SP12501111577484",
     "SP12501111593039",
     "SP12501111593040",
     "SP12501111593041",
@@ -191,6 +193,8 @@
     "SP12501102870400",
     "SP12501105631045",
     "SP12501109416032",
+    "SP12501111577437",
+    "SP12501111577484",
     "SP12501116730034",
     "SP12501116757033",
     "SP12501116960045",
@@ -203,14 +207,18 @@
     "SP42501003164947"
   ],
   "skus_subidos_hoje": [
+    "SP12501005203024",
     "SP12501005270024",
     "SP12501005297024",
+    "SP12501009969024",
+    "SP12501010347024",
     "SP12501014075020",
     "SP12501015144010",
     "SP12501015187011",
     "SP12501015411027",
     "SP12501017481400",
     "SP12501040840011",
+    "SP12501040890038",
     "SP12501041641026",
     "SP12501053950004",
     "SP12501054344400",
@@ -220,25 +228,34 @@
     "SP12501056207400",
     "SP12501084324004",
     "SP12501084332001",
+    "SP12501084448004",
+    "SP12501087412400",
     "SP12501087420004",
     "SP12501088273012",
     "SP12501088311004",
+    "SP12501089148400",
+    "SP12501090383400",
     "SP12501102543035",
     "SP12501105631045",
     "SP12501117397035",
+    "SP12501121866035",
     "SP12501121866045",
     "SP12501123214032",
     "SP32501002896864"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501005203024",
     "SP12501005270024",
     "SP12501005297024",
+    "SP12501009969024",
+    "SP12501010347024",
     "SP12501014075020",
     "SP12501015144010",
     "SP12501015187011",
     "SP12501015411027",
     "SP12501017481400",
     "SP12501040840011",
+    "SP12501040890038",
     "SP12501041641026",
     "SP12501053950004",
     "SP12501054344400",
@@ -248,12 +265,17 @@
     "SP12501056207400",
     "SP12501084324004",
     "SP12501084332001",
+    "SP12501084448004",
+    "SP12501087412400",
     "SP12501087420004",
     "SP12501088273012",
     "SP12501088311004",
+    "SP12501089148400",
+    "SP12501090383400",
     "SP12501102543035",
     "SP12501105631045",
     "SP12501117397035",
+    "SP12501121866035",
     "SP12501121866045",
     "SP12501123214032",
     "SP32501002896864"
@@ -262,11 +284,11 @@
     {
       "sku": "SP12501005203024",
       "id_produto": "16199",
-      "nome": "MÓDULO DE INJEÇÃO",
-      "marca": "VW",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN T-CROSS COMFOR. 200 1.0 FLEX 22",
+      "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "T-CROSS COMFOR. 200 TSI 1.0 FLEX 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -290,7 +312,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO ROBUST 1.6 TOTAL FLEX 8V",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -310,11 +332,11 @@
     {
       "sku": "SP12501009969024",
       "id_produto": "16205",
-      "nome": "MÓDULO DE INJEÇÃO",
-      "marca": "GM",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LT 1.4 F.POWER 17/18",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -322,11 +344,11 @@
     {
       "sku": "SP12501010347024",
       "id_produto": "16206",
-      "nome": "MÓD INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FIAT FIORINO ENDURANCE EVO 1.4 8V 2023/24",
       "marca": "FIAT",
       "modelo_do_veiculo": "FIORINO ENDURANCE EVO 1.4 FLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -362,7 +384,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XLS 1.5 FLEX 16V 5P MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -394,11 +416,11 @@
     {
       "sku": "SP12501040890038",
       "id_produto": "17062",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2021/22",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -518,7 +540,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -538,11 +560,11 @@
     {
       "sku": "SP12501087412400",
       "id_produto": "16671",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH LTZ 1.4 8V 5P 2016",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -586,11 +608,11 @@
     {
       "sku": "SP12501089148400",
       "id_produto": "16821",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CITROEN C4 PALLAS GLX 2.0 FLEX 16V 2010/2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 PALLAS GLX 2.0 FLEX 16V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -622,11 +644,11 @@
     {
       "sku": "SP12501090383400",
       "id_produto": "16675",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FORD KA+ SEDAN 1.0 SE FLEX 4P 2017/2018",
       "marca": "FORD",
       "modelo_do_veiculo": "KA+ SEDAN 1.0 SE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -678,6 +700,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111577437",
+      "id_produto": "21402",
+      "nome": "PNEU DIANTEIRO DIREITO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111577484",
+      "id_produto": "21404",
+      "nome": "PNEU TRASEIRO DIREITO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501116730034",
@@ -742,11 +788,11 @@
     {
       "sku": "SP12501121866035",
       "id_produto": "14556",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA HYUNDAI HB20 COMFORT PLUS 1.6 2019",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMFORT PLUS 1.6 16V CVVT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -802,6 +848,18 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501005203024",
+      "id_produto": "16199",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN T-CROSS COMFOR. 200 1.0 FLEX 22",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "T-CROSS COMFOR. 200 TSI 1.0 FLEX 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501005270024",
       "id_produto": "16202",
       "nome": "MÓDULO DE INJEÇÃO RENAULT KWID INTENSE 1.0 FLEX 2022/2023",
@@ -820,9 +878,33 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO ROBUST 1.6 TOTAL FLEX 8V",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501009969024",
+      "id_produto": "16205",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LT 1.4 F.POWER 17/18",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501010347024",
+      "id_produto": "16206",
+      "nome": "MÓDULO DE INJEÇÃO FIAT FIORINO ENDURANCE EVO 1.4 8V 2023/24",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FIORINO ENDURANCE EVO 1.4 FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "7"
     },
     {
@@ -868,7 +950,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XLS 1.5 FLEX 16V 5P MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -896,6 +978,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501040890038",
+      "id_produto": "17062",
+      "nome": "RETROVISOR ESQUERDO FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2021/22",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501041641026",
@@ -1006,6 +1100,30 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501084448004",
+      "id_produto": "7461",
+      "nome": "CÂMBIO MANUAL FIAT ARGO DRIVE 1.0 6V FLEX 2020/2020",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501087412400",
+      "id_produto": "16671",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH LTZ 1.4 8V 5P 2016",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501087420004",
       "id_produto": "16545",
       "nome": "CÂMBIO MANUAL FORD FIESTA SED. 1.6 8V FLEX 4P 2006",
@@ -1035,6 +1153,30 @@
       "nome": "CÂMBIO AUTOMATICO CHERY TIGGO 5X PRO 1.5 TURBO FLEX 2023/24",
       "marca": "CHERY",
       "modelo_do_veiculo": "TIGGO 5X PRO 1.5 TURBO FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501089148400",
+      "id_produto": "16821",
+      "nome": "MOTOR COMPLETO CITROEN C4 PALLAS GLX 2.0 FLEX 16V 2010/2011",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS GLX 2.0 FLEX 16V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501090383400",
+      "id_produto": "16675",
+      "nome": "MOTOR COMPLETO FORD KA+ SEDAN 1.0 SE FLEX 4P 2017/2018",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA+ SEDAN 1.0 SE FLEX 4P",
       "status": "Habilitado",
       "status_ml": "active",
       "quantidade": "1",
@@ -1075,6 +1217,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501121866035",
+      "id_produto": "14556",
+      "nome": "PORTA TRASEIRA ESQUERDA HYUNDAI HB20 COMFORT PLUS 1.6 2019",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 COMFORT PLUS 1.6 16V CVVT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "10"
     },
     {
@@ -1934,11 +2088,11 @@
     "SP12501040890038": {
       "sku": "SP12501040890038",
       "id_produto": "17062",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2021/22",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1950,7 +2104,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XLS 1.5 FLEX 16V 5P MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -1982,11 +2136,11 @@
     "SP12501010347024": {
       "sku": "SP12501010347024",
       "id_produto": "16206",
-      "nome": "MÓD INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FIAT FIORINO ENDURANCE EVO 1.4 8V 2023/24",
       "marca": "FIAT",
       "modelo_do_veiculo": "FIORINO ENDURANCE EVO 1.4 FLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1998,7 +2152,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -2006,11 +2160,11 @@
     "SP12501009969024": {
       "sku": "SP12501009969024",
       "id_produto": "16205",
-      "nome": "MÓDULO DE INJEÇÃO",
-      "marca": "GM",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET ONIX HATCH LT 1.4 F.POWER 17/18",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2034,7 +2188,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO ROBUST 1.6 TOTAL FLEX 8V",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -2042,11 +2196,11 @@
     "SP12501087412400": {
       "sku": "SP12501087412400",
       "id_produto": "16671",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH LTZ 1.4 8V 5P 2016",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -2054,11 +2208,11 @@
     "SP12501090383400": {
       "sku": "SP12501090383400",
       "id_produto": "16675",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FORD KA+ SEDAN 1.0 SE FLEX 4P 2017/2018",
       "marca": "FORD",
       "modelo_do_veiculo": "KA+ SEDAN 1.0 SE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -2066,11 +2220,11 @@
     "SP12501089148400": {
       "sku": "SP12501089148400",
       "id_produto": "16821",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CITROEN C4 PALLAS GLX 2.0 FLEX 16V 2010/2011",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 PALLAS GLX 2.0 FLEX 16V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2234,11 +2388,11 @@
     "SP12501121866035": {
       "sku": "SP12501121866035",
       "id_produto": "14556",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA HYUNDAI HB20 COMFORT PLUS 1.6 2019",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMFORT PLUS 1.6 16V CVVT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -2246,14 +2400,38 @@
     "SP12501005203024": {
       "sku": "SP12501005203024",
       "id_produto": "16199",
-      "nome": "MÓDULO DE INJEÇÃO",
-      "marca": "VW",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN T-CROSS COMFOR. 200 1.0 FLEX 22",
+      "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "T-CROSS COMFOR. 200 TSI 1.0 FLEX 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501111577437": {
+      "sku": "SP12501111577437",
+      "id_produto": "21402",
+      "nome": "PNEU DIANTEIRO DIREITO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "7"
+      "qtd_images": "9"
+    },
+    "SP12501111577484": {
+      "sku": "SP12501111577484",
+      "id_produto": "21404",
+      "nome": "PNEU TRASEIRO DIREITO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     }
   }
 }
