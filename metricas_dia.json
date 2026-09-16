@@ -1,11 +1,11 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 09:21:11",
+  "ultima_atualizacao": "16/09/2026 09:51:09",
   "total_base_dia": 50,
-  "total_atual": 50,
-  "novos_produtos": 2,
-  "total_subidos": 2,
+  "total_atual": 51,
+  "novos_produtos": 4,
+  "total_subidos": 3,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -102,11 +102,13 @@
     "SP12501102543035",
     "SP12501104520032",
     "SP12501105631026",
+    "SP12501105631045",
     "SP12501109521034",
     "SP12501109548045",
     "SP12501111593039",
     "SP12501111593040",
     "SP12501111593041",
+    "SP12501117397035",
     "SP12501121807401",
     "SP12501123273032",
     "SP42501001064042",
@@ -114,24 +116,52 @@
   ],
   "skus_novos_hoje": [
     "SP12501102543035",
+    "SP12501105631045",
+    "SP12501117397035",
     "SP42501003164947"
   ],
   "skus_subidos_hoje": [
     "SP12501015144010",
-    "SP12501088273012"
+    "SP12501088273012",
+    "SP12501102543035"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015144010",
-    "SP12501088273012"
+    "SP12501088273012",
+    "SP12501102543035"
   ],
   "itens_novos_hoje": [
     {
       "sku": "SP12501102543035",
       "id_produto": "17689",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CLASSIC LIFE 1.0 FLEXP. 08",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
       "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501105631045",
+      "id_produto": "15553",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501117397035",
+      "id_produto": "18572",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX",
+      "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
@@ -174,6 +204,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501102543035",
+      "id_produto": "17689",
+      "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CLASSIC LIFE 1.0 FLEXP. 08",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -792,10 +834,34 @@
     "SP12501102543035": {
       "sku": "SP12501102543035",
       "id_produto": "17689",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CLASSIC LIFE 1.0 FLEXP. 08",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
       "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501105631045": {
+      "sku": "SP12501105631045",
+      "id_produto": "15553",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO 1.0 6V FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP12501117397035": {
+      "sku": "SP12501117397035",
+      "id_produto": "18572",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX",
+      "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
