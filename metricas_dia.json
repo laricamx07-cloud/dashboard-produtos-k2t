@@ -1,11 +1,11 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 08:21:14",
+  "ultima_atualizacao": "16/09/2026 08:50:59",
   "total_base_dia": 50,
-  "total_atual": 50,
-  "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_atual": 49,
+  "novos_produtos": 1,
+  "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -108,13 +108,60 @@
     "SP12501111593041",
     "SP12501121807401",
     "SP12501123273032",
-    "SP42501001064042"
+    "SP42501001064042",
+    "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "skus_novos_hoje": [
+    "SP42501003164947"
+  ],
+  "skus_subidos_hoje": [
+    "SP12501015144010",
+    "SP12501088273012"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501015144010",
+    "SP12501088273012"
+  ],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP42501003164947",
+      "id_produto": "11207",
+      "nome": "TAMPA TRASEIRA ESQUERDA FIAT DUCATO MINIBUS 2.3 2015/2015",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "DUCATO MINIBUS 2.3 T.ALTO ME DIESEL",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "2"
+    }
+  ],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501015144010",
+      "id_produto": "18813",
+      "nome": "CHAVE DE SETA Peugeot EXPERT BUSINESS PACK 1.6  DIESEL 2018",
+      "marca": "Peugeot",
+      "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501088273012",
+      "id_produto": "18110",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO CHEVROLET CELTA 1.0 2010/2011",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501053810485": {
       "sku": "SP12501053810485",
@@ -383,11 +430,11 @@
     "SP12501015144010": {
       "sku": "SP12501015144010",
       "id_produto": "18813",
-      "nome": "CHAVE DE SETA",
-      "marca": "PGT",
+      "nome": "CHAVE DE SETA Peugeot EXPERT BUSINESS PACK 1.6  DIESEL 2018",
+      "marca": "Peugeot",
       "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -699,7 +746,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -715,6 +762,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "3"
+    },
+    "SP42501003164947": {
+      "sku": "SP42501003164947",
+      "id_produto": "11207",
+      "nome": "TAMPA TRASEIRA ESQUERDA FIAT DUCATO MINIBUS 2.3 2015/2015",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "DUCATO MINIBUS 2.3 T.ALTO ME DIESEL",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "2"
     }
   }
 }
