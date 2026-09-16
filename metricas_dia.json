@@ -1,11 +1,11 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 10:51:08",
+  "ultima_atualizacao": "16/09/2026 11:21:11",
   "total_base_dia": 50,
-  "total_atual": 58,
+  "total_atual": 57,
   "novos_produtos": 14,
-  "total_subidos": 5,
+  "total_subidos": 6,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -142,6 +142,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501015144010",
+    "SP12501015187011",
     "SP12501088273012",
     "SP12501102543035",
     "SP12501105631045",
@@ -149,6 +150,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015144010",
+    "SP12501015187011",
     "SP12501088273012",
     "SP12501102543035",
     "SP12501105631045",
@@ -170,11 +172,11 @@
     {
       "sku": "SP12501015187011",
       "id_produto": "19030",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FIAT STRADA WORKING 1.4 17/17",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CD",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -336,6 +338,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015187011",
+      "id_produto": "19030",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FIAT STRADA WORKING 1.4 17/17",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CD",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501088273012",
@@ -1110,11 +1124,11 @@
     "SP12501015187011": {
       "sku": "SP12501015187011",
       "id_produto": "19030",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FIAT STRADA WORKING 1.4 17/17",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CD",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
