@@ -1,10 +1,10 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 16:38:34",
+  "ultima_atualizacao": "16/09/2026 16:51:11",
   "total_base_dia": 50,
-  "total_atual": 62,
-  "novos_produtos": 51,
+  "total_atual": 63,
+  "novos_produtos": 52,
   "total_subidos": 38,
   "skus_base_dia": [
     "SP12501004584032",
@@ -67,6 +67,7 @@
     "SP12501005297024",
     "SP12501005300033",
     "SP12501005300035",
+    "SP12501005416024",
     "SP12501009648039",
     "SP12501009713035",
     "SP12501009730035",
@@ -165,6 +166,7 @@
     "SP12501005203024",
     "SP12501005270024",
     "SP12501005297024",
+    "SP12501005416024",
     "SP12501009648039",
     "SP12501009969024",
     "SP12501010347024",
@@ -329,6 +331,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501005416024",
+      "id_produto": "16204",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "PGT",
+      "modelo_do_veiculo": "208 STYLE 1.0 TURBO FLEX 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "7"
     },
     {
@@ -2578,6 +2592,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
+    },
+    "SP12501005416024": {
+      "sku": "SP12501005416024",
+      "id_produto": "16204",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "PGT",
+      "modelo_do_veiculo": "208 STYLE 1.0 TURBO FLEX 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   }
 }
