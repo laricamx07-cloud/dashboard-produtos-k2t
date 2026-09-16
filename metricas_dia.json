@@ -1,10 +1,10 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 12:21:23",
+  "ultima_atualizacao": "16/09/2026 12:51:22",
   "total_base_dia": 50,
-  "total_atual": 61,
-  "novos_produtos": 18,
+  "total_atual": 65,
+  "novos_produtos": 22,
   "total_subidos": 6,
   "skus_base_dia": [
     "SP12501004584032",
@@ -79,6 +79,7 @@
     "SP12501014806045",
     "SP12501015144010",
     "SP12501015187011",
+    "SP12501015411027",
     "SP12501015586034",
     "SP12501016027033",
     "SP12501016728034",
@@ -87,6 +88,7 @@
     "SP12501016817034",
     "SP12501017481400",
     "SP12501040840011",
+    "SP12501040890038",
     "SP12501041145437",
     "SP12501041641026",
     "SP12501053810483",
@@ -103,6 +105,7 @@
     "SP12501080353035",
     "SP12501080361032",
     "SP12501084324004",
+    "SP12501084332001",
     "SP12501084790035",
     "SP12501087420004",
     "SP12501088273012",
@@ -125,6 +128,7 @@
     "SP12501117397035",
     "SP12501121807401",
     "SP12501123273032",
+    "SP32501002896864",
     "SP42501001064042",
     "SP42501003164947"
   ],
@@ -132,8 +136,10 @@
     "SP12501009648039",
     "SP12501014075020",
     "SP12501015187011",
+    "SP12501015411027",
     "SP12501017481400",
     "SP12501040840011",
+    "SP12501040890038",
     "SP12501041641026",
     "SP12501053950004",
     "SP12501055200004",
@@ -141,11 +147,13 @@
     "SP12501056207033",
     "SP12501056207400",
     "SP12501084324004",
+    "SP12501084332001",
     "SP12501087420004",
     "SP12501088311004",
     "SP12501102543035",
     "SP12501105631045",
     "SP12501117397035",
+    "SP32501002896864",
     "SP42501003164947"
   ],
   "skus_subidos_hoje": [
@@ -202,6 +210,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501015411027",
+      "id_produto": "17377",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS XLS 1.5 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501017481400",
       "id_produto": "13636",
       "nome": "MOTOR COMPLETO",
@@ -226,6 +246,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501040890038",
+      "id_produto": "17062",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501041641026",
       "id_produto": "17698",
       "nome": "MOTOR DE PARTIDA",
@@ -240,10 +272,10 @@
     {
       "sku": "SP12501053950004",
       "id_produto": "21397",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2004/2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
@@ -290,7 +322,7 @@
       "id_produto": "21399",
       "nome": "MOTOR COMPLETO",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -308,6 +340,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501084332001",
+      "id_produto": "18991",
+      "nome": "ALTERNADOR",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FlexPower 5p Mec.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501087420004",
@@ -368,6 +412,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP32501002896864",
+      "id_produto": "17525",
+      "nome": "TAMPA DO PORTA LUVA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP42501003164947",
@@ -1228,10 +1284,10 @@
     "SP12501053950004": {
       "sku": "SP12501053950004",
       "id_produto": "21397",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2004/2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
@@ -1266,12 +1322,60 @@
       "id_produto": "21399",
       "nome": "MOTOR COMPLETO",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501040890038": {
+      "sku": "SP12501040890038",
+      "id_produto": "17062",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501015411027": {
+      "sku": "SP12501015411027",
+      "id_produto": "17377",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS XLS 1.5 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "6"
+    },
+    "SP32501002896864": {
+      "sku": "SP32501002896864",
+      "id_produto": "17525",
+      "nome": "TAMPA DO PORTA LUVA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501084332001": {
+      "sku": "SP12501084332001",
+      "id_produto": "18991",
+      "nome": "ALTERNADOR",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FlexPower 5p Mec.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   }
 }
