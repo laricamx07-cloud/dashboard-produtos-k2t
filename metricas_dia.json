@@ -1,10 +1,10 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 11:51:17",
+  "ultima_atualizacao": "16/09/2026 12:21:23",
   "total_base_dia": 50,
-  "total_atual": 59,
-  "novos_produtos": 16,
+  "total_atual": 61,
+  "novos_produtos": 18,
   "total_subidos": 6,
   "skus_base_dia": [
     "SP12501004584032",
@@ -73,6 +73,7 @@
     "SP12501009888034",
     "SP12501010312034",
     "SP12501010517024",
+    "SP12501014075020",
     "SP12501014750032",
     "SP12501014750034",
     "SP12501014806045",
@@ -95,6 +96,7 @@
     "SP12501055200004",
     "SP12501056207007",
     "SP12501056207033",
+    "SP12501056207400",
     "SP12501057831514",
     "SP12501079959400",
     "SP12501080353034",
@@ -128,6 +130,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501009648039",
+    "SP12501014075020",
     "SP12501015187011",
     "SP12501017481400",
     "SP12501040840011",
@@ -136,6 +139,7 @@
     "SP12501055200004",
     "SP12501056207007",
     "SP12501056207033",
+    "SP12501056207400",
     "SP12501084324004",
     "SP12501087420004",
     "SP12501088311004",
@@ -172,6 +176,18 @@
       "quantidade": "1",
       "classificacao": null,
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501014075020",
+      "id_produto": "19024",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501015187011",
@@ -268,6 +284,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056207400",
+      "id_produto": "21399",
+      "nome": "MOTOR COMPLETO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501084324004",
@@ -1220,6 +1248,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    "SP12501014075020": {
+      "sku": "SP12501014075020",
+      "id_produto": "19024",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501056207400": {
+      "sku": "SP12501056207400",
+      "id_produto": "21399",
+      "nome": "MOTOR COMPLETO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
