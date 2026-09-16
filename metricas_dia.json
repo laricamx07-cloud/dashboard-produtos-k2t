@@ -1,11 +1,11 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 17:21:19",
+  "ultima_atualizacao": "16/09/2026 17:51:16",
   "total_base_dia": 50,
-  "total_atual": 59,
-  "novos_produtos": 54,
-  "total_subidos": 44,
+  "total_atual": 58,
+  "novos_produtos": 56,
+  "total_subidos": 47,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -63,6 +63,7 @@
     "SP12501005173040",
     "SP12501005173484",
     "SP12501005203024",
+    "SP12501005220049",
     "SP12501005270024",
     "SP12501005297024",
     "SP12501005300033",
@@ -160,12 +161,14 @@
     "SP12501121866045",
     "SP12501123214032",
     "SP12501123273032",
+    "SP32501002896862",
     "SP32501002896864",
     "SP42501001064042",
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
     "SP12501005203024",
+    "SP12501005220049",
     "SP12501005270024",
     "SP12501005297024",
     "SP12501005416024",
@@ -217,6 +220,7 @@
     "SP12501121866035",
     "SP12501121866045",
     "SP12501123214032",
+    "SP32501002896862",
     "SP32501002896864",
     "SP42501003164947"
   ],
@@ -224,6 +228,7 @@
     "SP12501005203024",
     "SP12501005270024",
     "SP12501005297024",
+    "SP12501005416024",
     "SP12501009969024",
     "SP12501010347024",
     "SP12501014075020",
@@ -257,6 +262,8 @@
     "SP12501102870400",
     "SP12501105631045",
     "SP12501109416032",
+    "SP12501111577437",
+    "SP12501111577483",
     "SP12501116730034",
     "SP12501116960045",
     "SP12501117370032",
@@ -270,6 +277,7 @@
     "SP12501005203024",
     "SP12501005270024",
     "SP12501005297024",
+    "SP12501005416024",
     "SP12501009969024",
     "SP12501010347024",
     "SP12501014075020",
@@ -303,6 +311,8 @@
     "SP12501102870400",
     "SP12501105631045",
     "SP12501109416032",
+    "SP12501111577437",
+    "SP12501111577483",
     "SP12501116730034",
     "SP12501116960045",
     "SP12501117370032",
@@ -324,6 +334,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501005220049",
+      "id_produto": "16200",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FORD KA SEDAN SE 1.5 16V SIGMA",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501005270024",
@@ -352,11 +374,11 @@
     {
       "sku": "SP12501005416024",
       "id_produto": "16204",
-      "nome": "MÓDULO DE INJEÇÃO",
-      "marca": "PGT",
+      "nome": "MÓDULO DE INJEÇÃO PEUGEOT 208 1.0 TURBO FLEX 5P AUT. 2024",
+      "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 STYLE 1.0 TURBO FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -620,7 +642,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV 3.0 D-4D TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -772,11 +794,11 @@
     {
       "sku": "SP12501111577437",
       "id_produto": "21402",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 185/70 R14 88H JK TYRE VECTRA",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -784,11 +806,11 @@
     {
       "sku": "SP12501111577483",
       "id_produto": "21403",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "PNEU 185/70 R14 88H JK TYRE VECTRA",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -938,6 +960,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP32501002896862",
+      "id_produto": "17523",
+      "nome": "MOLDURA MULTIMÍDIA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP32501002896864",
       "id_produto": "17525",
       "nome": "TAMPA DO PORTA LUVA RAM 2500 LARAMIE 6.7 CD 4X4 DIESEL 2019",
@@ -997,6 +1031,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501005416024",
+      "id_produto": "16204",
+      "nome": "MÓDULO DE INJEÇÃO PEUGEOT 208 1.0 TURBO FLEX 5P AUT. 2024",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "208 STYLE 1.0 TURBO FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "7"
     },
     {
@@ -1234,7 +1280,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV 3.0 D-4D TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1394,6 +1440,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111577437",
+      "id_produto": "21402",
+      "nome": "PNEU 185/70 R14 88H JK TYRE VECTRA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111577483",
+      "id_produto": "21403",
+      "nome": "PNEU 185/70 R14 88H JK TYRE VECTRA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501116730034",
@@ -2592,7 +2662,7 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "HILUX CD SRV 3.0 D-4D TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -2636,11 +2706,11 @@
     "SP12501111577437": {
       "sku": "SP12501111577437",
       "id_produto": "21402",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 185/70 R14 88H JK TYRE VECTRA",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -2660,11 +2730,11 @@
     "SP12501111577483": {
       "sku": "SP12501111577483",
       "id_produto": "21403",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "PNEU 185/70 R14 88H JK TYRE VECTRA",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -2708,11 +2778,11 @@
     "SP12501005416024": {
       "sku": "SP12501005416024",
       "id_produto": "16204",
-      "nome": "MÓDULO DE INJEÇÃO",
-      "marca": "PGT",
+      "nome": "MÓDULO DE INJEÇÃO PEUGEOT 208 1.0 TURBO FLEX 5P AUT. 2024",
+      "marca": "PEUGEOT",
       "modelo_do_veiculo": "208 STYLE 1.0 TURBO FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -2740,6 +2810,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP32501002896862": {
+      "sku": "SP32501002896862",
+      "id_produto": "17523",
+      "nome": "MOLDURA MULTIMÍDIA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501005220049": {
+      "sku": "SP12501005220049",
+      "id_produto": "16200",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FORD KA SEDAN SE 1.5 16V SIGMA",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
