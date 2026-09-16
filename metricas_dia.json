@@ -1,10 +1,10 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 11:21:11",
+  "ultima_atualizacao": "16/09/2026 11:51:17",
   "total_base_dia": 50,
-  "total_atual": 57,
-  "novos_produtos": 14,
+  "total_atual": 59,
+  "novos_produtos": 16,
   "total_subidos": 6,
   "skus_base_dia": [
     "SP12501004584032",
@@ -85,10 +85,12 @@
     "SP12501016779035",
     "SP12501016817034",
     "SP12501017481400",
+    "SP12501040840011",
     "SP12501041145437",
     "SP12501041641026",
     "SP12501053810483",
     "SP12501053810485",
+    "SP12501053950004",
     "SP12501054476401",
     "SP12501055200004",
     "SP12501056207007",
@@ -128,7 +130,9 @@
     "SP12501009648039",
     "SP12501015187011",
     "SP12501017481400",
+    "SP12501040840011",
     "SP12501041641026",
+    "SP12501053950004",
     "SP12501055200004",
     "SP12501056207007",
     "SP12501056207033",
@@ -194,11 +198,35 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501040840011",
+      "id_produto": "17696",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "MARCH SV 1.6 16V FLEXSTART 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501041641026",
       "id_produto": "17698",
       "nome": "MOTOR DE PARTIDA",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "POLO SEDAN 1.6 MI TOTAL FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053950004",
+      "id_produto": "21397",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -1168,6 +1196,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501053950004": {
+      "sku": "SP12501053950004",
+      "id_produto": "21397",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501040840011": {
+      "sku": "SP12501040840011",
+      "id_produto": "17696",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "MARCH SV 1.6 16V FLEXSTART 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     }
   }
 }
