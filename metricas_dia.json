@@ -1,10 +1,10 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 08:50:59",
+  "ultima_atualizacao": "16/09/2026 09:21:11",
   "total_base_dia": 50,
-  "total_atual": 49,
-  "novos_produtos": 1,
+  "total_atual": 50,
+  "novos_produtos": 2,
   "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004584032",
@@ -99,6 +99,7 @@
     "SP12501102519033",
     "SP12501102519045",
     "SP12501102527032",
+    "SP12501102543035",
     "SP12501104520032",
     "SP12501105631026",
     "SP12501109521034",
@@ -112,6 +113,7 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501102543035",
     "SP42501003164947"
   ],
   "skus_subidos_hoje": [
@@ -123,6 +125,18 @@
     "SP12501088273012"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501102543035",
+      "id_produto": "17689",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP42501003164947",
       "id_produto": "11207",
@@ -144,7 +158,7 @@
       "marca": "Peugeot",
       "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -156,7 +170,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -434,7 +448,7 @@
       "marca": "Peugeot",
       "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -746,7 +760,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT/ LT 1.0 MPFI 8V FLEXP. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -774,6 +788,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "2"
+    },
+    "SP12501102543035": {
+      "sku": "SP12501102543035",
+      "id_produto": "17689",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LIFE 1.0 VHC FLEXPOWER",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
