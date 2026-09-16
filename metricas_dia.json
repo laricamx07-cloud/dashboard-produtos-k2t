@@ -1,10 +1,10 @@
 {
   "data": "2026-09-16",
   "primeira_atualizacao": "16/09/2026 08:12:29",
-  "ultima_atualizacao": "16/09/2026 10:21:13",
+  "ultima_atualizacao": "16/09/2026 10:51:08",
   "total_base_dia": 50,
-  "total_atual": 55,
-  "novos_produtos": 10,
+  "total_atual": 58,
+  "novos_produtos": 14,
   "total_subidos": 5,
   "skus_base_dia": [
     "SP12501004584032",
@@ -77,6 +77,7 @@
     "SP12501014750034",
     "SP12501014806045",
     "SP12501015144010",
+    "SP12501015187011",
     "SP12501015586034",
     "SP12501016027033",
     "SP12501016728034",
@@ -85,6 +86,7 @@
     "SP12501016817034",
     "SP12501017481400",
     "SP12501041145437",
+    "SP12501041641026",
     "SP12501053810483",
     "SP12501053810485",
     "SP12501054476401",
@@ -96,7 +98,9 @@
     "SP12501080353034",
     "SP12501080353035",
     "SP12501080361032",
+    "SP12501084324004",
     "SP12501084790035",
+    "SP12501087420004",
     "SP12501088273012",
     "SP12501088311004",
     "SP12501100672514",
@@ -122,10 +126,14 @@
   ],
   "skus_novos_hoje": [
     "SP12501009648039",
+    "SP12501015187011",
     "SP12501017481400",
+    "SP12501041641026",
     "SP12501055200004",
     "SP12501056207007",
     "SP12501056207033",
+    "SP12501084324004",
+    "SP12501087420004",
     "SP12501088311004",
     "SP12501102543035",
     "SP12501105631045",
@@ -160,6 +168,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501015187011",
+      "id_produto": "19030",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CD",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501017481400",
       "id_produto": "13636",
       "nome": "MOTOR COMPLETO",
@@ -172,11 +192,23 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501041641026",
+      "id_produto": "17698",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "POLO SEDAN 1.6 MI TOTAL FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501055200004",
       "id_produto": "21396",
       "nome": "CÂMBIO MANUAL",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -206,6 +238,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501084324004",
+      "id_produto": "14260",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 SE/SE PLUS TIVCT FLEX 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501087420004",
+      "id_produto": "16545",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA SED. 1.6 8V FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501088311004",
@@ -984,7 +1040,7 @@
       "id_produto": "21396",
       "nome": "CÂMBIO MANUAL",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -1050,6 +1106,54 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    "SP12501015187011": {
+      "sku": "SP12501015187011",
+      "id_produto": "19030",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CD",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501041641026": {
+      "sku": "SP12501041641026",
+      "id_produto": "17698",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "POLO SEDAN 1.6 MI TOTAL FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501084324004": {
+      "sku": "SP12501084324004",
+      "id_produto": "14260",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 SE/SE PLUS TIVCT FLEX 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "10"
+    },
+    "SP12501087420004": {
+      "sku": "SP12501087420004",
+      "id_produto": "16545",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA SED. 1.6 8V FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
