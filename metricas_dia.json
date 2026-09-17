@@ -1,11 +1,11 @@
 {
   "data": "2026-09-17",
   "primeira_atualizacao": "17/09/2026 08:15:10",
-  "ultima_atualizacao": "17/09/2026 08:21:18",
+  "ultima_atualizacao": "17/09/2026 08:51:07",
   "total_base_dia": 69,
   "total_atual": 69,
-  "novos_produtos": 0,
-  "total_subidos": 0,
+  "novos_produtos": 2,
+  "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -108,6 +108,7 @@
     "SP12501016779035",
     "SP12501016817034",
     "SP12501041145437",
+    "SP12501041579483",
     "SP12501053810483",
     "SP12501053810485",
     "SP12501054476401",
@@ -137,6 +138,7 @@
     "SP12501111607483",
     "SP12501116684032",
     "SP12501116757033",
+    "SP12501116773032",
     "SP12501116773033",
     "SP12501116935035",
     "SP12501117397034",
@@ -148,11 +150,70 @@
     "SP42501001064042",
     "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501041579483",
+    "SP12501116773032"
+  ],
+  "skus_subidos_hoje": [
+    "SP12501005220049",
+    "SP12501015292027"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501005220049",
+    "SP12501015292027"
+  ],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501041579483",
+      "id_produto": "12942",
+      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX PEPPER 1.6 FLEX 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501116773032",
+      "id_produto": "18560",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    }
+  ],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501005220049",
+      "id_produto": "16200",
+      "nome": "VOLANTE DO MOTORISTA FORD FORD KA SEDAN SE 1.5 16V 2018",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FORD KA SEDAN SE 1.5 16V SIGMA",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015292027",
+      "id_produto": "17036",
+      "nome": "PAINEL DE INSTRUMENTOS HONDA FIT EX/S 1.5 FLEX 16V AUT 2015",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501100672514": {
       "sku": "SP12501100672514",
@@ -481,11 +542,11 @@
     "SP12501015292027": {
       "sku": "SP12501015292027",
       "id_produto": "17036",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS HONDA FIT EX/S 1.5 FLEX 16V AUT 2015",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -757,11 +818,11 @@
     "SP12501005220049": {
       "sku": "SP12501005220049",
       "id_produto": "16200",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA FORD FORD KA SEDAN SE 1.5 16V 2018",
       "marca": "FORD",
       "modelo_do_veiculo": "FORD KA SEDAN SE 1.5 16V SIGMA",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -981,6 +1042,30 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
+    },
+    "SP12501116773032": {
+      "sku": "SP12501116773032",
+      "id_produto": "18560",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501041579483": {
+      "sku": "SP12501041579483",
+      "id_produto": "12942",
+      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX PEPPER 1.6 FLEX 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "6"
     }
   }
 }
