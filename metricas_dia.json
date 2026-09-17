@@ -1,11 +1,11 @@
 {
   "data": "2026-09-17",
   "primeira_atualizacao": "17/09/2026 08:15:10",
-  "ultima_atualizacao": "17/09/2026 16:21:07",
+  "ultima_atualizacao": "17/09/2026 16:28:39",
   "total_base_dia": 69,
-  "total_atual": 73,
+  "total_atual": 70,
   "novos_produtos": 63,
-  "total_subidos": 59,
+  "total_subidos": 62,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -312,9 +312,12 @@
     "SP12501056304010",
     "SP12501056304024",
     "SP12501057858034",
+    "SP12501088354043",
     "SP12501089261045",
     "SP12501100672514",
+    "SP12501102527035",
     "SP12501103051045",
+    "SP12501103272045",
     "SP12501111577485",
     "SP12501111607437",
     "SP12501111607483",
@@ -373,9 +376,12 @@
     "SP12501056304010",
     "SP12501056304024",
     "SP12501057858034",
+    "SP12501088354043",
     "SP12501089261045",
     "SP12501100672514",
+    "SP12501102527035",
     "SP12501103051045",
+    "SP12501103272045",
     "SP12501111577485",
     "SP12501111607437",
     "SP12501111607483",
@@ -822,11 +828,11 @@
     {
       "sku": "SP12501088354043",
       "id_produto": "17353",
-      "nome": "RODA SOBRES./ESTEPE",
+      "nome": "RODA ESTEPE T145/70 R17 106M LINGLONG",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE ALTITUDE T270 1.3 TB FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -858,11 +864,11 @@
     {
       "sku": "SP12501102527035",
       "id_produto": "20802",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA JEEP RENEGADE SPORT 1.8 4X2 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -894,11 +900,11 @@
     {
       "sku": "SP12501103272045",
       "id_produto": "20816",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA CHEVROLET MONTANA LS 1.4 ECONOFLEX 8V 2011/12",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1018,8 +1024,8 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status_ml": "closed",
+      "quantidade": "-1",
       "classificacao": "06",
       "qtd_images": "8"
     },
@@ -1578,6 +1584,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501088354043",
+      "id_produto": "17353",
+      "nome": "RODA ESTEPE T145/70 R17 106M LINGLONG",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE ALTITUDE T270 1.3 TB FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501089261045",
       "id_produto": "17127",
       "nome": "TAMPA TRASEIRA FORD FIESTA SED. 1.6 8V FLEX 4P 2005/2006",
@@ -1602,6 +1620,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501102527035",
+      "id_produto": "20802",
+      "nome": "PORTA TRASEIRA ESQUERDA JEEP RENEGADE SPORT 1.8 4X2 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103051045",
       "id_produto": "18585",
       "nome": "TAMPA TRASEIRA CITROEN C3 EXCLUSIVE 1.4 FLEX 8V 5P 2009",
@@ -1611,6 +1641,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103272045",
+      "id_produto": "20816",
+      "nome": "TAMPA TRASEIRA CHEVROLET MONTANA LS 1.4 ECONOFLEX 8V 2011/12",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "7"
     },
     {
@@ -1764,8 +1806,8 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status_ml": "closed",
+      "quantidade": "-1",
       "classificacao": "06",
       "qtd_images": "8"
     },
@@ -2722,11 +2764,11 @@
     "SP12501088354043": {
       "sku": "SP12501088354043",
       "id_produto": "17353",
-      "nome": "RODA SOBRES./ESTEPE",
+      "nome": "RODA ESTEPE T145/70 R17 106M LINGLONG",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE ALTITUDE T270 1.3 TB FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -2794,11 +2836,11 @@
     "SP12501103272045": {
       "sku": "SP12501103272045",
       "id_produto": "20816",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA CHEVROLET MONTANA LS 1.4 ECONOFLEX 8V 2011/12",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MONTANA LS 1.4 ECONOFLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -3134,8 +3176,8 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status_ml": "closed",
+      "quantidade": "-1",
       "classificacao": "06",
       "qtd_images": "8"
     },
@@ -3394,11 +3436,11 @@
     "SP12501102527035": {
       "sku": "SP12501102527035",
       "id_produto": "20802",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA JEEP RENEGADE SPORT 1.8 4X2 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
