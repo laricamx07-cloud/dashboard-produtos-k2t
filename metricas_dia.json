@@ -1,11 +1,11 @@
 {
   "data": "2026-09-17",
   "primeira_atualizacao": "17/09/2026 08:15:10",
-  "ultima_atualizacao": "17/09/2026 12:51:16",
+  "ultima_atualizacao": "17/09/2026 13:21:14",
   "total_base_dia": 69,
-  "total_atual": 90,
-  "novos_produtos": 45,
-  "total_subidos": 24,
+  "total_atual": 89,
+  "novos_produtos": 50,
+  "total_subidos": 30,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -189,6 +189,11 @@
     "SP12501123273032",
     "SP12501123613031",
     "SP12501123613033",
+    "SP12501123613034",
+    "SP12501123613035",
+    "SP12501123621032",
+    "SP12501123621033",
+    "SP12501123621034",
     "SP32501002896862",
     "SP42501001064042",
     "SP42501003164947"
@@ -238,7 +243,12 @@
     "SP12501121955040",
     "SP12501123214418",
     "SP12501123613031",
-    "SP12501123613033"
+    "SP12501123613033",
+    "SP12501123613034",
+    "SP12501123613035",
+    "SP12501123621032",
+    "SP12501123621033",
+    "SP12501123621034"
   ],
   "skus_subidos_hoje": [
     "SP12501005220049",
@@ -251,6 +261,8 @@
     "SP12501053941027",
     "SP12501053941033",
     "SP12501053941035",
+    "SP12501053941038",
+    "SP12501053941424",
     "SP12501056207024",
     "SP12501056207027",
     "SP12501056207038",
@@ -258,12 +270,16 @@
     "SP12501100672514",
     "SP12501103051045",
     "SP12501111577485",
+    "SP12501111607437",
+    "SP12501111607483",
     "SP12501116684032",
     "SP12501116773033",
     "SP12501116935035",
     "SP12501117397034",
     "SP12501117397045",
     "SP12501122340045",
+    "SP12501123613031",
+    "SP12501123613033",
     "SP32501002896862"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -277,6 +293,8 @@
     "SP12501053941027",
     "SP12501053941033",
     "SP12501053941035",
+    "SP12501053941038",
+    "SP12501053941424",
     "SP12501056207024",
     "SP12501056207027",
     "SP12501056207038",
@@ -284,12 +302,16 @@
     "SP12501100672514",
     "SP12501103051045",
     "SP12501111577485",
+    "SP12501111607437",
+    "SP12501111607483",
     "SP12501116684032",
     "SP12501116773033",
     "SP12501116935035",
     "SP12501117397034",
     "SP12501117397045",
     "SP12501122340045",
+    "SP12501123613031",
+    "SP12501123613033",
     "SP32501002896862"
   ],
   "itens_novos_hoje": [
@@ -512,11 +534,11 @@
     {
       "sku": "SP12501053941038",
       "id_produto": "21426",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO NISSAN KICKS ADVANCE 1.6 16V FLEX 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -536,11 +558,11 @@
     {
       "sku": "SP12501053941424",
       "id_produto": "21427",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA NISSAN KICKS ADVANCE 1.6 16V FLEX AUT. 2023/2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -600,7 +622,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -812,7 +834,31 @@
     {
       "sku": "SP12501123613031",
       "id_produto": "21435",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO HONDA FIT 1.4 FLEX 8V 2003/04",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123613033",
+      "id_produto": "21436",
+      "nome": "PORTA DIANTEIRA ESQUERDA HONDA FIT LX 1.4 FLEX 8V 5P 2003/04",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123613034",
+      "id_produto": "21447",
+      "nome": "PORTA TRASEIRA DIREITA",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Desabilitado",
@@ -822,15 +868,51 @@
       "qtd_images": "8"
     },
     {
-      "sku": "SP12501123613033",
-      "id_produto": "21436",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "sku": "SP12501123613035",
+      "id_produto": "21448",
+      "nome": "PORTA TRASEIRA ESQUERDA",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123621032",
+      "id_produto": "21449",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123621033",
+      "id_produto": "21450",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123621034",
+      "id_produto": "21451",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "8"
     }
   ],
@@ -956,13 +1038,37 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501053941038",
+      "id_produto": "21426",
+      "nome": "RETROVISOR ESQUERDO NISSAN KICKS ADVANCE 1.6 16V FLEX 2023",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501053941424",
+      "id_produto": "21427",
+      "nome": "MULTIMÍDIA NISSAN KICKS ADVANCE 1.6 16V FLEX AUT. 2023/2023",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501056207024",
       "id_produto": "21431",
       "nome": "MÓDULO DE INJEÇÃO RENAULT CLIO SED. PRIVILÈGE HI-FLEX 1.6 08",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1040,6 +1146,30 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501111607437",
+      "id_produto": "21406",
+      "nome": "PNEU 185/60 R15 88H PIRELLI CINTURATO P1",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111607483",
+      "id_produto": "21407",
+      "nome": "PNEU 205/50 R17 93W ITARO RADIAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501116684032",
       "id_produto": "18555",
       "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA SPIRIT 1.0 2008/2009",
@@ -1110,6 +1240,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501123613031",
+      "id_produto": "21435",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO HONDA FIT 1.4 FLEX 8V 2003/04",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123613033",
+      "id_produto": "21436",
+      "nome": "PORTA DIANTEIRA ESQUERDA HONDA FIT LX 1.4 FLEX 8V 5P 2003/04",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP32501002896862",
@@ -1464,11 +1618,11 @@
     "SP12501111607437": {
       "sku": "SP12501111607437",
       "id_produto": "21406",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 185/60 R15 88H PIRELLI CINTURATO P1",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
@@ -1548,11 +1702,11 @@
     "SP12501111607483": {
       "sku": "SP12501111607483",
       "id_produto": "21407",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "PNEU 205/50 R17 93W ITARO RADIAL",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA CD 2.0 MPFI 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
@@ -2256,11 +2410,11 @@
     "SP12501053941424": {
       "sku": "SP12501053941424",
       "id_produto": "21427",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA NISSAN KICKS ADVANCE 1.6 16V FLEX AUT. 2023/2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2296,7 +2450,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2304,11 +2458,11 @@
     "SP12501053941038": {
       "sku": "SP12501053941038",
       "id_produto": "21426",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO NISSAN KICKS ADVANCE 1.6 16V FLEX 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2388,11 +2542,11 @@
     "SP12501123613033": {
       "sku": "SP12501123613033",
       "id_produto": "21436",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA HONDA FIT LX 1.4 FLEX 8V 5P 2003/04",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2400,11 +2554,11 @@
     "SP12501123613031": {
       "sku": "SP12501123613031",
       "id_produto": "21435",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO HONDA FIT 1.4 FLEX 8V 2003/04",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2492,6 +2646,66 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    "SP12501123621032": {
+      "sku": "SP12501123621032",
+      "id_produto": "21449",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501123621033": {
+      "sku": "SP12501123621033",
+      "id_produto": "21450",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501123613035": {
+      "sku": "SP12501123613035",
+      "id_produto": "21448",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501123613034": {
+      "sku": "SP12501123613034",
+      "id_produto": "21447",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501123621034": {
+      "sku": "SP12501123621034",
+      "id_produto": "21451",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     }
   }
 }
