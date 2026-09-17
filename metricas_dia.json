@@ -1,10 +1,10 @@
 {
   "data": "2026-09-17",
   "primeira_atualizacao": "17/09/2026 08:15:10",
-  "ultima_atualizacao": "17/09/2026 10:20:57",
+  "ultima_atualizacao": "17/09/2026 10:51:04",
   "total_base_dia": 69,
-  "total_atual": 74,
-  "novos_produtos": 12,
+  "total_atual": 81,
+  "novos_produtos": 19,
   "total_subidos": 7,
   "skus_base_dia": [
     "SP12501004584032",
@@ -116,7 +116,10 @@
     "SP12501052945418",
     "SP12501053810483",
     "SP12501053810485",
+    "SP12501053941027",
     "SP12501053941031",
+    "SP12501053941033",
+    "SP12501053941035",
     "SP12501054476401",
     "SP12501057831514",
     "SP12501057858034",
@@ -127,6 +130,7 @@
     "SP12501083964039",
     "SP12501084790035",
     "SP12501088354043",
+    "SP12501089261045",
     "SP12501100672514",
     "SP12501100842007",
     "SP12501102470030",
@@ -153,7 +157,10 @@
     "SP12501116935035",
     "SP12501117397034",
     "SP12501117397045",
+    "SP12501121645032",
     "SP12501121807401",
+    "SP12501121955039",
+    "SP12501121955040",
     "SP12501122340045",
     "SP12501123273032",
     "SP32501002896862",
@@ -167,12 +174,19 @@
     "SP12501017449043",
     "SP12501041579483",
     "SP12501052945418",
+    "SP12501053941027",
     "SP12501053941031",
+    "SP12501053941033",
+    "SP12501053941035",
     "SP12501083964039",
     "SP12501088354043",
+    "SP12501089261045",
     "SP12501103272045",
     "SP12501116730045",
-    "SP12501116773032"
+    "SP12501116773032",
+    "SP12501121645032",
+    "SP12501121955039",
+    "SP12501121955040"
   ],
   "skus_subidos_hoje": [
     "SP12501005220049",
@@ -266,16 +280,52 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501053941027",
+      "id_produto": "21416",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501053941031",
       "id_produto": "21417",
       "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
       "marca": "NISSAN",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501053941033",
+      "id_produto": "21418",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053941035",
+      "id_produto": "21419",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501083964039",
@@ -300,6 +350,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501089261045",
+      "id_produto": "17127",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA SED. 1.6 8V FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501103272045",
@@ -336,6 +398,42 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501121645032",
+      "id_produto": "18199",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FASTBACK AUDACE 1.0 200 T. FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501121955039",
+      "id_produto": "15796",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "VECTRA EXPRESSION 2.0 MPFI FLEXPOWER MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501121955040",
+      "id_produto": "15797",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "VECTRA EXPRESSION 2.0 MPFI FLEXPOWER MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     }
   ],
   "itens_subidos_hoje": [
@@ -1306,7 +1404,7 @@
       "id_produto": "21417",
       "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
       "marca": "NISSAN",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -1396,6 +1494,90 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
+    },
+    "SP12501053941033": {
+      "sku": "SP12501053941033",
+      "id_produto": "21418",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501121955040": {
+      "sku": "SP12501121955040",
+      "id_produto": "15797",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "VECTRA EXPRESSION 2.0 MPFI FLEXPOWER MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP12501089261045": {
+      "sku": "SP12501089261045",
+      "id_produto": "17127",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA SED. 1.6 8V FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501053941027": {
+      "sku": "SP12501053941027",
+      "id_produto": "21416",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501053941035": {
+      "sku": "SP12501053941035",
+      "id_produto": "21419",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501121955039": {
+      "sku": "SP12501121955039",
+      "id_produto": "15796",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "VECTRA EXPRESSION 2.0 MPFI FLEXPOWER MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501121645032": {
+      "sku": "SP12501121645032",
+      "id_produto": "18199",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FASTBACK AUDACE 1.0 200 T. FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
