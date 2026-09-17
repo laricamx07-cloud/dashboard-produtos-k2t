@@ -1,11 +1,11 @@
 {
   "data": "2026-09-17",
   "primeira_atualizacao": "17/09/2026 08:15:10",
-  "ultima_atualizacao": "17/09/2026 08:51:07",
+  "ultima_atualizacao": "17/09/2026 09:21:13",
   "total_base_dia": 69,
-  "total_atual": 69,
+  "total_atual": 66,
   "novos_produtos": 2,
-  "total_subidos": 2,
+  "total_subidos": 5,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -156,11 +156,17 @@
   ],
   "skus_subidos_hoje": [
     "SP12501005220049",
-    "SP12501015292027"
+    "SP12501014059049",
+    "SP12501015144049",
+    "SP12501015292027",
+    "SP12501100672514"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501005220049",
-    "SP12501015292027"
+    "SP12501014059049",
+    "SP12501015144049",
+    "SP12501015292027",
+    "SP12501100672514"
   ],
   "itens_novos_hoje": [
     {
@@ -202,16 +208,52 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501014059049",
+      "id_produto": "17235",
+      "nome": "VOLANTE DO MOTORISTA GM ONIX HATCH LT 1.4 8V 5P ME 2012/2013",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501015144049",
+      "id_produto": "17238",
+      "nome": "VOLANTE DO MOTORISTA PEUGEOT EXPERT BUSINESS PACK 1.6 2018",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501015292027",
       "id_produto": "17036",
       "nome": "PAINEL DE INSTRUMENTOS HONDA FIT EX/S 1.5 FLEX 16V AUT 2015",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501100672514",
+      "id_produto": "20482",
+      "nome": "CHAVE DE RODAS FORD FIESTA TIT.PLUS 1.6 16V FLEX AUT. 2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -222,7 +264,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA TIT.PLUS 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -266,11 +308,11 @@
     "SP12501015144049": {
       "sku": "SP12501015144049",
       "id_produto": "17238",
-      "nome": "VOLANTE DO MOTORISTA",
-      "marca": "PGT",
+      "nome": "VOLANTE DO MOTORISTA PEUGEOT EXPERT BUSINESS PACK 1.6 2018",
+      "marca": "PEUGEOT",
       "modelo_do_veiculo": "EXPERT BUSINESS PACK 1.6 TURBO DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -546,7 +588,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -590,11 +632,11 @@
     "SP12501014059049": {
       "sku": "SP12501014059049",
       "id_produto": "17235",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA GM ONIX HATCH LT 1.4 8V 5P ME 2012/2013",
       "marca": "GM",
       "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
