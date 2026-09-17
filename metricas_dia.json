@@ -1,11 +1,11 @@
 {
   "data": "2026-09-17",
   "primeira_atualizacao": "17/09/2026 08:15:10",
-  "ultima_atualizacao": "17/09/2026 15:11:12",
+  "ultima_atualizacao": "17/09/2026 15:20:57",
   "total_base_dia": 69,
-  "total_atual": 89,
-  "novos_produtos": 60,
-  "total_subidos": 40,
+  "total_atual": 87,
+  "novos_produtos": 61,
+  "total_subidos": 43,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -163,6 +163,7 @@
     "SP12501102527035",
     "SP12501103051045",
     "SP12501103167032",
+    "SP12501103167033",
     "SP12501103272045",
     "SP12501104520032",
     "SP12501105631026",
@@ -247,6 +248,7 @@
     "SP12501102527033",
     "SP12501102527035",
     "SP12501103167032",
+    "SP12501103167033",
     "SP12501103272045",
     "SP12501116676035",
     "SP12501116730045",
@@ -289,6 +291,7 @@
     "SP12501053941038",
     "SP12501053941411",
     "SP12501053941424",
+    "SP12501054476007",
     "SP12501056207012",
     "SP12501056207024",
     "SP12501056207026",
@@ -296,6 +299,7 @@
     "SP12501056207036",
     "SP12501056207038",
     "SP12501056304010",
+    "SP12501056304024",
     "SP12501057858034",
     "SP12501100672514",
     "SP12501103051045",
@@ -310,6 +314,7 @@
     "SP12501122340045",
     "SP12501123613031",
     "SP12501123613033",
+    "SP12501123621045",
     "SP32501002896862"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -331,6 +336,7 @@
     "SP12501053941038",
     "SP12501053941411",
     "SP12501053941424",
+    "SP12501054476007",
     "SP12501056207012",
     "SP12501056207024",
     "SP12501056207026",
@@ -338,6 +344,7 @@
     "SP12501056207036",
     "SP12501056207038",
     "SP12501056304010",
+    "SP12501056304024",
     "SP12501057858034",
     "SP12501100672514",
     "SP12501103051045",
@@ -352,6 +359,7 @@
     "SP12501122340045",
     "SP12501123613031",
     "SP12501123613033",
+    "SP12501123621045",
     "SP32501002896862"
   ],
   "itens_novos_hoje": [
@@ -634,11 +642,11 @@
     {
       "sku": "SP12501054476007",
       "id_produto": "21420",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -722,7 +730,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -730,11 +738,11 @@
     {
       "sku": "SP12501056304024",
       "id_produto": "21445",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FIAT PALIO STILE 1.6 MPI 16V 4P 2000/2001",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -803,6 +811,18 @@
       "sku": "SP12501103167032",
       "id_produto": "19623",
       "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103167033",
+      "id_produto": "19624",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Desabilitado",
@@ -1066,11 +1086,11 @@
     {
       "sku": "SP12501123621045",
       "id_produto": "21457",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1294,6 +1314,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501054476007",
+      "id_produto": "21420",
+      "nome": "CAPÔ FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501056207012",
       "id_produto": "21441",
       "nome": "CONDENSADOR DO AR-CONDICIONADO RENAULT CLIO 1.6 16V 2008",
@@ -1372,10 +1404,22 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056304024",
+      "id_produto": "21445",
+      "nome": "MÓDULO DE INJEÇÃO FIAT PALIO STILE 1.6 MPI 16V 4P 2000/2001",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501057858034",
@@ -1543,6 +1587,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123621045",
+      "id_produto": "21457",
+      "nome": "TAMPA TRASEIRA FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "8"
     },
     {
@@ -2678,11 +2734,11 @@
     "SP12501054476007": {
       "sku": "SP12501054476007",
       "id_produto": "21420",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2882,11 +2938,11 @@
     "SP12501056304024": {
       "sku": "SP12501056304024",
       "id_produto": "21445",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FIAT PALIO STILE 1.6 MPI 16V 4P 2000/2001",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -2898,7 +2954,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -3002,11 +3058,11 @@
     "SP12501123621045": {
       "sku": "SP12501123621045",
       "id_produto": "21457",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3099,6 +3155,18 @@
       "sku": "SP12501103167032",
       "id_produto": "19623",
       "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501103167033": {
+      "sku": "SP12501103167033",
+      "id_produto": "19624",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
       "status": "Desabilitado",
