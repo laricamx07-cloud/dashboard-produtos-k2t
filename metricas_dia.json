@@ -1,10 +1,10 @@
 {
   "data": "2026-09-17",
   "primeira_atualizacao": "17/09/2026 08:15:10",
-  "ultima_atualizacao": "17/09/2026 11:51:22",
+  "ultima_atualizacao": "17/09/2026 12:21:26",
   "total_base_dia": 69,
-  "total_atual": 81,
-  "novos_produtos": 32,
+  "total_atual": 88,
+  "novos_produtos": 39,
   "total_subidos": 20,
   "skus_base_dia": [
     "SP12501004584032",
@@ -124,13 +124,18 @@
     "SP12501053941031",
     "SP12501053941033",
     "SP12501053941035",
+    "SP12501053941036",
     "SP12501053941037",
     "SP12501053941038",
     "SP12501053941424",
+    "SP12501054450033",
+    "SP12501054450035",
     "SP12501054476007",
     "SP12501054476401",
+    "SP12501056207012",
     "SP12501056207024",
     "SP12501056207027",
+    "SP12501056207036",
     "SP12501056207038",
     "SP12501057831514",
     "SP12501057858034",
@@ -176,6 +181,8 @@
     "SP12501122340045",
     "SP12501123214418",
     "SP12501123273032",
+    "SP12501123613031",
+    "SP12501123613033",
     "SP32501002896862",
     "SP42501001064042",
     "SP42501003164947"
@@ -195,12 +202,17 @@
     "SP12501053941031",
     "SP12501053941033",
     "SP12501053941035",
+    "SP12501053941036",
     "SP12501053941037",
     "SP12501053941038",
     "SP12501053941424",
+    "SP12501054450033",
+    "SP12501054450035",
     "SP12501054476007",
+    "SP12501056207012",
     "SP12501056207024",
     "SP12501056207027",
+    "SP12501056207036",
     "SP12501056207038",
     "SP12501083964039",
     "SP12501088354043",
@@ -212,7 +224,9 @@
     "SP12501121645032",
     "SP12501121955039",
     "SP12501121955040",
-    "SP12501123214418"
+    "SP12501123214418",
+    "SP12501123613031",
+    "SP12501123613033"
   ],
   "skus_subidos_hoje": [
     "SP12501005220049",
@@ -428,6 +442,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501053941036",
+      "id_produto": "21439",
+      "nome": "RADIADOR",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501053941037",
       "id_produto": "21425",
       "nome": "RETROVISOR DIREITO",
@@ -464,6 +490,30 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501054450033",
+      "id_produto": "21429",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501054450035",
+      "id_produto": "21430",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501054476007",
       "id_produto": "21420",
       "nome": "CAPÔ",
@@ -474,6 +524,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056207012",
+      "id_produto": "21441",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501056207024",
@@ -498,6 +560,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056207036",
+      "id_produto": "21443",
+      "nome": "RADIADOR",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501056207038",
@@ -642,6 +716,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501123613031",
+      "id_produto": "21435",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123613033",
+      "id_produto": "21436",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     }
   ],
   "itens_subidos_hoje": [
@@ -2098,6 +2196,90 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
+    },
+    "SP12501053941036": {
+      "sku": "SP12501053941036",
+      "id_produto": "21439",
+      "nome": "RADIADOR",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501056207012": {
+      "sku": "SP12501056207012",
+      "id_produto": "21441",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501054450033": {
+      "sku": "SP12501054450033",
+      "id_produto": "21429",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501056207036": {
+      "sku": "SP12501056207036",
+      "id_produto": "21443",
+      "nome": "RADIADOR",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501123613033": {
+      "sku": "SP12501123613033",
+      "id_produto": "21436",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501123613031": {
+      "sku": "SP12501123613031",
+      "id_produto": "21435",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501054450035": {
+      "sku": "SP12501054450035",
+      "id_produto": "21430",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     }
   }
 }
