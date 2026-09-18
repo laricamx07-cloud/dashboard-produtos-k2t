@@ -1,10 +1,10 @@
 {
   "data": "2026-09-18",
   "primeira_atualizacao": "18/09/2026 08:16:55",
-  "ultima_atualizacao": "18/09/2026 08:16:55",
+  "ultima_atualizacao": "18/09/2026 08:21:57",
   "total_base_dia": 72,
-  "total_atual": 72,
-  "novos_produtos": 0,
+  "total_atual": 73,
+  "novos_produtos": 1,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004584032",
@@ -120,6 +120,7 @@
     "SP12501054450035",
     "SP12501054476401",
     "SP12501057831514",
+    "SP12501079940035",
     "SP12501079959400",
     "SP12501080353034",
     "SP12501080353035",
@@ -154,10 +155,25 @@
     "SP42501001064042",
     "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501079940035"
+  ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501079940035",
+      "id_produto": "21024",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "IDEA ELX 1.4 MPI FIRE FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    }
+  ],
   "itens_subidos_hoje": [],
   "detalhes_skus_vistos_hoje": {
     "SP12501079959400": {
@@ -1023,6 +1039,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "8"
+    },
+    "SP12501079940035": {
+      "sku": "SP12501079940035",
+      "id_produto": "21024",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "IDEA ELX 1.4 MPI FIRE FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
