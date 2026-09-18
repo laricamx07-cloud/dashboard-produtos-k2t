@@ -1,11 +1,11 @@
 {
   "data": "2026-09-18",
   "primeira_atualizacao": "18/09/2026 08:16:55",
-  "ultima_atualizacao": "18/09/2026 09:21:31",
+  "ultima_atualizacao": "18/09/2026 09:33:30",
   "total_base_dia": 72,
-  "total_atual": 69,
-  "novos_produtos": 5,
-  "total_subidos": 8,
+  "total_atual": 68,
+  "novos_produtos": 7,
+  "total_subidos": 11,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -121,6 +121,8 @@
     "SP12501054476401",
     "SP12501056290007",
     "SP12501056290033",
+    "SP12501056290034",
+    "SP12501056290035",
     "SP12501057831514",
     "SP12501079940035",
     "SP12501079959400",
@@ -162,27 +164,35 @@
   "skus_novos_hoje": [
     "SP12501056290007",
     "SP12501056290033",
+    "SP12501056290034",
+    "SP12501056290035",
     "SP12501079940035",
     "SP12501087285045",
     "SP12501111658034"
   ],
   "skus_subidos_hoje": [
     "SP12501010517024",
+    "SP12501014075049",
+    "SP12501015357049",
     "SP12501016728024",
     "SP12501053941040",
     "SP12501057831514",
     "SP12501103426411",
     "SP12501117389013",
+    "SP12501117389497",
     "SP12501121955039",
     "SP12501123613028"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501010517024",
+    "SP12501014075049",
+    "SP12501015357049",
     "SP12501016728024",
     "SP12501053941040",
     "SP12501057831514",
     "SP12501103426411",
     "SP12501117389013",
+    "SP12501117389497",
     "SP12501121955039",
     "SP12501123613028"
   ],
@@ -210,6 +220,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501056290034",
+      "id_produto": "21471",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056290035",
+      "id_produto": "21472",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501079940035",
@@ -259,6 +293,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501014075049",
+      "id_produto": "17236",
+      "nome": "VOLANTE DO MOTORISTA Chevrolet ONIX HATCH LTZ 1.0 12V 22/23",
+      "marca": "Chevrolet",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501015357049",
+      "id_produto": "17037",
+      "nome": "VOLANTE DO MOTORISTA FIAT FASTBACK ABARTH TURBO 1.3 23/24",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FASTBACK ABARTH TURBO FLEX 1.3 AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "6"
     },
     {
@@ -319,6 +377,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501117389497",
+      "id_produto": "21464",
+      "nome": "CONSOLE CENTRAL DIANTEIRO VOLKSWAGEN AMAROK 3.0 2021/2022",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "AMAROK EXTREME CD 3.0 4X4 TB DIES. AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "8"
     },
     {
@@ -386,11 +456,11 @@
     "SP12501117389497": {
       "sku": "SP12501117389497",
       "id_produto": "21464",
-      "nome": "CONSOLE CENTRAL DIANTEIRO",
+      "nome": "CONSOLE CENTRAL DIANTEIRO VOLKSWAGEN AMAROK 3.0 2021/2022",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "AMAROK EXTREME CD 3.0 4X4 TB DIES. AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -602,11 +672,11 @@
     "SP12501015357049": {
       "sku": "SP12501015357049",
       "id_produto": "17037",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA FIAT FASTBACK ABARTH TURBO 1.3 23/24",
       "marca": "FIAT",
       "modelo_do_veiculo": "FASTBACK ABARTH TURBO FLEX 1.3 AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -782,11 +852,11 @@
     "SP12501014075049": {
       "sku": "SP12501014075049",
       "id_produto": "17236",
-      "nome": "VOLANTE DO MOTORISTA",
-      "marca": "GM",
+      "nome": "VOLANTE DO MOTORISTA Chevrolet ONIX HATCH LTZ 1.0 12V 22/23",
+      "marca": "Chevrolet",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.0 12V TB FLEX 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1270,6 +1340,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    "SP12501056290035": {
+      "sku": "SP12501056290035",
+      "id_produto": "21472",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501056290034": {
+      "sku": "SP12501056290034",
+      "id_produto": "21471",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
