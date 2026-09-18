@@ -1,11 +1,11 @@
 {
   "data": "2026-09-18",
   "primeira_atualizacao": "18/09/2026 08:16:55",
-  "ultima_atualizacao": "18/09/2026 08:51:22",
+  "ultima_atualizacao": "18/09/2026 09:21:31",
   "total_base_dia": 72,
-  "total_atual": 72,
-  "novos_produtos": 2,
-  "total_subidos": 2,
+  "total_atual": 69,
+  "novos_produtos": 5,
+  "total_subidos": 8,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -119,6 +119,8 @@
     "SP12501053941040",
     "SP12501054450035",
     "SP12501054476401",
+    "SP12501056290007",
+    "SP12501056290033",
     "SP12501057831514",
     "SP12501079940035",
     "SP12501079959400",
@@ -144,6 +146,7 @@
     "SP12501111593040",
     "SP12501111593041",
     "SP12501111631045",
+    "SP12501111658034",
     "SP12501116757033",
     "SP12501117389013",
     "SP12501117389497",
@@ -157,18 +160,57 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501056290007",
+    "SP12501056290033",
     "SP12501079940035",
-    "SP12501087285045"
+    "SP12501087285045",
+    "SP12501111658034"
   ],
   "skus_subidos_hoje": [
     "SP12501010517024",
-    "SP12501057831514"
+    "SP12501016728024",
+    "SP12501053941040",
+    "SP12501057831514",
+    "SP12501103426411",
+    "SP12501117389013",
+    "SP12501121955039",
+    "SP12501123613028"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501010517024",
-    "SP12501057831514"
+    "SP12501016728024",
+    "SP12501053941040",
+    "SP12501057831514",
+    "SP12501103426411",
+    "SP12501117389013",
+    "SP12501121955039",
+    "SP12501123613028"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501056290007",
+      "id_produto": "21468",
+      "nome": "CAPÔ",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056290033",
+      "id_produto": "21470",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
     {
       "sku": "SP12501079940035",
       "id_produto": "21024",
@@ -192,6 +234,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111658034",
+      "id_produto": "21473",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -208,6 +262,30 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501016728024",
+      "id_produto": "18893",
+      "nome": "MÓDULO DE INJEÇÃO JEEP COMMANDER LIMITED TD380 2.0 4X4 21/22",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501053941040",
+      "id_produto": "21461",
+      "nome": "RODA DE LIGA LEVE ARO 17 4 FUROS NISSAN KICKS",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501057831514",
       "id_produto": "13994",
       "nome": "CHAVE DE RODAS FIAT TORO FREEDOM 1.3 T270 4X2 2024/2024",
@@ -218,6 +296,54 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103426411",
+      "id_produto": "21466",
+      "nome": "ELETROVENTILADOR HONDA FIT LX 1.4 FLEX 8V 5P MEC. 2004/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501117389013",
+      "id_produto": "21465",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO VOLKSWAGEN AMAROK 3.0 21/22",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "AMAROK EXTREME CD 3.0 4X4 TB DIES. AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501121955039",
+      "id_produto": "15796",
+      "nome": "RODA LIGA LEVE ARO 19 4 FUROS CHEVROLET VECTRA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "VECTRA EXPRESSION 2.0 MPFI FLEXPOWER MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501123613028",
+      "id_produto": "21463",
+      "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT LX 1.4 FLEX 8V 5P 2003/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "8"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -344,11 +470,11 @@
     "SP12501016728024": {
       "sku": "SP12501016728024",
       "id_produto": "18893",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO JEEP COMMANDER LIMITED TD380 2.0 4X4 21/22",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -536,11 +662,11 @@
     "SP12501123613028": {
       "sku": "SP12501123613028",
       "id_produto": "21463",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT LX 1.4 FLEX 8V 5P 2003/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "8"
@@ -800,11 +926,11 @@
     "SP12501117389013": {
       "sku": "SP12501117389013",
       "id_produto": "21465",
-      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO VOLKSWAGEN AMAROK 3.0 21/22",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "AMAROK EXTREME CD 3.0 4X4 TB DIES. AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -956,11 +1082,11 @@
     "SP12501053941040": {
       "sku": "SP12501053941040",
       "id_produto": "21461",
-      "nome": "RODA DIANTEIRA ESQUERDA",
+      "nome": "RODA DE LIGA LEVE ARO 17 4 FUROS NISSAN KICKS",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -968,11 +1094,11 @@
     "SP12501121955039": {
       "sku": "SP12501121955039",
       "id_produto": "15796",
-      "nome": "RODA DIANTEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 19 4 FUROS CHEVROLET VECTRA",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "VECTRA EXPRESSION 2.0 MPFI FLEXPOWER MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1040,11 +1166,11 @@
     "SP12501103426411": {
       "sku": "SP12501103426411",
       "id_produto": "21466",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR HONDA FIT LX 1.4 FLEX 8V 5P MEC. 2004/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1108,6 +1234,42 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    "SP12501056290007": {
+      "sku": "SP12501056290007",
+      "id_produto": "21468",
+      "nome": "CAPÔ",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501111658034": {
+      "sku": "SP12501111658034",
+      "id_produto": "21473",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501056290033": {
+      "sku": "SP12501056290033",
+      "id_produto": "21470",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     }
   }
 }
