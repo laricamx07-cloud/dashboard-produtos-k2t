@@ -1,11 +1,11 @@
 {
   "data": "2026-09-18",
   "primeira_atualizacao": "18/09/2026 08:16:55",
-  "ultima_atualizacao": "18/09/2026 09:51:46",
+  "ultima_atualizacao": "18/09/2026 10:23:27",
   "total_base_dia": 72,
-  "total_atual": 69,
+  "total_atual": 68,
   "novos_produtos": 8,
-  "total_subidos": 11,
+  "total_subidos": 12,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -179,6 +179,7 @@
     "SP12501016728024",
     "SP12501053941040",
     "SP12501057831514",
+    "SP12501103370400",
     "SP12501103426411",
     "SP12501117389013",
     "SP12501117389497",
@@ -192,6 +193,7 @@
     "SP12501016728024",
     "SP12501053941040",
     "SP12501057831514",
+    "SP12501103370400",
     "SP12501103426411",
     "SP12501117389013",
     "SP12501117389497",
@@ -368,6 +370,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103370400",
+      "id_produto": "21467",
+      "nome": "MOTOR COMPLETO FORD KA GL 1.0I ZETEC ROCAM 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103426411",
@@ -794,11 +808,11 @@
     "SP12501103370400": {
       "sku": "SP12501103370400",
       "id_produto": "21467",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FORD KA GL 1.0I ZETEC ROCAM 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
