@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 16:21:01",
+  "ultima_atualizacao": "21/09/2026 16:47:11",
   "total_base_dia": 139,
-  "total_atual": 84,
-  "novos_produtos": 41,
-  "total_subidos": 96,
+  "total_atual": 81,
+  "novos_produtos": 43,
+  "total_subidos": 101,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -156,6 +156,7 @@
     "SP12501005262024",
     "SP12501005300033",
     "SP12501005300035",
+    "SP12501009586011",
     "SP12501009713035",
     "SP12501009730035",
     "SP12501009802034",
@@ -235,6 +236,7 @@
     "SP12501056290026",
     "SP12501056290031",
     "SP12501056290036",
+    "SP12501056290400",
     "SP12501056290411",
     "SP12501056304004",
     "SP12501056304400",
@@ -330,6 +332,7 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501009586011",
     "SP12501041498031",
     "SP12501053828010",
     "SP12501053828011",
@@ -354,6 +357,7 @@
     "SP12501056290004",
     "SP12501056290026",
     "SP12501056290036",
+    "SP12501056290400",
     "SP12501056290411",
     "SP12501056304004",
     "SP12501056304400",
@@ -390,12 +394,17 @@
     "SP12501053828011",
     "SP12501053941039",
     "SP12501053941041",
+    "SP12501053941042",
+    "SP12501053941049",
+    "SP12501053950010",
     "SP12501053950026",
+    "SP12501053950400",
     "SP12501053950437",
     "SP12501053950448",
     "SP12501053950449",
     "SP12501053950483",
     "SP12501054352010",
+    "SP12501054450032",
     "SP12501054476401",
     "SP12501055197004",
     "SP12501055197030",
@@ -488,12 +497,17 @@
     "SP12501053828011",
     "SP12501053941039",
     "SP12501053941041",
+    "SP12501053941042",
+    "SP12501053941049",
+    "SP12501053950010",
     "SP12501053950026",
+    "SP12501053950400",
     "SP12501053950437",
     "SP12501053950448",
     "SP12501053950449",
     "SP12501053950483",
     "SP12501054352010",
+    "SP12501054450032",
     "SP12501054476401",
     "SP12501055197004",
     "SP12501055197030",
@@ -570,6 +584,18 @@
   ],
   "itens_novos_hoje": [
     {
+      "sku": "SP12501009586011",
+      "id_produto": "19149",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 1.0M COMFOR",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501041498031",
       "id_produto": "21586",
       "nome": "PARA-LAMA DIANTEIRO ESQUERDO VOLKSWAGEN FOX PLUS 1.6MI 2005",
@@ -620,11 +646,11 @@
     {
       "sku": "SP12501053941042",
       "id_produto": "21590",
-      "nome": "RODA TRASEIRA ESQUERDA",
+      "nome": "RODA LIGA LEVE ARO 17 4 FUROS NISSAN KICKS ADVANCE",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -644,11 +670,11 @@
     {
       "sku": "SP12501053941049",
       "id_produto": "21592",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA NISSAN KICKS ADVANCE 1.6 16V 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -656,11 +682,11 @@
     {
       "sku": "SP12501053950010",
       "id_produto": "21593",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2004/2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -668,11 +694,11 @@
     {
       "sku": "SP12501053950400",
       "id_produto": "21594",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2004/2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -680,11 +706,11 @@
     {
       "sku": "SP12501054450032",
       "id_produto": "21595",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FORD ECOSPORT XLS 1.6 2006",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -826,7 +852,7 @@
       "id_produto": "21644",
       "nome": "CÂMBIO MANUAL",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -856,6 +882,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056290400",
+      "id_produto": "21645",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501056290411",
@@ -1081,9 +1119,9 @@
       "nome": "MÓDULO INJEÇÃO VOLKSWAGEN SPACECROSS 1.6 MI FLEX 8V 2011/12",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACECROSS 1.6 MI TOTAL FLEX 8V",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": "closed",
-      "quantidade": "-1",
+      "quantidade": "0",
       "classificacao": "07",
       "qtd_images": "7"
     },
@@ -1268,6 +1306,42 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501053941042",
+      "id_produto": "21590",
+      "nome": "RODA LIGA LEVE ARO 17 4 FUROS NISSAN KICKS ADVANCE",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501053941049",
+      "id_produto": "21592",
+      "nome": "VOLANTE DO MOTORISTA NISSAN KICKS ADVANCE 1.6 16V 2023",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501053950010",
+      "id_produto": "21593",
+      "nome": "CHAVE DE SETA CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2004/2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501053950026",
       "id_produto": "21557",
       "nome": "MOTOR DE PARTIDA CHEVROLET CELTA 1.0 8V 2004/2005",
@@ -1278,6 +1352,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501053950400",
+      "id_produto": "21594",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2004/2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501053950437",
@@ -1338,6 +1424,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501054450032",
+      "id_produto": "21595",
+      "nome": "PORTA DIANTEIRA DIREITA FORD ECOSPORT XLS 1.6 2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501054476401",
@@ -2955,9 +3053,9 @@
       "nome": "MÓDULO INJEÇÃO VOLKSWAGEN SPACECROSS 1.6 MI FLEX 8V 2011/12",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACECROSS 1.6 MI TOTAL FLEX 8V",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": "closed",
-      "quantidade": "-1",
+      "quantidade": "0",
       "classificacao": "07",
       "qtd_images": "7"
     },
@@ -4092,11 +4190,11 @@
     "SP12501053950400": {
       "sku": "SP12501053950400",
       "id_produto": "21594",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2004/2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -4116,11 +4214,11 @@
     "SP12501053941049": {
       "sku": "SP12501053941049",
       "id_produto": "21592",
-      "nome": "VOLANTE DO MOTORISTA",
+      "nome": "VOLANTE DO MOTORISTA NISSAN KICKS ADVANCE 1.6 16V 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -4140,11 +4238,11 @@
     "SP12501053950010": {
       "sku": "SP12501053950010",
       "id_produto": "21593",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2004/2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -4188,11 +4286,11 @@
     "SP12501053941042": {
       "sku": "SP12501053941042",
       "id_produto": "21590",
-      "nome": "RODA TRASEIRA ESQUERDA",
+      "nome": "RODA LIGA LEVE ARO 17 4 FUROS NISSAN KICKS ADVANCE",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -4308,11 +4406,11 @@
     "SP12501054450032": {
       "sku": "SP12501054450032",
       "id_produto": "21595",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FORD ECOSPORT XLS 1.6 2006",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -4358,7 +4456,7 @@
       "id_produto": "21644",
       "nome": "CÂMBIO MANUAL",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -4376,6 +4474,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    "SP12501056290400": {
+      "sku": "SP12501056290400",
+      "id_produto": "21645",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501009586011": {
+      "sku": "SP12501009586011",
+      "id_produto": "19149",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 1.0M COMFOR",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
