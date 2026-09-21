@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 08:21:50",
+  "ultima_atualizacao": "21/09/2026 08:47:35",
   "total_base_dia": 139,
-  "total_atual": 139,
+  "total_atual": 138,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 1,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -289,10 +289,27 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501005130028"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501005130028"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501005130028",
+      "id_produto": "21016",
+      "nome": "PARA-CHOQUE DIANTEIRO FIAT TORO 1.8 16V FLEX AUT 2018/2019",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO FREEDOM 1.8 16V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501103175585": {
       "sku": "SP12501103175585",
@@ -1605,11 +1622,11 @@
     "SP12501005130028": {
       "sku": "SP12501005130028",
       "id_produto": "21016",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO FIAT TORO 1.8 16V FLEX AUT 2018/2019",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO FREEDOM 1.8 16V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1665,10 +1682,10 @@
     "SP12501054352010": {
       "sku": "SP12501054352010",
       "id_produto": "21570",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA HYUNDAI HB20 R SPEC 1.6 FLEX 16V MEC. 2015/16",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 R SPEC 1.6 FLEX 16V MEC.",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
