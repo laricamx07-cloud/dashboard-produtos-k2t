@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 10:17:14",
+  "ultima_atualizacao": "21/09/2026 10:21:06",
   "total_base_dia": 139,
-  "total_atual": 129,
-  "novos_produtos": 8,
-  "total_subidos": 18,
+  "total_atual": 132,
+  "novos_produtos": 12,
+  "total_subidos": 19,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -191,6 +191,7 @@
     "SP12501053801032",
     "SP12501053801036",
     "SP12501053941039",
+    "SP12501053941041",
     "SP12501053950026",
     "SP12501053950437",
     "SP12501053950448",
@@ -208,6 +209,7 @@
     "SP12501055200045",
     "SP12501055200448",
     "SP12501056207004",
+    "SP12501056207040",
     "SP12501056207437",
     "SP12501056207483",
     "SP12501056290001",
@@ -247,10 +249,12 @@
     "SP12501109548045",
     "SP12501111534040",
     "SP12501111534041",
+    "SP12501111534043",
     "SP12501111593034",
     "SP12501111593039",
     "SP12501111593040",
     "SP12501111593041",
+    "SP12501111607004",
     "SP12501111607400",
     "SP12501111631045",
     "SP12501116676011",
@@ -297,6 +301,8 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501053941041",
+    "SP12501056207040",
     "SP12501056290001",
     "SP12501056290026",
     "SP12501056290036",
@@ -304,6 +310,8 @@
     "SP12501056304400",
     "SP12501111534040",
     "SP12501111534041",
+    "SP12501111534043",
+    "SP12501111607004",
     "SP12501111607400"
   ],
   "skus_subidos_hoje": [
@@ -320,6 +328,7 @@
     "SP12501055200038",
     "SP12501055200045",
     "SP12501055200448",
+    "SP12501056207437",
     "SP12501056290031",
     "SP12501079924029",
     "SP12501080108035",
@@ -340,6 +349,7 @@
     "SP12501055200038",
     "SP12501055200045",
     "SP12501055200448",
+    "SP12501056207437",
     "SP12501056290031",
     "SP12501079924029",
     "SP12501080108035",
@@ -347,6 +357,30 @@
     "SP12501111631045"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501053941041",
+      "id_produto": "21589",
+      "nome": "RODA TRASEIRA DIREITA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056207040",
+      "id_produto": "21601",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501056290001",
       "id_produto": "21579",
@@ -430,6 +464,30 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111534043",
+      "id_produto": "21615",
+      "nome": "RODA SOBRES./ESTEPE",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111607004",
+      "id_produto": "21619",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501111607400",
@@ -536,7 +594,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -600,6 +658,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501056207437",
+      "id_produto": "21480",
+      "nome": "PNEU 185/70 R14 88H ITARO STREET-H MH01",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501056290031",
@@ -1102,7 +1172,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -2058,11 +2128,11 @@
     "SP12501056207437": {
       "sku": "SP12501056207437",
       "id_produto": "21480",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 185/70 R14 88H ITARO STREET-H MH01",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2118,10 +2188,10 @@
     "SP12501055200026": {
       "sku": "SP12501055200026",
       "id_produto": "21563",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CELTA 1.0 MPFI VHC 8V 2000/2001",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
@@ -2419,6 +2489,54 @@
       "sku": "SP12501111534041",
       "id_produto": "21613",
       "nome": "RODA TRASEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501111607004": {
+      "sku": "SP12501111607004",
+      "id_produto": "21619",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501053941041": {
+      "sku": "SP12501053941041",
+      "id_produto": "21589",
+      "nome": "RODA TRASEIRA DIREITA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501056207040": {
+      "sku": "SP12501056207040",
+      "id_produto": "21601",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501111534043": {
+      "sku": "SP12501111534043",
+      "id_produto": "21615",
+      "nome": "RODA SOBRES./ESTEPE",
       "marca": "FORD",
       "modelo_do_veiculo": null,
       "status": "Desabilitado",
