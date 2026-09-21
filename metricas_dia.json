@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 09:51:00",
+  "ultima_atualizacao": "21/09/2026 10:17:14",
   "total_base_dia": 139,
-  "total_atual": 130,
-  "novos_produtos": 4,
-  "total_subidos": 13,
+  "total_atual": 129,
+  "novos_produtos": 8,
+  "total_subidos": 18,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -215,6 +215,7 @@
     "SP12501056290031",
     "SP12501056290036",
     "SP12501056290411",
+    "SP12501056304400",
     "SP12501079924029",
     "SP12501079959400",
     "SP12501080108035",
@@ -244,10 +245,13 @@
     "SP12501109289014",
     "SP12501109521034",
     "SP12501109548045",
+    "SP12501111534040",
+    "SP12501111534041",
     "SP12501111593034",
     "SP12501111593039",
     "SP12501111593040",
     "SP12501111593041",
+    "SP12501111607400",
     "SP12501111631045",
     "SP12501116676011",
     "SP12501116676400",
@@ -296,14 +300,23 @@
     "SP12501056290001",
     "SP12501056290026",
     "SP12501056290036",
-    "SP12501056290411"
+    "SP12501056290411",
+    "SP12501056304400",
+    "SP12501111534040",
+    "SP12501111534041",
+    "SP12501111607400"
   ],
   "skus_subidos_hoje": [
     "SP12501005130028",
     "SP12501041919033",
     "SP12501042095029",
     "SP12501053941039",
+    "SP12501053950437",
+    "SP12501053950483",
     "SP12501054352010",
+    "SP12501055200030",
+    "SP12501055200031",
+    "SP12501055200037",
     "SP12501055200038",
     "SP12501055200045",
     "SP12501055200448",
@@ -318,7 +331,12 @@
     "SP12501041919033",
     "SP12501042095029",
     "SP12501053941039",
+    "SP12501053950437",
+    "SP12501053950483",
     "SP12501054352010",
+    "SP12501055200030",
+    "SP12501055200031",
+    "SP12501055200037",
     "SP12501055200038",
     "SP12501055200045",
     "SP12501055200448",
@@ -376,6 +394,54 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056304400",
+      "id_produto": "21609",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111534040",
+      "id_produto": "21612",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111534041",
+      "id_produto": "21613",
+      "nome": "RODA TRASEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111607400",
+      "id_produto": "21624",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -428,6 +494,30 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501053950437",
+      "id_produto": "21478",
+      "nome": "PNEU 175/65 R14 82H DOUBLESTAR MAXIMUM DH05",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501053950483",
+      "id_produto": "21479",
+      "nome": "PNEU 175/65 R14 82H DOUBLESTAR MAXIMUM DH05",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501054352010",
       "id_produto": "21570",
       "nome": "CHAVE DE SETA HYUNDAI HB20 R SPEC 1.6 FLEX 16V MEC. 2015/16",
@@ -438,6 +528,42 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501055200030",
+      "id_produto": "21564",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CHEVROLET CELTA 1.0 2000/2001",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501055200031",
+      "id_produto": "21565",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO CHEVROLET CELTA 1.0 2000/2001",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501055200037",
+      "id_produto": "21566",
+      "nome": "RETROVISOR DIREITO CHEVROLET CELTA 1.0 MPFI VHC 2000/2001",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501055200038",
@@ -482,7 +608,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -660,11 +786,11 @@
     "SP12501053950483": {
       "sku": "SP12501053950483",
       "id_produto": "21479",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "PNEU 175/65 R14 82H DOUBLESTAR MAXIMUM DH05",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -700,7 +826,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -972,11 +1098,11 @@
     "SP12501055200030": {
       "sku": "SP12501055200030",
       "id_produto": "21564",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CHEVROLET CELTA 1.0 2000/2001",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1008,11 +1134,11 @@
     "SP12501055200037": {
       "sku": "SP12501055200037",
       "id_produto": "21566",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO CHEVROLET CELTA 1.0 MPFI VHC 2000/2001",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1128,11 +1254,11 @@
     "SP12501055200031": {
       "sku": "SP12501055200031",
       "id_produto": "21565",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO CHEVROLET CELTA 1.0 2000/2001",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1392,11 +1518,11 @@
     "SP12501053950437": {
       "sku": "SP12501053950437",
       "id_produto": "21478",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 175/65 R14 82H DOUBLESTAR MAXIMUM DH05",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2252,6 +2378,54 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    "SP12501111607400": {
+      "sku": "SP12501111607400",
+      "id_produto": "21624",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501111534040": {
+      "sku": "SP12501111534040",
+      "id_produto": "21612",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501056304400": {
+      "sku": "SP12501056304400",
+      "id_produto": "21609",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501111534041": {
+      "sku": "SP12501111534041",
+      "id_produto": "21613",
+      "nome": "RODA TRASEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     }
   }
 }
