@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 16:51:10",
+  "ultima_atualizacao": "21/09/2026 17:17:29",
   "total_base_dia": 139,
-  "total_atual": 81,
-  "novos_produtos": 43,
-  "total_subidos": 101,
+  "total_atual": 76,
+  "novos_produtos": 44,
+  "total_subidos": 107,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -234,6 +234,7 @@
     "SP12501056290001",
     "SP12501056290004",
     "SP12501056290026",
+    "SP12501056290027",
     "SP12501056290031",
     "SP12501056290036",
     "SP12501056290400",
@@ -356,6 +357,7 @@
     "SP12501056290001",
     "SP12501056290004",
     "SP12501056290026",
+    "SP12501056290027",
     "SP12501056290036",
     "SP12501056290400",
     "SP12501056290411",
@@ -379,6 +381,7 @@
   "skus_subidos_hoje": [
     "SP12501005130028",
     "SP12501005262024",
+    "SP12501009586011",
     "SP12501041498031",
     "SP12501041897027",
     "SP12501041919033",
@@ -405,6 +408,7 @@
     "SP12501053950483",
     "SP12501054352010",
     "SP12501054450032",
+    "SP12501054450045",
     "SP12501054476401",
     "SP12501055197004",
     "SP12501055197030",
@@ -414,14 +418,18 @@
     "SP12501055200037",
     "SP12501055200038",
     "SP12501055200045",
+    "SP12501055200400",
     "SP12501055200448",
     "SP12501056207004",
     "SP12501056207437",
+    "SP12501056207448",
     "SP12501056207483",
     "SP12501056231007",
     "SP12501056290001",
+    "SP12501056290004",
     "SP12501056290031",
     "SP12501056290036",
+    "SP12501056290400",
     "SP12501056290411",
     "SP12501079924029",
     "SP12501080108035",
@@ -482,6 +490,7 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501005130028",
     "SP12501005262024",
+    "SP12501009586011",
     "SP12501041498031",
     "SP12501041897027",
     "SP12501041919033",
@@ -508,6 +517,7 @@
     "SP12501053950483",
     "SP12501054352010",
     "SP12501054450032",
+    "SP12501054450045",
     "SP12501054476401",
     "SP12501055197004",
     "SP12501055197030",
@@ -517,14 +527,18 @@
     "SP12501055200037",
     "SP12501055200038",
     "SP12501055200045",
+    "SP12501055200400",
     "SP12501055200448",
     "SP12501056207004",
     "SP12501056207437",
+    "SP12501056207448",
     "SP12501056207483",
     "SP12501056231007",
     "SP12501056290001",
+    "SP12501056290004",
     "SP12501056290031",
     "SP12501056290036",
+    "SP12501056290400",
     "SP12501056290411",
     "SP12501079924029",
     "SP12501080108035",
@@ -586,11 +600,11 @@
     {
       "sku": "SP12501009586011",
       "id_produto": "19149",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HYUNDAI HB20 1.0",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 1.0M COMFOR",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -674,7 +688,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -730,11 +744,11 @@
     {
       "sku": "SP12501054450045",
       "id_produto": "21597",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA FORD ECOSPORT XLS 1.6 2006",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -742,11 +756,11 @@
     {
       "sku": "SP12501055200400",
       "id_produto": "21598",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 3P 2000/2001",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -790,11 +804,11 @@
     {
       "sku": "SP12501056207448",
       "id_produto": "21602",
-      "nome": "SEMI-EIXO DIANTEIRO DIREITO",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO RENAULT CLIO SED 1.6 16V 4P 2008",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -850,11 +864,11 @@
     {
       "sku": "SP12501056290004",
       "id_produto": "21644",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -872,6 +886,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501056290027",
+      "id_produto": "21649",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501056290036",
       "id_produto": "21581",
       "nome": "RADIADOR FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
@@ -886,11 +912,11 @@
     {
       "sku": "SP12501056290400",
       "id_produto": "21645",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1126,6 +1152,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501009586011",
+      "id_produto": "19149",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HYUNDAI HB20 1.0",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 1.0M COMFOR",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501041498031",
       "id_produto": "21586",
       "nome": "PARA-LAMA DIANTEIRO ESQUERDO VOLKSWAGEN FOX PLUS 1.6MI 2005",
@@ -1324,7 +1362,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1429,6 +1467,18 @@
       "sku": "SP12501054450032",
       "id_produto": "21595",
       "nome": "PORTA DIANTEIRA DIREITA FORD ECOSPORT XLS 1.6 2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501054450045",
+      "id_produto": "21597",
+      "nome": "TAMPA TRASEIRA FORD ECOSPORT XLS 1.6 2006",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6",
       "status": "Habilitado",
@@ -1546,6 +1596,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501055200400",
+      "id_produto": "21598",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 3P 2000/2001",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501055200448",
       "id_produto": "21569",
       "nome": "SEMI-EIXO DIANTEIRO DIREITO CHEVROLET CELTA 1.0 MPFI 2000/01",
@@ -1580,6 +1642,18 @@
       "quantidade": "0",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501056207448",
+      "id_produto": "21602",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO RENAULT CLIO SED 1.6 16V 4P 2008",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501056207483",
@@ -1618,6 +1692,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501056290004",
+      "id_produto": "21644",
+      "nome": "CÂMBIO MANUAL FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501056290031",
       "id_produto": "21477",
       "nome": "PARA-LAMA DIANTEIRO ESQUERDO FORD FIESTA 1.0 8V FLEX 2007/08",
@@ -1640,6 +1726,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056290400",
+      "id_produto": "21645",
+      "nome": "MOTOR COMPLETO FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501056290411",
@@ -4130,11 +4228,11 @@
     "SP12501056207448": {
       "sku": "SP12501056207448",
       "id_produto": "21602",
-      "nome": "SEMI-EIXO DIANTEIRO DIREITO",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO RENAULT CLIO SED 1.6 16V 4P 2008",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -4218,7 +4316,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -4226,11 +4324,11 @@
     "SP12501055200400": {
       "sku": "SP12501055200400",
       "id_produto": "21598",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 3P 2000/2001",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -4394,11 +4492,11 @@
     "SP12501054450045": {
       "sku": "SP12501054450045",
       "id_produto": "21597",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA FORD ECOSPORT XLS 1.6 2006",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -4454,11 +4552,11 @@
     "SP12501056290004": {
       "sku": "SP12501056290004",
       "id_produto": "21644",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -4478,11 +4576,11 @@
     "SP12501056290400": {
       "sku": "SP12501056290400",
       "id_produto": "21645",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -4490,14 +4588,26 @@
     "SP12501009586011": {
       "sku": "SP12501009586011",
       "id_produto": "19149",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HYUNDAI HB20 1.0",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 1.0M COMFOR",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501056290027": {
+      "sku": "SP12501056290027",
+      "id_produto": "21649",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     }
   }
 }
