@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 11:47:23",
+  "ultima_atualizacao": "21/09/2026 11:51:11",
   "total_base_dia": 139,
-  "total_atual": 128,
+  "total_atual": 127,
   "novos_produtos": 38,
-  "total_subidos": 49,
+  "total_subidos": 50,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -411,6 +411,7 @@
     "SP12501116676011",
     "SP12501116676400",
     "SP12501116676480",
+    "SP12501116684004",
     "SP12501117397036",
     "SP12501117672004",
     "SP12501117672013",
@@ -462,6 +463,7 @@
     "SP12501116676011",
     "SP12501116676400",
     "SP12501116676480",
+    "SP12501116684004",
     "SP12501117397036",
     "SP12501117672004",
     "SP12501117672013",
@@ -1454,6 +1456,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501116684004",
+      "id_produto": "21510",
+      "nome": "CÂMBIO MANUAL CHEVROLET CELTA SPIRIT 1.0 MPFI 8V 3P 2008/09",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501117397036",
@@ -2532,7 +2546,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
