@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 15:50:56",
+  "ultima_atualizacao": "21/09/2026 16:17:17",
   "total_base_dia": 139,
-  "total_atual": 83,
-  "novos_produtos": 39,
-  "total_subidos": 95,
+  "total_atual": 84,
+  "novos_produtos": 41,
+  "total_subidos": 96,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -231,6 +231,7 @@
     "SP12501056231007",
     "SP12501056274042",
     "SP12501056290001",
+    "SP12501056290004",
     "SP12501056290026",
     "SP12501056290031",
     "SP12501056290036",
@@ -324,6 +325,7 @@
     "SP12501121807401",
     "SP12501121866029",
     "SP12501123273032",
+    "SP12501123451042",
     "SP42501001064042",
     "SP42501003164947"
   ],
@@ -349,6 +351,7 @@
     "SP12501056231007",
     "SP12501056274042",
     "SP12501056290001",
+    "SP12501056290004",
     "SP12501056290026",
     "SP12501056290036",
     "SP12501056290411",
@@ -366,7 +369,8 @@
     "SP12501111607041",
     "SP12501111607042",
     "SP12501111607400",
-    "SP12501111631033"
+    "SP12501111631033",
+    "SP12501123451042"
   ],
   "skus_subidos_hoje": [
     "SP12501005130028",
@@ -385,6 +389,7 @@
     "SP12501053828010",
     "SP12501053828011",
     "SP12501053941039",
+    "SP12501053941041",
     "SP12501053950026",
     "SP12501053950437",
     "SP12501053950448",
@@ -482,6 +487,7 @@
     "SP12501053828010",
     "SP12501053828011",
     "SP12501053941039",
+    "SP12501053941041",
     "SP12501053950026",
     "SP12501053950437",
     "SP12501053950448",
@@ -602,11 +608,11 @@
     {
       "sku": "SP12501053941041",
       "id_produto": "21589",
-      "nome": "RODA TRASEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 17 4 FUROS NISSAN KICKS",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -813,6 +819,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056290004",
+      "id_produto": "21644",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "10"
     },
     {
@@ -1030,6 +1048,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501123451042",
+      "id_produto": "21643",
+      "nome": "RODA TRASEIRA ESQUERDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS LONGITUDE 2.0 4X2 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     }
   ],
   "itens_subidos_hoje": [
@@ -1052,8 +1082,8 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACECROSS 1.6 MI TOTAL FLEX 8V",
       "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status_ml": "closed",
+      "quantidade": "-1",
       "classificacao": "07",
       "qtd_images": "7"
     },
@@ -1223,6 +1253,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501053941041",
+      "id_produto": "21589",
+      "nome": "RODA LIGA LEVE ARO 17 4 FUROS NISSAN KICKS",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "7"
     },
     {
@@ -2914,8 +2956,8 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SPACECROSS 1.6 MI TOTAL FLEX 8V",
       "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status_ml": "closed",
+      "quantidade": "-1",
       "classificacao": "07",
       "qtd_images": "7"
     },
@@ -3954,11 +3996,11 @@
     "SP12501053941041": {
       "sku": "SP12501053941041",
       "id_produto": "21589",
-      "nome": "RODA TRASEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 17 4 FUROS NISSAN KICKS",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -4310,6 +4352,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    "SP12501056290004": {
+      "sku": "SP12501056290004",
+      "id_produto": "21644",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501123451042": {
+      "sku": "SP12501123451042",
+      "id_produto": "21643",
+      "nome": "RODA TRASEIRA ESQUERDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS LONGITUDE 2.0 4X2 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     }
   }
 }
