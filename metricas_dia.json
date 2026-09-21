@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 13:17:49",
+  "ultima_atualizacao": "21/09/2026 13:21:21",
   "total_base_dia": 139,
-  "total_atual": 103,
+  "total_atual": 102,
   "novos_produtos": 39,
-  "total_subidos": 75,
+  "total_subidos": 76,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -427,6 +427,7 @@
     "SP12501116765480",
     "SP12501116765570",
     "SP12501116773004",
+    "SP12501116773007",
     "SP12501116781005",
     "SP12501116781013",
     "SP12501116790004",
@@ -504,6 +505,7 @@
     "SP12501116765480",
     "SP12501116765570",
     "SP12501116773004",
+    "SP12501116773007",
     "SP12501116781005",
     "SP12501116781013",
     "SP12501116790004",
@@ -1690,6 +1692,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501116773007",
+      "id_produto": "18559",
+      "nome": "CAPÔ VOLKSWAGEN FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P 2006",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501116781005",
       "id_produto": "21524",
       "nome": "TOMADA DE FORÇA CAIXA DE TRAÇÃO TOYOTA HILUX  2.8 TDI 2021",
@@ -1768,7 +1782,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "RAMPAGE R/T 2.0 HURRICANE TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -2102,11 +2116,11 @@
     "SP12501116773007": {
       "sku": "SP12501116773007",
       "id_produto": "18559",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ VOLKSWAGEN FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P 2006",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -2226,7 +2240,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "RAMPAGE R/T 2.0 HURRICANE TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
