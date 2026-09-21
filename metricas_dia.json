@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 11:21:12",
+  "ultima_atualizacao": "21/09/2026 11:47:23",
   "total_base_dia": 139,
-  "total_atual": 136,
+  "total_atual": 128,
   "novos_produtos": 38,
-  "total_subidos": 41,
+  "total_subidos": 49,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -405,8 +405,16 @@
     "SP12501103060013",
     "SP12501103060400",
     "SP12501103175585",
+    "SP12501109289014",
     "SP12501111593034",
     "SP12501111631045",
+    "SP12501116676011",
+    "SP12501116676400",
+    "SP12501116676480",
+    "SP12501117397036",
+    "SP12501117672004",
+    "SP12501117672013",
+    "SP12501117672014",
     "SP12501121750004"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -448,8 +456,16 @@
     "SP12501103060013",
     "SP12501103060400",
     "SP12501103175585",
+    "SP12501109289014",
     "SP12501111593034",
     "SP12501111631045",
+    "SP12501116676011",
+    "SP12501116676400",
+    "SP12501116676480",
+    "SP12501117397036",
+    "SP12501117672004",
+    "SP12501117672013",
+    "SP12501117672014",
     "SP12501121750004"
   ],
   "itens_novos_hoje": [
@@ -954,7 +970,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -966,7 +982,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -978,7 +994,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -990,7 +1006,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -1014,7 +1030,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1110,7 +1126,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1314,7 +1330,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO RANCH 2.2 MULTIJET TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1338,7 +1354,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "S10 PICK-UP LS 2.8 TDI 4X4 CD DIES. MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1350,7 +1366,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "S10 PICK-UP LS 2.8 TDI 4X4 CD DIES. MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1362,10 +1378,22 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA ELITE 2.0 MPFI FLEXPOWER 8V AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501109289014",
+      "id_produto": "21505",
+      "nome": "DIFERENCIAL EIXO TRASEIRO CHEVROLET S10 2.8 CTD 2022/2023",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "S10 CABINE DUPLA HIGH COUNTRY AT 2.8 CTD",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501111593034",
@@ -1392,13 +1420,97 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501116676011",
+      "id_produto": "21507",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT 1.4 FLEX 8V 5P 2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501116676400",
+      "id_produto": "21508",
+      "nome": "MOTOR COMPLETO HONDA FIT LX 1.4 FLEX 8V 5P MEC. 2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501116676480",
+      "id_produto": "21509",
+      "nome": "PORTINHOLA DO TANQUE HONDA FIT LX 1.4 FLEX 8V 5P MEC. 2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501117397036",
+      "id_produto": "21537",
+      "nome": "RADIADOR FIAT UNO MILLE 1.0 F.FLEX 2005/2006",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501117672004",
+      "id_produto": "21538",
+      "nome": "CÂMBIO AUTOMATICO FIAT TORO RANCH 2.0 16V 4X4 TB DIESEL 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO RANCH 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501117672013",
+      "id_produto": "21539",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO FIAT TORO RANCH 2.0 16V 4X4 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO RANCH 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501117672014",
+      "id_produto": "21540",
+      "nome": "DIFERENCIAL EIXO TRASEIRO FIAT TORO RANCH 2.0 16V 4X4 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO RANCH 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501121750004",
       "id_produto": "21542",
       "nome": "CÂMBIO AUTOMATICO CHEVROLET MERIVA PREMIUM 1.8 2008/2008",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MERIVA PREMIUM 1.8 FLEXPOWER AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1412,7 +1524,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ZAFIRA ELITE 2.0 MPFI FLEXPOWER 8V AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -1420,11 +1532,11 @@
     "SP12501116676400": {
       "sku": "SP12501116676400",
       "id_produto": "21508",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO HONDA FIT LX 1.4 FLEX 8V 5P MEC. 2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1504,11 +1616,11 @@
     "SP12501116676480": {
       "sku": "SP12501116676480",
       "id_produto": "21509",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE HONDA FIT LX 1.4 FLEX 8V 5P MEC. 2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1676,7 +1788,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "S10 PICK-UP LS 2.8 TDI 4X4 CD DIES. MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1684,11 +1796,11 @@
     "SP12501117672014": {
       "sku": "SP12501117672014",
       "id_produto": "21540",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO FIAT TORO RANCH 2.0 16V 4X4 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO RANCH 2.0 16V 4X4 TB DIESEL AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1924,11 +2036,11 @@
     "SP12501116676011": {
       "sku": "SP12501116676011",
       "id_produto": "21507",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA FIT 1.4 FLEX 8V 5P 2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2080,11 +2192,11 @@
     "SP12501117672013": {
       "sku": "SP12501117672013",
       "id_produto": "21539",
-      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO FIAT TORO RANCH 2.0 16V 4X4 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO RANCH 2.0 16V 4X4 TB DIESEL AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -2120,7 +2232,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MERIVA PREMIUM 1.8 FLEXPOWER AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2168,7 +2280,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -2216,7 +2328,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -2332,11 +2444,11 @@
     "SP12501117672004": {
       "sku": "SP12501117672004",
       "id_produto": "21538",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO FIAT TORO RANCH 2.0 16V 4X4 TB DIESEL 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO RANCH 2.0 16V 4X4 TB DIESEL AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -2384,7 +2496,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -2416,10 +2528,10 @@
     "SP12501116684004": {
       "sku": "SP12501116684004",
       "id_produto": "21510",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CELTA SPIRIT 1.0 MPFI 8V 3P 2008/09",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
@@ -2504,7 +2616,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2512,11 +2624,11 @@
     "SP12501117397036": {
       "sku": "SP12501117397036",
       "id_produto": "21537",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FIAT UNO MILLE 1.0 F.FLEX 2005/2006",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE 1.0 F.FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -2588,7 +2700,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO MILLE WAY ECONOMY 1.0 F.FLEX 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -2624,7 +2736,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "S10 PICK-UP LS 2.8 TDI 4X4 CD DIES. MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -2896,11 +3008,11 @@
     "SP12501109289014": {
       "sku": "SP12501109289014",
       "id_produto": "21505",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO CHEVROLET S10 2.8 CTD 2022/2023",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "S10 CABINE DUPLA HIGH COUNTRY AT 2.8 CTD",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2948,7 +3060,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -3056,7 +3168,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO RANCH 2.2 MULTIJET TURBO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
