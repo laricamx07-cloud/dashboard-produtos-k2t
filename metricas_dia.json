@@ -1,7 +1,7 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 16:47:11",
+  "ultima_atualizacao": "21/09/2026 16:51:10",
   "total_base_dia": 139,
   "total_atual": 81,
   "novos_produtos": 43,
@@ -725,7 +725,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
-      "qtd_images": "8"
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501054450045",
@@ -4437,7 +4437,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
-      "qtd_images": "8"
+      "qtd_images": "9"
     },
     "SP12501056231007": {
       "sku": "SP12501056231007",
