@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 09:21:02",
+  "ultima_atualizacao": "21/09/2026 09:47:23",
   "total_base_dia": 139,
-  "total_atual": 132,
-  "novos_produtos": 1,
-  "total_subidos": 8,
+  "total_atual": 131,
+  "novos_produtos": 4,
+  "total_subidos": 12,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -211,7 +211,10 @@
     "SP12501056207437",
     "SP12501056207483",
     "SP12501056290001",
+    "SP12501056290026",
     "SP12501056290031",
+    "SP12501056290036",
+    "SP12501056290411",
     "SP12501079924029",
     "SP12501079959400",
     "SP12501080108035",
@@ -290,13 +293,20 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
-    "SP12501056290001"
+    "SP12501056290001",
+    "SP12501056290026",
+    "SP12501056290036",
+    "SP12501056290411"
   ],
   "skus_subidos_hoje": [
     "SP12501005130028",
     "SP12501041919033",
     "SP12501042095029",
     "SP12501053941039",
+    "SP12501054352010",
+    "SP12501055200038",
+    "SP12501055200045",
+    "SP12501055200448",
     "SP12501079924029",
     "SP12501080108035",
     "SP12501111593034",
@@ -307,6 +317,10 @@
     "SP12501041919033",
     "SP12501042095029",
     "SP12501053941039",
+    "SP12501054352010",
+    "SP12501055200038",
+    "SP12501055200045",
+    "SP12501055200448",
     "SP12501079924029",
     "SP12501080108035",
     "SP12501111593034",
@@ -318,12 +332,48 @@
       "id_produto": "21579",
       "nome": "ALTERNADOR",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056290026",
+      "id_produto": "21580",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056290036",
+      "id_produto": "21581",
+      "nome": "RADIADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056290411",
+      "id_produto": "21582",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   ],
   "itens_subidos_hoje": [
@@ -370,10 +420,58 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501054352010",
+      "id_produto": "21570",
+      "nome": "CHAVE DE SETA HYUNDAI HB20 R SPEC 1.6 FLEX 16V MEC. 2015/16",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 R SPEC 1.6 FLEX 16V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501055200038",
+      "id_produto": "21567",
+      "nome": "RETROVISOR ESQUERDO CHEVROLET CELTA 1.0 MPFI VHC 2000/2001",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501055200045",
+      "id_produto": "21568",
+      "nome": "TAMPA TRASEIRA CHEVROLET CELTA 1.0 MPFI VHC 8V 3P 2000/2001",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501055200448",
+      "id_produto": "21569",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO CHEVROLET CELTA 1.0 MPFI 2000/01",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501079924029",
@@ -816,7 +914,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -956,11 +1054,11 @@
     "SP12501055200448": {
       "sku": "SP12501055200448",
       "id_produto": "21569",
-      "nome": "SEMI-EIXO DIANTEIRO DIREITO",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO CHEVROLET CELTA 1.0 MPFI 2000/01",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -1316,11 +1414,11 @@
     "SP12501055200038": {
       "sku": "SP12501055200038",
       "id_produto": "21567",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO CHEVROLET CELTA 1.0 MPFI VHC 2000/2001",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1800,10 +1898,10 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 R SPEC 1.6 FLEX 16V MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "16"
+      "qtd_images": "10"
     },
     "SP12501016701039": {
       "sku": "SP12501016701039",
@@ -1868,11 +1966,11 @@
     "SP12501055200045": {
       "sku": "SP12501055200045",
       "id_produto": "21568",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA CHEVROLET CELTA 1.0 MPFI VHC 8V 3P 2000/2001",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -2098,11 +2196,47 @@
       "id_produto": "21579",
       "nome": "ALTERNADOR",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501056290411": {
+      "sku": "SP12501056290411",
+      "id_produto": "21582",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501056290036": {
+      "sku": "SP12501056290036",
+      "id_produto": "21581",
+      "nome": "RADIADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501056290026": {
+      "sku": "SP12501056290026",
+      "id_produto": "21580",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "10"
     }
   }
