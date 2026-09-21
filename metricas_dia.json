@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 10:51:17",
+  "ultima_atualizacao": "21/09/2026 11:17:34",
   "total_base_dia": 139,
-  "total_atual": 147,
-  "novos_produtos": 33,
-  "total_subidos": 25,
+  "total_atual": 149,
+  "novos_produtos": 38,
+  "total_subidos": 28,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -178,6 +178,7 @@
     "SP12501016817034",
     "SP12501017449043",
     "SP12501041145437",
+    "SP12501041498031",
     "SP12501041749026",
     "SP12501041749038",
     "SP12501041897027",
@@ -191,6 +192,7 @@
     "SP12501053801032",
     "SP12501053801036",
     "SP12501053828010",
+    "SP12501053828011",
     "SP12501053941039",
     "SP12501053941041",
     "SP12501053941042",
@@ -204,6 +206,9 @@
     "SP12501053950449",
     "SP12501053950483",
     "SP12501054352010",
+    "SP12501054450032",
+    "SP12501054450034",
+    "SP12501054450045",
     "SP12501054476401",
     "SP12501055197004",
     "SP12501055197030",
@@ -322,13 +327,18 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501041498031",
     "SP12501053828010",
+    "SP12501053828011",
     "SP12501053941041",
     "SP12501053941042",
     "SP12501053941043",
     "SP12501053941049",
     "SP12501053950010",
     "SP12501053950400",
+    "SP12501054450032",
+    "SP12501054450034",
+    "SP12501054450045",
     "SP12501055200400",
     "SP12501056207011",
     "SP12501056207039",
@@ -361,6 +371,7 @@
     "SP12501041919033",
     "SP12501042095029",
     "SP12501053941039",
+    "SP12501053950026",
     "SP12501053950437",
     "SP12501053950448",
     "SP12501053950449",
@@ -380,6 +391,8 @@
     "SP12501056290031",
     "SP12501079924029",
     "SP12501080108035",
+    "SP12501087730036",
+    "SP12501089156400",
     "SP12501111593034",
     "SP12501111631045"
   ],
@@ -388,6 +401,7 @@
     "SP12501041919033",
     "SP12501042095029",
     "SP12501053941039",
+    "SP12501053950026",
     "SP12501053950437",
     "SP12501053950448",
     "SP12501053950449",
@@ -407,10 +421,24 @@
     "SP12501056290031",
     "SP12501079924029",
     "SP12501080108035",
+    "SP12501087730036",
+    "SP12501089156400",
     "SP12501111593034",
     "SP12501111631045"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501041498031",
+      "id_produto": "21586",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX PLUS 1.6MI TOTAL FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501053828010",
       "id_produto": "21587",
@@ -422,6 +450,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501053828011",
+      "id_produto": "21588",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501053941041",
@@ -494,6 +534,42 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501054450032",
+      "id_produto": "21595",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501054450034",
+      "id_produto": "21596",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501054450045",
+      "id_produto": "21597",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501055200400",
@@ -858,6 +934,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501053950026",
+      "id_produto": "21557",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CELTA 1.0 8V 2004/2005",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501053950437",
       "id_produto": "21478",
       "nome": "PNEU 175/65 R14 82H DOUBLESTAR MAXIMUM DH05",
@@ -1086,6 +1174,30 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501087730036",
+      "id_produto": "21496",
+      "nome": "RADIADOR RENAULT LOGAN Authentique Hi-Flex 1.0 16V 4p 2012",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN Authentique Hi-Flex 1.0 16V 4p",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501089156400",
+      "id_produto": "21497",
+      "nome": "MOTOR COMPLETO CHEVROLET CRUZE SPORT LTZ 1.4 16V 2019",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CRUZE SPORT LTZ 1.4 16V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501111593034",
       "id_produto": "21311",
       "nome": "Porta Traseira Direita Tiida Hatch 2008 a 2013",
@@ -1162,11 +1274,11 @@
     "SP12501089156400": {
       "sku": "SP12501089156400",
       "id_produto": "21497",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CRUZE SPORT LTZ 1.4 16V 2019",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CRUZE SPORT LTZ 1.4 16V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -2374,11 +2486,11 @@
     "SP12501053950026": {
       "sku": "SP12501053950026",
       "id_produto": "21557",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CELTA 1.0 8V 2004/2005",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -2590,11 +2702,11 @@
     "SP12501087730036": {
       "sku": "SP12501087730036",
       "id_produto": "21496",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR RENAULT LOGAN Authentique Hi-Flex 1.0 16V 4p 2012",
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN Authentique Hi-Flex 1.0 16V 4p",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -3174,6 +3286,66 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    "SP12501053828011": {
+      "sku": "SP12501053828011",
+      "id_produto": "21588",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    "SP12501054450045": {
+      "sku": "SP12501054450045",
+      "id_produto": "21597",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501054450032": {
+      "sku": "SP12501054450032",
+      "id_produto": "21595",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501041498031": {
+      "sku": "SP12501041498031",
+      "id_produto": "21586",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX PLUS 1.6MI TOTAL FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "8"
+    },
+    "SP12501054450034": {
+      "sku": "SP12501054450034",
+      "id_produto": "21596",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   }
 }
