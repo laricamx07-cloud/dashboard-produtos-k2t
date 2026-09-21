@@ -1,11 +1,11 @@
 {
   "data": "2026-09-21",
   "primeira_atualizacao": "21/09/2026 08:11:31",
-  "ultima_atualizacao": "21/09/2026 17:47:24",
+  "ultima_atualizacao": "21/09/2026 17:51:10",
   "total_base_dia": 139,
-  "total_atual": 76,
+  "total_atual": 75,
   "novos_produtos": 48,
-  "total_subidos": 111,
+  "total_subidos": 112,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -457,6 +457,7 @@
     "SP12501111534039",
     "SP12501111534040",
     "SP12501111534041",
+    "SP12501111534042",
     "SP12501111577010",
     "SP12501111593034",
     "SP12501111607004",
@@ -570,6 +571,7 @@
     "SP12501111534039",
     "SP12501111534040",
     "SP12501111534041",
+    "SP12501111534042",
     "SP12501111577010",
     "SP12501111593034",
     "SP12501111607004",
@@ -1052,7 +1054,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1060,11 +1062,11 @@
     {
       "sku": "SP12501111534042",
       "id_produto": "21614",
-      "nome": "RODA TRASEIRA ESQUERDA",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS FORD ECOSPORT XLS",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -2022,6 +2024,18 @@
     {
       "sku": "SP12501111534041",
       "id_produto": "21613",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS FORD ECOSPORT XLS",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111534042",
+      "id_produto": "21614",
       "nome": "RODA LIGA LEVE ARO 15 4 FUROS FORD ECOSPORT XLS",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
@@ -4284,7 +4298,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -4388,11 +4402,11 @@
     "SP12501111534042": {
       "sku": "SP12501111534042",
       "id_produto": "21614",
-      "nome": "RODA TRASEIRA ESQUERDA",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS FORD ECOSPORT XLS",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
