@@ -1,11 +1,11 @@
 {
   "data": "2026-09-22",
   "primeira_atualizacao": "22/09/2026 08:52:39",
-  "ultima_atualizacao": "22/09/2026 10:51:19",
+  "ultima_atualizacao": "22/09/2026 11:21:26",
   "total_base_dia": 78,
-  "total_atual": 79,
-  "novos_produtos": 18,
-  "total_subidos": 17,
+  "total_atual": 76,
+  "novos_produtos": 19,
+  "total_subidos": 21,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -144,6 +144,7 @@
     "SP12501083964039",
     "SP12501084790035",
     "SP12501088060029",
+    "SP12501089245029",
     "SP12501089261030",
     "SP12501100842007",
     "SP12501102470030",
@@ -191,6 +192,7 @@
     "SP12501056339034",
     "SP12501056339045",
     "SP12501088060029",
+    "SP12501089245029",
     "SP12501103019026",
     "SP12501103051028",
     "SP12501103051029",
@@ -214,14 +216,18 @@
     "SP12501056290037",
     "SP12501056290480",
     "SP12501056339020",
+    "SP12501103051004",
     "SP12501103051028",
     "SP12501103400026",
     "SP12501111534043",
     "SP12501111658026",
+    "SP12501114282029",
     "SP12501116684029",
     "SP12501116773029",
+    "SP12501116790035",
     "SP12501117389505",
-    "SP12501117680497"
+    "SP12501117680497",
+    "SP12501123427029"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501041749038",
@@ -233,14 +239,18 @@
     "SP12501056290037",
     "SP12501056290480",
     "SP12501056339020",
+    "SP12501103051004",
     "SP12501103051028",
     "SP12501103400026",
     "SP12501111534043",
     "SP12501111658026",
+    "SP12501114282029",
     "SP12501116684029",
     "SP12501116773029",
+    "SP12501116790035",
     "SP12501117389505",
-    "SP12501117680497"
+    "SP12501117680497",
+    "SP12501123427029"
   ],
   "itens_novos_hoje": [
     {
@@ -314,6 +324,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501089245029",
+      "id_produto": "17744",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103019026",
@@ -390,11 +412,11 @@
     {
       "sku": "SP12501114282029",
       "id_produto": "14142",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO ONIX HATCH LTZ 1.4 8V 5P 2019",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -438,11 +460,11 @@
     {
       "sku": "SP12501123427029",
       "id_produto": "9625",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT MOBI LIKE 1.0 FIRE FLEX 2023/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -570,6 +592,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501103051004",
+      "id_produto": "21499",
+      "nome": "CÂMBIO MANUAL CITROEN C3 EXCLUSIVE 1.4 FLEX 8V 5P 2009",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.4 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501103051028",
       "id_produto": "18815",
       "nome": "PARA-CHOQUE DIANTEIRO CITROEN C3 1.4 FLEX 8V 5P 2009",
@@ -618,6 +652,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501114282029",
+      "id_produto": "14142",
+      "nome": "PARA-CHOQUE TRASEIRO ONIX HATCH LTZ 1.4 8V 5P 2019",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501116684029",
       "id_produto": "18554",
       "nome": "PARA-CHOQUE TRASEIRO CHEVROLET CELTA SPIRIT 1.0 3P 2008/2009",
@@ -642,6 +688,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501116790035",
+      "id_produto": "21527",
+      "nome": "PORTA TRASEIRA ESQUERDA VOLKSWAGEN BORA 2.0 FLEX 8V 2010/11",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "BORA 2.0 FLEX 8V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501117389505",
       "id_produto": "21536",
       "nome": "GRADE DO RADIADOR VOLKSWAGEN AMAROK 3.0 4X4 AUT. 2021/2022",
@@ -664,6 +722,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123427029",
+      "id_produto": "9625",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT MOBI LIKE 1.0 FIRE FLEX 2023/2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "7"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -986,7 +1056,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.4 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1162,11 +1232,11 @@
     "SP12501116790035": {
       "sku": "SP12501116790035",
       "id_produto": "21527",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA VOLKSWAGEN BORA 2.0 FLEX 8V 2010/11",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "BORA 2.0 FLEX 8V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1702,11 +1772,11 @@
     "SP12501114282029": {
       "sku": "SP12501114282029",
       "id_produto": "14142",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO ONIX HATCH LTZ 1.4 8V 5P 2019",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -1762,11 +1832,11 @@
     "SP12501123427029": {
       "sku": "SP12501123427029",
       "id_produto": "9625",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT MOBI LIKE 1.0 FIRE FLEX 2023/2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -1818,6 +1888,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    "SP12501089245029": {
+      "sku": "SP12501089245029",
+      "id_produto": "17744",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "2008 ALLURE 1.6 16V AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
