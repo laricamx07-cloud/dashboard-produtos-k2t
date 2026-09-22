@@ -1,11 +1,11 @@
 {
   "data": "2026-09-22",
   "primeira_atualizacao": "22/09/2026 08:52:39",
-  "ultima_atualizacao": "22/09/2026 12:21:01",
+  "ultima_atualizacao": "22/09/2026 12:50:58",
   "total_base_dia": 78,
-  "total_atual": 69,
+  "total_atual": 64,
   "novos_produtos": 20,
-  "total_subidos": 28,
+  "total_subidos": 30,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -209,6 +209,7 @@
     "SP12501123494026"
   ],
   "skus_subidos_hoje": [
+    "SP12501010428029",
     "SP12501041749038",
     "SP12501053801026",
     "SP12501056207011",
@@ -219,6 +220,7 @@
     "SP12501056290480",
     "SP12501056339007",
     "SP12501056339020",
+    "SP12501056339030",
     "SP12501056339034",
     "SP12501056339045",
     "SP12501088060029",
@@ -239,6 +241,7 @@
     "SP12501123427029"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501010428029",
     "SP12501041749038",
     "SP12501053801026",
     "SP12501056207011",
@@ -249,6 +252,7 @@
     "SP12501056290480",
     "SP12501056339007",
     "SP12501056339020",
+    "SP12501056339030",
     "SP12501056339034",
     "SP12501056339045",
     "SP12501088060029",
@@ -272,11 +276,11 @@
     {
       "sku": "SP12501010428029",
       "id_produto": "16093",
-      "nome": "P-CHOQUE TRAS",
+      "nome": "PARA-CHOQUE TRAS FIAT SIENA CELEBRATION 1.0 F.FLEX 8V 07/08",
       "marca": "FIAT",
       "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -308,11 +312,11 @@
     {
       "sku": "SP12501056339030",
       "id_produto": "21662",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CITROEN C4 PALLAS 2.0 16V 08/09",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -512,6 +516,18 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501010428029",
+      "id_produto": "16093",
+      "nome": "PARA-CHOQUE TRAS FIAT SIENA CELEBRATION 1.0 F.FLEX 8V 07/08",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501041749038",
       "id_produto": "21544",
       "nome": "RETROVISOR ESQUERDO HYUNDAI IX35 GLS 2.0 16V 2WD FLEX 14/15",
@@ -630,6 +646,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501056339030",
+      "id_produto": "21662",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CITROEN C4 PALLAS 2.0 16V 08/09",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501056339034",
@@ -1193,7 +1221,7 @@
       "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
       "status": "Desabilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "7",
       "qtd_images": "9"
     },
@@ -1337,7 +1365,7 @@
       "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
       "status": "Desabilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "7",
       "qtd_images": "6"
     },
@@ -1613,7 +1641,7 @@
       "modelo_do_veiculo": "C3 PICASSO EXCLUSIVE 1.6 FLEX 16V 5P MEC",
       "status": "Desabilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "7",
       "qtd_images": "9"
     },
@@ -1932,11 +1960,11 @@
     "SP12501010428029": {
       "sku": "SP12501010428029",
       "id_produto": "16093",
-      "nome": "P-CHOQUE TRAS",
+      "nome": "PARA-CHOQUE TRAS FIAT SIENA CELEBRATION 1.0 F.FLEX 8V 07/08",
       "marca": "FIAT",
       "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -2016,11 +2044,11 @@
     "SP12501056339030": {
       "sku": "SP12501056339030",
       "id_produto": "21662",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CITROEN C4 PALLAS 2.0 16V 08/09",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
