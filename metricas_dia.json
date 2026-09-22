@@ -1,11 +1,11 @@
 {
   "data": "2026-09-22",
   "primeira_atualizacao": "22/09/2026 08:52:39",
-  "ultima_atualizacao": "22/09/2026 11:21:26",
+  "ultima_atualizacao": "22/09/2026 11:51:14",
   "total_base_dia": 78,
-  "total_atual": 76,
-  "novos_produtos": 19,
-  "total_subidos": 21,
+  "total_atual": 73,
+  "novos_produtos": 20,
+  "total_subidos": 25,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -135,6 +135,7 @@
     "SP12501056290480",
     "SP12501056339007",
     "SP12501056339020",
+    "SP12501056339030",
     "SP12501056339034",
     "SP12501056339045",
     "SP12501079959400",
@@ -189,6 +190,7 @@
     "SP12501010428029",
     "SP12501056339007",
     "SP12501056339020",
+    "SP12501056339030",
     "SP12501056339034",
     "SP12501056339045",
     "SP12501088060029",
@@ -216,8 +218,11 @@
     "SP12501056290037",
     "SP12501056290480",
     "SP12501056339020",
+    "SP12501088060029",
+    "SP12501103019026",
     "SP12501103051004",
     "SP12501103051028",
+    "SP12501103167031",
     "SP12501103400026",
     "SP12501111534043",
     "SP12501111658026",
@@ -226,6 +231,7 @@
     "SP12501116773029",
     "SP12501116790035",
     "SP12501117389505",
+    "SP12501117672029",
     "SP12501117680497",
     "SP12501123427029"
   ],
@@ -239,8 +245,11 @@
     "SP12501056290037",
     "SP12501056290480",
     "SP12501056339020",
+    "SP12501088060029",
+    "SP12501103019026",
     "SP12501103051004",
     "SP12501103051028",
+    "SP12501103167031",
     "SP12501103400026",
     "SP12501111534043",
     "SP12501111658026",
@@ -249,6 +258,7 @@
     "SP12501116773029",
     "SP12501116790035",
     "SP12501117389505",
+    "SP12501117672029",
     "SP12501117680497",
     "SP12501123427029"
   ],
@@ -290,6 +300,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501056339030",
+      "id_produto": "21662",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501056339034",
       "id_produto": "21659",
       "nome": "PORTA TRASEIRA DIREITA",
@@ -316,11 +338,11 @@
     {
       "sku": "SP12501088060029",
       "id_produto": "17398",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT FASTBACK T200 HYBRID 1.0 2025/26",
       "marca": "FIAT",
       "modelo_do_veiculo": "FASTBACK IMPETUS T200 HYBRID 1.0 12V GSE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -340,11 +362,11 @@
     {
       "sku": "SP12501103019026",
       "id_produto": "20119",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN FOX CROSSFOX 1.6 FLEX 2013/2014",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CROSSFOX 1.6 TOTAL FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -376,11 +398,11 @@
     {
       "sku": "SP12501103167031",
       "id_produto": "19668",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO JEEP RENEGADE 1.8 4X2 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -416,7 +438,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -448,11 +470,11 @@
     {
       "sku": "SP12501117672029",
       "id_produto": "18437",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT TORO RANCH 2.0 16V 4X4 AUT. 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO RANCH 2.0 16V 4X4 TB DIESEL AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -592,6 +614,30 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501088060029",
+      "id_produto": "17398",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT FASTBACK T200 HYBRID 1.0 2025/26",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FASTBACK IMPETUS T200 HYBRID 1.0 12V GSE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103019026",
+      "id_produto": "20119",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN FOX CROSSFOX 1.6 FLEX 2013/2014",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CROSSFOX 1.6 TOTAL FLEX",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501103051004",
       "id_produto": "21499",
       "nome": "CÂMBIO MANUAL CITROEN C3 EXCLUSIVE 1.4 FLEX 8V 5P 2009",
@@ -614,6 +660,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103167031",
+      "id_produto": "19668",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO JEEP RENEGADE 1.8 4X2 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103400026",
@@ -658,7 +716,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -710,6 +768,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501117672029",
+      "id_produto": "18437",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT TORO RANCH 2.0 16V 4X4 AUT. 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO RANCH 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501117680497",
@@ -1776,7 +1846,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LTZ 1.4 8V FLEXPOWER 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -1796,11 +1866,11 @@
     "SP12501103167031": {
       "sku": "SP12501103167031",
       "id_produto": "19668",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO JEEP RENEGADE 1.8 4X2 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1808,11 +1878,11 @@
     "SP12501088060029": {
       "sku": "SP12501088060029",
       "id_produto": "17398",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT FASTBACK T200 HYBRID 1.0 2025/26",
       "marca": "FIAT",
       "modelo_do_veiculo": "FASTBACK IMPETUS T200 HYBRID 1.0 12V GSE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1844,11 +1914,11 @@
     "SP12501103019026": {
       "sku": "SP12501103019026",
       "id_produto": "20119",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN FOX CROSSFOX 1.6 FLEX 2013/2014",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CROSSFOX 1.6 TOTAL FLEX",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1856,11 +1926,11 @@
     "SP12501117672029": {
       "sku": "SP12501117672029",
       "id_produto": "18437",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO FIAT TORO RANCH 2.0 16V 4X4 AUT. 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO RANCH 2.0 16V 4X4 TB DIESEL AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1900,6 +1970,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501056339030": {
+      "sku": "SP12501056339030",
+      "id_produto": "21662",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   }
 }
