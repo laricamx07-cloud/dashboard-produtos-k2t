@@ -1,11 +1,11 @@
 {
   "data": "2026-09-22",
   "primeira_atualizacao": "22/09/2026 08:52:39",
-  "ultima_atualizacao": "22/09/2026 13:21:11",
+  "ultima_atualizacao": "22/09/2026 15:02:21",
   "total_base_dia": 78,
-  "total_atual": 63,
-  "novos_produtos": 20,
-  "total_subidos": 31,
+  "total_atual": 66,
+  "novos_produtos": 24,
+  "total_subidos": 32,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -104,10 +104,12 @@
     "SP12501014750034",
     "SP12501014806045",
     "SP12501015241034",
+    "SP12501015586014",
     "SP12501015586034",
     "SP12501015640410",
     "SP12501015730034",
     "SP12501016027033",
+    "SP12501016590014",
     "SP12501016590045",
     "SP12501016701039",
     "SP12501016728034",
@@ -119,6 +121,7 @@
     "SP12501041145437",
     "SP12501041749026",
     "SP12501041749038",
+    "SP12501042222030",
     "SP12501053801026",
     "SP12501053941043",
     "SP12501054450034",
@@ -183,11 +186,15 @@
     "SP12501123427029",
     "SP12501123451042",
     "SP12501123494026",
+    "SP12501123583035",
     "SP42501001064042",
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
     "SP12501010428029",
+    "SP12501015586014",
+    "SP12501016590014",
+    "SP12501042222030",
     "SP12501056339007",
     "SP12501056339020",
     "SP12501056339030",
@@ -206,7 +213,8 @@
     "SP12501116773029",
     "SP12501117672029",
     "SP12501123427029",
-    "SP12501123494026"
+    "SP12501123494026",
+    "SP12501123583035"
   ],
   "skus_subidos_hoje": [
     "SP12501010428029",
@@ -239,6 +247,7 @@
     "SP12501117389505",
     "SP12501117672029",
     "SP12501117680497",
+    "SP12501123419029",
     "SP12501123427029"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -272,6 +281,7 @@
     "SP12501117389505",
     "SP12501117672029",
     "SP12501117680497",
+    "SP12501123419029",
     "SP12501123427029"
   ],
   "itens_novos_hoje": [
@@ -286,6 +296,42 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501015586014",
+      "id_produto": "19096",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501016590014",
+      "id_produto": "19083",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501042222030",
+      "id_produto": "21663",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "407 SW ALLURE 2.0 16V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501056339007",
@@ -513,6 +559,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501123583035",
+      "id_produto": "21665",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "PARTNER ESCAPADE 1.6 FLEX 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "8"
     }
   ],
@@ -878,6 +936,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501123419029",
+      "id_produto": "21652",
+      "nome": "PARA-CHOQUE TRASEIRO CHEVROLET CELTA LIFE 1.0 8V 2008/2009",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA LIFE 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501123427029",
       "id_produto": "9625",
       "nome": "PARA-CHOQUE TRASEIRO FIAT MOBI LIKE 1.0 FIRE FLEX 2023/2023",
@@ -1170,11 +1240,11 @@
     "SP12501123419029": {
       "sku": "SP12501123419029",
       "id_produto": "21652",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO CHEVROLET CELTA LIFE 1.0 8V 2008/2009",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA LIFE 1.0 MPFI 8V FLEXPOWER 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2066,6 +2136,54 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    "SP12501015586014": {
+      "sku": "SP12501015586014",
+      "id_produto": "19096",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP12501016590014": {
+      "sku": "SP12501016590014",
+      "id_produto": "19083",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    "SP12501123583035": {
+      "sku": "SP12501123583035",
+      "id_produto": "21665",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "PARTNER ESCAPADE 1.6 FLEX 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501042222030": {
+      "sku": "SP12501042222030",
+      "id_produto": "21663",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "407 SW ALLURE 2.0 16V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     }
   }
 }
