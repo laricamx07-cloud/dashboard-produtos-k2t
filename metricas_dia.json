@@ -1,11 +1,11 @@
 {
   "data": "2026-09-22",
   "primeira_atualizacao": "22/09/2026 08:52:39",
-  "ultima_atualizacao": "22/09/2026 09:21:18",
+  "ultima_atualizacao": "22/09/2026 09:51:22",
   "total_base_dia": 78,
-  "total_atual": 79,
-  "novos_produtos": 3,
-  "total_subidos": 2,
+  "total_atual": 78,
+  "novos_produtos": 8,
+  "total_subidos": 8,
   "skus_base_dia": [
     "SP12403115179029",
     "SP12501004584032",
@@ -132,6 +132,7 @@
     "SP12501056290027",
     "SP12501056290037",
     "SP12501056290480",
+    "SP12501056339020",
     "SP12501079959400",
     "SP12501080353034",
     "SP12501080353035",
@@ -144,6 +145,8 @@
     "SP12501102519045",
     "SP12501102527032",
     "SP12501103051004",
+    "SP12501103051028",
+    "SP12501103051029",
     "SP12501103400026",
     "SP12501104520032",
     "SP12501105631026",
@@ -158,7 +161,9 @@
     "SP12501111607041",
     "SP12501111607042",
     "SP12501111658026",
+    "SP12501116684029",
     "SP12501116757033",
+    "SP12501116773029",
     "SP12501116790035",
     "SP12501117389505",
     "SP12501117680497",
@@ -170,27 +175,80 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501056339020",
+    "SP12501103051028",
+    "SP12501103051029",
     "SP12501103400026",
     "SP12501111658026",
+    "SP12501116684029",
+    "SP12501116773029",
     "SP12501123494026"
   ],
   "skus_subidos_hoje": [
+    "SP12501056207449",
+    "SP12501056290010",
+    "SP12501056290024",
     "SP12501056290037",
-    "SP12501056290480"
+    "SP12501056290480",
+    "SP12501103400026",
+    "SP12501111534043",
+    "SP12501111658026"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501056207449",
+    "SP12501056290010",
+    "SP12501056290024",
     "SP12501056290037",
-    "SP12501056290480"
+    "SP12501056290480",
+    "SP12501103400026",
+    "SP12501111534043",
+    "SP12501111658026"
   ],
   "itens_novos_hoje": [
     {
-      "sku": "SP12501103400026",
-      "id_produto": "20389",
-      "nome": "MOTOR DE PARTIDA",
-      "marca": "HONDA",
-      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "sku": "SP12501056339020",
+      "id_produto": "21657",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103051028",
+      "id_produto": "18815",
+      "nome": "PARA-CHOQUE DIANTEIRO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.4 FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103051029",
+      "id_produto": "18496",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.4 FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103400026",
+      "id_produto": "20389",
+      "nome": "MOTOR DE PARTIDA HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 05/06",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -198,14 +256,38 @@
     {
       "sku": "SP12501111658026",
       "id_produto": "21061",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET MERIVA 1.8 CD 1.8 MPFI 16V 02/03",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MERIVA 1.8 CD 1.8 MPFI 16V 122CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501116684029",
+      "id_produto": "18554",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501116773029",
+      "id_produto": "18514",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
-      "qtd_images": "8"
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501123494026",
@@ -221,6 +303,42 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501056207449",
+      "id_produto": "21603",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO RENAULT CLIO 1.6 16V 4P 2008",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501056290010",
+      "id_produto": "21647",
+      "nome": "CHAVE DE SETA FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056290024",
+      "id_produto": "21648",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/08",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501056290037",
       "id_produto": "21650",
@@ -244,6 +362,42 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103400026",
+      "id_produto": "20389",
+      "nome": "MOTOR DE PARTIDA HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 05/06",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111534043",
+      "id_produto": "21615",
+      "nome": "RODA ESTEPE LIGA LEVE ARO 15 4 FUROS FORD ECOSPORT XLS",
+      "marca": "FORD",
+      "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111658026",
+      "id_produto": "21061",
+      "nome": "MOTOR DE PARTIDA CHEVROLET MERIVA 1.8 CD 1.8 MPFI 16V 02/03",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "MERIVA 1.8 CD 1.8 MPFI 16V 122CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -550,11 +704,11 @@
     "SP12501056290024": {
       "sku": "SP12501056290024",
       "id_produto": "21648",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/08",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -754,11 +908,11 @@
     "SP12501111534043": {
       "sku": "SP12501111534043",
       "id_produto": "21615",
-      "nome": "RODA SOBRES./ESTEPE",
+      "nome": "RODA ESTEPE LIGA LEVE ARO 15 4 FUROS FORD ECOSPORT XLS",
       "marca": "FORD",
       "modelo_do_veiculo": "ECOSPORT XLS 1.6 FLEX 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -766,11 +920,11 @@
     "SP12501056290010": {
       "sku": "SP12501056290010",
       "id_produto": "21647",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -838,11 +992,11 @@
     "SP12501056207449": {
       "sku": "SP12501056207449",
       "id_produto": "21603",
-      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO RENAULT CLIO 1.6 16V 4P 2008",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1198,11 +1352,11 @@
     "SP12501103400026": {
       "sku": "SP12501103400026",
       "id_produto": "20389",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA HONDA FIT LX 1.4 FLEX 8V 16V 5P MEC. 05/06",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 16V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1210,14 +1364,74 @@
     "SP12501111658026": {
       "sku": "SP12501111658026",
       "id_produto": "21061",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET MERIVA 1.8 CD 1.8 MPFI 16V 02/03",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "MERIVA 1.8 CD 1.8 MPFI 16V 122CV 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    "SP12501116773029": {
+      "sku": "SP12501116773029",
+      "id_produto": "18514",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
-      "qtd_images": "8"
+      "qtd_images": "7"
+    },
+    "SP12501116684029": {
+      "sku": "SP12501116684029",
+      "id_produto": "18554",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA SPIRIT 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501056339020": {
+      "sku": "SP12501056339020",
+      "id_produto": "21657",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    "SP12501103051028": {
+      "sku": "SP12501103051028",
+      "id_produto": "18815",
+      "nome": "PARA-CHOQUE DIANTEIRO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.4 FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    "SP12501103051029": {
+      "sku": "SP12501103051029",
+      "id_produto": "18496",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.4 FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
     }
   }
 }
