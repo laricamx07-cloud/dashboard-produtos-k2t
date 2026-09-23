@@ -1,11 +1,11 @@
 {
   "data": "2026-09-23",
   "primeira_atualizacao": "23/09/2026 08:15:14",
-  "ultima_atualizacao": "23/09/2026 12:20:57",
+  "ultima_atualizacao": "23/09/2026 12:51:00",
   "total_base_dia": 73,
-  "total_atual": 59,
-  "novos_produtos": 33,
-  "total_subidos": 46,
+  "total_atual": 57,
+  "novos_produtos": 34,
+  "total_subidos": 49,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -162,6 +162,7 @@
     "SP12501103353034",
     "SP12501103353037",
     "SP12501103353038",
+    "SP12501103353400",
     "SP12501103353480",
     "SP12501104520032",
     "SP12501105631026",
@@ -214,6 +215,7 @@
     "SP12501103353034",
     "SP12501103353037",
     "SP12501103353038",
+    "SP12501103353400",
     "SP12501103353480",
     "SP12501111577004",
     "SP12501111577400",
@@ -262,9 +264,12 @@
     "SP12501103353032",
     "SP12501103353033",
     "SP12501103353034",
+    "SP12501103353037",
+    "SP12501103353480",
     "SP12501104520032",
     "SP12501111577400",
     "SP12501111666010",
+    "SP12501111666024",
     "SP12501111666027",
     "SP12501111666032",
     "SP12501111666033",
@@ -310,9 +315,12 @@
     "SP12501103353032",
     "SP12501103353033",
     "SP12501103353034",
+    "SP12501103353037",
+    "SP12501103353480",
     "SP12501104520032",
     "SP12501111577400",
     "SP12501111666010",
+    "SP12501111666024",
     "SP12501111666027",
     "SP12501111666032",
     "SP12501111666033",
@@ -588,11 +596,11 @@
     {
       "sku": "SP12501103353037",
       "id_produto": "21773",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO HONDA FIT LX 1.4 FLEX 8V MEC. 2003/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -610,13 +618,25 @@
       "qtd_images": "9"
     },
     {
-      "sku": "SP12501103353480",
-      "id_produto": "21775",
-      "nome": "PORTINHOLA DO TANQUE",
+      "sku": "SP12501103353400",
+      "id_produto": "21781",
+      "nome": "MOTOR COMPLETO",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103353480",
+      "id_produto": "21775",
+      "nome": "PORTINHOLA DO TANQUE HONDA FIT LX 1.4 FLEX 8V 2003/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -660,11 +680,11 @@
     {
       "sku": "SP12501111666024",
       "id_produto": "21776",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FORD KA 1.0 8V ST FLEX 3P 2009/2010",
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1164,6 +1184,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103353037",
+      "id_produto": "21773",
+      "nome": "RETROVISOR DIREITO HONDA FIT LX 1.4 FLEX 8V MEC. 2003/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103353480",
+      "id_produto": "21775",
+      "nome": "PORTINHOLA DO TANQUE HONDA FIT LX 1.4 FLEX 8V 2003/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501104520032",
       "id_produto": "16039",
       "nome": "PORTA DIANTEIRA DIREITA CHERY TIGGO 7 T 1.5 16V  2019/2020",
@@ -1198,6 +1242,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111666024",
+      "id_produto": "21776",
+      "nome": "MÓDULO DE INJEÇÃO FORD KA 1.0 8V ST FLEX 3P 2009/2010",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501111666027",
@@ -2452,11 +2508,11 @@
     "SP12501103353480": {
       "sku": "SP12501103353480",
       "id_produto": "21775",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE HONDA FIT LX 1.4 FLEX 8V 2003/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -2512,11 +2568,11 @@
     "SP12501111666024": {
       "sku": "SP12501111666024",
       "id_produto": "21776",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FORD KA 1.0 8V ST FLEX 3P 2009/2010",
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -2536,14 +2592,26 @@
     "SP12501103353037": {
       "sku": "SP12501103353037",
       "id_produto": "21773",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO HONDA FIT LX 1.4 FLEX 8V MEC. 2003/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501103353400": {
+      "sku": "SP12501103353400",
+      "id_produto": "21781",
+      "nome": "MOTOR COMPLETO",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
-      "qtd_images": "9"
+      "qtd_images": "10"
     }
   }
 }
