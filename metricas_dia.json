@@ -1,11 +1,11 @@
 {
   "data": "2026-09-23",
   "primeira_atualizacao": "23/09/2026 08:15:14",
-  "ultima_atualizacao": "23/09/2026 10:20:55",
+  "ultima_atualizacao": "23/09/2026 10:51:00",
   "total_base_dia": 73,
-  "total_atual": 60,
-  "novos_produtos": 10,
-  "total_subidos": 23,
+  "total_atual": 61,
+  "novos_produtos": 15,
+  "total_subidos": 27,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -140,8 +140,11 @@
     "SP12501103051029",
     "SP12501103345027",
     "SP12501103345035",
+    "SP12501103353007",
+    "SP12501103353010",
     "SP12501103353027",
     "SP12501103353028",
+    "SP12501103353030",
     "SP12501103353031",
     "SP12501103353032",
     "SP12501103353033",
@@ -157,6 +160,8 @@
     "SP12501111607040",
     "SP12501111607041",
     "SP12501111607042",
+    "SP12501111666010",
+    "SP12501111666027",
     "SP12501111666032",
     "SP12501111666033",
     "SP12501116757033",
@@ -169,12 +174,17 @@
   "skus_novos_hoje": [
     "SP12501056320032",
     "SP12501103345027",
+    "SP12501103353007",
+    "SP12501103353010",
     "SP12501103353027",
     "SP12501103353028",
+    "SP12501103353030",
     "SP12501103353031",
     "SP12501103353032",
     "SP12501103353033",
     "SP12501103353034",
+    "SP12501111666010",
+    "SP12501111666027",
     "SP12501111666032",
     "SP12501111666033"
   ],
@@ -190,10 +200,13 @@
     "SP12501056290026",
     "SP12501056320026",
     "SP12501056320032",
+    "SP12501056339400",
     "SP12501088206028",
     "SP12501089261030",
     "SP12501103051029",
+    "SP12501103353027",
     "SP12501103353028",
+    "SP12501103353031",
     "SP12501103353032",
     "SP12501103353033",
     "SP12501103353034",
@@ -201,7 +214,8 @@
     "SP12501111666032",
     "SP12501111666033",
     "SP12501116757033",
-    "SP12501123273032"
+    "SP12501123273032",
+    "SP12501123591029"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501005211028",
@@ -215,10 +229,13 @@
     "SP12501056290026",
     "SP12501056320026",
     "SP12501056320032",
+    "SP12501056339400",
     "SP12501088206028",
     "SP12501089261030",
     "SP12501103051029",
+    "SP12501103353027",
     "SP12501103353028",
+    "SP12501103353031",
     "SP12501103353032",
     "SP12501103353033",
     "SP12501103353034",
@@ -226,7 +243,8 @@
     "SP12501111666032",
     "SP12501111666033",
     "SP12501116757033",
-    "SP12501123273032"
+    "SP12501123273032",
+    "SP12501123591029"
   ],
   "itens_novos_hoje": [
     {
@@ -246,7 +264,7 @@
       "id_produto": "21744",
       "nome": "PAINEL DE INSTRUMENTOS",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PRISMA SED. JOY 1.4 8V ECONOFLEX 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -254,13 +272,37 @@
       "qtd_images": "5"
     },
     {
-      "sku": "SP12501103353027",
-      "id_produto": "21748",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "sku": "SP12501103353007",
+      "id_produto": "21745",
+      "nome": "CAPÔ",
       "marca": "HONDA",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103353010",
+      "id_produto": "21746",
+      "nome": "CHAVE DE SETA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103353027",
+      "id_produto": "21748",
+      "nome": "PAINEL DE INSTRUMENTOS HONDA FIT LX 1.4 FLEX 8V 2003/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -278,13 +320,25 @@
       "qtd_images": "7"
     },
     {
-      "sku": "SP12501103353031",
-      "id_produto": "21750",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "sku": "SP12501103353030",
+      "id_produto": "21749",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
       "marca": "HONDA",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103353031",
+      "id_produto": "21750",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO HONDA FIT LX 1.4 FLEX 8V 03/04",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -326,6 +380,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501111666010",
+      "id_produto": "21751",
+      "nome": "CHAVE DE SETA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111666027",
+      "id_produto": "21752",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501111666032",
       "id_produto": "21725",
       "nome": "PORTA DIANTEIRA DIREITA FORD KA 1.0 8V ST FLEX 3P 2009/2010",
@@ -344,7 +422,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -484,6 +562,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501056339400",
+      "id_produto": "21714",
+      "nome": "MOTOR COMPLETO CITROEN C4 PALLAS 2.0 16V EAF FLEX 2008/09",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501088206028",
       "id_produto": "17740",
       "nome": "PARA-CHOQUE DIANTEIRO FIAT UNO MILLE WAY 1.0 F.FLEX 11/12",
@@ -520,6 +610,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103353027",
+      "id_produto": "21748",
+      "nome": "PAINEL DE INSTRUMENTOS HONDA FIT LX 1.4 FLEX 8V 2003/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103353028",
       "id_produto": "21721",
       "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT LX 1.4 FLEX 8V 2003/2004",
@@ -529,6 +631,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103353031",
+      "id_produto": "21750",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO HONDA FIT LX 1.4 FLEX 8V 03/04",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "7"
     },
     {
@@ -598,7 +712,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -626,6 +740,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501123591029",
+      "id_produto": "21718",
+      "nome": "PARA-CHOQUE TRASEIRO VOLKSWAGEN GOL CITY (TREND) 1.0 T. FLEX",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL CITY (TREND) 1.0 T. FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -656,11 +782,11 @@
     "SP12501056339400": {
       "sku": "SP12501056339400",
       "id_produto": "21714",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CITROEN C4 PALLAS 2.0 16V EAF FLEX 2008/09",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -968,11 +1094,11 @@
     "SP12501123591029": {
       "sku": "SP12501123591029",
       "id_produto": "21718",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO VOLKSWAGEN GOL CITY (TREND) 1.0 T. FLEX",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL CITY (TREND) 1.0 T. FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -1572,7 +1698,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1594,7 +1720,7 @@
       "id_produto": "21744",
       "nome": "PAINEL DE INSTRUMENTOS",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PRISMA SED. JOY 1.4 8V ECONOFLEX 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -1604,11 +1730,11 @@
     "SP12501103353027": {
       "sku": "SP12501103353027",
       "id_produto": "21748",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS HONDA FIT LX 1.4 FLEX 8V 2003/2004",
       "marca": "HONDA",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
@@ -1616,14 +1742,74 @@
     "SP12501103353031": {
       "sku": "SP12501103353031",
       "id_produto": "21750",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO HONDA FIT LX 1.4 FLEX 8V 03/04",
       "marca": "HONDA",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501103353007": {
+      "sku": "SP12501103353007",
+      "id_produto": "21745",
+      "nome": "CAPÔ",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    "SP12501111666027": {
+      "sku": "SP12501111666027",
+      "id_produto": "21752",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501103353030": {
+      "sku": "SP12501103353030",
+      "id_produto": "21749",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501103353010": {
+      "sku": "SP12501103353010",
+      "id_produto": "21746",
+      "nome": "CHAVE DE SETA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501111666010": {
+      "sku": "SP12501111666010",
+      "id_produto": "21751",
+      "nome": "CHAVE DE SETA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
     }
   }
 }
