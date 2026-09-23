@@ -1,11 +1,11 @@
 {
   "data": "2026-09-23",
   "primeira_atualizacao": "23/09/2026 08:15:14",
-  "ultima_atualizacao": "23/09/2026 17:21:08",
+  "ultima_atualizacao": "23/09/2026 17:45:39",
   "total_base_dia": 73,
   "total_atual": 47,
-  "novos_produtos": 47,
-  "total_subidos": 72,
+  "novos_produtos": 49,
+  "total_subidos": 74,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -192,6 +192,8 @@
     "SP12501111666032",
     "SP12501111666033",
     "SP12501111666037",
+    "SP12501111674004",
+    "SP12501111674400",
     "SP12501116757033",
     "SP12501123273032",
     "SP12501123451042",
@@ -247,6 +249,8 @@
     "SP12501111666032",
     "SP12501111666033",
     "SP12501111666037",
+    "SP12501111674004",
+    "SP12501111674400",
     "SP12501123583030",
     "SP12501123583031",
     "SP12501123591030",
@@ -308,6 +312,8 @@
     "SP12501103353037",
     "SP12501103353038",
     "SP12501103353400",
+    "SP12501103353411",
+    "SP12501103353449",
     "SP12501103353480",
     "SP12501104520032",
     "SP12501111577004",
@@ -382,6 +388,8 @@
     "SP12501103353037",
     "SP12501103353038",
     "SP12501103353400",
+    "SP12501103353411",
+    "SP12501103353449",
     "SP12501103353480",
     "SP12501104520032",
     "SP12501111577004",
@@ -788,11 +796,11 @@
     {
       "sku": "SP12501103353411",
       "id_produto": "21799",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR HONDA FIT LX 1.4 FLEX 8V 5P MEC. 2003/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -800,11 +808,11 @@
     {
       "sku": "SP12501103353449",
       "id_produto": "21800",
-      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO HONDA FIT LX 1.4 FLEX 8V",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -916,6 +924,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111674004",
+      "id_produto": "21801",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111674400",
+      "id_produto": "21802",
+      "nome": "MOTOR COMPLETO",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501123583030",
@@ -1626,6 +1658,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103353411",
+      "id_produto": "21799",
+      "nome": "ELETROVENTILADOR HONDA FIT LX 1.4 FLEX 8V 5P MEC. 2003/2004",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103353449",
+      "id_produto": "21800",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO HONDA FIT LX 1.4 FLEX 8V",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103353480",
@@ -3204,11 +3260,11 @@
     "SP12501103353411": {
       "sku": "SP12501103353411",
       "id_produto": "21799",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR HONDA FIT LX 1.4 FLEX 8V 5P MEC. 2003/2004",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -3240,11 +3296,11 @@
     "SP12501103353449": {
       "sku": "SP12501103353449",
       "id_produto": "21800",
-      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO HONDA FIT LX 1.4 FLEX 8V",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -3271,6 +3327,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501111674004": {
+      "sku": "SP12501111674004",
+      "id_produto": "21801",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501111674400": {
+      "sku": "SP12501111674400",
+      "id_produto": "21802",
+      "nome": "MOTOR COMPLETO",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "10"
     }
   }
