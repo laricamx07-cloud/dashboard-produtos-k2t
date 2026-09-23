@@ -1,11 +1,11 @@
 {
   "data": "2026-09-23",
   "primeira_atualizacao": "23/09/2026 08:15:14",
-  "ultima_atualizacao": "23/09/2026 08:51:03",
+  "ultima_atualizacao": "23/09/2026 09:21:01",
   "total_base_dia": 73,
-  "total_atual": 70,
-  "novos_produtos": 0,
-  "total_subidos": 3,
+  "total_atual": 62,
+  "novos_produtos": 2,
+  "total_subidos": 13,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -138,6 +138,8 @@
     "SP12501102527032",
     "SP12501103051029",
     "SP12501103345035",
+    "SP12501103353028",
+    "SP12501103353033",
     "SP12501104520032",
     "SP12501105631026",
     "SP12501109521034",
@@ -156,23 +158,83 @@
     "SP42501001064042",
     "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501103353028",
+    "SP12501103353033"
+  ],
   "skus_subidos_hoje": [
     "SP12501015586013",
+    "SP12501015586014",
     "SP12501016590014",
-    "SP12501088206028"
+    "SP12501016710013",
+    "SP12501041749026",
+    "SP12501053941043",
+    "SP12501056290026",
+    "SP12501088206028",
+    "SP12501089261030",
+    "SP12501103051029",
+    "SP12501104520032",
+    "SP12501116757033",
+    "SP12501123273032"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015586013",
+    "SP12501015586014",
     "SP12501016590014",
-    "SP12501088206028"
+    "SP12501016710013",
+    "SP12501041749026",
+    "SP12501053941043",
+    "SP12501056290026",
+    "SP12501088206028",
+    "SP12501089261030",
+    "SP12501103051029",
+    "SP12501104520032",
+    "SP12501116757033",
+    "SP12501123273032"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501103353028",
+      "id_produto": "21721",
+      "nome": "PARA-CHOQUE DIANTEIRO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103353033",
+      "id_produto": "21723",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501015586013",
       "id_produto": "19095",
       "nome": "DIFERENCIAL EIXO DIANTEIRO RAM RAMPAGE LARAMIE 2.0 23/24",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501015586014",
+      "id_produto": "19096",
+      "nome": "DIFERENCIAL EIXO TRASEIRO RAM RAMPAGE LARAMIE 2.0 4X4 23/24",
       "marca": "RAM",
       "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT",
       "status": "Habilitado",
@@ -194,6 +256,54 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501016710013",
+      "id_produto": "19116",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP COMPASS LONGITUDE 2.0 16/16",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS LONGITUDE 2.0 4X4 DIESEL 16V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501041749026",
+      "id_produto": "21485",
+      "nome": "MOTOR DE PARTIDA HYUNDAI IX35 GLS 2.0 16V 2WD FLEX AUT. 2015",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053941043",
+      "id_produto": "21591",
+      "nome": "RODA ESTEPE 185/65 R15 88H PIRELLI CINTURATO P1",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501056290026",
+      "id_produto": "21580",
+      "nome": "MOTOR DE PARTIDA FORD FIESTA 1.0 8V FLEX HATCH 2007/2008",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501088206028",
       "id_produto": "17740",
       "nome": "PARA-CHOQUE DIANTEIRO FIAT UNO MILLE WAY 1.0 F.FLEX 11/12",
@@ -204,6 +314,66 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501089261030",
+      "id_produto": "17125",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA SED. 1.6  2005/2006",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA SED. 1.6 8V FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103051029",
+      "id_produto": "18496",
+      "nome": "PARA-CHOQUE TRASEIRO CITROEN C3 EXCLUSIVE 1.4 FLEX 8V 2009",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUSIVE 1.4 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501104520032",
+      "id_produto": "16039",
+      "nome": "PORTA DIANTEIRA DIREITA CHERY TIGGO 7 T 1.5 16V  2019/2020",
+      "marca": "CHERY",
+      "modelo_do_veiculo": "TIGGO 7 T 1.5 16V TURBO FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501116757033",
+      "id_produto": "18411",
+      "nome": "PORTA DIANTEIRA ESQUERDA CHEVROLET CELTA LIFE 1.0 2007/08",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA LIFE 1.0 MPFI 8V FLEXPOWER 3P",
+      "status": "Desabilitado",
+      "status_ml": "paused",
+      "quantidade": "0",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501123273032",
+      "id_produto": "15839",
+      "nome": "PORTA DIANTEIRA DIREITA PEUGEOT 308 ALLURE 1.6 FLEX 2013/13",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "308 ALLURE 1.6 FLEX 16V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -270,11 +440,11 @@
     "SP12501053941043": {
       "sku": "SP12501053941043",
       "id_produto": "21591",
-      "nome": "RODA SOBRES./ESTEPE",
+      "nome": "RODA ESTEPE 185/65 R15 88H PIRELLI CINTURATO P1",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -310,7 +480,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "308 ALLURE 1.6 FLEX 16V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -402,11 +572,11 @@
     "SP12501016710013": {
       "sku": "SP12501016710013",
       "id_produto": "19116",
-      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP COMPASS LONGITUDE 2.0 16/16",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS LONGITUDE 2.0 4X4 DIESEL 16V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -429,9 +599,9 @@
       "nome": "PORTA DIANTEIRA ESQUERDA CHEVROLET CELTA LIFE 1.0 2007/08",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA LIFE 1.0 MPFI 8V FLEXPOWER 3P",
-      "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "06",
       "qtd_images": "10"
     },
@@ -538,10 +708,10 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
-      "qtd_images": "18"
+      "qtd_images": "10"
     },
     "SP12501123591029": {
       "sku": "SP12501123591029",
@@ -790,19 +960,19 @@
       "marca": "CHERY",
       "modelo_do_veiculo": "TIGGO 7 T 1.5 16V TURBO FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
-      "qtd_images": "10"
+      "qtd_images": "6"
     },
     "SP12501015586014": {
       "sku": "SP12501015586014",
       "id_produto": "19096",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO RAM RAMPAGE LARAMIE 2.0 4X4 23/24",
       "marca": "RAM",
       "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -858,11 +1028,11 @@
     "SP12501103051029": {
       "sku": "SP12501103051029",
       "id_produto": "18496",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO CITROEN C3 EXCLUSIVE 1.4 FLEX 8V 2009",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUSIVE 1.4 FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -874,7 +1044,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA SED. 1.6 8V FLEX 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -990,11 +1160,11 @@
     "SP12501056290026": {
       "sku": "SP12501056290026",
       "id_produto": "21580",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FORD FIESTA 1.0 8V FLEX HATCH 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1082,6 +1252,30 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "11"
+    },
+    "SP12501103353033": {
+      "sku": "SP12501103353033",
+      "id_produto": "21723",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501103353028": {
+      "sku": "SP12501103353028",
+      "id_produto": "21721",
+      "nome": "PARA-CHOQUE DIANTEIRO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     }
   }
 }
