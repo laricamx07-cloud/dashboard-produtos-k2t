@@ -1,11 +1,11 @@
 {
   "data": "2026-09-24",
   "primeira_atualizacao": "24/09/2026 08:55:44",
-  "ultima_atualizacao": "24/09/2026 12:58:23",
+  "ultima_atualizacao": "24/09/2026 13:20:59",
   "total_base_dia": 46,
-  "total_atual": 54,
+  "total_atual": 53,
   "novos_produtos": 29,
-  "total_subidos": 21,
+  "total_subidos": 22,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -172,6 +172,7 @@
     "SP12501111666400",
     "SP12501111666411",
     "SP12501111674001",
+    "SP12501111674010",
     "SP12501111674011",
     "SP12501111674012",
     "SP12501111674026",
@@ -195,6 +196,7 @@
     "SP12501111666400",
     "SP12501111666411",
     "SP12501111674001",
+    "SP12501111674010",
     "SP12501111674011",
     "SP12501111674012",
     "SP12501111674026",
@@ -404,11 +406,11 @@
     {
       "sku": "SP12501111674010",
       "id_produto": "21815",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA TOYOTA ETIOS X 1.3 FLEX 16V 5P AUT. 2018/2019",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -666,6 +668,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111674010",
+      "id_produto": "21815",
+      "nome": "CHAVE DE SETA TOYOTA ETIOS X 1.3 FLEX 16V 5P AUT. 2018/2019",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501111674011",
@@ -1584,11 +1598,11 @@
     "SP12501111674010": {
       "sku": "SP12501111674010",
       "id_produto": "21815",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA TOYOTA ETIOS X 1.3 FLEX 16V 5P AUT. 2018/2019",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
