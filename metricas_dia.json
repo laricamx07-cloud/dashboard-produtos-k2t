@@ -1,10 +1,10 @@
 {
   "data": "2026-09-24",
   "primeira_atualizacao": "24/09/2026 08:55:44",
-  "ultima_atualizacao": "24/09/2026 17:51:37",
+  "ultima_atualizacao": "24/09/2026 18:21:56",
   "total_base_dia": 46,
-  "total_atual": 43,
-  "novos_produtos": 31,
+  "total_atual": 44,
+  "novos_produtos": 32,
   "total_subidos": 34,
   "skus_base_dia": [
     "SP12501004584032",
@@ -85,6 +85,7 @@
     "SP12501080361032",
     "SP12501083964039",
     "SP12501084790035",
+    "SP12501087749030",
     "SP12501100842007",
     "SP12501102470030",
     "SP12501102470045",
@@ -135,6 +136,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501056320034",
+    "SP12501087749030",
     "SP12501103361007",
     "SP12501103361028",
     "SP12501103361030",
@@ -250,6 +252,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501087749030",
+      "id_produto": "21913",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "Fox PRIME/Higli. 1.6 Total Flex 8V 5p",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501103361007",
@@ -510,8 +524,8 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
       "status": "Desabilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
     },
@@ -932,8 +946,8 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
       "status": "Desabilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
     },
@@ -1606,8 +1620,8 @@
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
       "status": "Desabilitado",
-      "status_ml": "paused",
-      "quantidade": "0",
+      "status_ml": "active",
+      "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
     },
@@ -1946,6 +1960,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501087749030": {
+      "sku": "SP12501087749030",
+      "id_produto": "21913",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "Fox PRIME/Higli. 1.6 Total Flex 8V 5p",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     }
   }
 }
