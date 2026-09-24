@@ -1,11 +1,11 @@
 {
   "data": "2026-09-24",
   "primeira_atualizacao": "24/09/2026 08:55:44",
-  "ultima_atualizacao": "24/09/2026 11:11:08",
+  "ultima_atualizacao": "24/09/2026 11:21:18",
   "total_base_dia": 46,
-  "total_atual": 47,
-  "novos_produtos": 7,
-  "total_subidos": 6,
+  "total_atual": 49,
+  "novos_produtos": 10,
+  "total_subidos": 7,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -100,28 +100,35 @@
     "SP12501111607041",
     "SP12501111607042",
     "SP12501111666004",
+    "SP12501111666036",
     "SP12501111666400",
+    "SP12501111674026",
     "SP12501111674032",
     "SP12501111674033",
     "SP12501111674034",
     "SP12501123451042",
     "SP32501000230059",
+    "SP32501000230060",
     "SP42501001064042",
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
     "SP12501056320034",
     "SP12501111666004",
+    "SP12501111666036",
     "SP12501111666400",
+    "SP12501111674026",
     "SP12501111674032",
     "SP12501111674033",
     "SP12501111674034",
-    "SP32501000230059"
+    "SP32501000230059",
+    "SP32501000230060"
   ],
   "skus_subidos_hoje": [
     "SP12501016779033",
     "SP12501056320034",
     "SP12501111666004",
+    "SP12501111666400",
     "SP12501111674032",
     "SP12501111674033",
     "SP12501111674034"
@@ -130,6 +137,7 @@
     "SP12501016779033",
     "SP12501056320034",
     "SP12501111666004",
+    "SP12501111666400",
     "SP12501111674032",
     "SP12501111674033",
     "SP12501111674034"
@@ -154,22 +162,46 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
     },
     {
-      "sku": "SP12501111666400",
-      "id_produto": "21808",
-      "nome": "MOTOR COMPLETO",
+      "sku": "SP12501111666036",
+      "id_produto": "21812",
+      "nome": "RADIADOR",
       "marca": "FORD",
-      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111666400",
+      "id_produto": "21808",
+      "nome": "MOTOR COMPLETO FORD KA 1.0 8V ST FLEX 3P 2009/2010",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111674026",
+      "id_produto": "21818",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501111674032",
@@ -210,14 +242,26 @@
     {
       "sku": "SP32501000230059",
       "id_produto": "21809",
-      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO RAM 3500 LIMITED LONGHORN 6.7 22",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP32501000230060",
+      "id_produto": "21823",
+      "nome": "DIFERENCIAL EIXO TRASEIRO 1",
+      "marca": "RAM",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -252,7 +296,19 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111666400",
+      "id_produto": "21808",
+      "nome": "MOTOR COMPLETO FORD KA 1.0 8V ST FLEX 3P 2009/2010",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -902,7 +958,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -910,10 +966,10 @@
     "SP32501000230059": {
       "sku": "SP32501000230059",
       "id_produto": "21809",
-      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO RAM 3500 LIMITED LONGHORN 6.7 22",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
@@ -922,14 +978,50 @@
     "SP12501111666400": {
       "sku": "SP12501111666400",
       "id_produto": "21808",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FORD KA 1.0 8V ST FLEX 3P 2009/2010",
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501111674026": {
+      "sku": "SP12501111674026",
+      "id_produto": "21818",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    "SP32501000230060": {
+      "sku": "SP32501000230060",
+      "id_produto": "21823",
+      "nome": "DIFERENCIAL EIXO TRASEIRO 1",
+      "marca": "RAM",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501111666036": {
+      "sku": "SP12501111666036",
+      "id_produto": "21812",
+      "nome": "RADIADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
-      "qtd_images": "10"
+      "qtd_images": "5"
     }
   }
 }
