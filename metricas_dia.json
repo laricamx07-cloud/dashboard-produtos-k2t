@@ -1,10 +1,10 @@
 {
   "data": "2026-09-24",
   "primeira_atualizacao": "24/09/2026 08:55:44",
-  "ultima_atualizacao": "24/09/2026 09:21:27",
+  "ultima_atualizacao": "24/09/2026 09:28:34",
   "total_base_dia": 46,
-  "total_atual": 46,
-  "novos_produtos": 0,
+  "total_atual": 47,
+  "novos_produtos": 1,
   "total_subidos": 0,
   "skus_base_dia": [
     "SP12501004584032",
@@ -78,6 +78,7 @@
     "SP12501056207039",
     "SP12501056207040",
     "SP12501056274042",
+    "SP12501056320034",
     "SP12501079959400",
     "SP12501080353034",
     "SP12501080353035",
@@ -102,10 +103,25 @@
     "SP42501001064042",
     "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501056320034"
+  ],
   "skus_subidos_hoje": [],
   "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501056320034",
+      "id_produto": "21803",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    }
+  ],
   "itens_subidos_hoje": [],
   "detalhes_skus_vistos_hoje": {
     "SP12501009888034": {
@@ -659,6 +675,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    "SP12501056320034": {
+      "sku": "SP12501056320034",
+      "id_produto": "21803",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
