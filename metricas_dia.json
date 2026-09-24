@@ -1,11 +1,11 @@
 {
   "data": "2026-09-24",
   "primeira_atualizacao": "24/09/2026 08:55:44",
-  "ultima_atualizacao": "24/09/2026 10:51:07",
+  "ultima_atualizacao": "24/09/2026 10:58:32",
   "total_base_dia": 46,
-  "total_atual": 50,
+  "total_atual": 49,
   "novos_produtos": 7,
-  "total_subidos": 3,
+  "total_subidos": 4,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -121,12 +121,14 @@
   "skus_subidos_hoje": [
     "SP12501016779033",
     "SP12501056320034",
-    "SP12501111674032"
+    "SP12501111674032",
+    "SP12501111674033"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501016779033",
     "SP12501056320034",
-    "SP12501111674032"
+    "SP12501111674032",
+    "SP12501111674033"
   ],
   "itens_novos_hoje": [
     {
@@ -180,11 +182,11 @@
     {
       "sku": "SP12501111674033",
       "id_produto": "21805",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA TOYOTA ETIOS X 1.3 FLEX 16V 2018/19",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
@@ -250,6 +252,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111674033",
+      "id_produto": "21805",
+      "nome": "PORTA DIANTEIRA ESQUERDA TOYOTA ETIOS X 1.3 FLEX 16V 2018/19",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -832,11 +846,11 @@
     "SP12501111674033": {
       "sku": "SP12501111674033",
       "id_produto": "21805",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA TOYOTA ETIOS X 1.3 FLEX 16V 2018/19",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "9"
