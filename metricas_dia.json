@@ -1,11 +1,11 @@
 {
   "data": "2026-09-24",
   "primeira_atualizacao": "24/09/2026 08:55:44",
-  "ultima_atualizacao": "24/09/2026 14:21:02",
+  "ultima_atualizacao": "24/09/2026 17:44:04",
   "total_base_dia": 46,
-  "total_atual": 52,
-  "novos_produtos": 29,
-  "total_subidos": 23,
+  "total_atual": 43,
+  "novos_produtos": 31,
+  "total_subidos": 34,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -98,6 +98,7 @@
     "SP12501103361033",
     "SP12501103361034",
     "SP12501103361035",
+    "SP12501103361400",
     "SP12501105631026",
     "SP12501109521034",
     "SP12501111593039",
@@ -125,6 +126,7 @@
     "SP12501111674037",
     "SP12501111674411",
     "SP12501111674424",
+    "SP12501111682400",
     "SP12501123451042",
     "SP32501000230059",
     "SP32501000230060",
@@ -141,6 +143,7 @@
     "SP12501103361033",
     "SP12501103361034",
     "SP12501103361035",
+    "SP12501103361400",
     "SP12501111666001",
     "SP12501111666004",
     "SP12501111666026",
@@ -159,14 +162,26 @@
     "SP12501111674037",
     "SP12501111674411",
     "SP12501111674424",
+    "SP12501111682400",
     "SP32501000230059",
     "SP32501000230060"
   ],
   "skus_subidos_hoje": [
+    "SP12501005300035",
+    "SP12501009713035",
+    "SP12501009730035",
+    "SP12501009802034",
+    "SP12501009888034",
     "SP12501016779033",
     "SP12501056320034",
+    "SP12501080353034",
+    "SP12501080361032",
     "SP12501103361028",
     "SP12501103361030",
+    "SP12501103361032",
+    "SP12501103361033",
+    "SP12501103361034",
+    "SP12501103361035",
     "SP12501111666001",
     "SP12501111666004",
     "SP12501111666036",
@@ -188,10 +203,21 @@
     "SP32501000230060"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501005300035",
+    "SP12501009713035",
+    "SP12501009730035",
+    "SP12501009802034",
+    "SP12501009888034",
     "SP12501016779033",
     "SP12501056320034",
+    "SP12501080353034",
+    "SP12501080361032",
     "SP12501103361028",
     "SP12501103361030",
+    "SP12501103361032",
+    "SP12501103361033",
+    "SP12501103361034",
+    "SP12501103361035",
     "SP12501111666001",
     "SP12501111666004",
     "SP12501111666036",
@@ -276,11 +302,11 @@
     {
       "sku": "SP12501103361032",
       "id_produto": "21831",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT MOBI LIKE 1.0 FIRE FLEX 23/24",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -288,11 +314,11 @@
     {
       "sku": "SP12501103361033",
       "id_produto": "21832",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FIAT MOBI LIKE 1.0 FIRE FLEX 2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -300,11 +326,11 @@
     {
       "sku": "SP12501103361034",
       "id_produto": "21833",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -312,14 +338,26 @@
     {
       "sku": "SP12501103361035",
       "id_produto": "21834",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA FIAT MOBI LIKE 1.0 FIRE FLEX 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103361400",
+      "id_produto": "21853",
+      "nome": "MOTOR COMPLETO",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "10"
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501111666001",
@@ -471,9 +509,9 @@
       "nome": "PORTA DIANTEIRA ESQUERDA TOYOTA ETIOS X 1.3 FLEX 16V 2018/19",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
-      "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "06",
       "qtd_images": "9"
     },
@@ -538,6 +576,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501111682400",
+      "id_produto": "21835",
+      "nome": "MOTOR COMPLETO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP32501000230059",
       "id_produto": "21809",
       "nome": "DIFERENCIAL EIXO DIANTEIRO RAM 3500 LIMITED LONGHORN 6.7 22",
@@ -564,6 +614,66 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501005300035",
+      "id_produto": "4549",
+      "nome": "PORTA TRASEIRA ESQUERDA JEEP COMPASS LONG T270 1.3 2024/2025",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS LONG. T270 1.3 TB 4X2 FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501009713035",
+      "id_produto": "4591",
+      "nome": "PORTA TRASEIRA ESQUERDA HONDA FIT EX/S PRATA 1.5 2017/18",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": "closed",
+      "quantidade": "0",
+      "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501009730035",
+      "id_produto": "4567",
+      "nome": "PORTA TRASEIRA ESQUERDA HYUNDAI HB20 COMFORT BRANCO 2016",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 COMFORT STYLE 1.0 TB FLEX 12V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501009802034",
+      "id_produto": "8664",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT LOGAN AUTH. HI-FLEX 1.0 15/16",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN AUTHENTIQUE HI-FLEX 1.0 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "11"
+    },
+    {
+      "sku": "SP12501009888034",
+      "id_produto": "4605",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET COBALT GRAPHITE BRANCO 2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "COBALT GRAPHITE 1.8 8V ECONO.FLEX 4P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501016779033",
       "id_produto": "2322",
       "nome": "PORTA DIANTEIRA ESQUERDA JEEP COMMANDER 1.3 AZUL 2021/2022",
@@ -588,6 +698,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501080353034",
+      "id_produto": "8853",
+      "nome": "PORTA TRASEIRA DIREITA CITROËN C3 ATTRACTION 1.2 FLEX 15/16",
+      "marca": "CITROËN",
+      "modelo_do_veiculo": "C3 ATTRACTION PURE TECH 1.2 FLEX 12V MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501080361032",
+      "id_produto": "5624",
+      "nome": "PORTA DIANTEIRA DIREITA CHERRY ARRIZO 6 PRO PRETO 1.5 22/23",
+      "marca": "CHERRY",
+      "modelo_do_veiculo": "ARRIZO 6 PRO 1.5 TURBO (HÍBRIDO)",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103361028",
       "id_produto": "21828",
       "nome": "PARA-CHOQUE DIANTEIRO FIAT MOBI LIKE 1.0 FIRE FLEX 23/24",
@@ -610,6 +744,54 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103361032",
+      "id_produto": "21831",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT MOBI LIKE 1.0 FIRE FLEX 23/24",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103361033",
+      "id_produto": "21832",
+      "nome": "PORTA DIANTEIRA ESQUERDA FIAT MOBI LIKE 1.0 FIRE FLEX 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103361034",
+      "id_produto": "21833",
+      "nome": "PORTA TRASEIRA DIREITA FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103361035",
+      "id_produto": "21834",
+      "nome": "PORTA TRASEIRA ESQUERDA FIAT MOBI LIKE 1.0 FIRE FLEX 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501111666001",
@@ -749,9 +931,9 @@
       "nome": "PORTA DIANTEIRA ESQUERDA TOYOTA ETIOS X 1.3 FLEX 16V 2018/19",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
-      "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "06",
       "qtd_images": "9"
     },
@@ -848,10 +1030,10 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "COBALT GRAPHITE 1.8 8V ECONO.FLEX 4P AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
-      "qtd_images": "8"
+      "qtd_images": "6"
     },
     "SP12501084790035": {
       "sku": "SP12501084790035",
@@ -928,11 +1110,11 @@
     "SP12501009802034": {
       "sku": "SP12501009802034",
       "id_produto": "8664",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT LOGAN AUTH. HI-FLEX 1.0 15/16",
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN AUTHENTIQUE HI-FLEX 1.0 16V 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "11"
@@ -964,14 +1146,14 @@
     "SP12501009730035": {
       "sku": "SP12501009730035",
       "id_produto": "4567",
-      "nome": "PORTA TRASEIRA ESQUERDA HYUNDAI  HB20 COMFORT BRANCO 2016",
+      "nome": "PORTA TRASEIRA ESQUERDA HYUNDAI HB20 COMFORT BRANCO 2016",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 COMFORT STYLE 1.0 TB FLEX 12V MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
-      "qtd_images": "8"
+      "qtd_images": "6"
     },
     "SP12501080353034": {
       "sku": "SP12501080353034",
@@ -980,7 +1162,7 @@
       "marca": "CITROËN",
       "modelo_do_veiculo": "C3 ATTRACTION PURE TECH 1.2 FLEX 12V MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -1163,7 +1345,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "8",
-      "qtd_images": "8"
+      "qtd_images": "7"
     },
     "SP12501040874034": {
       "sku": "SP12501040874034",
@@ -1192,14 +1374,14 @@
     "SP12501080361032": {
       "sku": "SP12501080361032",
       "id_produto": "5624",
-      "nome": "PORTA DIANTEIRA DIREITA CHERRY ARRIZO 6 PRO PRETO 1.5 2022/23",
+      "nome": "PORTA DIANTEIRA DIREITA CHERRY ARRIZO 6 PRO PRETO 1.5 22/23",
       "marca": "CHERRY",
       "modelo_do_veiculo": "ARRIZO 6 PRO 1.5 TURBO (HÍBRIDO)",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "8"
+      "qtd_images": "7"
     },
     "SP12501005300035": {
       "sku": "SP12501005300035",
@@ -1208,10 +1390,10 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "COMPASS LONG. T270 1.3 TB 4X2 FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "11"
+      "qtd_images": "9"
     },
     "SP12501005173484": {
       "sku": "SP12501005173484",
@@ -1271,7 +1453,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "9"
+      "qtd_images": "7"
     },
     "SP12501111593040": {
       "sku": "SP12501111593040",
@@ -1327,11 +1509,11 @@
       "nome": "PORTA TRASEIRA ESQUERDA HONDA FIT EX/S PRATA 1.5 2017/18",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT.",
-      "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "closed",
+      "quantidade": "0",
       "classificacao": "9",
-      "qtd_images": "8"
+      "qtd_images": "6"
     },
     "SP12501111607041": {
       "sku": "SP12501111607041",
@@ -1423,9 +1605,9 @@
       "nome": "PORTA DIANTEIRA ESQUERDA TOYOTA ETIOS X 1.3 FLEX 16V 2018/19",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
-      "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "06",
       "qtd_images": "9"
     },
@@ -1648,11 +1830,11 @@
     "SP12501103361033": {
       "sku": "SP12501103361033",
       "id_produto": "21832",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FIAT MOBI LIKE 1.0 FIRE FLEX 2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1684,11 +1866,11 @@
     "SP12501103361032": {
       "sku": "SP12501103361032",
       "id_produto": "21831",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT MOBI LIKE 1.0 FIRE FLEX 23/24",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1696,11 +1878,11 @@
     "SP12501103361034": {
       "sku": "SP12501103361034",
       "id_produto": "21833",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1732,13 +1914,37 @@
     "SP12501103361035": {
       "sku": "SP12501103361035",
       "id_produto": "21834",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA FIAT MOBI LIKE 1.0 FIRE FLEX 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501103361400": {
+      "sku": "SP12501103361400",
+      "id_produto": "21853",
+      "nome": "MOTOR COMPLETO",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "9"
+    },
+    "SP12501111682400": {
+      "sku": "SP12501111682400",
+      "id_produto": "21835",
+      "nome": "MOTOR COMPLETO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "10"
     }
   }
