@@ -1,11 +1,11 @@
 {
   "data": "2026-09-24",
   "primeira_atualizacao": "24/09/2026 08:55:44",
-  "ultima_atualizacao": "24/09/2026 10:28:35",
+  "ultima_atualizacao": "24/09/2026 10:51:07",
   "total_base_dia": 46,
-  "total_atual": 49,
-  "novos_produtos": 5,
-  "total_subidos": 2,
+  "total_atual": 50,
+  "novos_produtos": 7,
+  "total_subidos": 3,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -100,27 +100,33 @@
     "SP12501111607041",
     "SP12501111607042",
     "SP12501111666004",
+    "SP12501111666400",
     "SP12501111674032",
     "SP12501111674033",
     "SP12501111674034",
     "SP12501123451042",
+    "SP32501000230059",
     "SP42501001064042",
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
     "SP12501056320034",
     "SP12501111666004",
+    "SP12501111666400",
     "SP12501111674032",
     "SP12501111674033",
-    "SP12501111674034"
+    "SP12501111674034",
+    "SP32501000230059"
   ],
   "skus_subidos_hoje": [
     "SP12501016779033",
-    "SP12501056320034"
+    "SP12501056320034",
+    "SP12501111674032"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501016779033",
-    "SP12501056320034"
+    "SP12501056320034",
+    "SP12501111674032"
   ],
   "itens_novos_hoje": [
     {
@@ -140,7 +146,19 @@
       "id_produto": "21807",
       "nome": "CÂMBIO MANUAL",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111666400",
+      "id_produto": "21808",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -150,11 +168,11 @@
     {
       "sku": "SP12501111674032",
       "id_produto": "21804",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA TOYOTA ETIOS X 1.3 FLEX 16V 2018/19",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -182,6 +200,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP32501000230059",
+      "id_produto": "21809",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     }
   ],
   "itens_subidos_hoje": [
@@ -207,6 +237,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111674032",
+      "id_produto": "21804",
+      "nome": "PORTA DIANTEIRA DIREITA TOYOTA ETIOS X 1.3 FLEX 16V 2018/19",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     }
   ],
@@ -778,11 +820,11 @@
     "SP12501111674032": {
       "sku": "SP12501111674032",
       "id_produto": "21804",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA TOYOTA ETIOS X 1.3 FLEX 16V 2018/19",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS X 1.3 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -816,7 +858,31 @@
       "id_produto": "21807",
       "nome": "CÂMBIO MANUAL",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP32501000230059": {
+      "sku": "SP32501000230059",
+      "id_produto": "21809",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    "SP12501111666400": {
+      "sku": "SP12501111666400",
+      "id_produto": "21808",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
