@@ -1,11 +1,11 @@
 {
   "data": "2026-09-24",
   "primeira_atualizacao": "24/09/2026 08:55:44",
-  "ultima_atualizacao": "24/09/2026 13:28:12",
+  "ultima_atualizacao": "24/09/2026 13:50:55",
   "total_base_dia": 46,
-  "total_atual": 53,
+  "total_atual": 52,
   "novos_produtos": 29,
-  "total_subidos": 22,
+  "total_subidos": 23,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -166,6 +166,7 @@
     "SP12501016779033",
     "SP12501056320034",
     "SP12501103361028",
+    "SP12501103361030",
     "SP12501111666001",
     "SP12501111666004",
     "SP12501111666036",
@@ -190,6 +191,7 @@
     "SP12501016779033",
     "SP12501056320034",
     "SP12501103361028",
+    "SP12501103361030",
     "SP12501111666001",
     "SP12501111666004",
     "SP12501111666036",
@@ -250,11 +252,11 @@
     {
       "sku": "SP12501103361030",
       "id_produto": "21829",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT MOBI LIKE 1.0 FIRE FLEX",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -596,6 +598,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103361030",
+      "id_produto": "21829",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT MOBI LIKE 1.0 FIRE FLEX",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501111666001",
@@ -1694,11 +1708,11 @@
     "SP12501103361030": {
       "sku": "SP12501103361030",
       "id_produto": "21829",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT MOBI LIKE 1.0 FIRE FLEX",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
