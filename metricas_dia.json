@@ -1,11 +1,11 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 13:21:07",
+  "ultima_atualizacao": "25/09/2026 13:50:53",
   "total_base_dia": 44,
-  "total_atual": 68,
+  "total_atual": 65,
   "novos_produtos": 43,
-  "total_subidos": 17,
+  "total_subidos": 20,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -196,6 +196,7 @@
     "SP12501111682032",
     "SP12501111682400",
     "SP32501000230083",
+    "SP32501000230806",
     "SP32501000230845",
     "SP32501000230846",
     "SP32501000230847",
@@ -203,7 +204,9 @@
     "SP32501000230872",
     "SP32501000230882",
     "SP32501000230900",
-    "SP32501000230910"
+    "SP32501000230910",
+    "SP32501000230939",
+    "SP32501000230970"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015241034",
@@ -215,6 +218,7 @@
     "SP12501111682032",
     "SP12501111682400",
     "SP32501000230083",
+    "SP32501000230806",
     "SP32501000230845",
     "SP32501000230846",
     "SP32501000230847",
@@ -222,7 +226,9 @@
     "SP32501000230872",
     "SP32501000230882",
     "SP32501000230900",
-    "SP32501000230910"
+    "SP32501000230910",
+    "SP32501000230939",
+    "SP32501000230970"
   ],
   "itens_novos_hoje": [
     {
@@ -348,11 +354,11 @@
     {
       "sku": "SP32501000230806",
       "id_produto": "21931",
-      "nome": "CENTRAL/ MÓDULO INJEÇÃO ARLA SCR",
+      "nome": "CENTRAL/ MÓDULO INJEÇÃO ARLA SCR RAM 3500 LIMITED",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -576,11 +582,11 @@
     {
       "sku": "SP32501000230939",
       "id_produto": "21945",
-      "nome": "AMORTECEDOR DO CAPÔ LADO DIREITO",
+      "nome": "AMORTECEDOR DO CAPÔ LADO DIREITO RAM 3500 LIMITED 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -708,11 +714,11 @@
     {
       "sku": "SP32501000230970",
       "id_produto": "21957",
-      "nome": "RETROVISOR INTERNO ( COMPLETO )",
+      "nome": "RETROVISOR INTERNO ( COMPLETO ) RAM 3500 LIMITED 6.7",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -852,6 +858,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP32501000230806",
+      "id_produto": "21931",
+      "nome": "CENTRAL/ MÓDULO INJEÇÃO ARLA SCR RAM 3500 LIMITED",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP32501000230845",
       "id_produto": "21922",
       "nome": "FORRO PORTA DIANTEIRO DIREITO RAM 3500 LIMITED LONGHORN 6.7",
@@ -946,6 +964,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP32501000230939",
+      "id_produto": "21945",
+      "nome": "AMORTECEDOR DO CAPÔ LADO DIREITO RAM 3500 LIMITED 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP32501000230970",
+      "id_produto": "21957",
+      "nome": "RETROVISOR INTERNO ( COMPLETO ) RAM 3500 LIMITED 6.7",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1756,11 +1798,11 @@
     "SP32501000230939": {
       "sku": "SP32501000230939",
       "id_produto": "21945",
-      "nome": "AMORTECEDOR DO CAPÔ LADO DIREITO",
+      "nome": "AMORTECEDOR DO CAPÔ LADO DIREITO RAM 3500 LIMITED 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1840,11 +1882,11 @@
     "SP32501000230806": {
       "sku": "SP32501000230806",
       "id_produto": "21931",
-      "nome": "CENTRAL/ MÓDULO INJEÇÃO ARLA SCR",
+      "nome": "CENTRAL/ MÓDULO INJEÇÃO ARLA SCR RAM 3500 LIMITED",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1876,11 +1918,11 @@
     "SP32501000230970": {
       "sku": "SP32501000230970",
       "id_produto": "21957",
-      "nome": "RETROVISOR INTERNO ( COMPLETO )",
+      "nome": "RETROVISOR INTERNO ( COMPLETO ) RAM 3500 LIMITED 6.7",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
