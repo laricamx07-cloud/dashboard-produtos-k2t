@@ -1,11 +1,11 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 14:59:56",
+  "ultima_atualizacao": "25/09/2026 15:21:21",
   "total_base_dia": 44,
   "total_atual": 67,
-  "novos_produtos": 45,
-  "total_subidos": 20,
+  "novos_produtos": 46,
+  "total_subidos": 21,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -97,6 +97,7 @@
     "SP12501111682011",
     "SP12501111682030",
     "SP12501111682032",
+    "SP12501111682038",
     "SP12501111682400",
     "SP12501123451042",
     "SP32501000230034",
@@ -148,6 +149,7 @@
     "SP12501111682011",
     "SP12501111682030",
     "SP12501111682032",
+    "SP12501111682038",
     "SP32501000230034",
     "SP32501000230082",
     "SP32501000230083",
@@ -201,6 +203,7 @@
     "SP12501111682400",
     "SP32501000230083",
     "SP32501000230806",
+    "SP32501000230836",
     "SP32501000230845",
     "SP32501000230846",
     "SP32501000230847",
@@ -223,6 +226,7 @@
     "SP12501111682400",
     "SP32501000230083",
     "SP32501000230806",
+    "SP32501000230836",
     "SP32501000230845",
     "SP32501000230846",
     "SP32501000230847",
@@ -282,6 +286,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501111682038",
+      "id_produto": "21971",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     },
     {
       "sku": "SP32501000230034",
@@ -394,11 +410,11 @@
     {
       "sku": "SP32501000230836",
       "id_produto": "21932",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA RAM 3500 LIMITED LONGHORN 6.7 TB CD DIESEL 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -896,6 +912,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP32501000230836",
+      "id_produto": "21932",
+      "nome": "MULTIMÍDIA RAM 3500 LIMITED LONGHORN 6.7 TB CD DIESEL 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     },
     {
       "sku": "SP32501000230845",
@@ -1886,11 +1914,11 @@
     "SP32501000230836": {
       "sku": "SP32501000230836",
       "id_produto": "21932",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA RAM 3500 LIMITED LONGHORN 6.7 TB CD DIESEL 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -2086,6 +2114,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    "SP12501111682038": {
+      "sku": "SP12501111682038",
+      "id_produto": "21971",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     }
   }
 }
