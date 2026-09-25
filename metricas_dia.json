@@ -1,11 +1,11 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 12:51:08",
+  "ultima_atualizacao": "25/09/2026 13:21:07",
   "total_base_dia": 44,
-  "total_atual": 71,
+  "total_atual": 68,
   "novos_produtos": 43,
-  "total_subidos": 14,
+  "total_subidos": 17,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -200,7 +200,10 @@
     "SP32501000230846",
     "SP32501000230847",
     "SP32501000230848",
-    "SP32501000230882"
+    "SP32501000230872",
+    "SP32501000230882",
+    "SP32501000230900",
+    "SP32501000230910"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015241034",
@@ -216,7 +219,10 @@
     "SP32501000230846",
     "SP32501000230847",
     "SP32501000230848",
-    "SP32501000230882"
+    "SP32501000230872",
+    "SP32501000230882",
+    "SP32501000230900",
+    "SP32501000230910"
   ],
   "itens_novos_hoje": [
     {
@@ -486,11 +492,11 @@
     {
       "sku": "SP32501000230872",
       "id_produto": "21939",
-      "nome": "COMANDO VIDRO TRASEIRO DIREITO",
+      "nome": "COMANDO VIDRO TRASEIRO DIREITO RAM 3500 LIMITED LONGHORN 6.7",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -546,11 +552,11 @@
     {
       "sku": "SP32501000230900",
       "id_produto": "21943",
-      "nome": "PEDAL ACELERADOR ELETRÔNICO",
+      "nome": "PEDAL ACELERADOR ELETRÔNICO RAM 3500 LIMITED LONGHORN 6.7 22",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -558,11 +564,11 @@
     {
       "sku": "SP32501000230910",
       "id_produto": "21944",
-      "nome": "PORTA-OBJETOS",
+      "nome": "PORTA-OBJETOS RAM 3500 LIMITED LONGHORN 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -894,6 +900,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP32501000230872",
+      "id_produto": "21939",
+      "nome": "COMANDO VIDRO TRASEIRO DIREITO RAM 3500 LIMITED LONGHORN 6.7",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP32501000230882",
       "id_produto": "21926",
       "nome": "CATALISADOR SECUNDÁRIO RAM 3500 LIMITED LONGHORN 6.7 2022",
@@ -904,6 +922,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP32501000230900",
+      "id_produto": "21943",
+      "nome": "PEDAL ACELERADOR ELETRÔNICO RAM 3500 LIMITED LONGHORN 6.7 22",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP32501000230910",
+      "id_produto": "21944",
+      "nome": "PORTA-OBJETOS RAM 3500 LIMITED LONGHORN 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1606,11 +1648,11 @@
     "SP32501000230900": {
       "sku": "SP32501000230900",
       "id_produto": "21943",
-      "nome": "PEDAL ACELERADOR ELETRÔNICO",
+      "nome": "PEDAL ACELERADOR ELETRÔNICO RAM 3500 LIMITED LONGHORN 6.7 22",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1630,11 +1672,11 @@
     "SP32501000230872": {
       "sku": "SP32501000230872",
       "id_produto": "21939",
-      "nome": "COMANDO VIDRO TRASEIRO DIREITO",
+      "nome": "COMANDO VIDRO TRASEIRO DIREITO RAM 3500 LIMITED LONGHORN 6.7",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1702,11 +1744,11 @@
     "SP32501000230910": {
       "sku": "SP32501000230910",
       "id_produto": "21944",
-      "nome": "PORTA-OBJETOS",
+      "nome": "PORTA-OBJETOS RAM 3500 LIMITED LONGHORN 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
