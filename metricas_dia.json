@@ -1,10 +1,10 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 13:50:53",
+  "ultima_atualizacao": "25/09/2026 14:59:56",
   "total_base_dia": 44,
-  "total_atual": 65,
-  "novos_produtos": 43,
+  "total_atual": 67,
+  "novos_produtos": 45,
   "total_subidos": 20,
   "skus_base_dia": [
     "SP12501004584032",
@@ -93,6 +93,8 @@
     "SP12501111607041",
     "SP12501111607042",
     "SP12501111666026",
+    "SP12501111682001",
+    "SP12501111682011",
     "SP12501111682030",
     "SP12501111682032",
     "SP12501111682400",
@@ -142,6 +144,8 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501111682001",
+    "SP12501111682011",
     "SP12501111682030",
     "SP12501111682032",
     "SP32501000230034",
@@ -231,6 +235,30 @@
     "SP32501000230970"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501111682001",
+      "id_produto": "21960",
+      "nome": "ALTERNADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501111682011",
+      "id_produto": "21961",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
     {
       "sku": "SP12501111682030",
       "id_produto": "21915",
@@ -358,7 +386,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -864,7 +892,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1886,7 +1914,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -2033,6 +2061,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501111682011": {
+      "sku": "SP12501111682011",
+      "id_produto": "21961",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    "SP12501111682001": {
+      "sku": "SP12501111682001",
+      "id_produto": "21960",
+      "nome": "ALTERNADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "5"
     }
   }
