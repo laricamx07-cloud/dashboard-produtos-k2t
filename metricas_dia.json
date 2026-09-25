@@ -1,11 +1,11 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 16:51:13",
+  "ultima_atualizacao": "25/09/2026 17:21:19",
   "total_base_dia": 44,
-  "total_atual": 86,
+  "total_atual": 79,
   "novos_produtos": 74,
-  "total_subidos": 30,
+  "total_subidos": 37,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -250,10 +250,16 @@
   ],
   "skus_subidos_hoje": [
     "SP12501004584032",
+    "SP12501010312034",
     "SP12501015241034",
     "SP12501015586034",
+    "SP12501041145437",
+    "SP12501056312032",
+    "SP12501056312034",
     "SP12501087749030",
+    "SP12501103361001",
     "SP12501103361007",
+    "SP12501103361010",
     "SP12501103361031",
     "SP12501103361400",
     "SP12501111666026",
@@ -278,14 +284,21 @@
     "SP32501000230939",
     "SP32501000230941",
     "SP32501000230942",
+    "SP32501000230953",
     "SP32501000230970"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004584032",
+    "SP12501010312034",
     "SP12501015241034",
     "SP12501015586034",
+    "SP12501041145437",
+    "SP12501056312032",
+    "SP12501056312034",
     "SP12501087749030",
+    "SP12501103361001",
     "SP12501103361007",
+    "SP12501103361010",
     "SP12501103361031",
     "SP12501103361400",
     "SP12501111666026",
@@ -310,6 +323,7 @@
     "SP32501000230939",
     "SP32501000230941",
     "SP32501000230942",
+    "SP32501000230953",
     "SP32501000230970"
   ],
   "itens_novos_hoje": [
@@ -388,11 +402,11 @@
     {
       "sku": "SP12501056312032",
       "id_produto": "21982",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA HYUNDAI CRETA ATTITUDE 1.6 16V FLEX",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -412,11 +426,11 @@
     {
       "sku": "SP12501056312034",
       "id_produto": "21984",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA HYUNDAI CRETA ATTITUDE 1.6 16V 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -472,11 +486,11 @@
     {
       "sku": "SP12501103361001",
       "id_produto": "21988",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -484,11 +498,11 @@
     {
       "sku": "SP12501103361010",
       "id_produto": "21989",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1084,11 +1098,11 @@
     {
       "sku": "SP32501000230953",
       "id_produto": "21949",
-      "nome": "MOLDURA DA SOLEIRA PORTA DIANTEIRA DIREI",
+      "nome": "MOLDURA DA SOLEIRA PORTA DIANTEIRA DIREI RAM 3500 LIMITED",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1216,6 +1230,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501010312034",
+      "id_produto": "5628",
+      "nome": "PORTA TRASEIRA DIREITA HONDA HR-V TOURING 1.8 PRATA 2018",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "HR-V TOURING 1.8 FLEXONE 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": "closed",
+      "quantidade": "0",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501015241034",
       "id_produto": "4194",
       "nome": "PORTA TRASEIRA DIR HONDA FIT EX/S 1.5 FLEX/FLEXONE 16V 12/13",
@@ -1240,6 +1266,42 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501041145437",
+      "id_produto": "6352",
+      "nome": "PNEU 215/45 R17 91V HANKOOK VENTUS V2 CONCEPT",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.6 MSI FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "6",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056312032",
+      "id_produto": "21982",
+      "nome": "PORTA DIANTEIRA DIREITA HYUNDAI CRETA ATTITUDE 1.6 16V FLEX",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056312034",
+      "id_produto": "21984",
+      "nome": "PORTA TRASEIRA DIREITA HYUNDAI CRETA ATTITUDE 1.6 16V 2021",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501087749030",
       "id_produto": "21913",
       "nome": "PARA-LAMA DIANTEIRO DIREITO VOLKSWAGEN Fox PRIME/Higli. 1.6",
@@ -1252,6 +1314,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501103361001",
+      "id_produto": "21988",
+      "nome": "ALTERNADOR FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103361007",
       "id_produto": "21827",
       "nome": "CAPÔ FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
@@ -1262,6 +1336,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103361010",
+      "id_produto": "21989",
+      "nome": "CHAVE DE SETA FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103361031",
@@ -1552,6 +1638,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP32501000230953",
+      "id_produto": "21949",
+      "nome": "MOLDURA DA SOLEIRA PORTA DIANTEIRA DIREI RAM 3500 LIMITED",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP32501000230970",
       "id_produto": "21957",
       "nome": "RETROVISOR INTERNO ( COMPLETO ) RAM 3500 LIMITED 6.7",
@@ -1607,9 +1705,9 @@
       "nome": "PORTA TRASEIRA DIREITA HONDA HR-V TOURING 1.8 PRATA 2018",
       "marca": "HONDA",
       "modelo_do_veiculo": "HR-V TOURING 1.8 FLEXONE 16V 5P AUT.",
-      "status": "Habilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "closed",
+      "quantidade": "0",
       "classificacao": "9",
       "qtd_images": "7"
     },
@@ -1772,11 +1870,11 @@
     "SP12501041145437": {
       "sku": "SP12501041145437",
       "id_produto": "6352",
-      "nome": "PNEU TO 205/40 R17 34V DD Tubeless Radial",
+      "nome": "PNEU 215/45 R17 91V HANKOOK VENTUS V2 CONCEPT",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.6 MSI FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "8"
@@ -2480,11 +2578,11 @@
     "SP32501000230953": {
       "sku": "SP32501000230953",
       "id_produto": "21949",
-      "nome": "MOLDURA DA SOLEIRA PORTA DIANTEIRA DIREI",
+      "nome": "MOLDURA DA SOLEIRA PORTA DIANTEIRA DIREI RAM 3500 LIMITED",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2792,11 +2890,11 @@
     "SP12501056312032": {
       "sku": "SP12501056312032",
       "id_produto": "21982",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA HYUNDAI CRETA ATTITUDE 1.6 16V FLEX",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2828,11 +2926,11 @@
     "SP12501056312034": {
       "sku": "SP12501056312034",
       "id_produto": "21984",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA HYUNDAI CRETA ATTITUDE 1.6 16V 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -2864,11 +2962,11 @@
     "SP12501103361001": {
       "sku": "SP12501103361001",
       "id_produto": "21988",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2924,11 +3022,11 @@
     "SP12501103361010": {
       "sku": "SP12501103361010",
       "id_produto": "21989",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
