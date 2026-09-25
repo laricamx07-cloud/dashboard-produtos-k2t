@@ -1,11 +1,11 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 11:21:13",
+  "ultima_atualizacao": "25/09/2026 11:51:06",
   "total_base_dia": 44,
-  "total_atual": 48,
+  "total_atual": 46,
   "novos_produtos": 12,
-  "total_subidos": 8,
+  "total_subidos": 10,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -132,7 +132,9 @@
     "SP12501111666026",
     "SP12501111682030",
     "SP12501111682032",
-    "SP12501111682400"
+    "SP12501111682400",
+    "SP32501000230848",
+    "SP32501000230882"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015241034",
@@ -142,7 +144,9 @@
     "SP12501111666026",
     "SP12501111682030",
     "SP12501111682032",
-    "SP12501111682400"
+    "SP12501111682400",
+    "SP32501000230848",
+    "SP32501000230882"
   ],
   "itens_novos_hoje": [
     {
@@ -222,7 +226,7 @@
       "id_produto": "21927",
       "nome": "CONVERSOR CATALÍTICO",
       "marca": "RAM",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -268,11 +272,11 @@
     {
       "sku": "SP32501000230848",
       "id_produto": "21925",
-      "nome": "FORRO PORTA TRASEIRO ESQUERDO",
+      "nome": "FORRO PORTA TRASEIRO ESQUERDO RAM 3500 LIMITED LONGHORN 6.7",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -280,11 +284,11 @@
     {
       "sku": "SP32501000230882",
       "id_produto": "21926",
-      "nome": "CATALISADOR SECUNDÁRIO",
+      "nome": "CATALISADOR SECUNDÁRIO RAM 3500 LIMITED LONGHORN 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -385,6 +389,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP32501000230848",
+      "id_produto": "21925",
+      "nome": "FORRO PORTA TRASEIRO ESQUERDO RAM 3500 LIMITED LONGHORN 6.7",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP32501000230882",
+      "id_produto": "21926",
+      "nome": "CATALISADOR SECUNDÁRIO RAM 3500 LIMITED LONGHORN 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "10"
     }
   ],
@@ -992,11 +1020,11 @@
     "SP32501000230882": {
       "sku": "SP32501000230882",
       "id_produto": "21926",
-      "nome": "CATALISADOR SECUNDÁRIO",
+      "nome": "CATALISADOR SECUNDÁRIO RAM 3500 LIMITED LONGHORN 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1016,11 +1044,11 @@
     "SP32501000230848": {
       "sku": "SP32501000230848",
       "id_produto": "21925",
-      "nome": "FORRO PORTA TRASEIRO ESQUERDO",
+      "nome": "FORRO PORTA TRASEIRO ESQUERDO RAM 3500 LIMITED LONGHORN 6.7",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1054,7 +1082,7 @@
       "id_produto": "21927",
       "nome": "CONVERSOR CATALÍTICO",
       "marca": "RAM",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
