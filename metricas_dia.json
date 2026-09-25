@@ -1,10 +1,10 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 10:51:18",
+  "ultima_atualizacao": "25/09/2026 11:21:13",
   "total_base_dia": 44,
-  "total_atual": 47,
-  "novos_produtos": 11,
+  "total_atual": 48,
+  "novos_produtos": 12,
   "total_subidos": 8,
   "skus_base_dia": [
     "SP12501004584032",
@@ -101,6 +101,7 @@
     "SP32501000230082",
     "SP32501000230083",
     "SP32501000230115",
+    "SP32501000230804",
     "SP32501000230845",
     "SP32501000230846",
     "SP32501000230847",
@@ -116,6 +117,7 @@
     "SP32501000230082",
     "SP32501000230083",
     "SP32501000230115",
+    "SP32501000230804",
     "SP32501000230845",
     "SP32501000230846",
     "SP32501000230847",
@@ -209,6 +211,18 @@
       "nome": "TANQUE DE COMBUTÍVEL 1",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP32501000230804",
+      "id_produto": "21927",
+      "nome": "CONVERSOR CATALÍTICO",
+      "marca": "RAM",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -1034,6 +1048,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    "SP32501000230804": {
+      "sku": "SP32501000230804",
+      "id_produto": "21927",
+      "nome": "CONVERSOR CATALÍTICO",
+      "marca": "RAM",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     }
   }
 }
