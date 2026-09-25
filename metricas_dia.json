@@ -1,11 +1,11 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 15:51:13",
+  "ultima_atualizacao": "25/09/2026 16:21:24",
   "total_base_dia": 44,
-  "total_atual": 77,
-  "novos_produtos": 58,
-  "total_subidos": 23,
+  "total_atual": 81,
+  "novos_produtos": 64,
+  "total_subidos": 25,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -70,6 +70,12 @@
     "SP12501056207039",
     "SP12501056207040",
     "SP12501056274042",
+    "SP12501056312019",
+    "SP12501056312020",
+    "SP12501056312030",
+    "SP12501056312031",
+    "SP12501056312032",
+    "SP12501056312034",
     "SP12501079959400",
     "SP12501080353035",
     "SP12501083964039",
@@ -157,6 +163,12 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501056312019",
+    "SP12501056312020",
+    "SP12501056312030",
+    "SP12501056312031",
+    "SP12501056312032",
+    "SP12501056312034",
     "SP12501103310026",
     "SP12501103361012",
     "SP12501103361024",
@@ -233,7 +245,9 @@
     "SP32501000230846",
     "SP32501000230847",
     "SP32501000230848",
+    "SP32501000230863",
     "SP32501000230869",
+    "SP32501000230870",
     "SP32501000230872",
     "SP32501000230882",
     "SP32501000230900",
@@ -258,7 +272,9 @@
     "SP32501000230846",
     "SP32501000230847",
     "SP32501000230848",
+    "SP32501000230863",
     "SP32501000230869",
+    "SP32501000230870",
     "SP32501000230872",
     "SP32501000230882",
     "SP32501000230900",
@@ -267,6 +283,78 @@
     "SP32501000230970"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501056312019",
+      "id_produto": "21978",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056312020",
+      "id_produto": "21979",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501056312030",
+      "id_produto": "21980",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056312031",
+      "id_produto": "21981",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056312032",
+      "id_produto": "21982",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056312034",
+      "id_produto": "21984",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501103310026",
       "id_produto": "21962",
@@ -654,11 +742,11 @@
     {
       "sku": "SP32501000230863",
       "id_produto": "21935",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE RAM 3500 LIMITED LONGHORN 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -678,11 +766,11 @@
     {
       "sku": "SP32501000230870",
       "id_produto": "21937",
-      "nome": "COMANDO VIDRO DIANTEIRO DIREITO",
+      "nome": "COMANDO VIDRO DIANTEIRO DIREITO RAM 3500 LIMITED LONG. 6.7",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1158,6 +1246,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP32501000230863",
+      "id_produto": "21935",
+      "nome": "PORTINHOLA DO TANQUE RAM 3500 LIMITED LONGHORN 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP32501000230869",
       "id_produto": "21936",
       "nome": "CHURRASQUEIRA PARA-BRISA RAM 3500 LIMITED LONGHORN 6.7",
@@ -1168,6 +1268,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP32501000230870",
+      "id_produto": "21937",
+      "nome": "COMANDO VIDRO DIANTEIRO DIREITO RAM 3500 LIMITED LONG. 6.7",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP32501000230872",
@@ -2062,11 +2174,11 @@
     "SP32501000230870": {
       "sku": "SP32501000230870",
       "id_produto": "21937",
-      "nome": "COMANDO VIDRO DIANTEIRO DIREITO",
+      "nome": "COMANDO VIDRO DIANTEIRO DIREITO RAM 3500 LIMITED LONG. 6.7",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2218,11 +2330,11 @@
     "SP32501000230863": {
       "sku": "SP32501000230863",
       "id_produto": "21935",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE RAM 3500 LIMITED LONGHORN 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2466,6 +2578,78 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    "SP12501056312032": {
+      "sku": "SP12501056312032",
+      "id_produto": "21982",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501056312020": {
+      "sku": "SP12501056312020",
+      "id_produto": "21979",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    "SP12501056312031": {
+      "sku": "SP12501056312031",
+      "id_produto": "21981",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501056312034": {
+      "sku": "SP12501056312034",
+      "id_produto": "21984",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501056312019": {
+      "sku": "SP12501056312019",
+      "id_produto": "21978",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501056312030": {
+      "sku": "SP12501056312030",
+      "id_produto": "21980",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   }
 }
