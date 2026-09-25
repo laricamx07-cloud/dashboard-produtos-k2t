@@ -1,11 +1,11 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 09:21:11",
+  "ultima_atualizacao": "25/09/2026 09:51:21",
   "total_base_dia": 44,
-  "total_atual": 43,
-  "novos_produtos": 0,
-  "total_subidos": 1,
+  "total_atual": 44,
+  "novos_produtos": 2,
+  "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -93,20 +93,64 @@
     "SP12501111607041",
     "SP12501111607042",
     "SP12501111666026",
+    "SP12501111682030",
+    "SP12501111682032",
     "SP12501111682400",
     "SP12501123451042",
     "SP42501001064042",
     "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501111682030",
+    "SP12501111682032"
+  ],
   "skus_subidos_hoje": [
+    "SP12501087749030",
     "SP12501111682400"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501087749030",
     "SP12501111682400"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501111682030",
+      "id_produto": "21915",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111682032",
+      "id_produto": "21916",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "9"
+    }
+  ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501087749030",
+      "id_produto": "21913",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO VOLKSWAGEN Fox PRIME/Higli. 1.6",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "Fox PRIME/Higli. 1.6 Total Flex 8V 5p",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501111682400",
       "id_produto": "21835",
@@ -508,11 +552,11 @@
     "SP12501087749030": {
       "sku": "SP12501087749030",
       "id_produto": "21913",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO VOLKSWAGEN Fox PRIME/Higli. 1.6",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "Fox PRIME/Higli. 1.6 Total Flex 8V 5p",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -647,6 +691,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501111682032": {
+      "sku": "SP12501111682032",
+      "id_produto": "21916",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "9"
+    },
+    "SP12501111682030": {
+      "sku": "SP12501111682030",
+      "id_produto": "21915",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
       "qtd_images": "7"
     }
   }
