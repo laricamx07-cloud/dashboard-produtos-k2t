@@ -1,11 +1,11 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 09:51:21",
+  "ultima_atualizacao": "25/09/2026 10:21:21",
   "total_base_dia": 44,
-  "total_atual": 44,
-  "novos_produtos": 2,
-  "total_subidos": 2,
+  "total_atual": 42,
+  "novos_produtos": 4,
+  "total_subidos": 6,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -97,30 +97,42 @@
     "SP12501111682032",
     "SP12501111682400",
     "SP12501123451042",
+    "SP32501000230034",
+    "SP32501000230083",
     "SP42501001064042",
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
     "SP12501111682030",
-    "SP12501111682032"
+    "SP12501111682032",
+    "SP32501000230034",
+    "SP32501000230083"
   ],
   "skus_subidos_hoje": [
     "SP12501087749030",
+    "SP12501103361007",
+    "SP12501103361031",
+    "SP12501111666026",
+    "SP12501111682030",
     "SP12501111682400"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501087749030",
+    "SP12501103361007",
+    "SP12501103361031",
+    "SP12501111666026",
+    "SP12501111682030",
     "SP12501111682400"
   ],
   "itens_novos_hoje": [
     {
       "sku": "SP12501111682030",
       "id_produto": "21915",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO VOLKSWAGEN SAVEIRO CROSS 1.6",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -136,6 +148,30 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP32501000230034",
+      "id_produto": "21918",
+      "nome": "CAPÔ",
+      "marca": "RAM",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP32501000230083",
+      "id_produto": "21920",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "RAM",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   ],
   "itens_subidos_hoje": [
@@ -146,10 +182,58 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "Fox PRIME/Higli. 1.6 Total Flex 8V 5p",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103361007",
+      "id_produto": "21827",
+      "nome": "CAPÔ FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103361031",
+      "id_produto": "21830",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FIAT MOBI LIKE 1.0 F.FLEX 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111666026",
+      "id_produto": "21811",
+      "nome": "MOTOR DE PARTIDA FORD KA 1.0 8V ST FLEX 3P 2009/2010",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111682030",
+      "id_produto": "21915",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO VOLKSWAGEN SAVEIRO CROSS 1.6",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501111682400",
@@ -240,11 +324,11 @@
     "SP12501103361031": {
       "sku": "SP12501103361031",
       "id_produto": "21830",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FIAT MOBI LIKE 1.0 F.FLEX 2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -384,11 +468,11 @@
     "SP12501103361007": {
       "sku": "SP12501103361007",
       "id_produto": "21827",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -540,11 +624,11 @@
     "SP12501111666026": {
       "sku": "SP12501111666026",
       "id_produto": "21811",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FORD KA 1.0 8V ST FLEX 3P 2009/2010",
       "marca": "FORD",
       "modelo_do_veiculo": "KA 1.0 8V ST FLEX 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -556,7 +640,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "Fox PRIME/Higli. 1.6 Total Flex 8V 5p",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -708,13 +792,37 @@
     "SP12501111682030": {
       "sku": "SP12501111682030",
       "id_produto": "21915",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO VOLKSWAGEN SAVEIRO CROSS 1.6",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    "SP32501000230034": {
+      "sku": "SP32501000230034",
+      "id_produto": "21918",
+      "nome": "CAPÔ",
+      "marca": "RAM",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
-      "classificacao": "05",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP32501000230083": {
+      "sku": "SP32501000230083",
+      "id_produto": "21920",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "RAM",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "7"
     }
   }
