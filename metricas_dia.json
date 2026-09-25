@@ -1,11 +1,11 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 08:21:01",
+  "ultima_atualizacao": "25/09/2026 08:50:53",
   "total_base_dia": 44,
-  "total_atual": 44,
+  "total_atual": 43,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 1,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -99,10 +99,27 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501111682400"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501111682400"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501111682400",
+      "id_produto": "21835",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN SAVEIRO CROSS 1.6 T. FLEX 16V",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501109521034": {
       "sku": "SP12501109521034",
@@ -383,11 +400,11 @@
     "SP12501111682400": {
       "sku": "SP12501111682400",
       "id_produto": "21835",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO VOLKSWAGEN SAVEIRO CROSS 1.6 T. FLEX 16V",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
