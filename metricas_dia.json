@@ -1,11 +1,11 @@
 {
   "data": "2026-09-25",
   "primeira_atualizacao": "25/09/2026 08:14:41",
-  "ultima_atualizacao": "25/09/2026 17:51:10",
+  "ultima_atualizacao": "25/09/2026 18:10:20",
   "total_base_dia": 44,
-  "total_atual": 69,
+  "total_atual": 64,
   "novos_produtos": 74,
-  "total_subidos": 47,
+  "total_subidos": 52,
   "skus_base_dia": [
     "SP12501004584032",
     "SP12501005173040",
@@ -261,6 +261,7 @@
     "SP12501056312031",
     "SP12501056312032",
     "SP12501056312034",
+    "SP12501056312035",
     "SP12501056312045",
     "SP12501056312049",
     "SP12501084790035",
@@ -271,11 +272,15 @@
     "SP12501103361011",
     "SP12501103361026",
     "SP12501103361031",
+    "SP12501103361036",
     "SP12501103361400",
+    "SP12501103361411",
     "SP12501111666026",
+    "SP12501111682024",
     "SP12501111682030",
     "SP12501111682032",
     "SP12501111682400",
+    "SP12501111682411",
     "SP32501000230083",
     "SP32501000230806",
     "SP32501000230836",
@@ -310,6 +315,7 @@
     "SP12501056312031",
     "SP12501056312032",
     "SP12501056312034",
+    "SP12501056312035",
     "SP12501056312045",
     "SP12501056312049",
     "SP12501084790035",
@@ -320,11 +326,15 @@
     "SP12501103361011",
     "SP12501103361026",
     "SP12501103361031",
+    "SP12501103361036",
     "SP12501103361400",
+    "SP12501103361411",
     "SP12501111666026",
+    "SP12501111682024",
     "SP12501111682030",
     "SP12501111682032",
     "SP12501111682400",
+    "SP12501111682411",
     "SP32501000230083",
     "SP32501000230806",
     "SP32501000230836",
@@ -366,7 +376,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -458,11 +468,11 @@
     {
       "sku": "SP12501056312035",
       "id_produto": "21985",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA HYUNDAI CRETA ATTITUDE 1.6 16V 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -590,11 +600,11 @@
     {
       "sku": "SP12501103361036",
       "id_produto": "21966",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "4"
@@ -614,11 +624,11 @@
     {
       "sku": "SP12501103361411",
       "id_produto": "21968",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -662,11 +672,11 @@
     {
       "sku": "SP12501111682024",
       "id_produto": "21970",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN SAVEIRO CROSS 1.6 T. FLEX 14/15",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -710,11 +720,11 @@
     {
       "sku": "SP12501111682411",
       "id_produto": "21972",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR VOLKSWAGEN SAVEIRO CROSS 1.6 T. FLEX 14/15",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1304,7 +1314,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1379,6 +1389,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056312035",
+      "id_produto": "21985",
+      "nome": "PORTA TRASEIRA ESQUERDA HYUNDAI CRETA ATTITUDE 1.6 16V 2021",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "10"
     },
     {
@@ -1502,6 +1524,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103361036",
+      "id_produto": "21966",
+      "nome": "RADIADOR FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "4"
+    },
+    {
       "sku": "SP12501103361400",
       "id_produto": "21853",
       "nome": "MOTOR COMPLETO FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
@@ -1514,6 +1548,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501103361411",
+      "id_produto": "21968",
+      "nome": "ELETROVENTILADOR FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501111666026",
       "id_produto": "21811",
       "nome": "MOTOR DE PARTIDA FORD KA 1.0 8V ST FLEX 3P 2009/2010",
@@ -1524,6 +1570,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501111682024",
+      "id_produto": "21970",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN SAVEIRO CROSS 1.6 T. FLEX 14/15",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501111682030",
@@ -1560,6 +1618,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111682411",
+      "id_produto": "21972",
+      "nome": "ELETROVENTILADOR VOLKSWAGEN SAVEIRO CROSS 1.6 T. FLEX 14/15",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP32501000230083",
@@ -2886,11 +2956,11 @@
     "SP12501103361036": {
       "sku": "SP12501103361036",
       "id_produto": "21966",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "4"
@@ -2898,11 +2968,11 @@
     "SP12501111682024": {
       "sku": "SP12501111682024",
       "id_produto": "21970",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO VOLKSWAGEN SAVEIRO CROSS 1.6 T. FLEX 14/15",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2934,11 +3004,11 @@
     "SP12501111682411": {
       "sku": "SP12501111682411",
       "id_produto": "21972",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR VOLKSWAGEN SAVEIRO CROSS 1.6 T. FLEX 14/15",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2994,11 +3064,11 @@
     "SP12501103361411": {
       "sku": "SP12501103361411",
       "id_produto": "21968",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3138,11 +3208,11 @@
     "SP12501056312035": {
       "sku": "SP12501056312035",
       "id_produto": "21985",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA HYUNDAI CRETA ATTITUDE 1.6 16V 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -3202,7 +3272,7 @@
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
