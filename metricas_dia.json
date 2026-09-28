@@ -1,11 +1,11 @@
 {
   "data": "2026-09-28",
   "primeira_atualizacao": "28/09/2026 08:19:45",
-  "ultima_atualizacao": "28/09/2026 08:21:11",
+  "ultima_atualizacao": "28/09/2026 08:49:29",
   "total_base_dia": 69,
-  "total_atual": 69,
+  "total_atual": 63,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 6,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -149,10 +149,97 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501056312001",
+    "SP12501056312033",
+    "SP12501103361027",
+    "SP12501103361038",
+    "SP12501103361584",
+    "SP12501111682038"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501056312001",
+    "SP12501056312033",
+    "SP12501103361027",
+    "SP12501103361038",
+    "SP12501103361584",
+    "SP12501111682038"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501056312001",
+      "id_produto": "21976",
+      "nome": "ALTERNADOR HYUNDAI CRETA ATTITUDE 1.6 16V FLEX 2021",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056312033",
+      "id_produto": "21983",
+      "nome": "PORTA DIANTEIRA ESQUERDA HYUNDAI CRETA ATTITUDE 1.6 2021",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103361027",
+      "id_produto": "21965",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT MOBI LIKE 1.0 FIRE FLEX 2023/24",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103361038",
+      "id_produto": "21967",
+      "nome": "RETROVISOR ESQUERDO FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/24",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103361584",
+      "id_produto": "21969",
+      "nome": "ALAVANCA DE MARCHA MANUAL FIAT MOBI LIKE 1.0 FIRE FLEX 23/24",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111682038",
+      "id_produto": "21971",
+      "nome": "RETROVISOR ESQUERDO VOLKSWAGEN SAVEIRO CROSS 1.6 T. FLEX",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501005300033": {
       "sku": "SP12501005300033",
@@ -229,11 +316,11 @@
     "SP12501056312001": {
       "sku": "SP12501056312001",
       "id_produto": "21976",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR HYUNDAI CRETA ATTITUDE 1.6 16V FLEX 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -421,11 +508,11 @@
     "SP12501056312033": {
       "sku": "SP12501056312033",
       "id_produto": "21983",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA HYUNDAI CRETA ATTITUDE 1.6 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -445,11 +532,11 @@
     "SP12501111682038": {
       "sku": "SP12501111682038",
       "id_produto": "21971",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO VOLKSWAGEN SAVEIRO CROSS 1.6 T. FLEX",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -505,11 +592,11 @@
     "SP12501103361584": {
       "sku": "SP12501103361584",
       "id_produto": "21969",
-      "nome": "ALAVANCA DE MARCHA MANUAL",
+      "nome": "ALAVANCA DE MARCHA MANUAL FIAT MOBI LIKE 1.0 FIRE FLEX 23/24",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -805,11 +892,11 @@
     "SP12501103361027": {
       "sku": "SP12501103361027",
       "id_produto": "21965",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT MOBI LIKE 1.0 FIRE FLEX 2023/24",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -841,11 +928,11 @@
     "SP12501103361038": {
       "sku": "SP12501103361038",
       "id_produto": "21967",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FIAT MOBI LIKE 1.0 FIRE FLEX 5P. 2023/24",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
