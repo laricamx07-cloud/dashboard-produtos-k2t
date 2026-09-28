@@ -1,11 +1,11 @@
 {
   "data": "2026-09-28",
   "primeira_atualizacao": "28/09/2026 08:19:45",
-  "ultima_atualizacao": "28/09/2026 15:20:59",
+  "ultima_atualizacao": "28/09/2026 15:49:27",
   "total_base_dia": 69,
-  "total_atual": 46,
-  "novos_produtos": 22,
-  "total_subidos": 43,
+  "total_atual": 47,
+  "novos_produtos": 24,
+  "total_subidos": 44,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -107,6 +107,8 @@
     "SP12501079959400",
     "SP12501080353035",
     "SP12501083964039",
+    "SP12501099780033",
+    "SP12501099780035",
     "SP12501099780045",
     "SP12501100842007",
     "SP12501102470030",
@@ -181,6 +183,8 @@
     "SP12501056312038",
     "SP12501056312480",
     "SP12501056312585",
+    "SP12501099780033",
+    "SP12501099780035",
     "SP12501099780045",
     "SP12501103248010",
     "SP12501103248024",
@@ -209,6 +213,7 @@
     "SP12501056312400",
     "SP12501056312480",
     "SP12501056312585",
+    "SP12501099780045",
     "SP12501103248010",
     "SP12501103248024",
     "SP12501103248027",
@@ -254,6 +259,7 @@
     "SP12501056312400",
     "SP12501056312480",
     "SP12501056312585",
+    "SP12501099780045",
     "SP12501103248010",
     "SP12501103248024",
     "SP12501103248027",
@@ -406,13 +412,37 @@
       "qtd_images": "9"
     },
     {
-      "sku": "SP12501099780045",
-      "id_produto": "22024",
-      "nome": "TAMPA TRASEIRA",
+      "sku": "SP12501099780033",
+      "id_produto": "22021",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501099780035",
+      "id_produto": "22023",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501099780045",
+      "id_produto": "22024",
+      "nome": "TAMPA TRASEIRA FIAT STRADA RANCH 1.0 FLEX TURBO CD AUT. 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -718,6 +748,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501099780045",
+      "id_produto": "22024",
+      "nome": "TAMPA TRASEIRA FIAT STRADA RANCH 1.0 FLEX TURBO CD AUT. 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501103248010",
@@ -2140,11 +2182,11 @@
     "SP12501099780045": {
       "sku": "SP12501099780045",
       "id_produto": "22024",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA FIAT STRADA RANCH 1.0 FLEX TURBO CD AUT. 2024",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -2160,6 +2202,30 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
+    },
+    "SP12501099780033": {
+      "sku": "SP12501099780033",
+      "id_produto": "22021",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501099780035": {
+      "sku": "SP12501099780035",
+      "id_produto": "22023",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     }
   }
 }
