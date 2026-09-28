@@ -1,11 +1,11 @@
 {
   "data": "2026-09-28",
   "primeira_atualizacao": "28/09/2026 08:19:45",
-  "ultima_atualizacao": "28/09/2026 10:50:54",
+  "ultima_atualizacao": "28/09/2026 11:19:24",
   "total_base_dia": 69,
-  "total_atual": 68,
+  "total_atual": 63,
   "novos_produtos": 19,
-  "total_subidos": 20,
+  "total_subidos": 21,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -208,6 +208,7 @@
     "SP12501111682004",
     "SP12501111682011",
     "SP12501111682038",
+    "SP32501000230957",
     "SP32501000230958"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -230,6 +231,7 @@
     "SP12501111682004",
     "SP12501111682011",
     "SP12501111682038",
+    "SP32501000230957",
     "SP32501000230958"
   ],
   "itens_novos_hoje": [
@@ -692,14 +694,26 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP32501000230957",
+      "id_produto": "21953",
+      "nome": "MOLDURA DO PARA-LAMA DIANTEIRO DIREITO RAM 3500 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "0",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP32501000230958",
       "id_produto": "21954",
       "nome": "MOLDURA DO PARA-LAMA DIANTEIRO ESQUERDO RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
-      "quantidade": "1",
+      "status_ml": "active",
+      "quantidade": "0",
       "classificacao": "09",
       "qtd_images": "7"
     }
@@ -843,9 +857,9 @@
       "nome": "MINI FRENTE/ PAINEL FRONTAL",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "09",
       "qtd_images": "7"
     },
@@ -912,12 +926,12 @@
     "SP32501000230957": {
       "sku": "SP32501000230957",
       "id_produto": "21953",
-      "nome": "MOLDURA DO PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "MOLDURA DO PARA-LAMA DIANTEIRO DIREITO RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
-      "quantidade": "1",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "0",
       "classificacao": "09",
       "qtd_images": "7"
     },
@@ -963,9 +977,9 @@
       "nome": "PARA-BARRO DIANTEIRO ESQUERDO",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "07",
       "qtd_images": "7"
     },
@@ -1251,9 +1265,9 @@
       "nome": "PARA-BARRO DIANTEIRO DIREITO",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "07",
       "qtd_images": "7"
     },
@@ -1275,9 +1289,9 @@
       "nome": "COMANDO VIDRO DIANTEIRO ESQUERDO",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
-      "quantidade": "1",
+      "quantidade": "0",
       "classificacao": "08",
       "qtd_images": "7"
     },
@@ -1464,10 +1478,10 @@
     "SP32501000230955": {
       "sku": "SP32501000230955",
       "id_produto": "21951",
-      "nome": "MOLDURA DA SOLEIRA PORTA TRASEIRA DIREIT",
+      "nome": "MOLDURA DA SOLEIRA PORTA TRASEIRA DIREITA RAM 3500 LIMITED",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
@@ -1492,8 +1506,8 @@
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
-      "quantidade": "1",
+      "status_ml": "active",
+      "quantidade": "0",
       "classificacao": "09",
       "qtd_images": "7"
     },
