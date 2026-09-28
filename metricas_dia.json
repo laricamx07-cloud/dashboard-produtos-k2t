@@ -1,11 +1,11 @@
 {
   "data": "2026-09-28",
   "primeira_atualizacao": "28/09/2026 08:19:45",
-  "ultima_atualizacao": "28/09/2026 10:49:25",
+  "ultima_atualizacao": "28/09/2026 10:50:54",
   "total_base_dia": 69,
-  "total_atual": 69,
+  "total_atual": 68,
   "novos_produtos": 19,
-  "total_subidos": 19,
+  "total_subidos": 20,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -207,7 +207,8 @@
     "SP12501111682001",
     "SP12501111682004",
     "SP12501111682011",
-    "SP12501111682038"
+    "SP12501111682038",
+    "SP32501000230958"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501056312001",
@@ -228,7 +229,8 @@
     "SP12501111682001",
     "SP12501111682004",
     "SP12501111682011",
-    "SP12501111682038"
+    "SP12501111682038",
+    "SP32501000230958"
   ],
   "itens_novos_hoje": [
     {
@@ -688,6 +690,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP32501000230958",
+      "id_produto": "21954",
+      "nome": "MOLDURA DO PARA-LAMA DIANTEIRO ESQUERDO RAM 3500 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1474,11 +1488,11 @@
     "SP32501000230958": {
       "sku": "SP32501000230958",
       "id_produto": "21954",
-      "nome": "MOLDURA DO PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "MOLDURA DO PARA-LAMA DIANTEIRO ESQUERDO RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
