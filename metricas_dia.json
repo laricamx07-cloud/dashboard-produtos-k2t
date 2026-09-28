@@ -1,7 +1,7 @@
 {
   "data": "2026-09-28",
   "primeira_atualizacao": "28/09/2026 08:19:45",
-  "ultima_atualizacao": "28/09/2026 09:49:25",
+  "ultima_atualizacao": "28/09/2026 09:51:08",
   "total_base_dia": 69,
   "total_atual": 63,
   "novos_produtos": 9,
@@ -380,7 +380,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -392,7 +392,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1078,7 +1078,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1210,7 +1210,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
