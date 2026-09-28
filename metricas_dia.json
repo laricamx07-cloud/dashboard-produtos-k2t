@@ -1,10 +1,10 @@
 {
   "data": "2026-09-28",
   "primeira_atualizacao": "28/09/2026 08:19:45",
-  "ultima_atualizacao": "28/09/2026 15:10:17",
+  "ultima_atualizacao": "28/09/2026 15:20:05",
   "total_base_dia": 69,
-  "total_atual": 43,
-  "novos_produtos": 19,
+  "total_atual": 46,
+  "novos_produtos": 22,
   "total_subidos": 43,
   "skus_base_dia": [
     "SP12501005173040",
@@ -83,7 +83,9 @@
     "SP12501005300033",
     "SP12501014806045",
     "SP12501015640410",
+    "SP12501015730034",
     "SP12501016140400",
+    "SP12501016590045",
     "SP12501016701039",
     "SP12501017449043",
     "SP12501040874034",
@@ -105,6 +107,7 @@
     "SP12501079959400",
     "SP12501080353035",
     "SP12501083964039",
+    "SP12501099780045",
     "SP12501100842007",
     "SP12501102470030",
     "SP12501102470045",
@@ -168,6 +171,8 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501015730034",
+    "SP12501016590045",
     "SP12501056312010",
     "SP12501056312024",
     "SP12501056312026",
@@ -176,6 +181,7 @@
     "SP12501056312038",
     "SP12501056312480",
     "SP12501056312585",
+    "SP12501099780045",
     "SP12501103248010",
     "SP12501103248024",
     "SP12501103248027",
@@ -280,6 +286,30 @@
   ],
   "itens_novos_hoje": [
     {
+      "sku": "SP12501015730034",
+      "id_produto": "1752",
+      "nome": "PORTA TRASEIRA DIREITA FIAT STRADA WORK HARD 1.4 BR 2016/17",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CD",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501016590045",
+      "id_produto": "4612",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE TRAILHAWK 2.0 2015",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501056312010",
       "id_produto": "21999",
       "nome": "CHAVE DE SETA HYUNDAI CRETA ATTITUDE 1.6 16V FLEX 2021",
@@ -374,6 +404,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501099780045",
+      "id_produto": "22024",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501103248010",
@@ -2082,6 +2124,42 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    "SP12501015730034": {
+      "sku": "SP12501015730034",
+      "id_produto": "1752",
+      "nome": "PORTA TRASEIRA DIREITA FIAT STRADA WORK HARD 1.4 BR 2016/17",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CD",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    "SP12501099780045": {
+      "sku": "SP12501099780045",
+      "id_produto": "22024",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501016590045": {
+      "sku": "SP12501016590045",
+      "id_produto": "4612",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE TRAILHAWK 2.0 2015",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
     }
   }
 }
