@@ -1,11 +1,11 @@
 {
   "data": "2026-09-28",
   "primeira_atualizacao": "28/09/2026 08:19:45",
-  "ultima_atualizacao": "28/09/2026 08:50:56",
+  "ultima_atualizacao": "28/09/2026 09:11:17",
   "total_base_dia": 69,
-  "total_atual": 63,
+  "total_atual": 60,
   "novos_produtos": 0,
-  "total_subidos": 6,
+  "total_subidos": 9,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -152,17 +152,23 @@
   "skus_subidos_hoje": [
     "SP12501056312001",
     "SP12501056312033",
+    "SP12501103310026",
+    "SP12501103361012",
     "SP12501103361027",
     "SP12501103361038",
     "SP12501103361584",
+    "SP12501111682011",
     "SP12501111682038"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501056312001",
     "SP12501056312033",
+    "SP12501103310026",
+    "SP12501103361012",
     "SP12501103361027",
     "SP12501103361038",
     "SP12501103361584",
+    "SP12501111682011",
     "SP12501111682038"
   ],
   "itens_novos_hoje": [],
@@ -190,6 +196,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103310026",
+      "id_produto": "21962",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN SANTANA 2.0 MI 2000/2000",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SANTANA 2.0 MI",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103361012",
+      "id_produto": "21963",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FIAT MOBI LIKE 1.0 F.FLEX 24",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103361027",
@@ -221,6 +251,18 @@
       "nome": "ALAVANCA DE MARCHA MANUAL FIAT MOBI LIKE 1.0 FIRE FLEX 23/24",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501111682011",
+      "id_produto": "21961",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO VOLKSWAGEN SAVEIRO 1.6",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
       "status": "Habilitado",
       "status_ml": "active",
       "quantidade": "1",
@@ -424,11 +466,11 @@
     "SP12501111682011": {
       "sku": "SP12501111682011",
       "id_produto": "21961",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO VOLKSWAGEN SAVEIRO 1.6",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SAVEIRO CROSS 1.6 T. FLEX 16V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -664,11 +706,11 @@
     "SP12501103361012": {
       "sku": "SP12501103361012",
       "id_produto": "21963",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FIAT MOBI LIKE 1.0 F.FLEX 24",
       "marca": "FIAT",
       "modelo_do_veiculo": "MOBI LIKE 1.0 FIRE FLEX 5P.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -796,11 +838,11 @@
     "SP12501103310026": {
       "sku": "SP12501103310026",
       "id_produto": "21962",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN SANTANA 2.0 MI 2000/2000",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SANTANA 2.0 MI",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
