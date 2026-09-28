@@ -1,10 +1,10 @@
 {
   "data": "2026-09-28",
   "primeira_atualizacao": "28/09/2026 08:19:45",
-  "ultima_atualizacao": "28/09/2026 09:11:17",
+  "ultima_atualizacao": "28/09/2026 09:19:21",
   "total_base_dia": 69,
-  "total_atual": 60,
-  "novos_produtos": 0,
+  "total_atual": 62,
+  "novos_produtos": 2,
   "total_subidos": 9,
   "skus_base_dia": [
     "SP12501005173040",
@@ -93,6 +93,7 @@
     "SP12501056312001",
     "SP12501056312004",
     "SP12501056312033",
+    "SP12501056312037",
     "SP12501056312400",
     "SP12501079959400",
     "SP12501080353035",
@@ -104,6 +105,7 @@
     "SP12501102527032",
     "SP12501103310026",
     "SP12501103337004",
+    "SP12501103337036",
     "SP12501103361004",
     "SP12501103361012",
     "SP12501103361024",
@@ -148,7 +150,10 @@
     "SP42501001064042",
     "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501056312037",
+    "SP12501103337036"
+  ],
   "skus_subidos_hoje": [
     "SP12501056312001",
     "SP12501056312033",
@@ -171,7 +176,32 @@
     "SP12501111682011",
     "SP12501111682038"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501056312037",
+      "id_produto": "22001",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103337036",
+      "id_produto": "22007",
+      "nome": "RADIADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501056312001",
@@ -1110,6 +1140,30 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
+    },
+    "SP12501056312037": {
+      "sku": "SP12501056312037",
+      "id_produto": "22001",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501103337036": {
+      "sku": "SP12501103337036",
+      "id_produto": "22007",
+      "nome": "RADIADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "7"
     }
   }
 }
