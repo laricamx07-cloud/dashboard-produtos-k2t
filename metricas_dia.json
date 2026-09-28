@@ -1,7 +1,7 @@
 {
   "data": "2026-09-28",
   "primeira_atualizacao": "28/09/2026 08:19:45",
-  "ultima_atualizacao": "28/09/2026 13:51:11",
+  "ultima_atualizacao": "28/09/2026 13:54:37",
   "total_base_dia": 69,
   "total_atual": 44,
   "novos_produtos": 19,
@@ -1715,7 +1715,7 @@
       "nome": "MOTOR COMPLETO FIAT TORO FREEDOM 2.0 16V 2016/2017",
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO FREEDOM 2.0 16V TB DIESEL MEC",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "7",
