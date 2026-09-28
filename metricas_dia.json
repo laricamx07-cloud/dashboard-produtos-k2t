@@ -1,11 +1,11 @@
 {
   "data": "2026-09-28",
   "primeira_atualizacao": "28/09/2026 08:19:45",
-  "ultima_atualizacao": "28/09/2026 13:19:53",
+  "ultima_atualizacao": "28/09/2026 13:21:24",
   "total_base_dia": 69,
-  "total_atual": 47,
+  "total_atual": 46,
   "novos_produtos": 19,
-  "total_subidos": 39,
+  "total_subidos": 40,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -200,6 +200,7 @@
     "SP12501056312038",
     "SP12501056312400",
     "SP12501056312480",
+    "SP12501056312585",
     "SP12501103248010",
     "SP12501103248024",
     "SP12501103248027",
@@ -241,6 +242,7 @@
     "SP12501056312038",
     "SP12501056312400",
     "SP12501056312480",
+    "SP12501056312585",
     "SP12501103248010",
     "SP12501103248024",
     "SP12501103248027",
@@ -358,11 +360,11 @@
     {
       "sku": "SP12501056312585",
       "id_produto": "22010",
-      "nome": "ALAVANCA DE MARCHA AUTOMATICO",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO HYUNDAI CRETA 1.6 16V 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -632,6 +634,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056312585",
+      "id_produto": "22010",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO HYUNDAI CRETA 1.6 16V 2021",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103248010",
@@ -1970,11 +1984,11 @@
     "SP12501056312585": {
       "sku": "SP12501056312585",
       "id_produto": "22010",
-      "nome": "ALAVANCA DE MARCHA AUTOMATICO",
+      "nome": "ALAVANCA DE MARCHA AUTOMATICO HYUNDAI CRETA 1.6 16V 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
