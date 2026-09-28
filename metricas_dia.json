@@ -1,11 +1,11 @@
 {
   "data": "2026-09-28",
   "primeira_atualizacao": "28/09/2026 08:19:45",
-  "ultima_atualizacao": "28/09/2026 13:54:37",
+  "ultima_atualizacao": "28/09/2026 15:10:17",
   "total_base_dia": 69,
-  "total_atual": 44,
+  "total_atual": 43,
   "novos_produtos": 19,
-  "total_subidos": 42,
+  "total_subidos": 43,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -190,6 +190,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501005300033",
+    "SP12501016140400",
     "SP12501056312001",
     "SP12501056312004",
     "SP12501056312010",
@@ -234,6 +235,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501005300033",
+    "SP12501016140400",
     "SP12501056312001",
     "SP12501056312004",
     "SP12501056312010",
@@ -518,6 +520,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501016140400",
+      "id_produto": "2711",
+      "nome": "MOTOR COMPLETO FIAT TORO FREEDOM 2.0 16V 2016/2017",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "TORO FREEDOM 2.0 16V TB DIESEL MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501056312001",
@@ -1716,10 +1730,10 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "TORO FREEDOM 2.0 16V TB DIESEL MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "18"
+      "qtd_images": "10"
     },
     "SP12501103337004": {
       "sku": "SP12501103337004",
