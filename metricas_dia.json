@@ -1,10 +1,10 @@
 {
   "data": "2026-09-29",
   "primeira_atualizacao": "29/09/2026 08:19:40",
-  "ultima_atualizacao": "29/09/2026 13:50:54",
+  "ultima_atualizacao": "29/09/2026 15:16:56",
   "total_base_dia": 59,
-  "total_atual": 44,
-  "novos_produtos": 3,
+  "total_atual": 46,
+  "novos_produtos": 5,
   "total_subidos": 18,
   "skus_base_dia": [
     "SP12501005173040",
@@ -85,6 +85,7 @@
     "SP12501080353035",
     "SP12501083964039",
     "SP12501099780001",
+    "SP12501099780004",
     "SP12501099780010",
     "SP12501099780011",
     "SP12501099780012",
@@ -104,6 +105,7 @@
     "SP12501102470045",
     "SP12501102519045",
     "SP12501102527032",
+    "SP12501103248004",
     "SP12501103248026",
     "SP12501103248032",
     "SP12501103248034",
@@ -133,8 +135,10 @@
   ],
   "skus_novos_hoje": [
     "SP12501053941049",
+    "SP12501099780004",
     "SP12501099780039",
-    "SP12501099780040"
+    "SP12501099780040",
+    "SP12501103248004"
   ],
   "skus_subidos_hoje": [
     "SP12501014806045",
@@ -190,6 +194,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501099780004",
+      "id_produto": "22048",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501099780039",
       "id_produto": "22044",
       "nome": "RODA DIANTEIRA DIREITA",
@@ -212,6 +228,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103248004",
+      "id_produto": "22049",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -1176,6 +1204,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    "SP12501099780004": {
+      "sku": "SP12501099780004",
+      "id_produto": "22048",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501103248004": {
+      "sku": "SP12501103248004",
+      "id_produto": "22049",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
