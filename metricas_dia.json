@@ -1,11 +1,11 @@
 {
   "data": "2026-09-29",
   "primeira_atualizacao": "29/09/2026 08:19:40",
-  "ultima_atualizacao": "29/09/2026 13:21:07",
+  "ultima_atualizacao": "29/09/2026 13:50:54",
   "total_base_dia": 59,
-  "total_atual": 46,
+  "total_atual": 44,
   "novos_produtos": 3,
-  "total_subidos": 16,
+  "total_subidos": 18,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -137,6 +137,7 @@
     "SP12501099780040"
   ],
   "skus_subidos_hoje": [
+    "SP12501014806045",
     "SP12501053941049",
     "SP12501099780001",
     "SP12501099780010",
@@ -152,9 +153,11 @@
     "SP12501099780424",
     "SP12501103248026",
     "SP32501000230044",
-    "SP32501000230116"
+    "SP32501000230116",
+    "SP32501000230955"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501014806045",
     "SP12501053941049",
     "SP12501099780001",
     "SP12501099780010",
@@ -170,7 +173,8 @@
     "SP12501099780424",
     "SP12501103248026",
     "SP32501000230044",
-    "SP32501000230116"
+    "SP32501000230116",
+    "SP32501000230955"
   ],
   "itens_novos_hoje": [
     {
@@ -211,6 +215,18 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501014806045",
+      "id_produto": "3227",
+      "nome": "TAMPA TRASEIRA JEEP GRAND CHEROKEE LIMITED 3.0 BRANCA 2018",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501053941049",
       "id_produto": "21592",
@@ -402,6 +418,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP32501000230955",
+      "id_produto": "21951",
+      "nome": "MOLDURA DA SOLEIRA PORTA TRASEIRA DIREITA RAM 3500 LIMITED",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -592,7 +620,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -736,7 +764,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
