@@ -1,11 +1,11 @@
 {
   "data": "2026-09-29",
   "primeira_atualizacao": "29/09/2026 08:19:40",
-  "ultima_atualizacao": "29/09/2026 10:21:34",
+  "ultima_atualizacao": "29/09/2026 10:51:51",
   "total_base_dia": 59,
-  "total_atual": 46,
+  "total_atual": 45,
   "novos_produtos": 1,
-  "total_subidos": 14,
+  "total_subidos": 15,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -146,7 +146,8 @@
     "SP12501099780410",
     "SP12501099780411",
     "SP12501099780424",
-    "SP12501103248026"
+    "SP12501103248026",
+    "SP32501000230116"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501053941049",
@@ -162,7 +163,8 @@
     "SP12501099780410",
     "SP12501099780411",
     "SP12501099780424",
-    "SP12501103248026"
+    "SP12501103248026",
+    "SP32501000230116"
   ],
   "itens_novos_hoje": [
     {
@@ -346,6 +348,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP32501000230116",
+      "id_produto": "21929",
+      "nome": "TANQUE DE COMBUTÍVEL 2 RAM 3500 LIMITED LONGHORN 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -392,7 +406,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
