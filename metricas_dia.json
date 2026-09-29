@@ -1,11 +1,11 @@
 {
   "data": "2026-09-29",
   "primeira_atualizacao": "29/09/2026 08:19:40",
-  "ultima_atualizacao": "29/09/2026 09:21:10",
+  "ultima_atualizacao": "29/09/2026 09:51:54",
   "total_base_dia": 59,
   "total_atual": 50,
-  "novos_produtos": 0,
-  "total_subidos": 9,
+  "novos_produtos": 1,
+  "total_subidos": 10,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -77,6 +77,7 @@
     "SP12501016701039",
     "SP12501017449043",
     "SP12501040874034",
+    "SP12501053941049",
     "SP12501056207039",
     "SP12501056207040",
     "SP12501056274042",
@@ -128,8 +129,11 @@
     "SP42501001064042",
     "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501053941049"
+  ],
   "skus_subidos_hoje": [
+    "SP12501099780012",
     "SP12501099780025",
     "SP12501099780026",
     "SP12501099780027",
@@ -141,6 +145,7 @@
     "SP12501103248026"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501099780012",
     "SP12501099780025",
     "SP12501099780026",
     "SP12501099780027",
@@ -151,8 +156,33 @@
     "SP12501099780424",
     "SP12501103248026"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501053941049",
+      "id_produto": "21592",
+      "nome": "VOLANTE DO MOTORISTA NISSAN KICKS ADVANCE 1.6 16V 2023",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    }
+  ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501099780012",
+      "id_produto": "22032",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FIAT STRADA RANCH 1.0",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "4"
+    },
     {
       "sku": "SP12501099780025",
       "id_produto": "22033",
@@ -160,7 +190,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -378,7 +408,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -746,11 +776,11 @@
     "SP12501099780012": {
       "sku": "SP12501099780012",
       "id_produto": "22032",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FIAT STRADA RANCH 1.0",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "4"
@@ -970,6 +1000,18 @@
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
+    },
+    "SP12501053941049": {
+      "sku": "SP12501053941049",
+      "id_produto": "21592",
+      "nome": "VOLANTE DO MOTORISTA NISSAN KICKS ADVANCE 1.6 16V 2023",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     }
   }
 }
