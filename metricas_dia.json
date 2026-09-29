@@ -1,11 +1,11 @@
 {
   "data": "2026-09-29",
   "primeira_atualizacao": "29/09/2026 08:19:40",
-  "ultima_atualizacao": "29/09/2026 08:21:18",
+  "ultima_atualizacao": "29/09/2026 08:51:08",
   "total_base_dia": 59,
-  "total_atual": 59,
+  "total_atual": 58,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 1,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -129,10 +129,27 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501103248026"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501103248026"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501103248026",
+      "id_produto": "22043",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CLASSIC LS 1.0 VHC FLEXP. 13/14",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501005173484": {
       "sku": "SP12501005173484",
@@ -725,11 +742,11 @@
     "SP12501103248026": {
       "sku": "SP12501103248026",
       "id_produto": "22043",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET CLASSIC LS 1.0 VHC FLEXP. 13/14",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
