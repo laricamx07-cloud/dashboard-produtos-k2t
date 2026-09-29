@@ -1,11 +1,11 @@
 {
   "data": "2026-09-29",
   "primeira_atualizacao": "29/09/2026 08:19:40",
-  "ultima_atualizacao": "29/09/2026 15:51:48",
+  "ultima_atualizacao": "29/09/2026 16:21:14",
   "total_base_dia": 59,
-  "total_atual": 45,
+  "total_atual": 44,
   "novos_produtos": 5,
-  "total_subidos": 19,
+  "total_subidos": 20,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -156,6 +156,7 @@
     "SP12501099780410",
     "SP12501099780411",
     "SP12501099780424",
+    "SP12501103248004",
     "SP12501103248026",
     "SP32501000230044",
     "SP32501000230116",
@@ -177,6 +178,7 @@
     "SP12501099780410",
     "SP12501099780411",
     "SP12501099780424",
+    "SP12501103248004",
     "SP12501103248026",
     "SP32501000230044",
     "SP32501000230116",
@@ -234,11 +236,11 @@
     {
       "sku": "SP12501103248004",
       "id_produto": "22049",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC LS 1.0 VHC FLEXP. 2013/14",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -424,6 +426,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103248004",
+      "id_produto": "22049",
+      "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC LS 1.0 VHC FLEXP. 2013/14",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103248026",
@@ -1234,11 +1248,11 @@
     "SP12501103248004": {
       "sku": "SP12501103248004",
       "id_produto": "22049",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CLASSIC LS 1.0 VHC FLEXP. 2013/14",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
