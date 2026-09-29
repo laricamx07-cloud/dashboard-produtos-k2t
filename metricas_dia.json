@@ -1,10 +1,10 @@
 {
   "data": "2026-09-29",
   "primeira_atualizacao": "29/09/2026 08:19:40",
-  "ultima_atualizacao": "29/09/2026 11:21:08",
+  "ultima_atualizacao": "29/09/2026 11:50:57",
   "total_base_dia": 59,
-  "total_atual": 46,
-  "novos_produtos": 2,
+  "total_atual": 47,
+  "novos_produtos": 3,
   "total_subidos": 15,
   "skus_base_dia": [
     "SP12501005173040",
@@ -93,6 +93,7 @@
     "SP12501099780027",
     "SP12501099780035",
     "SP12501099780036",
+    "SP12501099780039",
     "SP12501099780040",
     "SP12501099780048",
     "SP12501099780410",
@@ -132,6 +133,7 @@
   ],
   "skus_novos_hoje": [
     "SP12501053941049",
+    "SP12501099780039",
     "SP12501099780040"
   ],
   "skus_subidos_hoje": [
@@ -182,11 +184,23 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501099780039",
+      "id_produto": "22044",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501099780040",
       "id_produto": "22045",
       "nome": "RODA DIANTEIRA ESQUERDA",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -1102,7 +1116,19 @@
       "id_produto": "22045",
       "nome": "RODA DIANTEIRA ESQUERDA",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501099780039": {
+      "sku": "SP12501099780039",
+      "id_produto": "22044",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
