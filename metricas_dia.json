@@ -1,11 +1,11 @@
 {
   "data": "2026-09-29",
   "primeira_atualizacao": "29/09/2026 08:19:40",
-  "ultima_atualizacao": "29/09/2026 15:21:11",
+  "ultima_atualizacao": "29/09/2026 15:51:48",
   "total_base_dia": 59,
-  "total_atual": 46,
+  "total_atual": 45,
   "novos_produtos": 5,
-  "total_subidos": 18,
+  "total_subidos": 19,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -144,6 +144,7 @@
     "SP12501014806045",
     "SP12501053941049",
     "SP12501099780001",
+    "SP12501099780004",
     "SP12501099780010",
     "SP12501099780011",
     "SP12501099780012",
@@ -164,6 +165,7 @@
     "SP12501014806045",
     "SP12501053941049",
     "SP12501099780001",
+    "SP12501099780004",
     "SP12501099780010",
     "SP12501099780011",
     "SP12501099780012",
@@ -196,11 +198,11 @@
     {
       "sku": "SP12501099780004",
       "id_produto": "22048",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO FIAT STRADA RANCH 1.0 FLEX TURBO CD 2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -278,6 +280,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501099780004",
+      "id_produto": "22048",
+      "nome": "CÂMBIO AUTOMATICO FIAT STRADA RANCH 1.0 FLEX TURBO CD 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501099780010",
@@ -1208,11 +1222,11 @@
     "SP12501099780004": {
       "sku": "SP12501099780004",
       "id_produto": "22048",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO FIAT STRADA RANCH 1.0 FLEX TURBO CD 2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
