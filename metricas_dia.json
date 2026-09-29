@@ -1,11 +1,11 @@
 {
   "data": "2026-09-29",
   "primeira_atualizacao": "29/09/2026 08:19:40",
-  "ultima_atualizacao": "29/09/2026 16:21:14",
+  "ultima_atualizacao": "29/09/2026 16:51:07",
   "total_base_dia": 59,
-  "total_atual": 44,
+  "total_atual": 42,
   "novos_produtos": 5,
-  "total_subidos": 20,
+  "total_subidos": 22,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -142,7 +142,9 @@
   ],
   "skus_subidos_hoje": [
     "SP12501014806045",
+    "SP12501016590045",
     "SP12501053941049",
+    "SP12501080353035",
     "SP12501099780001",
     "SP12501099780004",
     "SP12501099780010",
@@ -164,7 +166,9 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501014806045",
+    "SP12501016590045",
     "SP12501053941049",
+    "SP12501080353035",
     "SP12501099780001",
     "SP12501099780004",
     "SP12501099780010",
@@ -260,6 +264,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501016590045",
+      "id_produto": "4612",
+      "nome": "TAMPA TRASEIRA JEEP RENEGADE TRAILHAWK 2.0 2015",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501053941049",
       "id_produto": "21592",
       "nome": "VOLANTE DO MOTORISTA NISSAN KICKS ADVANCE 1.6 16V 2023",
@@ -270,6 +286,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501080353035",
+      "id_produto": "9225",
+      "nome": "PORTA TRASEIRA ESQUERDA CITROËN  C3 ATTRACT TECH 1.2 15/16",
+      "marca": "CITROËN",
+      "modelo_do_veiculo": "C3 ATTRACTION PURE TECH 1.2 FLEX 12V MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501099780001",
@@ -904,7 +932,7 @@
       "marca": "CITROËN",
       "modelo_do_veiculo": "C3 ATTRACTION PURE TECH 1.2 FLEX 12V MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "7"
@@ -1155,8 +1183,8 @@
       "nome": "TAMPA TRASEIRA JEEP RENEGADE TRAILHAWK 2.0 2015",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
