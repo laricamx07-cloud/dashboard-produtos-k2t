@@ -1,11 +1,11 @@
 {
   "data": "2026-09-29",
   "primeira_atualizacao": "29/09/2026 08:19:40",
-  "ultima_atualizacao": "29/09/2026 12:21:07",
+  "ultima_atualizacao": "29/09/2026 12:50:58",
   "total_base_dia": 59,
-  "total_atual": 47,
+  "total_atual": 46,
   "novos_produtos": 3,
-  "total_subidos": 15,
+  "total_subidos": 16,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -151,6 +151,7 @@
     "SP12501099780411",
     "SP12501099780424",
     "SP12501103248026",
+    "SP32501000230044",
     "SP32501000230116"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -168,6 +169,7 @@
     "SP12501099780411",
     "SP12501099780424",
     "SP12501103248026",
+    "SP32501000230044",
     "SP32501000230116"
   ],
   "itens_novos_hoje": [
@@ -376,6 +378,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP32501000230044",
+      "id_produto": "21974",
+      "nome": "CONSOLE CENTRAL RAM 3500 LIMITED LONGHORN 6.7 TB CD 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     },
     {
       "sku": "SP32501000230116",
@@ -646,11 +660,11 @@
     "SP32501000230044": {
       "sku": "SP32501000230044",
       "id_produto": "21974",
-      "nome": "CONSOLE CENTRAL",
+      "nome": "CONSOLE CENTRAL RAM 3500 LIMITED LONGHORN 6.7 TB CD 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
