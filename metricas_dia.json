@@ -1,7 +1,7 @@
 {
   "data": "2026-09-30",
   "primeira_atualizacao": "30/09/2026 10:03:41",
-  "ultima_atualizacao": "30/09/2026 16:21:17",
+  "ultima_atualizacao": "30/09/2026 16:31:35",
   "total_base_dia": 163,
   "total_atual": 93,
   "novos_produtos": 17,
@@ -610,7 +610,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1140,7 +1140,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1152,7 +1152,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -3650,7 +3650,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -3854,7 +3854,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
