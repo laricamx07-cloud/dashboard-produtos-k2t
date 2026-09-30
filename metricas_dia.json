@@ -1,11 +1,11 @@
 {
   "data": "2026-09-30",
   "primeira_atualizacao": "30/09/2026 10:03:41",
-  "ultima_atualizacao": "30/09/2026 12:01:38",
+  "ultima_atualizacao": "30/09/2026 12:21:08",
   "total_base_dia": 163,
-  "total_atual": 130,
-  "novos_produtos": 0,
-  "total_subidos": 32,
+  "total_atual": 127,
+  "novos_produtos": 1,
+  "total_subidos": 36,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -286,6 +286,7 @@
     "SP12501103310523",
     "SP12501103310524",
     "SP12501103329033",
+    "SP12501103329400",
     "SP12501103337001",
     "SP12501103337032",
     "SP12501103337033",
@@ -336,7 +337,9 @@
     "SP42501001064042",
     "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501103329400"
+  ],
   "skus_subidos_hoje": [
     "SP12501053828411",
     "SP12501053941045",
@@ -347,7 +350,11 @@
     "SP12501053950024",
     "SP12501053950029",
     "SP12501055197027",
+    "SP12501055200032",
     "SP12501103329033",
+    "SP12501103345001",
+    "SP12501103345024",
+    "SP12501103345480",
     "SP12501103353448",
     "SP12501103361480",
     "SP12501111577024",
@@ -381,7 +388,11 @@
     "SP12501053950024",
     "SP12501053950029",
     "SP12501055197027",
+    "SP12501055200032",
     "SP12501103329033",
+    "SP12501103345001",
+    "SP12501103345024",
+    "SP12501103345480",
     "SP12501103353448",
     "SP12501103361480",
     "SP12501111577024",
@@ -405,7 +416,20 @@
     "SP12501111682026",
     "SP12501111682049"
   ],
-  "itens_novos_hoje": [],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501103329400",
+      "id_produto": "22267",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    }
+  ],
   "itens_subidos_hoje": [
     {
       "sku": "SP12501053828411",
@@ -516,6 +540,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501055200032",
+      "id_produto": "22109",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 8V 2001",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103329033",
       "id_produto": "22260",
       "nome": "PORTA DIANTEIRA ESQUERDA FIAT PALIO EX 1.0 MPI FIRE FLEX 01",
@@ -528,13 +564,49 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103345001",
+      "id_produto": "22202",
+      "nome": "ALTERNADOR CHEVROLET PRISMA SED. JOY 1.4 8V ECONOFLEX 2008",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. JOY 1.4 8V ECONOFLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103345024",
+      "id_produto": "22203",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET PRISMA SED. JOY 1.4 8V 2008",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. JOY 1.4 8V ECONOFLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103345480",
+      "id_produto": "22204",
+      "nome": "PORTINHOLA DO TANQUE CHEVROLET PRISMA SED. JOY 1.4 8V 2008",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. JOY 1.4 8V ECONOFLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103353448",
       "id_produto": "22205",
       "nome": "SEMI-EIXO DIANTEIRO DIREITO HONDA FIT LX 1.4 FLEX 8V 2004/08",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -964,11 +1036,11 @@
     "SP12501103345024": {
       "sku": "SP12501103345024",
       "id_produto": "22203",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET PRISMA SED. JOY 1.4 8V 2008",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY 1.4 8V ECONOFLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1168,11 +1240,11 @@
     "SP12501103345480": {
       "sku": "SP12501103345480",
       "id_produto": "22204",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE CHEVROLET PRISMA SED. JOY 1.4 8V 2008",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY 1.4 8V ECONOFLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1936,11 +2008,11 @@
     "SP12501103345001": {
       "sku": "SP12501103345001",
       "id_produto": "22202",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR CHEVROLET PRISMA SED. JOY 1.4 8V ECONOFLEX 2008",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY 1.4 8V ECONOFLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2464,11 +2536,11 @@
     "SP12501055200032": {
       "sku": "SP12501055200032",
       "id_produto": "22109",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 8V 2001",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2504,7 +2576,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT LX 1.4 FLEX 8V 5P MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -2748,6 +2820,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "2"
+    },
+    "SP12501103329400": {
+      "sku": "SP12501103329400",
+      "id_produto": "22267",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
