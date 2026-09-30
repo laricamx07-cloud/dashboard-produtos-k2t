@@ -1,11 +1,11 @@
 {
   "data": "2026-09-30",
   "primeira_atualizacao": "30/09/2026 10:03:41",
-  "ultima_atualizacao": "30/09/2026 15:51:18",
+  "ultima_atualizacao": "30/09/2026 16:01:58",
   "total_base_dia": 163,
-  "total_atual": 97,
+  "total_atual": 95,
   "novos_produtos": 17,
-  "total_subidos": 79,
+  "total_subidos": 81,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -404,6 +404,8 @@
     "SP12501056312542",
     "SP12501056320003",
     "SP12501056320009",
+    "SP12501056320010",
+    "SP12501099739448",
     "SP12501103302010",
     "SP12501103310032",
     "SP12501103310034",
@@ -485,6 +487,8 @@
     "SP12501056312542",
     "SP12501056320003",
     "SP12501056320009",
+    "SP12501056320010",
+    "SP12501099739448",
     "SP12501103302010",
     "SP12501103310032",
     "SP12501103310034",
@@ -610,11 +614,11 @@
     {
       "sku": "SP12501099739448",
       "id_produto": "22275",
-      "nome": "SEMI-EIXO DIANTEIRO DIREITO",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO VOLKSWAGEN GOL MI 8V 1997",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1112,6 +1116,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056320010",
+      "id_produto": "22127",
+      "nome": "CHAVE DE SETA CITROEN C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 2004",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501099739448",
+      "id_produto": "22275",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO VOLKSWAGEN GOL MI 8V 1997",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103302010",
@@ -2294,11 +2322,11 @@
     "SP12501056320010": {
       "sku": "SP12501056320010",
       "id_produto": "22127",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CITROEN C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 2004",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -3818,11 +3846,11 @@
     "SP12501099739448": {
       "sku": "SP12501099739448",
       "id_produto": "22275",
-      "nome": "SEMI-EIXO DIANTEIRO DIREITO",
+      "nome": "SEMI-EIXO DIANTEIRO DIREITO VOLKSWAGEN GOL MI 8V 1997",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
