@@ -1,11 +1,11 @@
 {
   "data": "2026-09-30",
   "primeira_atualizacao": "30/09/2026 10:03:41",
-  "ultima_atualizacao": "30/09/2026 12:32:10",
+  "ultima_atualizacao": "30/09/2026 12:51:09",
   "total_base_dia": 163,
-  "total_atual": 119,
-  "novos_produtos": 1,
-  "total_subidos": 44,
+  "total_atual": 118,
+  "novos_produtos": 4,
+  "total_subidos": 48,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -263,6 +263,7 @@
     "SP12501103248034",
     "SP12501103248035",
     "SP12501103248480",
+    "SP12501103302010",
     "SP12501103310004",
     "SP12501103310011",
     "SP12501103310012",
@@ -285,8 +286,10 @@
     "SP12501103310522",
     "SP12501103310523",
     "SP12501103310524",
+    "SP12501103329004",
     "SP12501103329033",
     "SP12501103329400",
+    "SP12501103329411",
     "SP12501103337001",
     "SP12501103337032",
     "SP12501103337033",
@@ -338,7 +341,10 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
-    "SP12501103329400"
+    "SP12501103302010",
+    "SP12501103329004",
+    "SP12501103329400",
+    "SP12501103329411"
   ],
   "skus_subidos_hoje": [
     "SP12501053828411",
@@ -355,7 +361,11 @@
     "SP12501055200480",
     "SP12501056207029",
     "SP12501056207045",
+    "SP12501056207411",
+    "SP12501056304026",
+    "SP12501103310524",
     "SP12501103329033",
+    "SP12501103337001",
     "SP12501103337032",
     "SP12501103337033",
     "SP12501103337400",
@@ -401,7 +411,11 @@
     "SP12501055200480",
     "SP12501056207029",
     "SP12501056207045",
+    "SP12501056207411",
+    "SP12501056304026",
+    "SP12501103310524",
     "SP12501103329033",
+    "SP12501103337001",
     "SP12501103337032",
     "SP12501103337033",
     "SP12501103337400",
@@ -434,16 +448,52 @@
   ],
   "itens_novos_hoje": [
     {
-      "sku": "SP12501103329400",
-      "id_produto": "22267",
-      "nome": "MOTOR COMPLETO",
+      "sku": "SP12501103302010",
+      "id_produto": "22263",
+      "nome": "CHAVE DE SETA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103329004",
+      "id_produto": "22265",
+      "nome": "CÂMBIO MANUAL",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103329400",
+      "id_produto": "22267",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103329411",
+      "id_produto": "22268",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     }
   ],
   "itens_subidos_hoje": [
@@ -574,7 +624,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -586,7 +636,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -598,7 +648,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -610,7 +660,43 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056207411",
+      "id_produto": "22114",
+      "nome": "ELETROVENTILADOR RENAULT CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056304026",
+      "id_produto": "22115",
+      "nome": "MOTOR DE PARTIDA FIAT PALIO STILE 1.6 MPI 16V 4P 2000/2001",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103310524",
+      "id_produto": "22190",
+      "nome": "DOBRADIÇA ESQUERDA DO CAPÔ VOLKSWAGEN SANTANA 2.0 2000",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SANTANA 2.0 MI",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -628,13 +714,25 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103337001",
+      "id_produto": "22191",
+      "nome": "ALTERNADOR FIAT PALIO EX 1.0 16V GASOLINA MEC. 2P 1998/1999",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103337032",
       "id_produto": "22196",
       "nome": "PORTA DIANTEIRA DIREITA FIAT PALIO EX 1.0 16V 1998/1999",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -646,7 +744,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -658,7 +756,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -670,7 +768,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1116,7 +1214,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1200,7 +1298,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1728,7 +1826,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -1736,11 +1834,11 @@
     "SP12501056304026": {
       "sku": "SP12501056304026",
       "id_produto": "22115",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FIAT PALIO STILE 1.6 MPI 16V 4P 2000/2001",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1836,7 +1934,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "7"
@@ -1896,7 +1994,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -1980,7 +2078,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2108,11 +2206,11 @@
     "SP12501103337001": {
       "sku": "SP12501103337001",
       "id_produto": "22191",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR FIAT PALIO EX 1.0 16V GASOLINA MEC. 2P 1998/1999",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2148,7 +2246,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 16V GASOLINA MEC. 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2300,11 +2398,11 @@
     "SP12501103310524": {
       "sku": "SP12501103310524",
       "id_produto": "22190",
-      "nome": "DOBRADIÇA ESQUERDA DO CAPÔ",
+      "nome": "DOBRADIÇA ESQUERDA DO CAPÔ VOLKSWAGEN SANTANA 2.0 2000",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SANTANA 2.0 MI",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -2408,11 +2506,11 @@
     "SP12501056207411": {
       "sku": "SP12501056207411",
       "id_produto": "22114",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR RENAULT CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. PRIVILÈGE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2820,7 +2918,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2938,7 +3036,43 @@
       "id_produto": "22267",
       "nome": "MOTOR COMPLETO",
       "marca": "FIAT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501103302010": {
+      "sku": "SP12501103302010",
+      "id_produto": "22263",
+      "nome": "CHAVE DE SETA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501103329411": {
+      "sku": "SP12501103329411",
+      "id_produto": "22268",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501103329004": {
+      "sku": "SP12501103329004",
+      "id_produto": "22265",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
