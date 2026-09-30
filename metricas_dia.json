@@ -1,11 +1,11 @@
 {
   "data": "2026-09-30",
   "primeira_atualizacao": "30/09/2026 10:03:41",
-  "ultima_atualizacao": "30/09/2026 13:31:32",
+  "ultima_atualizacao": "30/09/2026 14:59:11",
   "total_base_dia": 163,
-  "total_atual": 102,
-  "novos_produtos": 4,
-  "total_subidos": 64,
+  "total_atual": 103,
+  "novos_produtos": 6,
+  "total_subidos": 65,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -329,9 +329,11 @@
     "SP12501111674027",
     "SP12501111682026",
     "SP12501111682049",
+    "SP12501116765411",
     "SP12501123451042",
     "SP32501000230112",
     "SP32501000230115",
+    "SP32501000230121",
     "SP32501000230804",
     "SP32501000230877",
     "SP32501000230896",
@@ -344,7 +346,9 @@
     "SP12501103302010",
     "SP12501103329004",
     "SP12501103329400",
-    "SP12501103329411"
+    "SP12501103329411",
+    "SP12501116765411",
+    "SP32501000230121"
   ],
   "skus_subidos_hoje": [
     "SP12501053828411",
@@ -381,6 +385,7 @@
     "SP12501103310523",
     "SP12501103310524",
     "SP12501103329033",
+    "SP12501103329411",
     "SP12501103337001",
     "SP12501103337032",
     "SP12501103337033",
@@ -447,6 +452,7 @@
     "SP12501103310523",
     "SP12501103310524",
     "SP12501103329033",
+    "SP12501103329411",
     "SP12501103337001",
     "SP12501103337032",
     "SP12501103337033",
@@ -486,7 +492,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -518,14 +524,38 @@
     {
       "sku": "SP12501103329411",
       "id_produto": "22268",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT PALIO EX 1.0 MPI FIRE FLEX 8V 2001",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501116765411",
+      "id_produto": "21519",
+      "nome": "ELETROVENTILADOR",
+      "marca": "MITSUBISHI",
+      "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "4"
+    },
+    {
+      "sku": "SP32501000230121",
+      "id_produto": "21875",
+      "nome": "TURBINA 1",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "5"
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -559,9 +589,9 @@
       "nome": "MACACO MECÂNICO NISSAN KICKS ADVANCE 1.6 16V FLEX AUT. 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "closed",
+      "quantidade": "0",
       "classificacao": "08",
       "qtd_images": "6"
     },
@@ -583,9 +613,9 @@
       "nome": "ANTENA RÁDIO NISSAN KICKS ADVANCE 1.6 16V FLEX AUT. 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "closed",
+      "quantidade": "0",
       "classificacao": "09",
       "qtd_images": "5"
     },
@@ -800,7 +830,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -936,6 +966,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103329411",
+      "id_produto": "22268",
+      "nome": "ELETROVENTILADOR FIAT PALIO EX 1.0 MPI FIRE FLEX 8V 2001",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103337001",
@@ -1593,9 +1635,9 @@
       "nome": "MACACO MECÂNICO NISSAN KICKS ADVANCE 1.6 16V FLEX AUT. 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "closed",
+      "quantidade": "0",
       "classificacao": "08",
       "qtd_images": "6"
     },
@@ -2385,7 +2427,7 @@
       "nome": "COMPRESSOR AR CONDICIONADO",
       "marca": "CTR",
       "modelo_do_veiculo": "CITROËN / JUMPER 2.3 FURGÃO TB DIESEL",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "7",
@@ -2577,7 +2619,7 @@
       "nome": "TANQUE DE COMBUTÍVEL 1 RAM 3500 LIMITED LONGHORN 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
@@ -2721,7 +2763,7 @@
       "nome": "RADIADOR BAIXA TEMPERATURA",
       "marca": "VW",
       "modelo_do_veiculo": "VIRTUS COMFORT. 200 TSI 1.0 FLEX 12V AUT",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "5",
@@ -3117,9 +3159,9 @@
       "nome": "ANTENA RÁDIO NISSAN KICKS ADVANCE 1.6 16V FLEX AUT. 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "closed",
+      "quantidade": "0",
       "classificacao": "09",
       "qtd_images": "5"
     },
@@ -3274,7 +3316,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -3282,11 +3324,11 @@
     "SP12501103329411": {
       "sku": "SP12501103329411",
       "id_produto": "22268",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT PALIO EX 1.0 MPI FIRE FLEX 8V 2001",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -3302,6 +3344,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP32501000230121": {
+      "sku": "SP32501000230121",
+      "id_produto": "21875",
+      "nome": "TURBINA 1",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501116765411": {
+      "sku": "SP12501116765411",
+      "id_produto": "21519",
+      "nome": "ELETROVENTILADOR",
+      "marca": "MITSUBISHI",
+      "modelo_do_veiculo": "PAJERO TR4 2.0 FLEX 16V 4X4 AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "4"
     }
   }
 }
