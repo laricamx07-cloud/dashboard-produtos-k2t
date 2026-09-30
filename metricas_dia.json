@@ -1,11 +1,11 @@
 {
   "data": "2026-09-30",
   "primeira_atualizacao": "30/09/2026 10:03:41",
-  "ultima_atualizacao": "30/09/2026 11:21:34",
+  "ultima_atualizacao": "30/09/2026 11:31:28",
   "total_base_dia": 163,
-  "total_atual": 149,
+  "total_atual": 146,
   "novos_produtos": 0,
-  "total_subidos": 14,
+  "total_subidos": 17,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -338,8 +338,11 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501053828411",
     "SP12501103329033",
     "SP12501111577031",
+    "SP12501111577034",
+    "SP12501111577035",
     "SP12501111577038",
     "SP12501111577045",
     "SP12501111577411",
@@ -354,8 +357,11 @@
     "SP12501111682049"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501053828411",
     "SP12501103329033",
     "SP12501111577031",
+    "SP12501111577034",
+    "SP12501111577035",
     "SP12501111577038",
     "SP12501111577045",
     "SP12501111577411",
@@ -371,6 +377,18 @@
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501053828411",
+      "id_produto": "22086",
+      "nome": "ELETROVENTILADOR RENAULT CLIO SED. AUTHENTIQUE HI-FLEX 1.6",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
     {
       "sku": "SP12501103329033",
       "id_produto": "22260",
@@ -394,6 +412,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501111577034",
+      "id_produto": "22216",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET VECTRA GLS 2.0 8V 1996/97",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501111577035",
+      "id_produto": "22217",
+      "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET VECTRA GLS 2.0 8V 1996/97",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501111577038",
@@ -548,7 +590,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -952,11 +994,11 @@
     "SP12501111577034": {
       "sku": "SP12501111577034",
       "id_produto": "22216",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET VECTRA GLS 2.0 8V 1996/97",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "VECTRA GLS 2.0 CD 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2404,11 +2446,11 @@
     "SP12501053828411": {
       "sku": "SP12501053828411",
       "id_produto": "22086",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR RENAULT CLIO SED. AUTHENTIQUE HI-FLEX 1.6",
       "marca": "RENAULT",
       "modelo_do_veiculo": "CLIO SED. AUTHENTIQUE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
