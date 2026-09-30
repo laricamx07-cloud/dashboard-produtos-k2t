@@ -1,10 +1,10 @@
 {
   "data": "2026-09-30",
   "primeira_atualizacao": "30/09/2026 10:03:41",
-  "ultima_atualizacao": "30/09/2026 18:01:41",
+  "ultima_atualizacao": "30/09/2026 18:21:30",
   "total_base_dia": 163,
-  "total_atual": 74,
-  "novos_produtos": 35,
+  "total_atual": 75,
+  "novos_produtos": 36,
   "total_subidos": 120,
   "skus_base_dia": [
     "SP12501005173040",
@@ -248,6 +248,7 @@
     "SP12501056339575",
     "SP12501056339587",
     "SP12501056347001",
+    "SP12501056347004",
     "SP12501056347010",
     "SP12501056347011",
     "SP12501056347024",
@@ -374,6 +375,7 @@
   "skus_novos_hoje": [
     "SP12501041242001",
     "SP12501056347001",
+    "SP12501056347004",
     "SP12501056347010",
     "SP12501056347011",
     "SP12501056347024",
@@ -678,6 +680,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501056347004",
+      "id_produto": "22294",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501056347010",
       "id_produto": "22277",
       "nome": "CHAVE DE SETA",
@@ -792,7 +806,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -804,7 +818,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1093,9 +1107,9 @@
       "nome": "TAMPA TRASEIRA NISSAN KICKS ADVANCE 1.6 16V FLEX AUT. 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "09",
       "qtd_images": "7"
     },
@@ -1706,7 +1720,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1718,7 +1732,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -3075,9 +3089,9 @@
       "nome": "TAMPA TRASEIRA NISSAN KICKS ADVANCE 1.6 16V FLEX AUT. 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Habilitado",
-      "status_ml": "active",
-      "quantidade": "1",
+      "status": "Desabilitado",
+      "status_ml": "paused",
+      "quantidade": "0",
       "classificacao": "09",
       "qtd_images": "7"
     },
@@ -4684,7 +4698,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -4792,7 +4806,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -4892,6 +4906,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    "SP12501056347004": {
+      "sku": "SP12501056347004",
+      "id_produto": "22294",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   }
 }
