@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 16:01:37",
+  "ultima_atualizacao": "01/10/2026 16:20:50",
   "total_base_dia": 79,
-  "total_atual": 87,
-  "novos_produtos": 53,
-  "total_subidos": 45,
+  "total_atual": 85,
+  "novos_produtos": 56,
+  "total_subidos": 50,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -100,6 +100,7 @@
     "SP12501010835033",
     "SP12501010835035",
     "SP12501015560033",
+    "SP12501015586400",
     "SP12501015608045",
     "SP12501015616048",
     "SP12501015640410",
@@ -158,6 +159,8 @@
     "SP12501056347424",
     "SP12501056347448",
     "SP12501056347514",
+    "SP12501056355007",
+    "SP12501056355024",
     "SP12501079959400",
     "SP12501080140037",
     "SP12501080140038",
@@ -232,6 +235,7 @@
     "SP12501010835033",
     "SP12501010835035",
     "SP12501015560033",
+    "SP12501015586400",
     "SP12501015608045",
     "SP12501015616048",
     "SP12501015837045",
@@ -252,6 +256,8 @@
     "SP12501053879400",
     "SP12501054280034",
     "SP12501054468007",
+    "SP12501056355007",
+    "SP12501056355024",
     "SP12501080140037",
     "SP12501080140038",
     "SP12501084162032",
@@ -277,6 +283,8 @@
     "SP12501123583034"
   ],
   "skus_subidos_hoje": [
+    "SP12501005289024",
+    "SP12501017481011",
     "SP12501053879004",
     "SP12501053879028",
     "SP12501053879032",
@@ -316,7 +324,10 @@
     "SP12501103140004",
     "SP12501103140033",
     "SP12501103140034",
+    "SP12501103140037",
     "SP12501103140045",
+    "SP12501103140400",
+    "SP12501103140411",
     "SP12501103248480",
     "SP12501103310004",
     "SP32501000230082",
@@ -324,6 +335,8 @@
     "SP32501000230804"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501005289024",
+    "SP12501017481011",
     "SP12501053879004",
     "SP12501053879028",
     "SP12501053879032",
@@ -363,7 +376,10 @@
     "SP12501103140004",
     "SP12501103140033",
     "SP12501103140034",
+    "SP12501103140037",
     "SP12501103140045",
+    "SP12501103140400",
+    "SP12501103140411",
     "SP12501103248480",
     "SP12501103310004",
     "SP32501000230082",
@@ -386,11 +402,11 @@
     {
       "sku": "SP12501005289024",
       "id_produto": "18205",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO NISSAN VERSA UNIQUE 1.6 16V 2015/2016",
       "marca": "NISSAN",
       "modelo_do_veiculo": "VERSA UNIQUE 1.6 16V FLEX 4P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -492,6 +508,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501015586400",
+      "id_produto": "19097",
+      "nome": "MOTOR COMPLETO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501015608045",
       "id_produto": "13749",
       "nome": "TAMPA TRASEIRA",
@@ -554,11 +582,11 @@
     {
       "sku": "SP12501017481011",
       "id_produto": "19186",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA HR-V EXL 1.8 16V 2019/20",
       "marca": "HONDA",
       "modelo_do_veiculo": "HR-V EXL 1.8 FLEXONE 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -732,6 +760,30 @@
       "qtd_images": "3"
     },
     {
+      "sku": "SP12501056355007",
+      "id_produto": "22326",
+      "nome": "CAPÔ",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056355024",
+      "id_produto": "22328",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501080140037",
       "id_produto": "7006",
       "nome": "RETROVISOR DIREITO HONDA HR-V EXL 1.8 FLEXONE 2021",
@@ -902,11 +954,11 @@
     {
       "sku": "SP12501103140037",
       "id_produto": "22322",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -926,11 +978,11 @@
     {
       "sku": "SP12501103140400",
       "id_produto": "22323",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -938,11 +990,11 @@
     {
       "sku": "SP12501103140411",
       "id_produto": "22324",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1009,6 +1061,30 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501005289024",
+      "id_produto": "18205",
+      "nome": "MÓDULO DE INJEÇÃO NISSAN VERSA UNIQUE 1.6 16V 2015/2016",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "VERSA UNIQUE 1.6 16V FLEX 4P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501017481011",
+      "id_produto": "19186",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA HR-V EXL 1.8 16V 2019/20",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "HR-V EXL 1.8 FLEXONE 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501053879004",
       "id_produto": "22305",
@@ -1478,6 +1554,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103140037",
+      "id_produto": "22322",
+      "nome": "RETROVISOR DIREITO CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103140045",
       "id_produto": "22304",
       "nome": "TAMPA TRASEIRA CHEVROLET PRISMA SED. LT 1.0 8V FLEXPOWER",
@@ -1487,6 +1575,30 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103140400",
+      "id_produto": "22323",
+      "nome": "MOTOR COMPLETO CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103140411",
+      "id_produto": "22324",
+      "nome": "ELETROVENTILADOR CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "7"
     },
     {
@@ -2682,11 +2794,11 @@
     "SP12501103140411": {
       "sku": "SP12501103140411",
       "id_produto": "22324",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -2742,11 +2854,11 @@
     "SP12501103140400": {
       "sku": "SP12501103140400",
       "id_produto": "22323",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2766,11 +2878,11 @@
     "SP12501005289024": {
       "sku": "SP12501005289024",
       "id_produto": "18205",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO NISSAN VERSA UNIQUE 1.6 16V 2015/2016",
       "marca": "NISSAN",
       "modelo_do_veiculo": "VERSA UNIQUE 1.6 16V FLEX 4P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -2790,11 +2902,11 @@
     "SP12501103140037": {
       "sku": "SP12501103140037",
       "id_produto": "22322",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2814,11 +2926,11 @@
     "SP12501017481011": {
       "sku": "SP12501017481011",
       "id_produto": "19186",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO HONDA HR-V EXL 1.8 16V 2019/20",
       "marca": "HONDA",
       "modelo_do_veiculo": "HR-V EXL 1.8 FLEXONE 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3133,6 +3245,42 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "9",
+      "qtd_images": "6"
+    },
+    "SP12501015586400": {
+      "sku": "SP12501015586400",
+      "id_produto": "19097",
+      "nome": "MOTOR COMPLETO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501056355007": {
+      "sku": "SP12501056355007",
+      "id_produto": "22326",
+      "nome": "CAPÔ",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501056355024": {
+      "sku": "SP12501056355024",
+      "id_produto": "22328",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "6"
     }
   }
