@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 10:21:53",
+  "ultima_atualizacao": "01/10/2026 10:31:39",
   "total_base_dia": 79,
-  "total_atual": 66,
+  "total_atual": 65,
   "novos_produtos": 0,
-  "total_subidos": 13,
+  "total_subidos": 14,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -171,6 +171,7 @@
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
     "SP12501056347004",
+    "SP12501056347011",
     "SP12501056347012",
     "SP12501056347026",
     "SP12501056347027",
@@ -186,6 +187,7 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501056347004",
+    "SP12501056347011",
     "SP12501056347012",
     "SP12501056347026",
     "SP12501056347027",
@@ -212,6 +214,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056347011",
+      "id_produto": "22278",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FORD FIESTA HATCH 1.5L 16V",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501056347012",
@@ -1274,11 +1288,11 @@
     "SP12501056347011": {
       "sku": "SP12501056347011",
       "id_produto": "22278",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FORD FIESTA HATCH 1.5L 16V",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
