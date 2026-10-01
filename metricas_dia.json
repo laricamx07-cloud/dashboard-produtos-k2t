@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 11:31:39",
+  "ultima_atualizacao": "01/10/2026 11:51:41",
   "total_base_dia": 79,
-  "total_atual": 57,
-  "novos_produtos": 3,
-  "total_subidos": 25,
+  "total_atual": 58,
+  "novos_produtos": 6,
+  "total_subidos": 27,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -95,8 +95,10 @@
     "SP12501017449043",
     "SP12501040874034",
     "SP12501041242001",
+    "SP12501053879032",
     "SP12501053879033",
     "SP12501053879034",
+    "SP12501053879035",
     "SP12501053879400",
     "SP12501053941437",
     "SP12501056207039",
@@ -145,6 +147,7 @@
     "SP12501102470045",
     "SP12501102519045",
     "SP12501102527032",
+    "SP12501103140045",
     "SP12501103248032",
     "SP12501103248034",
     "SP12501103248035",
@@ -172,11 +175,16 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501053879032",
     "SP12501053879033",
     "SP12501053879034",
-    "SP12501053879400"
+    "SP12501053879035",
+    "SP12501053879400",
+    "SP12501103140045"
   ],
   "skus_subidos_hoje": [
+    "SP12501053879400",
+    "SP12501056320004",
     "SP12501056320482",
     "SP12501056320492",
     "SP12501056339575",
@@ -204,6 +212,8 @@
     "SP12501103310004"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501053879400",
+    "SP12501056320004",
     "SP12501056320482",
     "SP12501056320492",
     "SP12501056339575",
@@ -232,11 +242,23 @@
   ],
   "itens_novos_hoje": [
     {
+      "sku": "SP12501053879032",
+      "id_produto": "22300",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501053879033",
       "id_produto": "22301",
       "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -248,7 +270,19 @@
       "id_produto": "22302",
       "nome": "PORTA TRASEIRA DIREITA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053879035",
+      "id_produto": "22303",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -258,17 +292,53 @@
     {
       "sku": "SP12501053879400",
       "id_produto": "22299",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003/2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103140045",
+      "id_produto": "22304",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501053879400",
+      "id_produto": "22299",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003/2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056320004",
+      "id_produto": "22125",
+      "nome": "CÂMBIO MANUAL CITROEN C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501056320482",
       "id_produto": "22135",
@@ -276,7 +346,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1090,11 +1160,11 @@
     "SP12501056320004": {
       "sku": "SP12501056320004",
       "id_produto": "22125",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CITROEN C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1202,7 +1272,7 @@
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1522,11 +1592,11 @@
     "SP12501053879400": {
       "sku": "SP12501053879400",
       "id_produto": "22299",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003/2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1536,7 +1606,7 @@
       "id_produto": "22302",
       "nome": "PORTA TRASEIRA DIREITA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -1548,12 +1618,48 @@
       "id_produto": "22301",
       "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501103140045": {
+      "sku": "SP12501103140045",
+      "id_produto": "22304",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501053879035": {
+      "sku": "SP12501053879035",
+      "id_produto": "22303",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501053879032": {
+      "sku": "SP12501053879032",
+      "id_produto": "22300",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   }
 }
