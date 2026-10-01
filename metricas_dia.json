@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 11:02:10",
+  "ultima_atualizacao": "01/10/2026 11:21:29",
   "total_base_dia": 79,
-  "total_atual": 58,
+  "total_atual": 56,
   "novos_produtos": 1,
-  "total_subidos": 22,
+  "total_subidos": 24,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -173,6 +173,8 @@
     "SP12501053879400"
   ],
   "skus_subidos_hoje": [
+    "SP12501056320492",
+    "SP12501056339575",
     "SP12501056347001",
     "SP12501056347004",
     "SP12501056347010",
@@ -197,6 +199,8 @@
     "SP12501103310004"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501056320492",
+    "SP12501056339575",
     "SP12501056347001",
     "SP12501056347004",
     "SP12501056347010",
@@ -235,6 +239,30 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501056320492",
+      "id_produto": "22137",
+      "nome": "VIRABREQUIM CITROEN C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V 04",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056339575",
+      "id_produto": "22156",
+      "nome": "COMPUTADOR DE BORDO CITROEN C4 PALLAS 2.0 16V EAF FLEX 2009",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
     {
       "sku": "SP12501056347001",
       "id_produto": "22276",
@@ -828,11 +856,11 @@
     "SP12501056339575": {
       "sku": "SP12501056339575",
       "id_produto": "22156",
-      "nome": "COMPUTADOR DE BORDO",
+      "nome": "COMPUTADOR DE BORDO CITROEN C4 PALLAS 2.0 16V EAF FLEX 2009",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1176,11 +1204,11 @@
     "SP12501056320492": {
       "sku": "SP12501056320492",
       "id_produto": "22137",
-      "nome": "VIRABREQUIM",
+      "nome": "VIRABREQUIM CITROEN C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V 04",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
