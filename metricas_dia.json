@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 09:50:56",
+  "ultima_atualizacao": "01/10/2026 10:02:15",
   "total_base_dia": 79,
-  "total_atual": 72,
+  "total_atual": 70,
   "novos_produtos": 0,
-  "total_subidos": 7,
+  "total_subidos": 9,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -172,6 +172,8 @@
   "skus_subidos_hoje": [
     "SP12501056347004",
     "SP12501056347012",
+    "SP12501056347033",
+    "SP12501056347034",
     "SP12501056347036",
     "SP12501056347400",
     "SP12501056347411",
@@ -181,6 +183,8 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501056347004",
     "SP12501056347012",
+    "SP12501056347033",
+    "SP12501056347034",
     "SP12501056347036",
     "SP12501056347400",
     "SP12501056347411",
@@ -212,6 +216,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056347033",
+      "id_produto": "22284",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD FIESTA HATCH 1.5L 16V SE MEC.",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056347034",
+      "id_produto": "22285",
+      "nome": "PORTA TRASEIRA DIREITA FORD FIESTA HATCH 1.5L 16V SE MEC. 14",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501056347036",
@@ -256,7 +284,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -810,7 +838,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -998,11 +1026,11 @@
     "SP12501056347034": {
       "sku": "SP12501056347034",
       "id_produto": "22285",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA FORD FIESTA HATCH 1.5L 16V SE MEC. 14",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1106,11 +1134,11 @@
     "SP12501056347033": {
       "sku": "SP12501056347033",
       "id_produto": "22284",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD FIESTA HATCH 1.5L 16V SE MEC.",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
