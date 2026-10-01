@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 08:31:43",
+  "ultima_atualizacao": "01/10/2026 08:50:57",
   "total_base_dia": 79,
-  "total_atual": 77,
+  "total_atual": 74,
   "novos_produtos": 0,
-  "total_subidos": 2,
+  "total_subidos": 5,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -171,10 +171,16 @@
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
     "SP12501056347004",
+    "SP12501056347012",
+    "SP12501056347036",
+    "SP12501056347400",
     "SP12501056347411"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501056347004",
+    "SP12501056347012",
+    "SP12501056347036",
+    "SP12501056347400",
     "SP12501056347411"
   ],
   "itens_novos_hoje": [],
@@ -183,6 +189,42 @@
       "sku": "SP12501056347004",
       "id_produto": "22294",
       "nome": "CÂMBIO MANUAL FORD FIESTA HATCH 1.5L 16V SE MEC. 2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056347012",
+      "id_produto": "22295",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FORD FIESTA HATCH 1.5 2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056347036",
+      "id_produto": "22296",
+      "nome": "RADIADOR FORD FIESTA HATCH 1.5L 16V SE MEC. 2014/2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056347400",
+      "id_produto": "22297",
+      "nome": "MOTOR COMPLETO FORD FIESTA HATCH 1.5L 16V SE MEC. 2014/2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
@@ -232,11 +274,11 @@
     "SP12501056347036": {
       "sku": "SP12501056347036",
       "id_produto": "22296",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FORD FIESTA HATCH 1.5L 16V SE MEC. 2014/2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -304,11 +346,11 @@
     "SP12501056347012": {
       "sku": "SP12501056347012",
       "id_produto": "22295",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO FORD FIESTA HATCH 1.5 2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -340,11 +382,11 @@
     "SP12501056347400": {
       "sku": "SP12501056347400",
       "id_produto": "22297",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FORD FIESTA HATCH 1.5L 16V SE MEC. 2014/2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
