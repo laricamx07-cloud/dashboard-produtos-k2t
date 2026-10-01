@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 12:51:12",
+  "ultima_atualizacao": "01/10/2026 13:02:06",
   "total_base_dia": 79,
-  "total_atual": 55,
+  "total_atual": 53,
   "novos_produtos": 10,
-  "total_subidos": 34,
+  "total_subidos": 36,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -222,6 +222,8 @@
     "SP12501099739032",
     "SP12501099739033",
     "SP12501100664031",
+    "SP12501103140033",
+    "SP12501103140034",
     "SP12501103140045",
     "SP12501103248480",
     "SP12501103310004"
@@ -258,6 +260,8 @@
     "SP12501099739032",
     "SP12501099739033",
     "SP12501100664031",
+    "SP12501103140033",
+    "SP12501103140034",
     "SP12501103140045",
     "SP12501103248480",
     "SP12501103310004"
@@ -350,11 +354,11 @@
     {
       "sku": "SP12501103140033",
       "id_produto": "22307",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA CHEVROLET PRISMA SED. LT 1.0 2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -362,11 +366,11 @@
     {
       "sku": "SP12501103140034",
       "id_produto": "22308",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET PRISMA SED. LT 1.0 2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -756,6 +760,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103140033",
+      "id_produto": "22307",
+      "nome": "PORTA DIANTEIRA ESQUERDA CHEVROLET PRISMA SED. LT 1.0 2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103140034",
+      "id_produto": "22308",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET PRISMA SED. LT 1.0 2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103140045",
@@ -1842,11 +1870,11 @@
     "SP12501103140033": {
       "sku": "SP12501103140033",
       "id_produto": "22307",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA CHEVROLET PRISMA SED. LT 1.0 2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1854,11 +1882,11 @@
     "SP12501103140034": {
       "sku": "SP12501103140034",
       "id_produto": "22308",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET PRISMA SED. LT 1.0 2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
