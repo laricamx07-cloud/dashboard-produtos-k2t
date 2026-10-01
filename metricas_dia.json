@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 14:50:45",
+  "ultima_atualizacao": "01/10/2026 15:01:32",
   "total_base_dia": 79,
-  "total_atual": 52,
+  "total_atual": 51,
   "novos_produtos": 11,
-  "total_subidos": 38,
+  "total_subidos": 39,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -195,6 +195,7 @@
   "skus_subidos_hoje": [
     "SP12501053879004",
     "SP12501053879028",
+    "SP12501053879032",
     "SP12501053879033",
     "SP12501053879034",
     "SP12501053879035",
@@ -235,6 +236,7 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501053879004",
     "SP12501053879028",
+    "SP12501053879032",
     "SP12501053879033",
     "SP12501053879034",
     "SP12501053879035",
@@ -300,11 +302,11 @@
     {
       "sku": "SP12501053879032",
       "id_produto": "22300",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -360,10 +362,10 @@
     {
       "sku": "SP12501103140004",
       "id_produto": "22309",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET PRISMA SED. LT 1.0 8V FLEXPOWER 2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
@@ -430,6 +432,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053879032",
+      "id_produto": "22300",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501053879033",
@@ -1876,11 +1890,11 @@
     "SP12501053879032": {
       "sku": "SP12501053879032",
       "id_produto": "22300",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1936,10 +1950,10 @@
     "SP12501103140004": {
       "sku": "SP12501103140004",
       "id_produto": "22309",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET PRISMA SED. LT 1.0 8V FLEXPOWER 2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
