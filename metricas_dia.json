@@ -1,10 +1,10 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 16:20:50",
+  "ultima_atualizacao": "01/10/2026 16:31:09",
   "total_base_dia": 79,
-  "total_atual": 85,
-  "novos_produtos": 56,
+  "total_atual": 88,
+  "novos_produtos": 59,
   "total_subidos": 50,
   "skus_base_dia": [
     "SP12501005173040",
@@ -92,6 +92,7 @@
     "SP12501005173040",
     "SP12501005173484",
     "SP12501005289024",
+    "SP12501005327024",
     "SP12501005394033",
     "SP12501005408034",
     "SP12501009772033",
@@ -161,6 +162,8 @@
     "SP12501056347514",
     "SP12501056355007",
     "SP12501056355024",
+    "SP12501056355027",
+    "SP12501056355035",
     "SP12501079959400",
     "SP12501080140037",
     "SP12501080140038",
@@ -227,6 +230,7 @@
   "skus_novos_hoje": [
     "SP12501004665045",
     "SP12501005289024",
+    "SP12501005327024",
     "SP12501005394033",
     "SP12501005408034",
     "SP12501009772033",
@@ -258,6 +262,8 @@
     "SP12501054468007",
     "SP12501056355007",
     "SP12501056355024",
+    "SP12501056355027",
+    "SP12501056355035",
     "SP12501080140037",
     "SP12501080140038",
     "SP12501084162032",
@@ -407,6 +413,18 @@
       "modelo_do_veiculo": "VERSA UNIQUE 1.6 16V FLEX 4P MEC.",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501005327024",
+      "id_produto": "18206",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN EXPRES./EXP. UP HI-FLEX 1.0 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -784,6 +802,30 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501056355027",
+      "id_produto": "22329",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056355035",
+      "id_produto": "22335",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501080140037",
       "id_produto": "7006",
       "nome": "RETROVISOR DIREITO HONDA HR-V EXL 1.8 FLEXONE 2021",
@@ -958,7 +1000,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1560,7 +1602,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2906,7 +2948,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -3282,6 +3324,42 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
+    },
+    "SP12501056355027": {
+      "sku": "SP12501056355027",
+      "id_produto": "22329",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501005327024": {
+      "sku": "SP12501005327024",
+      "id_produto": "18206",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN EXPRES./EXP. UP HI-FLEX 1.0 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501056355035": {
+      "sku": "SP12501056355035",
+      "id_produto": "22335",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
