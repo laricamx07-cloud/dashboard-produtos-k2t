@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 13:02:06",
+  "ultima_atualizacao": "01/10/2026 13:21:19",
   "total_base_dia": 79,
-  "total_atual": 53,
+  "total_atual": 51,
   "novos_produtos": 10,
-  "total_subidos": 36,
+  "total_subidos": 38,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -226,7 +226,9 @@
     "SP12501103140034",
     "SP12501103140045",
     "SP12501103248480",
-    "SP12501103310004"
+    "SP12501103310004",
+    "SP32501000230112",
+    "SP32501000230804"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501053879004",
@@ -264,7 +266,9 @@
     "SP12501103140034",
     "SP12501103140045",
     "SP12501103248480",
-    "SP12501103310004"
+    "SP12501103310004",
+    "SP32501000230112",
+    "SP32501000230804"
   ],
   "itens_novos_hoje": [
     {
@@ -820,6 +824,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP32501000230112",
+      "id_produto": "21928",
+      "nome": "INVERSOR ELÉTRICO RAM 3500 LIMITED LONGHORN 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP32501000230804",
+      "id_produto": "21927",
+      "nome": "CONVERSOR CATALÍTICO RAM 3500 LIMITED LONGHORN 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1366,11 +1394,11 @@
     "SP32501000230112": {
       "sku": "SP32501000230112",
       "id_produto": "21928",
-      "nome": "INVERSOR ELÉTRICO",
+      "nome": "INVERSOR ELÉTRICO RAM 3500 LIMITED LONGHORN 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1726,11 +1754,11 @@
     "SP32501000230804": {
       "sku": "SP32501000230804",
       "id_produto": "21927",
-      "nome": "CONVERSOR CATALÍTICO",
+      "nome": "CONVERSOR CATALÍTICO RAM 3500 LIMITED LONGHORN 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
