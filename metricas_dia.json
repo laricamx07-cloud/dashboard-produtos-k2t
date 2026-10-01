@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 12:31:55",
+  "ultima_atualizacao": "01/10/2026 12:51:12",
   "total_base_dia": 79,
-  "total_atual": 58,
+  "total_atual": 55,
   "novos_produtos": 10,
-  "total_subidos": 31,
+  "total_subidos": 34,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -191,6 +191,8 @@
     "SP12501103140045"
   ],
   "skus_subidos_hoje": [
+    "SP12501053879004",
+    "SP12501053879028",
     "SP12501053879033",
     "SP12501053879034",
     "SP12501053879035",
@@ -220,10 +222,13 @@
     "SP12501099739032",
     "SP12501099739033",
     "SP12501100664031",
+    "SP12501103140045",
     "SP12501103248480",
     "SP12501103310004"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501053879004",
+    "SP12501053879028",
     "SP12501053879033",
     "SP12501053879034",
     "SP12501053879035",
@@ -253,6 +258,7 @@
     "SP12501099739032",
     "SP12501099739033",
     "SP12501100664031",
+    "SP12501103140045",
     "SP12501103248480",
     "SP12501103310004"
   ],
@@ -260,11 +266,11 @@
     {
       "sku": "SP12501053879004",
       "id_produto": "22305",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003/2003",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -272,11 +278,11 @@
     {
       "sku": "SP12501053879028",
       "id_produto": "22306",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -346,7 +352,7 @@
       "id_produto": "22307",
       "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -358,7 +364,7 @@
       "id_produto": "22308",
       "nome": "PORTA TRASEIRA DIREITA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -368,17 +374,41 @@
     {
       "sku": "SP12501103140045",
       "id_produto": "22304",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA CHEVROLET PRISMA SED. LT 1.0 8V FLEXPOWER",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501053879004",
+      "id_produto": "22305",
+      "nome": "CÂMBIO MANUAL CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003/2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053879028",
+      "id_produto": "22306",
+      "nome": "PARA-CHOQUE DIANTEIRO CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501053879033",
       "id_produto": "22301",
@@ -725,6 +755,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103140045",
+      "id_produto": "22304",
+      "nome": "TAMPA TRASEIRA CHEVROLET PRISMA SED. LT 1.0 8V FLEXPOWER",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "7"
     },
     {
@@ -1740,11 +1782,11 @@
     "SP12501103140045": {
       "sku": "SP12501103140045",
       "id_produto": "22304",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA CHEVROLET PRISMA SED. LT 1.0 8V FLEXPOWER",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1776,11 +1818,11 @@
     "SP12501053879004": {
       "sku": "SP12501053879004",
       "id_produto": "22305",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003/2003",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1788,11 +1830,11 @@
     "SP12501053879028": {
       "sku": "SP12501053879028",
       "id_produto": "22306",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1802,7 +1844,7 @@
       "id_produto": "22307",
       "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -1814,7 +1856,7 @@
       "id_produto": "22308",
       "nome": "PORTA TRASEIRA DIREITA",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
