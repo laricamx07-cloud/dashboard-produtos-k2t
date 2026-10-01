@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 17:20:52",
+  "ultima_atualizacao": "01/10/2026 17:31:12",
   "total_base_dia": 79,
-  "total_atual": 89,
+  "total_atual": 88,
   "novos_produtos": 68,
-  "total_subidos": 58,
+  "total_subidos": 59,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -310,6 +310,7 @@
     "SP12501005289024",
     "SP12501017481011",
     "SP12501053879004",
+    "SP12501053879027",
     "SP12501053879028",
     "SP12501053879032",
     "SP12501053879033",
@@ -370,6 +371,7 @@
     "SP12501005289024",
     "SP12501017481011",
     "SP12501053879004",
+    "SP12501053879027",
     "SP12501053879028",
     "SP12501053879032",
     "SP12501053879033",
@@ -730,11 +732,11 @@
     {
       "sku": "SP12501053879027",
       "id_produto": "22312",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET CELTA 1.0 8V 5P 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -806,7 +808,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -1282,6 +1284,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501053879027",
+      "id_produto": "22312",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET CELTA 1.0 8V 5P 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501053879028",
       "id_produto": "22306",
       "nome": "PARA-CHOQUE DIANTEIRO CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
@@ -1348,7 +1362,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3038,11 +3052,11 @@
     "SP12501053879027": {
       "sku": "SP12501053879027",
       "id_produto": "22312",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS CHEVROLET CELTA 1.0 8V 5P 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -3054,7 +3068,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
