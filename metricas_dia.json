@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 12:21:27",
+  "ultima_atualizacao": "01/10/2026 12:31:55",
   "total_base_dia": 79,
-  "total_atual": 57,
-  "novos_produtos": 8,
-  "total_subidos": 30,
+  "total_atual": 58,
+  "novos_produtos": 10,
+  "total_subidos": 31,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -149,6 +149,8 @@
     "SP12501102470045",
     "SP12501102519045",
     "SP12501102527032",
+    "SP12501103140033",
+    "SP12501103140034",
     "SP12501103140045",
     "SP12501103248032",
     "SP12501103248034",
@@ -184,11 +186,14 @@
     "SP12501053879034",
     "SP12501053879035",
     "SP12501053879400",
+    "SP12501103140033",
+    "SP12501103140034",
     "SP12501103140045"
   ],
   "skus_subidos_hoje": [
     "SP12501053879033",
     "SP12501053879034",
+    "SP12501053879035",
     "SP12501053879400",
     "SP12501056320004",
     "SP12501056320482",
@@ -221,6 +226,7 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501053879033",
     "SP12501053879034",
+    "SP12501053879035",
     "SP12501053879400",
     "SP12501056320004",
     "SP12501056320482",
@@ -314,11 +320,11 @@
     {
       "sku": "SP12501053879035",
       "id_produto": "22303",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -331,6 +337,30 @@
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103140033",
+      "id_produto": "22307",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103140034",
+      "id_produto": "22308",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -365,6 +395,18 @@
       "sku": "SP12501053879034",
       "id_produto": "22302",
       "nome": "PORTA TRASEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053879035",
+      "id_produto": "22303",
+      "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
       "status": "Habilitado",
@@ -1710,11 +1752,11 @@
     "SP12501053879035": {
       "sku": "SP12501053879035",
       "id_produto": "22303",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1753,6 +1795,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501103140033": {
+      "sku": "SP12501103140033",
+      "id_produto": "22307",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501103140034": {
+      "sku": "SP12501103140034",
+      "id_produto": "22308",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     }
   }
