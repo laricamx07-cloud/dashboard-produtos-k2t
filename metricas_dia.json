@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 09:31:27",
+  "ultima_atualizacao": "01/10/2026 09:50:56",
   "total_base_dia": 79,
-  "total_atual": 73,
+  "total_atual": 72,
   "novos_produtos": 0,
-  "total_subidos": 6,
+  "total_subidos": 7,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -175,6 +175,7 @@
     "SP12501056347036",
     "SP12501056347400",
     "SP12501056347411",
+    "SP12501056347424",
     "SP12501056347448"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -183,6 +184,7 @@
     "SP12501056347036",
     "SP12501056347400",
     "SP12501056347411",
+    "SP12501056347424",
     "SP12501056347448"
   ],
   "itens_novos_hoje": [],
@@ -246,6 +248,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056347424",
+      "id_produto": "22289",
+      "nome": "RÁDIO FORD FIESTA HATCH 1.5L 16V SE MEC. 2014/2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501056347448",
@@ -792,11 +806,11 @@
     "SP12501056347424": {
       "sku": "SP12501056347424",
       "id_produto": "22289",
-      "nome": "RÁDIO",
+      "nome": "RÁDIO FORD FIESTA HATCH 1.5L 16V SE MEC. 2014/2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
