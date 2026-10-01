@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 17:01:22",
+  "ultima_atualizacao": "01/10/2026 17:20:52",
   "total_base_dia": 79,
-  "total_atual": 91,
-  "novos_produtos": 67,
-  "total_subidos": 55,
+  "total_atual": 89,
+  "novos_produtos": 68,
+  "total_subidos": 58,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -115,6 +115,7 @@
     "SP12501017481011",
     "SP12501040874034",
     "SP12501041242001",
+    "SP12501041706007",
     "SP12501052996034",
     "SP12501053879004",
     "SP12501053879010",
@@ -256,6 +257,7 @@
     "SP12501017422015",
     "SP12501017457023",
     "SP12501017481011",
+    "SP12501041706007",
     "SP12501052996034",
     "SP12501053879004",
     "SP12501053879010",
@@ -313,6 +315,7 @@
     "SP12501053879033",
     "SP12501053879034",
     "SP12501053879035",
+    "SP12501053879037",
     "SP12501053879400",
     "SP12501053941437",
     "SP12501056320004",
@@ -343,7 +346,9 @@
     "SP12501099739032",
     "SP12501099739033",
     "SP12501100664031",
+    "SP12501103140001",
     "SP12501103140004",
+    "SP12501103140010",
     "SP12501103140019",
     "SP12501103140024",
     "SP12501103140026",
@@ -370,6 +375,7 @@
     "SP12501053879033",
     "SP12501053879034",
     "SP12501053879035",
+    "SP12501053879037",
     "SP12501053879400",
     "SP12501053941437",
     "SP12501056320004",
@@ -400,7 +406,9 @@
     "SP12501099739032",
     "SP12501099739033",
     "SP12501100664031",
+    "SP12501103140001",
     "SP12501103140004",
+    "SP12501103140010",
     "SP12501103140019",
     "SP12501103140024",
     "SP12501103140026",
@@ -660,6 +668,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501041706007",
+      "id_produto": "19603",
+      "nome": "CAPÔ",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501052996034",
       "id_produto": "12976",
       "nome": "PORTA TRASEIRA DIREITA",
@@ -782,11 +802,11 @@
     {
       "sku": "SP12501053879037",
       "id_produto": "22314",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -998,11 +1018,11 @@
     {
       "sku": "SP12501103140001",
       "id_produto": "22315",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1022,11 +1042,11 @@
     {
       "sku": "SP12501103140010",
       "id_produto": "22316",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1038,7 +1058,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1319,6 +1339,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053879037",
+      "id_produto": "22314",
+      "nome": "RETROVISOR DIREITO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "10"
     },
     {
@@ -1682,6 +1714,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103140001",
+      "id_produto": "22315",
+      "nome": "ALTERNADOR CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103140004",
       "id_produto": "22309",
       "nome": "CÂMBIO MANUAL CHEVROLET PRISMA SED. LT 1.0 8V FLEXPOWER 2015",
@@ -1694,13 +1738,25 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103140010",
+      "id_produto": "22316",
+      "nome": "CHAVE DE SETA CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103140019",
       "id_produto": "22317",
       "nome": "LANTERNA TRASEIRA DIREITA CHEVROLET PRISMA SED 1.0 8V 2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2994,11 +3050,11 @@
     "SP12501053879037": {
       "sku": "SP12501053879037",
       "id_produto": "22314",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3034,7 +3090,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -3054,11 +3110,11 @@
     "SP12501103140001": {
       "sku": "SP12501103140001",
       "id_produto": "22315",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -3138,11 +3194,11 @@
     "SP12501103140010": {
       "sku": "SP12501103140010",
       "id_produto": "22316",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -3638,6 +3694,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    "SP12501041706007": {
+      "sku": "SP12501041706007",
+      "id_produto": "19603",
+      "nome": "CAPÔ",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     }
   }
 }
