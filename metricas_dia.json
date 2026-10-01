@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 15:01:32",
+  "ultima_atualizacao": "01/10/2026 15:20:47",
   "total_base_dia": 79,
-  "total_atual": 51,
-  "novos_produtos": 11,
-  "total_subidos": 39,
+  "total_atual": 50,
+  "novos_produtos": 13,
+  "total_subidos": 42,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -96,6 +96,8 @@
     "SP12501040874034",
     "SP12501041242001",
     "SP12501053879004",
+    "SP12501053879026",
+    "SP12501053879027",
     "SP12501053879028",
     "SP12501053879032",
     "SP12501053879033",
@@ -181,6 +183,8 @@
   ],
   "skus_novos_hoje": [
     "SP12501053879004",
+    "SP12501053879026",
+    "SP12501053879027",
     "SP12501053879028",
     "SP12501053879032",
     "SP12501053879033",
@@ -203,6 +207,7 @@
     "SP12501056320004",
     "SP12501056320482",
     "SP12501056320492",
+    "SP12501056320575",
     "SP12501056339026",
     "SP12501056339575",
     "SP12501056347001",
@@ -225,11 +230,13 @@
     "SP12501099739032",
     "SP12501099739033",
     "SP12501100664031",
+    "SP12501103140004",
     "SP12501103140033",
     "SP12501103140034",
     "SP12501103140045",
     "SP12501103248480",
     "SP12501103310004",
+    "SP32501000230082",
     "SP32501000230112",
     "SP32501000230804"
   ],
@@ -244,6 +251,7 @@
     "SP12501056320004",
     "SP12501056320482",
     "SP12501056320492",
+    "SP12501056320575",
     "SP12501056339026",
     "SP12501056339575",
     "SP12501056347001",
@@ -266,11 +274,13 @@
     "SP12501099739032",
     "SP12501099739033",
     "SP12501100664031",
+    "SP12501103140004",
     "SP12501103140033",
     "SP12501103140034",
     "SP12501103140045",
     "SP12501103248480",
     "SP12501103310004",
+    "SP32501000230082",
     "SP32501000230112",
     "SP32501000230804"
   ],
@@ -286,6 +296,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053879026",
+      "id_produto": "22311",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501053879027",
+      "id_produto": "22312",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501053879028",
@@ -366,7 +400,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -528,6 +562,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056320575",
+      "id_produto": "22139",
+      "nome": "COMPUTADOR DE BORDO CITROEN C3 EXCLUS./EXCL.SOLARIS 1.6 2004",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501056339026",
@@ -794,6 +840,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103140004",
+      "id_produto": "22309",
+      "nome": "CÂMBIO MANUAL CHEVROLET PRISMA SED. LT 1.0 8V FLEXPOWER 2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103140033",
       "id_produto": "22307",
       "nome": "PORTA DIANTEIRA ESQUERDA CHEVROLET PRISMA SED. LT 1.0 2015",
@@ -836,7 +894,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -854,13 +912,25 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP32501000230082",
+      "id_produto": "21919",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO RAM 3500 LIMITED LONGHORN 6.7 22",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP32501000230112",
       "id_produto": "21928",
       "nome": "INVERSOR ELÉTRICO RAM 3500 LIMITED LONGHORN 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -872,7 +942,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -886,7 +956,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
       "status": "Habilitado",
-      "status_ml": "under_review",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1026,11 +1096,11 @@
     "SP32501000230082": {
       "sku": "SP32501000230082",
       "id_produto": "21919",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO RAM 3500 LIMITED LONGHORN 6.7 22",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1426,7 +1496,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1470,11 +1540,11 @@
     "SP12501056320575": {
       "sku": "SP12501056320575",
       "id_produto": "22139",
-      "nome": "COMPUTADOR DE BORDO",
+      "nome": "COMPUTADOR DE BORDO CITROEN C3 EXCLUS./EXCL.SOLARIS 1.6 2004",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1786,7 +1856,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "active",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1954,10 +2024,34 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501053879026": {
+      "sku": "SP12501053879026",
+      "id_produto": "22311",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    "SP12501053879027": {
+      "sku": "SP12501053879027",
+      "id_produto": "22312",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     }
   }
 }
