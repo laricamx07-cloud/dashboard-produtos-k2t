@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 10:02:15",
+  "ultima_atualizacao": "01/10/2026 10:21:53",
   "total_base_dia": 79,
-  "total_atual": 70,
+  "total_atual": 66,
   "novos_produtos": 0,
-  "total_subidos": 9,
+  "total_subidos": 13,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -172,6 +172,10 @@
   "skus_subidos_hoje": [
     "SP12501056347004",
     "SP12501056347012",
+    "SP12501056347026",
+    "SP12501056347027",
+    "SP12501056347030",
+    "SP12501056347032",
     "SP12501056347033",
     "SP12501056347034",
     "SP12501056347036",
@@ -183,6 +187,10 @@
   "skus_subidos_status_ml_hoje": [
     "SP12501056347004",
     "SP12501056347012",
+    "SP12501056347026",
+    "SP12501056347027",
+    "SP12501056347030",
+    "SP12501056347032",
     "SP12501056347033",
     "SP12501056347034",
     "SP12501056347036",
@@ -218,13 +226,61 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501056347026",
+      "id_produto": "22280",
+      "nome": "MOTOR DE PARTIDA FORD FIESTA HATCH 1.5L 16V SE MEC. 2014/14",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056347027",
+      "id_produto": "22281",
+      "nome": "PAINEL DE INSTRUMENTOS FORD FIESTA HATCH 1.5L 16V SE 2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056347030",
+      "id_produto": "22282",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA HATCH 1.5L 16V 2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056347032",
+      "id_produto": "22283",
+      "nome": "PORTA DIANTEIRA DIREITA FORD FIESTA HATCH 1.5L 16V SE 2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501056347033",
       "id_produto": "22284",
       "nome": "PORTA DIANTEIRA ESQUERDA FORD FIESTA HATCH 1.5L 16V SE MEC.",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -582,11 +638,11 @@
     "SP12501056347027": {
       "sku": "SP12501056347027",
       "id_produto": "22281",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FORD FIESTA HATCH 1.5L 16V SE 2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -606,11 +662,11 @@
     "SP12501056347026": {
       "sku": "SP12501056347026",
       "id_produto": "22280",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FORD FIESTA HATCH 1.5L 16V SE MEC. 2014/14",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -642,11 +698,11 @@
     "SP12501056347030": {
       "sku": "SP12501056347030",
       "id_produto": "22282",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA HATCH 1.5L 16V 2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -726,11 +782,11 @@
     "SP12501056347032": {
       "sku": "SP12501056347032",
       "id_produto": "22283",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FORD FIESTA HATCH 1.5L 16V SE 2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1138,7 +1194,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
