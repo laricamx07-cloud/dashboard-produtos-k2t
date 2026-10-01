@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 12:01:56",
+  "ultima_atualizacao": "01/10/2026 12:21:27",
   "total_base_dia": 79,
-  "total_atual": 58,
-  "novos_produtos": 6,
-  "total_subidos": 27,
+  "total_atual": 57,
+  "novos_produtos": 8,
+  "total_subidos": 30,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -95,6 +95,8 @@
     "SP12501017449043",
     "SP12501040874034",
     "SP12501041242001",
+    "SP12501053879004",
+    "SP12501053879028",
     "SP12501053879032",
     "SP12501053879033",
     "SP12501053879034",
@@ -175,6 +177,8 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501053879004",
+    "SP12501053879028",
     "SP12501053879032",
     "SP12501053879033",
     "SP12501053879034",
@@ -183,10 +187,13 @@
     "SP12501103140045"
   ],
   "skus_subidos_hoje": [
+    "SP12501053879033",
+    "SP12501053879034",
     "SP12501053879400",
     "SP12501056320004",
     "SP12501056320482",
     "SP12501056320492",
+    "SP12501056339026",
     "SP12501056339575",
     "SP12501056347001",
     "SP12501056347004",
@@ -212,10 +219,13 @@
     "SP12501103310004"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501053879033",
+    "SP12501053879034",
     "SP12501053879400",
     "SP12501056320004",
     "SP12501056320482",
     "SP12501056320492",
+    "SP12501056339026",
     "SP12501056339575",
     "SP12501056347001",
     "SP12501056347004",
@@ -242,6 +252,30 @@
   ],
   "itens_novos_hoje": [
     {
+      "sku": "SP12501053879004",
+      "id_produto": "22305",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053879028",
+      "id_produto": "22306",
+      "nome": "PARA-CHOQUE DIANTEIRO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501053879032",
       "id_produto": "22300",
       "nome": "PORTA DIANTEIRA DIREITA",
@@ -256,11 +290,11 @@
     {
       "sku": "SP12501053879033",
       "id_produto": "22301",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA CHEVROLET CELTA 1.0 MPFI VHC 8V 03",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -268,11 +302,11 @@
     {
       "sku": "SP12501053879034",
       "id_produto": "22302",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -315,6 +349,30 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501053879033",
+      "id_produto": "22301",
+      "nome": "PORTA DIANTEIRA ESQUERDA CHEVROLET CELTA 1.0 MPFI VHC 8V 03",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053879034",
+      "id_produto": "22302",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501053879400",
       "id_produto": "22299",
@@ -361,6 +419,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501056339026",
+      "id_produto": "22143",
+      "nome": "MOTOR DE PARTIDA CITROEN C4 PALLAS 2.0 16V EAF FLEX AUT. 09",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "8"
     },
     {
@@ -1088,11 +1158,11 @@
     "SP12501056339026": {
       "sku": "SP12501056339026",
       "id_produto": "22143",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CITROEN C4 PALLAS 2.0 16V EAF FLEX AUT. 09",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1604,11 +1674,11 @@
     "SP12501053879034": {
       "sku": "SP12501053879034",
       "id_produto": "22302",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1616,11 +1686,11 @@
     "SP12501053879033": {
       "sku": "SP12501053879033",
       "id_produto": "22301",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA CHEVROLET CELTA 1.0 MPFI VHC 8V 03",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1660,6 +1730,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501053879004": {
+      "sku": "SP12501053879004",
+      "id_produto": "22305",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501053879028": {
+      "sku": "SP12501053879028",
+      "id_produto": "22306",
+      "nome": "PARA-CHOQUE DIANTEIRO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     }
   }
 }
