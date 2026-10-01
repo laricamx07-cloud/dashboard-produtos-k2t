@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 16:50:45",
+  "ultima_atualizacao": "01/10/2026 17:01:22",
   "total_base_dia": 79,
-  "total_atual": 93,
-  "novos_produtos": 66,
-  "total_subidos": 52,
+  "total_atual": 91,
+  "novos_produtos": 67,
+  "total_subidos": 55,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -109,6 +109,7 @@
     "SP12501015837045",
     "SP12501016701039",
     "SP12501017368037",
+    "SP12501017422015",
     "SP12501017449043",
     "SP12501017457023",
     "SP12501017481011",
@@ -252,6 +253,7 @@
     "SP12501015616048",
     "SP12501015837045",
     "SP12501017368037",
+    "SP12501017422015",
     "SP12501017457023",
     "SP12501017481011",
     "SP12501052996034",
@@ -342,6 +344,9 @@
     "SP12501099739033",
     "SP12501100664031",
     "SP12501103140004",
+    "SP12501103140019",
+    "SP12501103140024",
+    "SP12501103140026",
     "SP12501103140027",
     "SP12501103140033",
     "SP12501103140034",
@@ -396,6 +401,9 @@
     "SP12501099739033",
     "SP12501100664031",
     "SP12501103140004",
+    "SP12501103140019",
+    "SP12501103140024",
+    "SP12501103140026",
     "SP12501103140027",
     "SP12501103140033",
     "SP12501103140034",
@@ -614,6 +622,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501017422015",
+      "id_produto": "15601",
+      "nome": "FAROL DIREITO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501017457023",
@@ -1014,11 +1034,11 @@
     {
       "sku": "SP12501103140019",
       "id_produto": "22317",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA CHEVROLET PRISMA SED 1.0 8V 2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1026,11 +1046,11 @@
     {
       "sku": "SP12501103140024",
       "id_produto": "22318",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1038,11 +1058,11 @@
     {
       "sku": "SP12501103140026",
       "id_produto": "22319",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1054,7 +1074,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1674,13 +1694,49 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103140019",
+      "id_produto": "22317",
+      "nome": "LANTERNA TRASEIRA DIREITA CHEVROLET PRISMA SED 1.0 8V 2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103140024",
+      "id_produto": "22318",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103140026",
+      "id_produto": "22319",
+      "nome": "MOTOR DE PARTIDA CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103140027",
       "id_produto": "22320",
       "nome": "PAINEL DE INSTRUMENTOS CHEVROLET PRISMA SED. LT 1.0 8V 2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -2954,7 +3010,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -2974,11 +3030,11 @@
     "SP12501103140019": {
       "sku": "SP12501103140019",
       "id_produto": "22317",
-      "nome": "LANTERNA TRASEIRA DIREITA",
+      "nome": "LANTERNA TRASEIRA DIREITA CHEVROLET PRISMA SED 1.0 8V 2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2986,11 +3042,11 @@
     "SP12501103140024": {
       "sku": "SP12501103140024",
       "id_produto": "22318",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -3010,11 +3066,11 @@
     "SP12501103140026": {
       "sku": "SP12501103140026",
       "id_produto": "22319",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CHEVROLET PRISMA SED. LT 1.0 8V 2014/2015",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -3570,6 +3626,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501017422015": {
+      "sku": "SP12501017422015",
+      "id_produto": "15601",
+      "nome": "FAROL DIREITO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     }
   }
 }
