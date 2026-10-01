@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 11:21:29",
+  "ultima_atualizacao": "01/10/2026 11:31:39",
   "total_base_dia": 79,
-  "total_atual": 56,
-  "novos_produtos": 1,
-  "total_subidos": 24,
+  "total_atual": 57,
+  "novos_produtos": 3,
+  "total_subidos": 25,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -95,6 +95,8 @@
     "SP12501017449043",
     "SP12501040874034",
     "SP12501041242001",
+    "SP12501053879033",
+    "SP12501053879034",
     "SP12501053879400",
     "SP12501053941437",
     "SP12501056207039",
@@ -170,9 +172,12 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501053879033",
+    "SP12501053879034",
     "SP12501053879400"
   ],
   "skus_subidos_hoje": [
+    "SP12501056320482",
     "SP12501056320492",
     "SP12501056339575",
     "SP12501056347001",
@@ -199,6 +204,7 @@
     "SP12501103310004"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501056320482",
     "SP12501056320492",
     "SP12501056339575",
     "SP12501056347001",
@@ -226,6 +232,30 @@
   ],
   "itens_novos_hoje": [
     {
+      "sku": "SP12501053879033",
+      "id_produto": "22301",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053879034",
+      "id_produto": "22302",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501053879400",
       "id_produto": "22299",
       "nome": "MOTOR COMPLETO",
@@ -239,6 +269,18 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501056320482",
+      "id_produto": "22135",
+      "nome": "VOLANTE DO MOTOR CITROEN C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
     {
       "sku": "SP12501056320492",
       "id_produto": "22137",
@@ -1156,11 +1198,11 @@
     "SP12501056320482": {
       "sku": "SP12501056320482",
       "id_produto": "22135",
-      "nome": "VOLANTE DO MOTOR",
+      "nome": "VOLANTE DO MOTOR CITROEN C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 EXCLUS./EXCL.SOLARIS 1.6 FLEX 16V MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1487,6 +1529,30 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501053879034": {
+      "sku": "SP12501053879034",
+      "id_produto": "22302",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501053879033": {
+      "sku": "SP12501053879033",
+      "id_produto": "22301",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "10"
     }
   }
