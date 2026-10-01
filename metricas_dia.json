@@ -1,11 +1,11 @@
 {
   "data": "2026-10-01",
   "primeira_atualizacao": "01/10/2026 08:20:52",
-  "ultima_atualizacao": "01/10/2026 15:38:13",
+  "ultima_atualizacao": "01/10/2026 15:51:01",
   "total_base_dia": 79,
-  "total_atual": 58,
-  "novos_produtos": 23,
-  "total_subidos": 44,
+  "total_atual": 62,
+  "novos_produtos": 28,
+  "total_subidos": 45,
   "skus_base_dia": [
     "SP12501005173040",
     "SP12501005173484",
@@ -91,12 +91,15 @@
     "SP12501005173040",
     "SP12501005173484",
     "SP12501005289024",
+    "SP12501015616048",
     "SP12501015640410",
     "SP12501016701039",
     "SP12501017449043",
+    "SP12501017481011",
     "SP12501040874034",
     "SP12501041242001",
     "SP12501053879004",
+    "SP12501053879010",
     "SP12501053879026",
     "SP12501053879027",
     "SP12501053879028",
@@ -155,6 +158,7 @@
     "SP12501102527032",
     "SP12501103140001",
     "SP12501103140004",
+    "SP12501103140010",
     "SP12501103140019",
     "SP12501103140024",
     "SP12501103140026",
@@ -162,6 +166,7 @@
     "SP12501103140033",
     "SP12501103140034",
     "SP12501103140036",
+    "SP12501103140037",
     "SP12501103140045",
     "SP12501103140400",
     "SP12501103140411",
@@ -193,7 +198,10 @@
   ],
   "skus_novos_hoje": [
     "SP12501005289024",
+    "SP12501015616048",
+    "SP12501017481011",
     "SP12501053879004",
+    "SP12501053879010",
     "SP12501053879026",
     "SP12501053879027",
     "SP12501053879028",
@@ -205,6 +213,7 @@
     "SP12501053879400",
     "SP12501103140001",
     "SP12501103140004",
+    "SP12501103140010",
     "SP12501103140019",
     "SP12501103140024",
     "SP12501103140026",
@@ -212,6 +221,7 @@
     "SP12501103140033",
     "SP12501103140034",
     "SP12501103140036",
+    "SP12501103140037",
     "SP12501103140045",
     "SP12501103140400",
     "SP12501103140411"
@@ -224,6 +234,7 @@
     "SP12501053879034",
     "SP12501053879035",
     "SP12501053879400",
+    "SP12501053941437",
     "SP12501056320004",
     "SP12501056320437",
     "SP12501056320482",
@@ -270,6 +281,7 @@
     "SP12501053879034",
     "SP12501053879035",
     "SP12501053879400",
+    "SP12501053941437",
     "SP12501056320004",
     "SP12501056320437",
     "SP12501056320482",
@@ -322,6 +334,30 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501015616048",
+      "id_produto": "18785",
+      "nome": "TURBINA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS TRAILHAWK 2.0 4X4 DIES. 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501017481011",
+      "id_produto": "19186",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "HR-V EXL 1.8 FLEXONE 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501053879004",
       "id_produto": "22305",
       "nome": "CÂMBIO MANUAL CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003/2003",
@@ -332,6 +368,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053879010",
+      "id_produto": "22310",
+      "nome": "CHAVE DE SETA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501053879026",
@@ -466,6 +514,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103140010",
+      "id_produto": "22316",
+      "nome": "CHAVE DE SETA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103140019",
       "id_produto": "22317",
       "nome": "LANTERNA TRASEIRA DIREITA",
@@ -548,6 +608,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103140037",
+      "id_produto": "22322",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103140045",
@@ -670,6 +742,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053941437",
+      "id_produto": "22088",
+      "nome": "PNEU 205/55 R17 91V GOODYEAR EFFICIENTGRIP PERFORMANCE",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501056320004",
@@ -1768,11 +1852,11 @@
     "SP12501053941437": {
       "sku": "SP12501053941437",
       "id_produto": "22088",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 205/55 R17 91V GOODYEAR EFFICIENTGRIP PERFORMANCE",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2339,6 +2423,66 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501015616048": {
+      "sku": "SP12501015616048",
+      "id_produto": "18785",
+      "nome": "TURBINA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMPASS TRAILHAWK 2.0 4X4 DIES. 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501103140037": {
+      "sku": "SP12501103140037",
+      "id_produto": "22322",
+      "nome": "RETROVISOR DIREITO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501103140010": {
+      "sku": "SP12501103140010",
+      "id_produto": "22316",
+      "nome": "CHAVE DE SETA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. LT 1.0 8V FLEXPOWER 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501017481011": {
+      "sku": "SP12501017481011",
+      "id_produto": "19186",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "HR-V EXL 1.8 FLEXONE 16V 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501053879010": {
+      "sku": "SP12501053879010",
+      "id_produto": "22310",
+      "nome": "CHAVE DE SETA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "7"
     }
   }
