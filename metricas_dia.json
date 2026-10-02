@@ -1,10 +1,10 @@
 {
   "data": "2026-10-02",
   "primeira_atualizacao": "02/10/2026 08:21:24",
-  "ultima_atualizacao": "02/10/2026 11:51:43",
+  "ultima_atualizacao": "02/10/2026 12:21:22",
   "total_base_dia": 91,
-  "total_atual": 83,
-  "novos_produtos": 15,
+  "total_atual": 86,
+  "novos_produtos": 18,
   "total_subidos": 23,
   "skus_base_dia": [
     "SP12501004665045",
@@ -101,6 +101,7 @@
   ],
   "skus_vistos_hoje": [
     "SP12501004576004",
+    "SP12501004592029",
     "SP12501004665045",
     "SP12501005173040",
     "SP12501005173484",
@@ -110,6 +111,7 @@
     "SP12501009772033",
     "SP12501009870035",
     "SP12501009942045",
+    "SP12501010460029",
     "SP12501010835033",
     "SP12501010835035",
     "SP12501014776014",
@@ -163,6 +165,7 @@
     "SP12501099755030",
     "SP12501099755032",
     "SP12501099755045",
+    "SP12501099755400",
     "SP12501099780035",
     "SP12501099780039",
     "SP12501099780040",
@@ -209,6 +212,8 @@
   ],
   "skus_novos_hoje": [
     "SP12501004576004",
+    "SP12501004592029",
+    "SP12501010460029",
     "SP12501015160003",
     "SP12501016809031",
     "SP12501056355004",
@@ -216,6 +221,7 @@
     "SP12501099755030",
     "SP12501099755032",
     "SP12501099755045",
+    "SP12501099755400",
     "SP12501103299004",
     "SP12501103299030",
     "SP12501103299032",
@@ -286,6 +292,30 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501004592029",
+      "id_produto": "21010",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH JOY 1.0 8V FLEX 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501010460029",
+      "id_produto": "21019",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "GM",
+      "modelo_do_veiculo": "TRACKER LT 1.0 TURBO 12V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501015160003",
@@ -370,6 +400,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501099755400",
+      "id_produto": "22362",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103299004",
@@ -2006,6 +2048,42 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    "SP12501099755400": {
+      "sku": "SP12501099755400",
+      "id_produto": "22362",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501010460029": {
+      "sku": "SP12501010460029",
+      "id_produto": "21019",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "GM",
+      "modelo_do_veiculo": "TRACKER LT 1.0 TURBO 12V FLEX AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501004592029": {
+      "sku": "SP12501004592029",
+      "id_produto": "21010",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "GM",
+      "modelo_do_veiculo": "ONIX HATCH JOY 1.0 8V FLEX 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
     }
   }
 }
