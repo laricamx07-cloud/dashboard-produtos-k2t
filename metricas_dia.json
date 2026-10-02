@@ -1,10 +1,10 @@
 {
   "data": "2026-10-02",
   "primeira_atualizacao": "02/10/2026 08:21:24",
-  "ultima_atualizacao": "02/10/2026 12:21:22",
+  "ultima_atualizacao": "02/10/2026 13:28:00",
   "total_base_dia": 91,
-  "total_atual": 86,
-  "novos_produtos": 18,
+  "total_atual": 92,
+  "novos_produtos": 24,
   "total_subidos": 23,
   "skus_base_dia": [
     "SP12501004665045",
@@ -108,13 +108,16 @@
     "SP12501005327024",
     "SP12501005394033",
     "SP12501005408034",
+    "SP12501009764029",
     "SP12501009772033",
     "SP12501009870035",
     "SP12501009942045",
     "SP12501010460029",
+    "SP12501010509011",
     "SP12501010835033",
     "SP12501010835035",
     "SP12501014776014",
+    "SP12501014954005",
     "SP12501015160003",
     "SP12501015209411",
     "SP12501015560033",
@@ -125,6 +128,7 @@
     "SP12501015837045",
     "SP12501016701039",
     "SP12501016809031",
+    "SP12501016817013",
     "SP12501017368037",
     "SP12501017422015",
     "SP12501017449043",
@@ -162,6 +166,7 @@
     "SP12501083964039",
     "SP12501084162032",
     "SP12501084766035",
+    "SP12501099755004",
     "SP12501099755030",
     "SP12501099755032",
     "SP12501099755045",
@@ -207,17 +212,23 @@
     "SP32501000230896",
     "SP32501000230975",
     "SP32501000230976",
+    "SP32501001210034",
     "SP42501001064042",
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
     "SP12501004576004",
     "SP12501004592029",
+    "SP12501009764029",
     "SP12501010460029",
+    "SP12501010509011",
+    "SP12501014954005",
     "SP12501015160003",
     "SP12501016809031",
+    "SP12501016817013",
     "SP12501056355004",
     "SP12501056355400",
+    "SP12501099755004",
     "SP12501099755030",
     "SP12501099755032",
     "SP12501099755045",
@@ -228,7 +239,8 @@
     "SP12501103299033",
     "SP12501103299034",
     "SP12501103299035",
-    "SP12501103299400"
+    "SP12501103299400",
+    "SP32501001210034"
   ],
   "skus_subidos_hoje": [
     "SP12501053879010",
@@ -306,6 +318,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501009764029",
+      "id_produto": "19120",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "MARCH SV 1.6 16V FLEX FUEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501010460029",
       "id_produto": "21019",
       "nome": "PARA-CHOQUE TRASEIRO",
@@ -316,6 +340,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501010509011",
+      "id_produto": "19151",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "VW",
+      "modelo_do_veiculo": "SAVEIRO ROBUST 1.6 TOTAL FLEX 16V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501014954005",
+      "id_produto": "19893",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "WRANGLER UNLIMITED SPORT 3.6 V6 284CV 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501015160003",
@@ -342,6 +390,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501016817013",
+      "id_produto": "19104",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE R/T HURRIC 4 2.0 TB CD 4X4 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501056355004",
       "id_produto": "22355",
       "nome": "CÂMBIO MANUAL",
@@ -364,6 +424,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501099755004",
+      "id_produto": "22361",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501099755030",
@@ -406,7 +478,7 @@
       "id_produto": "22362",
       "nome": "MOTOR COMPLETO",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -496,6 +568,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP32501001210034",
+      "id_produto": "21026",
+      "nome": "CAPÔ",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "4"
     }
   ],
   "itens_subidos_hoje": [
@@ -2054,7 +2138,7 @@
       "id_produto": "22362",
       "nome": "MOTOR COMPLETO",
       "marca": "CHEVROLET",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -2084,6 +2168,78 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    "SP32501001210034": {
+      "sku": "SP32501001210034",
+      "id_produto": "21026",
+      "nome": "CAPÔ",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "4"
+    },
+    "SP12501014954005": {
+      "sku": "SP12501014954005",
+      "id_produto": "19893",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "WRANGLER UNLIMITED SPORT 3.6 V6 284CV 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501010509011": {
+      "sku": "SP12501010509011",
+      "id_produto": "19151",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "VW",
+      "modelo_do_veiculo": "SAVEIRO ROBUST 1.6 TOTAL FLEX 16V",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    "SP12501099755004": {
+      "sku": "SP12501099755004",
+      "id_produto": "22361",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    "SP12501009764029": {
+      "sku": "SP12501009764029",
+      "id_produto": "19120",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "MARCH SV 1.6 16V FLEX FUEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501016817013": {
+      "sku": "SP12501016817013",
+      "id_produto": "19104",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE R/T HURRIC 4 2.0 TB CD 4X4 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     }
   }
 }
