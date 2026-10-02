@@ -1,11 +1,11 @@
 {
   "data": "2026-10-02",
   "primeira_atualizacao": "02/10/2026 08:21:24",
-  "ultima_atualizacao": "02/10/2026 10:51:12",
+  "ultima_atualizacao": "02/10/2026 11:21:45",
   "total_base_dia": 91,
-  "total_atual": 90,
-  "novos_produtos": 9,
-  "total_subidos": 10,
+  "total_atual": 86,
+  "novos_produtos": 11,
+  "total_subidos": 16,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173040",
@@ -113,6 +113,7 @@
     "SP12501010835033",
     "SP12501010835035",
     "SP12501014776014",
+    "SP12501015160003",
     "SP12501015209411",
     "SP12501015560033",
     "SP12501015586400",
@@ -158,6 +159,7 @@
     "SP12501083964039",
     "SP12501084162032",
     "SP12501084766035",
+    "SP12501099755045",
     "SP12501099780035",
     "SP12501099780039",
     "SP12501099780040",
@@ -203,8 +205,10 @@
   ],
   "skus_novos_hoje": [
     "SP12501004576004",
+    "SP12501015160003",
     "SP12501016809031",
     "SP12501056355400",
+    "SP12501099755045",
     "SP12501103299030",
     "SP12501103299032",
     "SP12501103299033",
@@ -213,6 +217,8 @@
     "SP12501103299400"
   ],
   "skus_subidos_hoje": [
+    "SP12501056355024",
+    "SP12501056355027",
     "SP12501056355030",
     "SP12501056355031",
     "SP12501056355032",
@@ -221,10 +227,16 @@
     "SP12501056355035",
     "SP12501056355037",
     "SP12501103299026",
+    "SP12501103299030",
+    "SP12501103299032",
+    "SP12501103299033",
+    "SP12501103299400",
     "SP12501103299411",
     "SP12501103299448"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501056355024",
+    "SP12501056355027",
     "SP12501056355030",
     "SP12501056355031",
     "SP12501056355032",
@@ -233,6 +245,10 @@
     "SP12501056355035",
     "SP12501056355037",
     "SP12501103299026",
+    "SP12501103299030",
+    "SP12501103299032",
+    "SP12501103299033",
+    "SP12501103299400",
     "SP12501103299411",
     "SP12501103299448"
   ],
@@ -250,6 +266,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501015160003",
+      "id_produto": "22347",
+      "nome": "CABEÇOTE COM VÁLVULAS",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "TORO ULTRA 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501016809031",
       "id_produto": "21028",
       "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
@@ -264,23 +292,35 @@
     {
       "sku": "SP12501056355400",
       "id_produto": "22349",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
     },
     {
-      "sku": "SP12501103299030",
-      "id_produto": "22351",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
-      "marca": "RENAULT",
-      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "sku": "SP12501099755045",
+      "id_produto": "22358",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103299030",
+      "id_produto": "22351",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO RENAULT SANDERO FLEX 1.0 2008",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -288,11 +328,11 @@
     {
       "sku": "SP12501103299032",
       "id_produto": "22352",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA RENAULT SANDERO HI-FLEX 1.0 16V 2008",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -300,11 +340,11 @@
     {
       "sku": "SP12501103299033",
       "id_produto": "22353",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT SANDERO HIFLEX 1.0 16V 2008",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -336,11 +376,11 @@
     {
       "sku": "SP12501103299400",
       "id_produto": "22354",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO RENAULT SANDERO HI-FLEX 1.0 16V 2008",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -348,13 +388,37 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501056355024",
+      "id_produto": "22328",
+      "nome": "MÓDULO DE INJEÇÃO FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501056355027",
+      "id_produto": "22329",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501056355030",
       "id_produto": "22330",
       "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT PALIO 1.0 FIRE FLEX 2006/07",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -442,6 +506,54 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103299030",
+      "id_produto": "22351",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO RENAULT SANDERO FLEX 1.0 2008",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103299032",
+      "id_produto": "22352",
+      "nome": "PORTA DIANTEIRA DIREITA RENAULT SANDERO HI-FLEX 1.0 16V 2008",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103299033",
+      "id_produto": "22353",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT SANDERO HIFLEX 1.0 16V 2008",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103299400",
+      "id_produto": "22354",
+      "nome": "MOTOR COMPLETO RENAULT SANDERO HI-FLEX 1.0 16V 2008",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103299411",
@@ -608,7 +720,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -856,11 +968,11 @@
     "SP12501056355024": {
       "sku": "SP12501056355024",
       "id_produto": "22328",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1180,11 +1292,11 @@
     "SP12501056355027": {
       "sku": "SP12501056355027",
       "id_produto": "22329",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1612,11 +1724,11 @@
     "SP12501103299400": {
       "sku": "SP12501103299400",
       "id_produto": "22354",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO RENAULT SANDERO HI-FLEX 1.0 16V 2008",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1624,11 +1736,11 @@
     "SP12501103299030": {
       "sku": "SP12501103299030",
       "id_produto": "22351",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO RENAULT SANDERO FLEX 1.0 2008",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1636,11 +1748,11 @@
     "SP12501103299032": {
       "sku": "SP12501103299032",
       "id_produto": "22352",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA RENAULT SANDERO HI-FLEX 1.0 16V 2008",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1648,10 +1760,10 @@
     "SP12501056355400": {
       "sku": "SP12501056355400",
       "id_produto": "22349",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
+      "status": "Habilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
@@ -1660,14 +1772,38 @@
     "SP12501103299033": {
       "sku": "SP12501103299033",
       "id_produto": "22353",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT SANDERO HIFLEX 1.0 16V 2008",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501015160003": {
+      "sku": "SP12501015160003",
+      "id_produto": "22347",
+      "nome": "CABEÇOTE COM VÁLVULAS",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "TORO ULTRA 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    "SP12501099755045": {
+      "sku": "SP12501099755045",
+      "id_produto": "22358",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     }
   }
 }
