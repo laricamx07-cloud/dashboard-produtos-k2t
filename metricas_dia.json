@@ -1,11 +1,11 @@
 {
   "data": "2026-10-02",
   "primeira_atualizacao": "02/10/2026 08:21:24",
-  "ultima_atualizacao": "02/10/2026 17:21:38",
+  "ultima_atualizacao": "02/10/2026 17:51:14",
   "total_base_dia": 91,
-  "total_atual": 83,
-  "novos_produtos": 53,
-  "total_subidos": 61,
+  "total_atual": 77,
+  "novos_produtos": 54,
+  "total_subidos": 68,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173040",
@@ -102,6 +102,7 @@
   "skus_vistos_hoje": [
     "SP12501004576004",
     "SP12501004592029",
+    "SP12501004649049",
     "SP12501004665045",
     "SP12501005173040",
     "SP12501005173484",
@@ -248,6 +249,7 @@
   "skus_novos_hoje": [
     "SP12501004576004",
     "SP12501004592029",
+    "SP12501004649049",
     "SP12501009586027",
     "SP12501009764029",
     "SP12501010460029",
@@ -328,8 +330,10 @@
     "SP12501056355033",
     "SP12501056355034",
     "SP12501056355035",
+    "SP12501056355036",
     "SP12501056355037",
     "SP12501056355400",
+    "SP12501056355411",
     "SP12501099755001",
     "SP12501099755004",
     "SP12501099755010",
@@ -341,15 +345,20 @@
     "SP12501099755027",
     "SP12501099755030",
     "SP12501099755032",
+    "SP12501099755036",
     "SP12501099755045",
+    "SP12501099755048",
     "SP12501099755049",
     "SP12501099755400",
+    "SP12501099755411",
     "SP12501099755424",
     "SP12501099755448",
     "SP12501099755449",
+    "SP12501099755512",
     "SP12501099755515",
     "SP12501103248035",
     "SP12501103299004",
+    "SP12501103299010",
     "SP12501103299024",
     "SP12501103299026",
     "SP12501103299027",
@@ -391,8 +400,10 @@
     "SP12501056355033",
     "SP12501056355034",
     "SP12501056355035",
+    "SP12501056355036",
     "SP12501056355037",
     "SP12501056355400",
+    "SP12501056355411",
     "SP12501099755001",
     "SP12501099755004",
     "SP12501099755010",
@@ -404,15 +415,20 @@
     "SP12501099755027",
     "SP12501099755030",
     "SP12501099755032",
+    "SP12501099755036",
     "SP12501099755045",
+    "SP12501099755048",
     "SP12501099755049",
     "SP12501099755400",
+    "SP12501099755411",
     "SP12501099755424",
     "SP12501099755448",
     "SP12501099755449",
+    "SP12501099755512",
     "SP12501099755515",
     "SP12501103248035",
     "SP12501103299004",
+    "SP12501103299010",
     "SP12501103299024",
     "SP12501103299026",
     "SP12501103299027",
@@ -450,6 +466,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501004649049",
+      "id_produto": "21015",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "WR-V EXL 1.5 FLEXONE 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501009586027",
@@ -598,11 +626,11 @@
     {
       "sku": "SP12501056355036",
       "id_produto": "22383",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -622,11 +650,11 @@
     {
       "sku": "SP12501056355411",
       "id_produto": "22384",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -802,11 +830,11 @@
     {
       "sku": "SP12501099755036",
       "id_produto": "22386",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR CHEVROLET ONIX HATCH PREM. 1.0 12V AUT. 2023/2024",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -826,11 +854,11 @@
     {
       "sku": "SP12501099755048",
       "id_produto": "22373",
-      "nome": "TURBINA",
+      "nome": "TURBINA CHEVROLET ONIX HATCH PREM. 1.0 12V TB FLEX 2023/2024",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -862,11 +890,11 @@
     {
       "sku": "SP12501099755411",
       "id_produto": "22387",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR CHEVROLET ONIX HATCH PREM. 1.0 12V 2023/24",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -910,11 +938,11 @@
     {
       "sku": "SP12501099755512",
       "id_produto": "22388",
-      "nome": "MACACO MECÂNICO",
+      "nome": "MACACO MECÂNICO CHEVROLET ONIX HATCH PREM. AUT. 2023/2024",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -950,7 +978,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1390,6 +1418,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501056355036",
+      "id_produto": "22383",
+      "nome": "RADIADOR FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501056355037",
       "id_produto": "22336",
       "nome": "RETROVISOR DIREITO FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
@@ -1412,6 +1452,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056355411",
+      "id_produto": "22384",
+      "nome": "ELETROVENTILADOR FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501099755001",
@@ -1546,6 +1598,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501099755036",
+      "id_produto": "22386",
+      "nome": "RADIADOR CHEVROLET ONIX HATCH PREM. 1.0 12V AUT. 2023/2024",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501099755045",
       "id_produto": "22358",
       "nome": "TAMPA TRASEIRA CHEVROLET ONIX HATCH PREM. 1.0 12V TB FLEX 24",
@@ -1556,6 +1620,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501099755048",
+      "id_produto": "22373",
+      "nome": "TURBINA CHEVROLET ONIX HATCH PREM. 1.0 12V TB FLEX 2023/2024",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501099755049",
@@ -1580,6 +1656,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501099755411",
+      "id_produto": "22387",
+      "nome": "ELETROVENTILADOR CHEVROLET ONIX HATCH PREM. 1.0 12V 2023/24",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501099755424",
@@ -1618,6 +1706,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501099755512",
+      "id_produto": "22388",
+      "nome": "MACACO MECÂNICO CHEVROLET ONIX HATCH PREM. AUT. 2023/2024",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501099755515",
       "id_produto": "22378",
       "nome": "TRIANGULO DE SEGURANÇA CHEVROLET ONIX HATCH 1.0 12V 2023/24",
@@ -1652,6 +1752,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103299010",
+      "id_produto": "22379",
+      "nome": "CHAVE DE SETA RENAULT SANDERO HI-FLEX 1.0 16V 5P 2008",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501103299024",
@@ -3362,11 +3474,11 @@
     "SP12501099755048": {
       "sku": "SP12501099755048",
       "id_produto": "22373",
-      "nome": "TURBINA",
+      "nome": "TURBINA CHEVROLET ONIX HATCH PREM. 1.0 12V TB FLEX 2023/2024",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -3378,7 +3490,7 @@
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -3422,11 +3534,11 @@
     "SP12501056355036": {
       "sku": "SP12501056355036",
       "id_produto": "22383",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -3434,11 +3546,11 @@
     "SP12501056355411": {
       "sku": "SP12501056355411",
       "id_produto": "22384",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -3446,11 +3558,11 @@
     "SP12501099755411": {
       "sku": "SP12501099755411",
       "id_produto": "22387",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR CHEVROLET ONIX HATCH PREM. 1.0 12V 2023/24",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -3494,11 +3606,11 @@
     "SP12501099755512": {
       "sku": "SP12501099755512",
       "id_produto": "22388",
-      "nome": "MACACO MECÂNICO",
+      "nome": "MACACO MECÂNICO CHEVROLET ONIX HATCH PREM. AUT. 2023/2024",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -3518,14 +3630,26 @@
     "SP12501099755036": {
       "sku": "SP12501099755036",
       "id_produto": "22386",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR CHEVROLET ONIX HATCH PREM. 1.0 12V AUT. 2023/2024",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    "SP12501004649049": {
+      "sku": "SP12501004649049",
+      "id_produto": "21015",
+      "nome": "VOLANTE DO MOTORISTA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "WR-V EXL 1.5 FLEXONE 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     }
   }
 }
