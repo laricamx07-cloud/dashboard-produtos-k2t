@@ -1,11 +1,11 @@
 {
   "data": "2026-10-02",
   "primeira_atualizacao": "02/10/2026 08:21:24",
-  "ultima_atualizacao": "02/10/2026 10:21:14",
+  "ultima_atualizacao": "02/10/2026 10:51:12",
   "total_base_dia": 91,
-  "total_atual": 92,
-  "novos_produtos": 6,
-  "total_subidos": 5,
+  "total_atual": 90,
+  "novos_produtos": 9,
+  "total_subidos": 10,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173040",
@@ -151,6 +151,7 @@
     "SP12501056355034",
     "SP12501056355035",
     "SP12501056355037",
+    "SP12501056355400",
     "SP12501079959400",
     "SP12501080140037",
     "SP12501080140038",
@@ -170,6 +171,8 @@
     "SP12501103248035",
     "SP12501103299026",
     "SP12501103299030",
+    "SP12501103299032",
+    "SP12501103299033",
     "SP12501103299034",
     "SP12501103299035",
     "SP12501103299400",
@@ -201,23 +204,36 @@
   "skus_novos_hoje": [
     "SP12501004576004",
     "SP12501016809031",
+    "SP12501056355400",
     "SP12501103299030",
+    "SP12501103299032",
+    "SP12501103299033",
     "SP12501103299034",
     "SP12501103299035",
     "SP12501103299400"
   ],
   "skus_subidos_hoje": [
+    "SP12501056355030",
+    "SP12501056355031",
+    "SP12501056355032",
     "SP12501056355033",
     "SP12501056355034",
     "SP12501056355035",
     "SP12501056355037",
+    "SP12501103299026",
+    "SP12501103299411",
     "SP12501103299448"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501056355030",
+    "SP12501056355031",
+    "SP12501056355032",
     "SP12501056355033",
     "SP12501056355034",
     "SP12501056355035",
     "SP12501056355037",
+    "SP12501103299026",
+    "SP12501103299411",
     "SP12501103299448"
   ],
   "itens_novos_hoje": [
@@ -246,16 +262,52 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501056355400",
+      "id_produto": "22349",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103299030",
       "id_produto": "22351",
       "nome": "PARA-LAMA DIANTEIRO DIREITO",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103299032",
+      "id_produto": "22352",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103299033",
+      "id_produto": "22353",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103299034",
@@ -286,7 +338,7 @@
       "id_produto": "22354",
       "nome": "MOTOR COMPLETO",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -295,6 +347,42 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501056355030",
+      "id_produto": "22330",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT PALIO 1.0 FIRE FLEX 2006/07",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501056355031",
+      "id_produto": "22331",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FIAT PALIO 1.0 FIRE FLEX 06/07",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056355032",
+      "id_produto": "22332",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT PALIO 1.0 FIRE FLEX 2006/2007",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501056355033",
       "id_produto": "22333",
@@ -342,6 +430,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103299026",
+      "id_produto": "22340",
+      "nome": "MOTOR DE PARTIDA RENAULT SANDERO AUTHENTIQUE HI-FLEX 1.0 08",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103299411",
+      "id_produto": "22341",
+      "nome": "ELETROVENTILADOR RENAULT SANDERO AUTHENTIQUE HI-FLEX 1.0 08",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103299448",
@@ -480,11 +592,11 @@
     "SP12501103299411": {
       "sku": "SP12501103299411",
       "id_produto": "22341",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR RENAULT SANDERO AUTHENTIQUE HI-FLEX 1.0 08",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -492,11 +604,11 @@
     "SP12501056355030": {
       "sku": "SP12501056355030",
       "id_produto": "22330",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT PALIO 1.0 FIRE FLEX 2006/07",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -588,11 +700,11 @@
     "SP12501056355032": {
       "sku": "SP12501056355032",
       "id_produto": "22332",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT PALIO 1.0 FIRE FLEX 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1152,11 +1264,11 @@
     "SP12501056355031": {
       "sku": "SP12501056355031",
       "id_produto": "22331",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FIAT PALIO 1.0 FIRE FLEX 06/07",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1416,11 +1528,11 @@
     "SP12501103299026": {
       "sku": "SP12501103299026",
       "id_produto": "22340",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA RENAULT SANDERO AUTHENTIQUE HI-FLEX 1.0 08",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1502,7 +1614,7 @@
       "id_produto": "22354",
       "nome": "MOTOR COMPLETO",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
@@ -1514,12 +1626,48 @@
       "id_produto": "22351",
       "nome": "PARA-LAMA DIANTEIRO DIREITO",
       "marca": "RENAULT",
-      "modelo_do_veiculo": null,
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    "SP12501103299032": {
+      "sku": "SP12501103299032",
+      "id_produto": "22352",
+      "nome": "PORTA DIANTEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501056355400": {
+      "sku": "SP12501056355400",
+      "id_produto": "22349",
+      "nome": "MOTOR COMPLETO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501103299033": {
+      "sku": "SP12501103299033",
+      "id_produto": "22353",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   }
 }
