@@ -1,11 +1,11 @@
 {
   "data": "2026-10-02",
   "primeira_atualizacao": "02/10/2026 08:21:24",
-  "ultima_atualizacao": "02/10/2026 08:21:24",
+  "ultima_atualizacao": "02/10/2026 08:51:10",
   "total_base_dia": 91,
-  "total_atual": 91,
-  "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_atual": 88,
+  "novos_produtos": 1,
+  "total_subidos": 4,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173040",
@@ -120,6 +120,7 @@
     "SP12501015640410",
     "SP12501015837045",
     "SP12501016701039",
+    "SP12501016809031",
     "SP12501017368037",
     "SP12501017422015",
     "SP12501017449043",
@@ -192,11 +193,85 @@
     "SP42501001064042",
     "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501016809031"
+  ],
+  "skus_subidos_hoje": [
+    "SP12501056355033",
+    "SP12501056355034",
+    "SP12501056355035",
+    "SP12501056355037"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501056355033",
+    "SP12501056355034",
+    "SP12501056355035",
+    "SP12501056355037"
+  ],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501016809031",
+      "id_produto": "21028",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    }
+  ],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501056355033",
+      "id_produto": "22333",
+      "nome": "PORTA DIANTEIRA ESQUERDA FIAT PALIO 1.0 FIRE FLEX 4P 2006/07",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056355034",
+      "id_produto": "22334",
+      "nome": "PORTA TRASEIRA DIREITA FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501056355035",
+      "id_produto": "22335",
+      "nome": "PORTA TRASEIRA ESQUERDA FIAT PALIO 1.0 FIRE FLEX 4P 2006/07",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056355037",
+      "id_produto": "22336",
+      "nome": "RETROVISOR DIREITO FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP32501000230115": {
       "sku": "SP32501000230115",
@@ -501,11 +576,11 @@
     "SP12501056355033": {
       "sku": "SP12501056355033",
       "id_produto": "22333",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FIAT PALIO 1.0 FIRE FLEX 4P 2006/07",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -573,14 +648,14 @@
     "SP12501056355034": {
       "sku": "SP12501056355034",
       "id_produto": "22334",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
-      "qtd_images": "10"
+      "qtd_images": "9"
     },
     "SP12501056355024": {
       "sku": "SP12501056355024",
@@ -1017,11 +1092,11 @@
     "SP12501056355037": {
       "sku": "SP12501056355037",
       "id_produto": "22336",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1065,11 +1140,11 @@
     "SP12501056355035": {
       "sku": "SP12501056355035",
       "id_produto": "22335",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA FIAT PALIO 1.0 FIRE FLEX 4P 2006/07",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1289,6 +1364,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    "SP12501016809031": {
+      "sku": "SP12501016809031",
+      "id_produto": "21028",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "RAMPAGE LARAMIE 2.0 TB CD 4X4 DIESEL AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     }
   }
 }
