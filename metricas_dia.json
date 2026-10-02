@@ -1,11 +1,11 @@
 {
   "data": "2026-10-02",
   "primeira_atualizacao": "02/10/2026 08:21:24",
-  "ultima_atualizacao": "02/10/2026 15:52:14",
+  "ultima_atualizacao": "02/10/2026 16:21:22",
   "total_base_dia": 91,
-  "total_atual": 94,
-  "novos_produtos": 44,
-  "total_subidos": 41,
+  "total_atual": 93,
+  "novos_produtos": 47,
+  "total_subidos": 45,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173040",
@@ -161,8 +161,10 @@
     "SP12501056355033",
     "SP12501056355034",
     "SP12501056355035",
+    "SP12501056355036",
     "SP12501056355037",
     "SP12501056355400",
+    "SP12501056355411",
     "SP12501079959400",
     "SP12501080140037",
     "SP12501080140038",
@@ -184,6 +186,7 @@
     "SP12501099755048",
     "SP12501099755049",
     "SP12501099755400",
+    "SP12501099755411",
     "SP12501099755424",
     "SP12501099755448",
     "SP12501099755449",
@@ -250,7 +253,9 @@
     "SP12501056355001",
     "SP12501056355004",
     "SP12501056355026",
+    "SP12501056355036",
     "SP12501056355400",
+    "SP12501056355411",
     "SP12501099755001",
     "SP12501099755004",
     "SP12501099755010",
@@ -266,6 +271,7 @@
     "SP12501099755048",
     "SP12501099755049",
     "SP12501099755400",
+    "SP12501099755411",
     "SP12501099755424",
     "SP12501099755448",
     "SP12501099755449",
@@ -283,9 +289,13 @@
     "SP32501001210034"
   ],
   "skus_subidos_hoje": [
+    "SP12501004576004",
     "SP12501004592029",
     "SP12501005327024",
+    "SP12501009586027",
+    "SP12501009764029",
     "SP12501010460029",
+    "SP12501010509011",
     "SP12501014776014",
     "SP12501014954005",
     "SP12501015209411",
@@ -326,9 +336,13 @@
     "SP32501001210034"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501004576004",
     "SP12501004592029",
     "SP12501005327024",
+    "SP12501009586027",
+    "SP12501009764029",
     "SP12501010460029",
+    "SP12501010509011",
     "SP12501014776014",
     "SP12501014954005",
     "SP12501015209411",
@@ -372,11 +386,11 @@
     {
       "sku": "SP12501004576004",
       "id_produto": "9120",
-      "nome": "CÂMBIO MANUAL",
-      "marca": "VW",
+      "nome": "CÂMBIO MANUAL 1.0 FLEX 12V 5P GOL 2022/2023",
+      "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.0 FLEX 12V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -396,11 +410,11 @@
     {
       "sku": "SP12501009586027",
       "id_produto": "19047",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS HYUNDAI HB20 1.0M COMFOR 2016/2017",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 1.0M COMFOR",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -408,11 +422,11 @@
     {
       "sku": "SP12501009764029",
       "id_produto": "19120",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO NISSAN MARCH SV 1.6 16V FLEX 2012/2013",
       "marca": "NISSAN",
       "modelo_do_veiculo": "MARCH SV 1.6 16V FLEX FUEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -432,11 +446,11 @@
     {
       "sku": "SP12501010509011",
       "id_produto": "19151",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
-      "marca": "VW",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO VOLKSWAGEM SAVEIRO 1.6 2024/25",
+      "marca": "VOLKSWAGEM",
       "modelo_do_veiculo": "SAVEIRO ROBUST 1.6 TOTAL FLEX 16V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -448,7 +462,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "WRANGLER UNLIMITED SPORT 3.6 V6 284CV 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -526,6 +540,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501056355036",
+      "id_produto": "22383",
+      "nome": "RADIADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501056355400",
       "id_produto": "22349",
       "nome": "MOTOR COMPLETO FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
@@ -536,6 +562,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056355411",
+      "id_produto": "22384",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501099755001",
@@ -716,6 +754,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501099755411",
+      "id_produto": "22387",
+      "nome": "ELETROVENTILADOR",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501099755424",
@@ -900,6 +950,18 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501004576004",
+      "id_produto": "9120",
+      "nome": "CÂMBIO MANUAL 1.0 FLEX 12V 5P GOL 2022/2023",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL 1.0 FLEX 12V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501004592029",
       "id_produto": "21010",
       "nome": "PARA-CHOQUE TRASEIRO GM ONIX HATCH JOY 1.0 8V 5P 2018",
@@ -924,6 +986,30 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501009586027",
+      "id_produto": "19047",
+      "nome": "PAINEL DE INSTRUMENTOS HYUNDAI HB20 1.0M COMFOR 2016/2017",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "HB20 1.0M COMFOR",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501009764029",
+      "id_produto": "19120",
+      "nome": "PARA-CHOQUE TRASEIRO NISSAN MARCH SV 1.6 16V FLEX 2012/2013",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "MARCH SV 1.6 16V FLEX FUEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501010460029",
       "id_produto": "21019",
       "nome": "PARA-CHOQUE TRASEIRO CHEVROLET RACKER LT 1.0 TURBO 12V 2024",
@@ -934,6 +1020,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501010509011",
+      "id_produto": "19151",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO VOLKSWAGEM SAVEIRO 1.6 2024/25",
+      "marca": "VOLKSWAGEM",
+      "modelo_do_veiculo": "SAVEIRO ROBUST 1.6 TOTAL FLEX 16V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501014776014",
@@ -954,7 +1052,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "WRANGLER UNLIMITED SPORT 3.6 V6 284CV 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2512,11 +2610,11 @@
     "SP12501004576004": {
       "sku": "SP12501004576004",
       "id_produto": "9120",
-      "nome": "CÂMBIO MANUAL",
-      "marca": "VW",
+      "nome": "CÂMBIO MANUAL 1.0 FLEX 12V 5P GOL 2022/2023",
+      "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL 1.0 FLEX 12V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -2720,7 +2818,7 @@
       "marca": "JEEP",
       "modelo_do_veiculo": "WRANGLER UNLIMITED SPORT 3.6 V6 284CV 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2728,11 +2826,11 @@
     "SP12501010509011": {
       "sku": "SP12501010509011",
       "id_produto": "19151",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
-      "marca": "VW",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO VOLKSWAGEM SAVEIRO 1.6 2024/25",
+      "marca": "VOLKSWAGEM",
       "modelo_do_veiculo": "SAVEIRO ROBUST 1.6 TOTAL FLEX 16V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2752,11 +2850,11 @@
     "SP12501009764029": {
       "sku": "SP12501009764029",
       "id_produto": "19120",
-      "nome": "PARA-CHOQUE TRASEIRO",
+      "nome": "PARA-CHOQUE TRASEIRO NISSAN MARCH SV 1.6 16V FLEX 2012/2013",
       "marca": "NISSAN",
       "modelo_do_veiculo": "MARCH SV 1.6 16V FLEX FUEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -2776,11 +2874,11 @@
     "SP12501009586027": {
       "sku": "SP12501009586027",
       "id_produto": "19047",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS HYUNDAI HB20 1.0M COMFOR 2016/2017",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "HB20 1.0M COMFOR",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -3011,6 +3109,42 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501056355036": {
+      "sku": "SP12501056355036",
+      "id_produto": "22383",
+      "nome": "RADIADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501056355411": {
+      "sku": "SP12501056355411",
+      "id_produto": "22384",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501099755411": {
+      "sku": "SP12501099755411",
+      "id_produto": "22387",
+      "nome": "ELETROVENTILADOR",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "7"
     }
   }
