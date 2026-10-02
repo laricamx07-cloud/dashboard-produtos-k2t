@@ -1,11 +1,11 @@
 {
   "data": "2026-10-02",
   "primeira_atualizacao": "02/10/2026 08:21:24",
-  "ultima_atualizacao": "02/10/2026 13:52:06",
+  "ultima_atualizacao": "02/10/2026 15:09:56",
   "total_base_dia": 91,
-  "total_atual": 90,
-  "novos_produtos": 25,
-  "total_subidos": 26,
+  "total_atual": 81,
+  "novos_produtos": 26,
+  "total_subidos": 36,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173040",
@@ -168,6 +168,7 @@
     "SP12501084162032",
     "SP12501084766035",
     "SP12501099755004",
+    "SP12501099755019",
     "SP12501099755030",
     "SP12501099755032",
     "SP12501099755045",
@@ -231,6 +232,7 @@
     "SP12501056355004",
     "SP12501056355400",
     "SP12501099755004",
+    "SP12501099755019",
     "SP12501099755030",
     "SP12501099755032",
     "SP12501099755045",
@@ -245,10 +247,15 @@
     "SP32501001210034"
   ],
   "skus_subidos_hoje": [
+    "SP12501005327024",
+    "SP12501014776014",
     "SP12501015209411",
     "SP12501016809031",
+    "SP12501017422015",
     "SP12501041242001",
+    "SP12501041706007",
     "SP12501053879010",
+    "SP12501054468007",
     "SP12501056355007",
     "SP12501056355024",
     "SP12501056355027",
@@ -260,8 +267,13 @@
     "SP12501056355035",
     "SP12501056355037",
     "SP12501056355400",
+    "SP12501099755004",
+    "SP12501099755030",
+    "SP12501099755032",
     "SP12501099755045",
+    "SP12501099755400",
     "SP12501103248035",
+    "SP12501103299004",
     "SP12501103299026",
     "SP12501103299030",
     "SP12501103299032",
@@ -273,10 +285,15 @@
     "SP12501103299448"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501005327024",
+    "SP12501014776014",
     "SP12501015209411",
     "SP12501016809031",
+    "SP12501017422015",
     "SP12501041242001",
+    "SP12501041706007",
     "SP12501053879010",
+    "SP12501054468007",
     "SP12501056355007",
     "SP12501056355024",
     "SP12501056355027",
@@ -288,8 +305,13 @@
     "SP12501056355035",
     "SP12501056355037",
     "SP12501056355400",
+    "SP12501099755004",
+    "SP12501099755030",
+    "SP12501099755032",
     "SP12501099755045",
+    "SP12501099755400",
     "SP12501103248035",
+    "SP12501103299004",
     "SP12501103299026",
     "SP12501103299030",
     "SP12501103299032",
@@ -448,23 +470,35 @@
     {
       "sku": "SP12501099755004",
       "id_produto": "22361",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO CHEVROLET ONIX HATCH 1.0 12V FLEX 2023/24",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
     },
     {
-      "sku": "SP12501099755030",
-      "id_produto": "22356",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "sku": "SP12501099755019",
+      "id_produto": "22363",
+      "nome": "LANTERNA TRASEIRA DIREITA",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501099755030",
+      "id_produto": "22356",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CHEVROLET ONIX 1.0 12V 2023/2024",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -472,11 +506,11 @@
     {
       "sku": "SP12501099755032",
       "id_produto": "22357",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET ONIX HATCH1.0 12V 2023/24",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -496,11 +530,11 @@
     {
       "sku": "SP12501099755400",
       "id_produto": "22362",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH PREM. 1.0 12V 2023/2024",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -508,11 +542,11 @@
     {
       "sku": "SP12501103299004",
       "id_produto": "22359",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "Caixa Cambio Sandero Logan Symbol 1.6 8v 16v 2007 a 2014",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -604,6 +638,30 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501005327024",
+      "id_produto": "18206",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT LOGAN EXPRES HI-FLEX 1.0 16V 2014",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN EXPRES./EXP. UP HI-FLEX 1.0 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501014776014",
+      "id_produto": "19085",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP RENEGADE 2.0 4X4 AUT 2018/19",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501015209411",
       "id_produto": "21027",
       "nome": "ELETROVENTILADOR FIAT ARGO DRIVE 1.3 8V FLEX 2019/2019",
@@ -628,16 +686,40 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501017422015",
+      "id_produto": "15601",
+      "nome": "FAROL DIREITO FIAT SIENA CELEBRATION 1.0 FIRE FLEX 8V 2007",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501041242001",
       "id_produto": "21020",
       "nome": "ALTERNADOR FORD FUSION SEL 2.3 16V 162CV AUT. 2008/2009",
       "marca": "FORD",
       "modelo_do_veiculo": "FUSION SEL 2.3 16V 162CV AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501041706007",
+      "id_produto": "19603",
+      "nome": "CAPÔ VOLKSWAGEN GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P 2010/2011",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501053879010",
@@ -650,6 +732,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501054468007",
+      "id_produto": "19013",
+      "nome": "CAPÔ FORD FIESTA 5P 2004/2005",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.6 8V FLEX/CLASS 1.6 8V FLEX 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "3"
     },
     {
       "sku": "SP12501056355007",
@@ -784,6 +878,42 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501099755004",
+      "id_produto": "22361",
+      "nome": "CÂMBIO AUTOMATICO CHEVROLET ONIX HATCH 1.0 12V FLEX 2023/24",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501099755030",
+      "id_produto": "22356",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CHEVROLET ONIX 1.0 12V 2023/2024",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501099755032",
+      "id_produto": "22357",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET ONIX HATCH1.0 12V 2023/24",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501099755045",
       "id_produto": "22358",
       "nome": "TAMPA TRASEIRA CHEVROLET ONIX HATCH PREM. 1.0 12V TB FLEX 24",
@@ -796,11 +926,35 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501099755400",
+      "id_produto": "22362",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH PREM. 1.0 12V 2023/2024",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103248035",
       "id_produto": "22015",
       "nome": "PORTA TRASEIRA ESQUERDA CHEVROLET CLASSIC LS 1.0 VHC 2013/14",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103299004",
+      "id_produto": "22359",
+      "nome": "Caixa Cambio Sandero Logan Symbol 1.6 8v 16v 2007 a 2014",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
       "status": "Habilitado",
       "status_ml": "active",
       "quantidade": "1",
@@ -1244,11 +1398,11 @@
     "SP12501005327024": {
       "sku": "SP12501005327024",
       "id_produto": "18206",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO RENAULT LOGAN EXPRES HI-FLEX 1.0 16V 2014",
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN EXPRES./EXP. UP HI-FLEX 1.0 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1544,11 +1698,11 @@
     "SP12501017422015": {
       "sku": "SP12501017422015",
       "id_produto": "15601",
-      "nome": "FAROL DIREITO",
+      "nome": "FAROL DIREITO FIAT SIENA CELEBRATION 1.0 FIRE FLEX 8V 2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "SIENA CELEBRATION 1.0 FIRE FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -1568,11 +1722,11 @@
     "SP12501014776014": {
       "sku": "SP12501014776014",
       "id_produto": "19085",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP RENEGADE 2.0 4X4 AUT 2018/19",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE TRAILHAWK 2.0 4X4 TB DIESEL AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -1868,11 +2022,11 @@
     "SP12501041706007": {
       "sku": "SP12501041706007",
       "id_produto": "19603",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ VOLKSWAGEN GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P 2010/2011",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL (NOVO) 1.0 MI TOTAL FLEX 8V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1880,11 +2034,11 @@
     "SP12501054468007": {
       "sku": "SP12501054468007",
       "id_produto": "19013",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FORD FIESTA 5P 2004/2005",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.6 8V FLEX/CLASS 1.6 8V FLEX 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "3"
@@ -1944,7 +2098,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FUSION SEL 2.3 16V 162CV AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2156,11 +2310,11 @@
     "SP12501099755030": {
       "sku": "SP12501099755030",
       "id_produto": "22356",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO CHEVROLET ONIX 1.0 12V 2023/2024",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -2168,11 +2322,11 @@
     "SP12501099755032": {
       "sku": "SP12501099755032",
       "id_produto": "22357",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA CHEVROLET ONIX HATCH1.0 12V 2023/24",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -2180,11 +2334,11 @@
     "SP12501103299004": {
       "sku": "SP12501103299004",
       "id_produto": "22359",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "Caixa Cambio Sandero Logan Symbol 1.6 8v 16v 2007 a 2014",
       "marca": "RENAULT",
       "modelo_do_veiculo": "SANDERO AUTHENTIQUE HI-FLEX 1.0 16V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -2192,11 +2346,11 @@
     "SP12501099755400": {
       "sku": "SP12501099755400",
       "id_produto": "22362",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET ONIX HATCH PREM. 1.0 12V 2023/2024",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -2264,11 +2418,11 @@
     "SP12501099755004": {
       "sku": "SP12501099755004",
       "id_produto": "22361",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO CHEVROLET ONIX HATCH 1.0 12V FLEX 2023/24",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -2308,6 +2462,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
+    },
+    "SP12501099755019": {
+      "sku": "SP12501099755019",
+      "id_produto": "22363",
+      "nome": "LANTERNA TRASEIRA DIREITA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
     }
   }
 }
