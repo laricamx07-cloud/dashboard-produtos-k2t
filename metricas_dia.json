@@ -1,11 +1,11 @@
 {
   "data": "2026-10-05",
   "primeira_atualizacao": "05/10/2026 08:29:57",
-  "ultima_atualizacao": "05/10/2026 09:21:01",
+  "ultima_atualizacao": "05/10/2026 09:30:11",
   "total_base_dia": 77,
-  "total_atual": 70,
-  "novos_produtos": 1,
-  "total_subidos": 8,
+  "total_atual": 71,
+  "novos_produtos": 4,
+  "total_subidos": 10,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -132,6 +132,7 @@
     "SP12501084766035",
     "SP12501099755034",
     "SP12501099763001",
+    "SP12501099763004",
     "SP12501099780035",
     "SP12501099780039",
     "SP12501099780040",
@@ -142,6 +143,8 @@
     "SP12501102527032",
     "SP12501103248032",
     "SP12501103248034",
+    "SP12501103302001",
+    "SP12501103302004",
     "SP12501105631026",
     "SP12501109335045",
     "SP12501109491035",
@@ -166,9 +169,14 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
-    "SP12501099763001"
+    "SP12501099763001",
+    "SP12501099763004",
+    "SP12501103302001",
+    "SP12501103302004"
   ],
   "skus_subidos_hoje": [
+    "SP12501015160003",
+    "SP12501015640410",
     "SP12501015837045",
     "SP12501017368037",
     "SP12501017457023",
@@ -179,6 +187,8 @@
     "SP12501099755034"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501015160003",
+    "SP12501015640410",
     "SP12501015837045",
     "SP12501017368037",
     "SP12501017457023",
@@ -200,9 +210,69 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501099763004",
+      "id_produto": "22391",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103302001",
+      "id_produto": "22392",
+      "nome": "ALTERNADOR",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501103302004",
+      "id_produto": "22393",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501015160003",
+      "id_produto": "22347",
+      "nome": "CABEÇOTE COM VÁLVULAS TOYOTA TORO ULTRA 2.0 16V AUT. 2019",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "TORO ULTRA 2.0 16V 4X4 TB DIESEL AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501015640410",
+      "id_produto": "5377",
+      "nome": "RADIADOR BAIXA TEMPERATURA VOLKSWAGEN VIRTUS COMFORT. 1.0 22",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "VIRTUS COMFORT. 200 TSI 1.0 FLEX 12V AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "5",
+      "qtd_images": "8"
+    },
     {
       "sku": "SP12501015837045",
       "id_produto": "1796",
@@ -282,7 +352,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "HR-V EXL 1.8 FLEXONE 16V 5P AUTOMATICO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -400,11 +470,11 @@
     "SP12501015640410": {
       "sku": "SP12501015640410",
       "id_produto": "5377",
-      "nome": "RADIADOR BAIXA TEMPERATURA",
-      "marca": "VW",
+      "nome": "RADIADOR BAIXA TEMPERATURA VOLKSWAGEN VIRTUS COMFORT. 1.0 22",
+      "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "VIRTUS COMFORT. 200 TSI 1.0 FLEX 12V AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "8"
@@ -524,7 +594,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "HR-V EXL 1.8 FLEXONE 16V 5P AUTOMATICO",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
       "qtd_images": "10"
@@ -1084,11 +1154,11 @@
     "SP12501015160003": {
       "sku": "SP12501015160003",
       "id_produto": "22347",
-      "nome": "CABEÇOTE COM VÁLVULAS",
+      "nome": "CABEÇOTE COM VÁLVULAS TOYOTA TORO ULTRA 2.0 16V AUT. 2019",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "TORO ULTRA 2.0 16V 4X4 TB DIESEL AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "7"
@@ -1236,6 +1306,42 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    "SP12501103302004": {
+      "sku": "SP12501103302004",
+      "id_produto": "22393",
+      "nome": "CÂMBIO MANUAL",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    "SP12501103302001": {
+      "sku": "SP12501103302001",
+      "id_produto": "22392",
+      "nome": "ALTERNADOR",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501099763004": {
+      "sku": "SP12501099763004",
+      "id_produto": "22391",
+      "nome": "CÂMBIO AUTOMATICO",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
