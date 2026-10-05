@@ -1,11 +1,11 @@
 {
   "data": "2026-10-05",
   "primeira_atualizacao": "05/10/2026 08:29:57",
-  "ultima_atualizacao": "05/10/2026 12:51:25",
+  "ultima_atualizacao": "05/10/2026 13:21:15",
   "total_base_dia": 77,
-  "total_atual": 83,
-  "novos_produtos": 24,
-  "total_subidos": 18,
+  "total_atual": 80,
+  "novos_produtos": 25,
+  "total_subidos": 22,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -88,6 +88,7 @@
   "skus_vistos_hoje": [
     "SP12501004649049",
     "SP12501004665045",
+    "SP12501005165025",
     "SP12501005173040",
     "SP12501005173484",
     "SP12501005394033",
@@ -189,6 +190,7 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501005165025",
     "SP12501053879437",
     "SP12501053879483",
     "SP12501053879484",
@@ -230,8 +232,12 @@
     "SP12501099755034",
     "SP12501099763001",
     "SP12501099763004",
+    "SP12501099780483",
+    "SP12501099780485",
     "SP12501103302004",
     "SP12501103302007",
+    "SP12501103302400",
+    "SP12501103302437",
     "SP12501103302483"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -250,11 +256,27 @@
     "SP12501099755034",
     "SP12501099763001",
     "SP12501099763004",
+    "SP12501099780483",
+    "SP12501099780485",
     "SP12501103302004",
     "SP12501103302007",
+    "SP12501103302400",
+    "SP12501103302437",
     "SP12501103302483"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501005165025",
+      "id_produto": "18204",
+      "nome": "MÓDULO DO CÂMBIO",
+      "marca": "VW",
+      "modelo_do_veiculo": "T-CROSS SENSE 200 TSI 1.0 FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501053879437",
       "id_produto": "22398",
@@ -414,11 +436,11 @@
     {
       "sku": "SP12501099780483",
       "id_produto": "22406",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "PNEU 205/55 R16 91H FIAT STRADA RANCH 1.0 FLEX TURBO CD 2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -438,11 +460,11 @@
     {
       "sku": "SP12501099780485",
       "id_produto": "22408",
-      "nome": "PNEU TRASEIRO ESQUERDO",
+      "nome": "PNEU 205/55 R16 91H FIAT STRADA RANCH 1.0 FLEX TURBO CD 2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -486,11 +508,11 @@
     {
       "sku": "SP12501103302400",
       "id_produto": "22409",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO HONDA CIVIC SEDAN LXS 1.8 FLEX 16V 2007/2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -498,11 +520,11 @@
     {
       "sku": "SP12501103302437",
       "id_produto": "22410",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 205/55 R16 91V HONDA CIVIC SEDAN LXS 1.8 FLEX 16V 2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -514,7 +536,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -726,6 +748,30 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501099780483",
+      "id_produto": "22406",
+      "nome": "PNEU 205/55 R16 91H FIAT STRADA RANCH 1.0 FLEX TURBO CD 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501099780485",
+      "id_produto": "22408",
+      "nome": "PNEU 205/55 R16 91H FIAT STRADA RANCH 1.0 FLEX TURBO CD 2004",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103302004",
       "id_produto": "22393",
       "nome": "CÂMBIO MANUAL HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 2008",
@@ -750,13 +796,37 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103302400",
+      "id_produto": "22409",
+      "nome": "MOTOR COMPLETO HONDA CIVIC SEDAN LXS 1.8 FLEX 16V 2007/2008",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103302437",
+      "id_produto": "22410",
+      "nome": "PNEU 205/55 R16 91V HONDA CIVIC SEDAN LXS 1.8 FLEX 16V 2008",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103302483",
       "id_produto": "22411",
       "nome": "PNEU 205/55 R16 92H HONDA CIVIC SEDAN LXS 1.8 FLEX 16V 2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1834,11 +1904,11 @@
     "SP12501099780485": {
       "sku": "SP12501099780485",
       "id_produto": "22408",
-      "nome": "PNEU TRASEIRO ESQUERDO",
+      "nome": "PNEU 205/55 R16 91H FIAT STRADA RANCH 1.0 FLEX TURBO CD 2004",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1858,11 +1928,11 @@
     "SP12501099780483": {
       "sku": "SP12501099780483",
       "id_produto": "22406",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "PNEU 205/55 R16 91H FIAT STRADA RANCH 1.0 FLEX TURBO CD 2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -1898,7 +1968,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -1906,11 +1976,11 @@
     "SP12501103302437": {
       "sku": "SP12501103302437",
       "id_produto": "22410",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 205/55 R16 91V HONDA CIVIC SEDAN LXS 1.8 FLEX 16V 2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1918,11 +1988,11 @@
     "SP12501103302400": {
       "sku": "SP12501103302400",
       "id_produto": "22409",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO HONDA CIVIC SEDAN LXS 1.8 FLEX 16V 2007/2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1974,6 +2044,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    "SP12501005165025": {
+      "sku": "SP12501005165025",
+      "id_produto": "18204",
+      "nome": "MÓDULO DO CÂMBIO",
+      "marca": "VW",
+      "modelo_do_veiculo": "T-CROSS SENSE 200 TSI 1.0 FLEX 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   }
 }
