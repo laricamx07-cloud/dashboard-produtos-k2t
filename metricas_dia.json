@@ -1,11 +1,11 @@
 {
   "data": "2026-10-05",
   "primeira_atualizacao": "05/10/2026 08:29:57",
-  "ultima_atualizacao": "05/10/2026 15:52:07",
+  "ultima_atualizacao": "05/10/2026 16:21:14",
   "total_base_dia": 77,
-  "total_atual": 101,
-  "novos_produtos": 59,
-  "total_subidos": 35,
+  "total_atual": 105,
+  "novos_produtos": 67,
+  "total_subidos": 39,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -99,6 +99,7 @@
     "SP12501010509026",
     "SP12501010835033",
     "SP12501010835035",
+    "SP12501014083026",
     "SP12501015160003",
     "SP12501015292001",
     "SP12501015314026",
@@ -111,6 +112,7 @@
     "SP12501015640410",
     "SP12501015837045",
     "SP12501016701039",
+    "SP12501016728025",
     "SP12501016817013",
     "SP12501017368037",
     "SP12501017449043",
@@ -138,6 +140,7 @@
     "SP12501056347041",
     "SP12501056347042",
     "SP12501056347043",
+    "SP12501056347449",
     "SP12501056347514",
     "SP12501056347542",
     "SP12501056347584",
@@ -160,6 +163,7 @@
     "SP12501099763010",
     "SP12501099763011",
     "SP12501099763014",
+    "SP12501099763031",
     "SP12501099763037",
     "SP12501099763038",
     "SP12501099763039",
@@ -167,6 +171,7 @@
     "SP12501099763042",
     "SP12501099763400",
     "SP12501099763411",
+    "SP12501099763570",
     "SP12501099780035",
     "SP12501099780039",
     "SP12501099780040",
@@ -174,6 +179,7 @@
     "SP12501099780049",
     "SP12501099780400",
     "SP12501099780437",
+    "SP12501099780480",
     "SP12501099780483",
     "SP12501099780484",
     "SP12501099780485",
@@ -197,6 +203,7 @@
     "SP12501103302411",
     "SP12501103302437",
     "SP12501103302483",
+    "SP12501103302570",
     "SP12501103329010",
     "SP12501103337437",
     "SP12501103337483",
@@ -220,16 +227,19 @@
     "SP32501000230896",
     "SP32501000230975",
     "SP32501000230976",
+    "SP32501001245042",
     "SP42501001064042",
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
     "SP12501005165025",
     "SP12501010509026",
+    "SP12501014083026",
     "SP12501015292001",
     "SP12501015314026",
     "SP12501015381026",
     "SP12501015608011",
+    "SP12501016728025",
     "SP12501053879411",
     "SP12501053879437",
     "SP12501053879483",
@@ -242,6 +252,7 @@
     "SP12501056347041",
     "SP12501056347042",
     "SP12501056347043",
+    "SP12501056347449",
     "SP12501056347542",
     "SP12501056347584",
     "SP12501084448026",
@@ -253,6 +264,7 @@
     "SP12501099763010",
     "SP12501099763011",
     "SP12501099763014",
+    "SP12501099763031",
     "SP12501099763037",
     "SP12501099763038",
     "SP12501099763039",
@@ -260,10 +272,12 @@
     "SP12501099763042",
     "SP12501099763400",
     "SP12501099763411",
+    "SP12501099763570",
     "SP12501099780043",
     "SP12501099780049",
     "SP12501099780400",
     "SP12501099780437",
+    "SP12501099780480",
     "SP12501099780483",
     "SP12501099780484",
     "SP12501099780485",
@@ -280,9 +294,11 @@
     "SP12501103302411",
     "SP12501103302437",
     "SP12501103302483",
+    "SP12501103302570",
     "SP12501103329010",
     "SP12501103337437",
-    "SP12501103337483"
+    "SP12501103337483",
+    "SP32501001245042"
   ],
   "skus_subidos_hoje": [
     "SP12501005165025",
@@ -298,14 +314,18 @@
     "SP12501053879485",
     "SP12501056339033",
     "SP12501056347007",
+    "SP12501056347542",
     "SP12501056355026",
     "SP12501080140037",
     "SP12501080140038",
     "SP12501084448026",
     "SP12501099739004",
+    "SP12501099739037",
     "SP12501099755034",
     "SP12501099763001",
     "SP12501099763004",
+    "SP12501099763011",
+    "SP12501099763037",
     "SP12501099763400",
     "SP12501099780400",
     "SP12501099780437",
@@ -335,14 +355,18 @@
     "SP12501053879485",
     "SP12501056339033",
     "SP12501056347007",
+    "SP12501056347542",
     "SP12501056355026",
     "SP12501080140037",
     "SP12501080140038",
     "SP12501084448026",
     "SP12501099739004",
+    "SP12501099739037",
     "SP12501099755034",
     "SP12501099763001",
     "SP12501099763004",
+    "SP12501099763011",
+    "SP12501099763037",
     "SP12501099763400",
     "SP12501099780400",
     "SP12501099780437",
@@ -366,7 +390,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "T-CROSS SENSE 200 TSI 1.0 FLEX 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -382,6 +406,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501014083026",
+      "id_produto": "19028",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "GM",
+      "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501015292001",
@@ -430,6 +466,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501016728025",
+      "id_produto": "18894",
+      "nome": "MÓDULO DO CÂMBIO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501053879411",
@@ -576,13 +624,25 @@
       "qtd_images": "5"
     },
     {
-      "sku": "SP12501056347542",
-      "id_produto": "22420",
-      "nome": "MOTOR DO LIMPADOR DE PARA-BRISA",
+      "sku": "SP12501056347449",
+      "id_produto": "22451",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
       "marca": "FORD",
-      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056347542",
+      "id_produto": "22420",
+      "nome": "MOTOR DO LIMPADOR DE PARA-BRISA FORD FIESTA HATCH 1.5L 2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -626,11 +686,11 @@
     {
       "sku": "SP12501099739037",
       "id_produto": "22422",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO VOLKSWAGEN GOL MI 8V GASOLINA MEC 1997",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -686,11 +746,11 @@
     {
       "sku": "SP12501099763011",
       "id_produto": "22426",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR AR-CONDICIONADO LAND ROVER FREELANDER2 3.2 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -708,13 +768,25 @@
       "qtd_images": "10"
     },
     {
-      "sku": "SP12501099763037",
-      "id_produto": "22428",
-      "nome": "RETROVISOR DIREITO",
+      "sku": "SP12501099763031",
+      "id_produto": "22459",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
       "marca": "LAND ROVER",
-      "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501099763037",
+      "id_produto": "22428",
+      "nome": "RETROVISOR DIREITO LAND ROVER FREELANDER2 I6 SE 3.2 2007",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -792,6 +864,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501099763570",
+      "id_produto": "22463",
+      "nome": "RÁDIO",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501099780043",
       "id_produto": "22435",
       "nome": "RODA SOBRES./ESTEPE",
@@ -838,6 +922,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501099780480",
+      "id_produto": "22464",
+      "nome": "PORTINHOLA DO TANQUE",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501099780483",
@@ -1032,6 +1128,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501103302570",
+      "id_produto": "22472",
+      "nome": "RÁDIO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501103329010",
       "id_produto": "22447",
       "nome": "CHAVE DE SETA",
@@ -1066,6 +1174,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP32501001245042",
+      "id_produto": "19198",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "DODGE / RAM 2500 TROPIVAN 5.9 SLT TDI 4X",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   ],
   "itens_subidos_hoje": [
@@ -1076,7 +1196,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "T-CROSS SENSE 200 TSI 1.0 FLEX 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1226,6 +1346,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501056347542",
+      "id_produto": "22420",
+      "nome": "MOTOR DO LIMPADOR DE PARA-BRISA FORD FIESTA HATCH 1.5L 2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501056355026",
       "id_produto": "22365",
       "nome": "MOTOR DE PARTIDA FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
@@ -1286,6 +1418,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501099739037",
+      "id_produto": "22422",
+      "nome": "RETROVISOR DIREITO VOLKSWAGEN GOL MI 8V GASOLINA MEC 1997",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501099755034",
       "id_produto": "22385",
       "nome": "PORTA TRASEIRA DIREITA CHEVROLET ONIX HATCH PREM. 1.0 12V 24",
@@ -1320,6 +1464,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501099763011",
+      "id_produto": "22426",
+      "nome": "COMPRESSOR AR-CONDICIONADO LAND ROVER FREELANDER2 3.2 2007",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501099763037",
+      "id_produto": "22428",
+      "nome": "RETROVISOR DIREITO LAND ROVER FREELANDER2 I6 SE 3.2 2007",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501099763400",
@@ -2710,7 +2878,7 @@
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "T-CROSS SENSE 200 TSI 1.0 FLEX 5P AUT",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -2718,11 +2886,11 @@
     "SP12501099763011": {
       "sku": "SP12501099763011",
       "id_produto": "22426",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR AR-CONDICIONADO LAND ROVER FREELANDER2 3.2 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -2754,11 +2922,11 @@
     "SP12501056347542": {
       "sku": "SP12501056347542",
       "id_produto": "22420",
-      "nome": "MOTOR DO LIMPADOR DE PARA-BRISA",
+      "nome": "MOTOR DO LIMPADOR DE PARA-BRISA FORD FIESTA HATCH 1.5L 2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2778,11 +2946,11 @@
     "SP12501099763037": {
       "sku": "SP12501099763037",
       "id_produto": "22428",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO LAND ROVER FREELANDER2 I6 SE 3.2 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -2790,11 +2958,11 @@
     "SP12501099739037": {
       "sku": "SP12501099739037",
       "id_produto": "22422",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO VOLKSWAGEN GOL MI 8V GASOLINA MEC 1997",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -3122,6 +3290,102 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    "SP12501099780480": {
+      "sku": "SP12501099780480",
+      "id_produto": "22464",
+      "nome": "PORTINHOLA DO TANQUE",
+      "marca": "FIAT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    "SP12501014083026": {
+      "sku": "SP12501014083026",
+      "id_produto": "19028",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "GM",
+      "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    "SP12501103302570": {
+      "sku": "SP12501103302570",
+      "id_produto": "22472",
+      "nome": "RÁDIO",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP12501016728025": {
+      "sku": "SP12501016728025",
+      "id_produto": "18894",
+      "nome": "MÓDULO DO CÂMBIO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501099763570": {
+      "sku": "SP12501099763570",
+      "id_produto": "22463",
+      "nome": "RÁDIO",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    "SP12501099763031": {
+      "sku": "SP12501099763031",
+      "id_produto": "22459",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501056347449": {
+      "sku": "SP12501056347449",
+      "id_produto": "22451",
+      "nome": "SEMI-EIXO DIANTEIRO ESQUERDO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP32501001245042": {
+      "sku": "SP32501001245042",
+      "id_produto": "19198",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "marca": "RAM",
+      "modelo_do_veiculo": "DODGE / RAM 2500 TROPIVAN 5.9 SLT TDI 4X",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   }
 }
