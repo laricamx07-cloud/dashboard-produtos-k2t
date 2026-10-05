@@ -1,11 +1,11 @@
 {
   "data": "2026-10-05",
   "primeira_atualizacao": "05/10/2026 08:29:57",
-  "ultima_atualizacao": "05/10/2026 10:21:22",
+  "ultima_atualizacao": "05/10/2026 10:31:09",
   "total_base_dia": 77,
-  "total_atual": 70,
+  "total_atual": 69,
   "novos_produtos": 5,
-  "total_subidos": 12,
+  "total_subidos": 13,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -188,7 +188,8 @@
     "SP12501080140038",
     "SP12501099739004",
     "SP12501099755034",
-    "SP12501099763001"
+    "SP12501099763001",
+    "SP12501099763004"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015160003",
@@ -202,7 +203,8 @@
     "SP12501080140038",
     "SP12501099739004",
     "SP12501099755034",
-    "SP12501099763001"
+    "SP12501099763001",
+    "SP12501099763004"
   ],
   "itens_novos_hoje": [
     {
@@ -224,7 +226,7 @@
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -232,11 +234,11 @@
     {
       "sku": "SP12501099763004",
       "id_produto": "22391",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO LAND ROVER FREELANDER2 I6 SE 3.2 AUT. 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -406,10 +408,22 @@
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501099763004",
+      "id_produto": "22391",
+      "nome": "CÂMBIO AUTOMATICO LAND ROVER FREELANDER2 I6 SE 3.2 AUT. 2007",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1344,7 +1358,7 @@
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1376,11 +1390,11 @@
     "SP12501099763004": {
       "sku": "SP12501099763004",
       "id_produto": "22391",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO LAND ROVER FREELANDER2 I6 SE 3.2 AUT. 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
