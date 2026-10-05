@@ -1,11 +1,11 @@
 {
   "data": "2026-10-05",
   "primeira_atualizacao": "05/10/2026 08:29:57",
-  "ultima_atualizacao": "05/10/2026 08:31:17",
+  "ultima_atualizacao": "05/10/2026 08:51:05",
   "total_base_dia": 77,
-  "total_atual": 77,
+  "total_atual": 76,
   "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_subidos": 1,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -165,10 +165,27 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501099755034"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501099755034"
+  ],
   "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501099755034",
+      "id_produto": "22385",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET ONIX HATCH PREM. 1.0 12V 24",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501123583034": {
       "sku": "SP12501123583034",
@@ -221,11 +238,11 @@
     "SP12501099755034": {
       "sku": "SP12501099755034",
       "id_produto": "22385",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET ONIX HATCH PREM. 1.0 12V 24",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
