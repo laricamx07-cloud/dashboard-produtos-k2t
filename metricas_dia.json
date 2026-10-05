@@ -1,11 +1,11 @@
 {
   "data": "2026-10-05",
   "primeira_atualizacao": "05/10/2026 08:29:57",
-  "ultima_atualizacao": "05/10/2026 11:00:33",
+  "ultima_atualizacao": "05/10/2026 12:13:22",
   "total_base_dia": 77,
-  "total_atual": 72,
-  "novos_produtos": 8,
-  "total_subidos": 13,
+  "total_atual": 69,
+  "novos_produtos": 9,
+  "total_subidos": 17,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -131,6 +131,7 @@
     "SP12501080469001",
     "SP12501083964039",
     "SP12501084162032",
+    "SP12501084448026",
     "SP12501084766035",
     "SP12501099739004",
     "SP12501099755034",
@@ -175,6 +176,7 @@
   "skus_novos_hoje": [
     "SP12501056339033",
     "SP12501056347007",
+    "SP12501084448026",
     "SP12501099739004",
     "SP12501099763001",
     "SP12501099763004",
@@ -189,13 +191,17 @@
     "SP12501017368037",
     "SP12501017457023",
     "SP12501053747032",
+    "SP12501056339033",
+    "SP12501056347007",
     "SP12501056355026",
     "SP12501080140037",
     "SP12501080140038",
     "SP12501099739004",
     "SP12501099755034",
     "SP12501099763001",
-    "SP12501099763004"
+    "SP12501099763004",
+    "SP12501103302004",
+    "SP12501103302007"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015160003",
@@ -204,23 +210,27 @@
     "SP12501017368037",
     "SP12501017457023",
     "SP12501053747032",
+    "SP12501056339033",
+    "SP12501056347007",
     "SP12501056355026",
     "SP12501080140037",
     "SP12501080140038",
     "SP12501099739004",
     "SP12501099755034",
     "SP12501099763001",
-    "SP12501099763004"
+    "SP12501099763004",
+    "SP12501103302004",
+    "SP12501103302007"
   ],
   "itens_novos_hoje": [
     {
       "sku": "SP12501056339033",
       "id_produto": "22395",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA CITROEN C4 PALLAS 2.0 16V EAF FLEX",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -228,14 +238,26 @@
     {
       "sku": "SP12501056347007",
       "id_produto": "22396",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FORD FIESTA HATCH 1.5L 16V SE MEC. 2014/2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501084448026",
+      "id_produto": "11087",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501099739004",
@@ -288,11 +310,11 @@
     {
       "sku": "SP12501103302004",
       "id_produto": "22393",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -300,11 +322,11 @@
     {
       "sku": "SP12501103302007",
       "id_produto": "22397",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P 2007/2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -382,6 +404,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056339033",
+      "id_produto": "22395",
+      "nome": "PORTA DIANTEIRA ESQUERDA CITROEN C4 PALLAS 2.0 16V EAF FLEX",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056347007",
+      "id_produto": "22396",
+      "nome": "CAPÔ FORD FIESTA HATCH 1.5L 16V SE MEC. 2014/2014",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501056355026",
@@ -466,6 +512,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103302004",
+      "id_produto": "22393",
+      "nome": "CÂMBIO MANUAL HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 2008",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103302007",
+      "id_produto": "22397",
+      "nome": "CAPÔ HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P 2007/2008",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1408,11 +1478,11 @@
     "SP12501103302004": {
       "sku": "SP12501103302004",
       "id_produto": "22393",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1456,11 +1526,11 @@
     "SP12501103302007": {
       "sku": "SP12501103302007",
       "id_produto": "22397",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P 2007/2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1468,11 +1538,11 @@
     "SP12501056347007": {
       "sku": "SP12501056347007",
       "id_produto": "22396",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FORD FIESTA HATCH 1.5L 16V SE MEC. 2014/2014",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1480,13 +1550,25 @@
     "SP12501056339033": {
       "sku": "SP12501056339033",
       "id_produto": "22395",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA CITROEN C4 PALLAS 2.0 16V EAF FLEX",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C4 PALLAS 2.0 16V EAF FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501084448026": {
+      "sku": "SP12501084448026",
+      "id_produto": "11087",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO DRIVE 1.0 6V FLEX",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
-      "classificacao": "09",
+      "classificacao": "7",
       "qtd_images": "10"
     }
   }
