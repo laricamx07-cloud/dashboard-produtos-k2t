@@ -1,11 +1,11 @@
 {
   "data": "2026-10-05",
   "primeira_atualizacao": "05/10/2026 08:29:57",
-  "ultima_atualizacao": "05/10/2026 17:10:59",
+  "ultima_atualizacao": "05/10/2026 17:23:06",
   "total_base_dia": 77,
-  "total_atual": 105,
-  "novos_produtos": 83,
-  "total_subidos": 55,
+  "total_atual": 107,
+  "novos_produtos": 87,
+  "total_subidos": 57,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -120,6 +120,7 @@
     "SP12501040874034",
     "SP12501041919037",
     "SP12501052996034",
+    "SP12501053747010",
     "SP12501053747032",
     "SP12501053879411",
     "SP12501053879437",
@@ -199,11 +200,14 @@
     "SP12501103248032",
     "SP12501103248034",
     "SP12501103280004",
+    "SP12501103280026",
+    "SP12501103280424",
     "SP12501103302001",
     "SP12501103302004",
     "SP12501103302007",
     "SP12501103302011",
     "SP12501103302012",
+    "SP12501103302026",
     "SP12501103302032",
     "SP12501103302033",
     "SP12501103302034",
@@ -257,6 +261,7 @@
     "SP12501015608011",
     "SP12501016728025",
     "SP12501041919037",
+    "SP12501053747010",
     "SP12501053879411",
     "SP12501053879437",
     "SP12501053879483",
@@ -306,11 +311,14 @@
     "SP12501099780484",
     "SP12501099780485",
     "SP12501103280004",
+    "SP12501103280026",
+    "SP12501103280424",
     "SP12501103302001",
     "SP12501103302004",
     "SP12501103302007",
     "SP12501103302011",
     "SP12501103302012",
+    "SP12501103302026",
     "SP12501103302032",
     "SP12501103302033",
     "SP12501103302034",
@@ -363,6 +371,7 @@
     "SP12501099763011",
     "SP12501099763031",
     "SP12501099763037",
+    "SP12501099763038",
     "SP12501099763400",
     "SP12501099763411",
     "SP12501099763570",
@@ -373,6 +382,7 @@
     "SP12501099780483",
     "SP12501099780484",
     "SP12501099780485",
+    "SP12501103280004",
     "SP12501103302001",
     "SP12501103302004",
     "SP12501103302007",
@@ -420,6 +430,7 @@
     "SP12501099763011",
     "SP12501099763031",
     "SP12501099763037",
+    "SP12501099763038",
     "SP12501099763400",
     "SP12501099763411",
     "SP12501099763570",
@@ -430,6 +441,7 @@
     "SP12501099780483",
     "SP12501099780484",
     "SP12501099780485",
+    "SP12501103280004",
     "SP12501103302001",
     "SP12501103302004",
     "SP12501103302007",
@@ -554,6 +566,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501053747010",
+      "id_produto": "22478",
+      "nome": "CHAVE DE SETA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501053879411",
@@ -942,11 +966,11 @@
     {
       "sku": "SP12501099763038",
       "id_produto": "22429",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO LAND ROVER FREELANDER2 I6 3.2 232CV 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1054,7 +1078,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1134,14 +1158,38 @@
     {
       "sku": "SP12501103280004",
       "id_produto": "22439",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO CITROEN C3 YOU! 1.0 FLEX TURBO 200 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103280026",
+      "id_produto": "22493",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "10"
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103280424",
+      "id_produto": "22497",
+      "nome": "MULTIMÍDIA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103302001",
@@ -1186,7 +1234,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1202,6 +1250,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103302026",
+      "id_produto": "22499",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501103302032",
@@ -1806,6 +1866,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501099763038",
+      "id_produto": "22429",
+      "nome": "RETROVISOR ESQUERDO LAND ROVER FREELANDER2 I6 3.2 232CV 2007",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501099763400",
       "id_produto": "22403",
       "nome": "MOTOR COMPLETO LAND ROVER FREELANDER 2 I6 SE 3.2 232CV 2007",
@@ -1848,7 +1920,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1926,6 +1998,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501103280004",
+      "id_produto": "22439",
+      "nome": "CÂMBIO AUTOMATICO CITROEN C3 YOU! 1.0 FLEX TURBO 200 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103302001",
       "id_produto": "22392",
       "nome": "ALTERNADOR HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P 2008",
@@ -1968,7 +2052,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3418,11 +3502,11 @@
     "SP12501099763038": {
       "sku": "SP12501099763038",
       "id_produto": "22429",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO LAND ROVER FREELANDER2 I6 3.2 232CV 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -3514,11 +3598,11 @@
     "SP12501103280004": {
       "sku": "SP12501103280004",
       "id_produto": "22439",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO CITROEN C3 YOU! 1.0 FLEX TURBO 200 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -3650,7 +3734,7 @@
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -3734,7 +3818,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -4026,6 +4110,54 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    "SP12501103280424": {
+      "sku": "SP12501103280424",
+      "id_produto": "22497",
+      "nome": "MULTIMÍDIA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501103302026": {
+      "sku": "SP12501103302026",
+      "id_produto": "22499",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "HONDA",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    "SP12501053747010": {
+      "sku": "SP12501053747010",
+      "id_produto": "22478",
+      "nome": "CHAVE DE SETA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501103280026": {
+      "sku": "SP12501103280026",
+      "id_produto": "22493",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   }
 }
