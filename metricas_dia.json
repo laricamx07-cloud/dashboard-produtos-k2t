@@ -1,11 +1,11 @@
 {
   "data": "2026-10-05",
   "primeira_atualizacao": "05/10/2026 08:29:57",
-  "ultima_atualizacao": "05/10/2026 08:51:05",
+  "ultima_atualizacao": "05/10/2026 09:00:02",
   "total_base_dia": 77,
-  "total_atual": 76,
+  "total_atual": 75,
   "novos_produtos": 0,
-  "total_subidos": 1,
+  "total_subidos": 2,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -166,13 +166,27 @@
   ],
   "skus_novos_hoje": [],
   "skus_subidos_hoje": [
+    "SP12501053747032",
     "SP12501099755034"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501053747032",
     "SP12501099755034"
   ],
   "itens_novos_hoje": [],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501053747032",
+      "id_produto": "22382",
+      "nome": "PORTA DIANTEIRA DIREITA VOLKSWAGEN GOL SPECIAL 1.0 8V 02/03",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL SPECIAL 1.0 8V ALCOOL MEC. 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501099755034",
       "id_produto": "22385",
@@ -946,11 +960,11 @@
     "SP12501053747032": {
       "sku": "SP12501053747032",
       "id_produto": "22382",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA VOLKSWAGEN GOL SPECIAL 1.0 8V 02/03",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL SPECIAL 1.0 8V ALCOOL MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
