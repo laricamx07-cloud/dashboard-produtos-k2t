@@ -1,11 +1,11 @@
 {
   "data": "2026-10-05",
   "primeira_atualizacao": "05/10/2026 08:29:57",
-  "ultima_atualizacao": "05/10/2026 10:00:39",
+  "ultima_atualizacao": "05/10/2026 10:21:22",
   "total_base_dia": 77,
-  "total_atual": 72,
+  "total_atual": 70,
   "novos_produtos": 5,
-  "total_subidos": 10,
+  "total_subidos": 12,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -186,7 +186,9 @@
     "SP12501056355026",
     "SP12501080140037",
     "SP12501080140038",
-    "SP12501099755034"
+    "SP12501099739004",
+    "SP12501099755034",
+    "SP12501099763001"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501015160003",
@@ -198,17 +200,19 @@
     "SP12501056355026",
     "SP12501080140037",
     "SP12501080140038",
-    "SP12501099755034"
+    "SP12501099739004",
+    "SP12501099755034",
+    "SP12501099763001"
   ],
   "itens_novos_hoje": [
     {
       "sku": "SP12501099739004",
       "id_produto": "22389",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN GOL MI 8V GASOLINA MEC. 2P 1997",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -216,11 +220,11 @@
     {
       "sku": "SP12501099763001",
       "id_produto": "22390",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR LAND ROVER FREELANDER2 I6 SE 3.2 232CV 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -372,6 +376,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501099739004",
+      "id_produto": "22389",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN GOL MI 8V GASOLINA MEC. 2P 1997",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501099755034",
       "id_produto": "22385",
       "nome": "PORTA TRASEIRA DIREITA CHEVROLET ONIX HATCH PREM. 1.0 12V 24",
@@ -382,6 +398,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501099763001",
+      "id_produto": "22390",
+      "nome": "ALTERNADOR LAND ROVER FREELANDER2 I6 SE 3.2 232CV 2007",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1312,11 +1340,11 @@
     "SP12501099763001": {
       "sku": "SP12501099763001",
       "id_produto": "22390",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR LAND ROVER FREELANDER2 I6 SE 3.2 232CV 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1360,11 +1388,11 @@
     "SP12501099739004": {
       "sku": "SP12501099739004",
       "id_produto": "22389",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL VOLKSWAGEN GOL MI 8V GASOLINA MEC. 2P 1997",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
