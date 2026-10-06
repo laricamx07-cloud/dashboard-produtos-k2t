@@ -1,11 +1,11 @@
 {
   "data": "2026-10-06",
   "primeira_atualizacao": "06/10/2026 08:20:26",
-  "ultima_atualizacao": "06/10/2026 09:50:57",
+  "ultima_atualizacao": "06/10/2026 10:21:00",
   "total_base_dia": 120,
-  "total_atual": 100,
-  "novos_produtos": 2,
-  "total_subidos": 22,
+  "total_atual": 90,
+  "novos_produtos": 3,
+  "total_subidos": 33,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -229,6 +229,7 @@
     "SP12501103329031",
     "SP12501103329037",
     "SP12501103647007",
+    "SP12501103647031",
     "SP12501105631026",
     "SP12501109335045",
     "SP12501109491035",
@@ -254,12 +255,19 @@
   ],
   "skus_novos_hoje": [
     "SP12501016728013",
-    "SP12501103647007"
+    "SP12501103647007",
+    "SP12501103647031"
   ],
   "skus_subidos_hoje": [
+    "SP12501053747010",
+    "SP12501053747026",
+    "SP12501053879024",
     "SP12501056347040",
     "SP12501056347041",
     "SP12501056347042",
+    "SP12501099739027",
+    "SP12501099763024",
+    "SP12501099763026",
     "SP12501099763027",
     "SP12501099780024",
     "SP12501103280001",
@@ -278,12 +286,23 @@
     "SP12501103302024",
     "SP12501103302026",
     "SP12501103302027",
-    "SP12501103329027"
+    "SP12501103302036",
+    "SP12501103302045",
+    "SP12501103329027",
+    "SP12501103329030",
+    "SP12501103329031",
+    "SP12501103329037"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501053747010",
+    "SP12501053747026",
+    "SP12501053879024",
     "SP12501056347040",
     "SP12501056347041",
     "SP12501056347042",
+    "SP12501099739027",
+    "SP12501099763024",
+    "SP12501099763026",
     "SP12501099763027",
     "SP12501099780024",
     "SP12501103280001",
@@ -302,7 +321,12 @@
     "SP12501103302024",
     "SP12501103302026",
     "SP12501103302027",
-    "SP12501103329027"
+    "SP12501103302036",
+    "SP12501103302045",
+    "SP12501103329027",
+    "SP12501103329030",
+    "SP12501103329031",
+    "SP12501103329037"
   ],
   "itens_novos_hoje": [
     {
@@ -328,9 +352,57 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103647031",
+      "id_produto": "22509",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501053747010",
+      "id_produto": "22478",
+      "nome": "CHAVE DE SETA VOLKSWAGEN GOL SPECIAL 1.0 8V ALCOOL MEC. 2003",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL SPECIAL 1.0 8V ALCOOL MEC. 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501053747026",
+      "id_produto": "22479",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN GOL SPECIAL 1.0 8V ALCOOL 2003",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL SPECIAL 1.0 8V ALCOOL MEC. 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053879024",
+      "id_produto": "22480",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501056347040",
       "id_produto": "22416",
@@ -368,13 +440,49 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501099739027",
+      "id_produto": "22481",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN GOL MI 8V GASOLINA 2007",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501099763024",
+      "id_produto": "22482",
+      "nome": "MÓDULO DE INJEÇÃO LAND ROVER FREELANDER2 I6 SE 3.2 2007",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501099763026",
+      "id_produto": "22483",
+      "nome": "MOTOR DE PARTIDA LAND ROVER FREELANDER2 I6 SE 3.2 232CV 2007",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501099763027",
       "id_produto": "22484",
       "nome": "PAINEL DE INSTRUMENTOS LAND ROVER FREELANDER2 I6 SE 3.2 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -584,6 +692,30 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103302036",
+      "id_produto": "22470",
+      "nome": "RADIADOR HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 2007/2008",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103302045",
+      "id_produto": "22471",
+      "nome": "TAMPA TRASEIRA HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 2008",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103329027",
       "id_produto": "22502",
       "nome": "PAINEL DE INSTRUMENTOS FIAT PALIO EX 1.0 MPI FIRE FLEX 2001",
@@ -594,6 +726,42 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103329030",
+      "id_produto": "22474",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT PALIO EX 1.0 MPI F.FLEX 01",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103329031",
+      "id_produto": "22475",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FIAT PALIO EX 1.0 MPI FIRE FLEX",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103329037",
+      "id_produto": "22476",
+      "nome": "RETROVISOR DIREITO FIAT PALIO EX 1.0 MPI FIRE FLEX 8V 2001",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -612,11 +780,11 @@
     "SP12501053747026": {
       "sku": "SP12501053747026",
       "id_produto": "22479",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA VOLKSWAGEN GOL SPECIAL 1.0 8V ALCOOL 2003",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL SPECIAL 1.0 8V ALCOOL MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -628,7 +796,7 @@
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -960,11 +1128,11 @@
     "SP12501103302036": {
       "sku": "SP12501103302036",
       "id_produto": "22470",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 2007/2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -972,11 +1140,11 @@
     "SP12501103329030": {
       "sku": "SP12501103329030",
       "id_produto": "22474",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FIAT PALIO EX 1.0 MPI F.FLEX 01",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1116,11 +1284,11 @@
     "SP12501053747010": {
       "sku": "SP12501053747010",
       "id_produto": "22478",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA VOLKSWAGEN GOL SPECIAL 1.0 8V ALCOOL MEC. 2003",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL SPECIAL 1.0 8V ALCOOL MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1356,11 +1524,11 @@
     "SP12501103329037": {
       "sku": "SP12501103329037",
       "id_produto": "22476",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FIAT PALIO EX 1.0 MPI FIRE FLEX 8V 2001",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1368,11 +1536,11 @@
     "SP12501103302045": {
       "sku": "SP12501103302045",
       "id_produto": "22471",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1380,11 +1548,11 @@
     "SP12501099763026": {
       "sku": "SP12501099763026",
       "id_produto": "22483",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA LAND ROVER FREELANDER2 I6 SE 3.2 232CV 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -1548,11 +1716,11 @@
     "SP12501099739027": {
       "sku": "SP12501099739027",
       "id_produto": "22481",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS VOLKSWAGEN GOL MI 8V GASOLINA 2007",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL MI 8V GASOLINA MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1608,11 +1776,11 @@
     "SP12501103329031": {
       "sku": "SP12501103329031",
       "id_produto": "22475",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FIAT PALIO EX 1.0 MPI FIRE FLEX",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1872,11 +2040,11 @@
     "SP12501099763024": {
       "sku": "SP12501099763024",
       "id_produto": "22482",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO LAND ROVER FREELANDER2 I6 SE 3.2 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "6"
@@ -1896,11 +2064,11 @@
     "SP12501053879024": {
       "sku": "SP12501053879024",
       "id_produto": "22480",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CHEVROLET CELTA 1.0 MPFI VHC 8V 5P 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -2059,6 +2227,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP12501103647031": {
+      "sku": "SP12501103647031",
+      "id_produto": "22509",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "7"
     }
   }
