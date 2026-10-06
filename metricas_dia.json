@@ -1,10 +1,10 @@
 {
   "data": "2026-10-06",
   "primeira_atualizacao": "06/10/2026 08:20:26",
-  "ultima_atualizacao": "06/10/2026 15:00:26",
+  "ultima_atualizacao": "06/10/2026 15:21:18",
   "total_base_dia": 120,
-  "total_atual": 65,
-  "novos_produtos": 24,
+  "total_atual": 66,
+  "novos_produtos": 25,
   "total_subidos": 79,
   "skus_base_dia": [
     "SP12501004649049",
@@ -225,6 +225,7 @@
     "SP12501103280048",
     "SP12501103280411",
     "SP12501103280424",
+    "SP12501103280483",
     "SP12501103302024",
     "SP12501103302026",
     "SP12501103302027",
@@ -286,6 +287,7 @@
     "SP12501053755035",
     "SP12501053755045",
     "SP12501102454004",
+    "SP12501103280483",
     "SP12501103647007",
     "SP12501103647024",
     "SP12501103647027",
@@ -594,6 +596,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103280483",
+      "id_produto": "22536",
+      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501103647007",
@@ -3430,6 +3444,18 @@
       "quantidade": "0",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    "SP12501103280483": {
+      "sku": "SP12501103280483",
+      "id_produto": "22536",
+      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   }
 }
