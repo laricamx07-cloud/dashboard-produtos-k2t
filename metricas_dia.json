@@ -1,11 +1,11 @@
 {
   "data": "2026-10-06",
   "primeira_atualizacao": "06/10/2026 08:20:26",
-  "ultima_atualizacao": "06/10/2026 09:21:06",
+  "ultima_atualizacao": "06/10/2026 09:50:57",
   "total_base_dia": 120,
-  "total_atual": 110,
-  "novos_produtos": 1,
-  "total_subidos": 11,
+  "total_atual": 100,
+  "novos_produtos": 2,
+  "total_subidos": 22,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -228,6 +228,7 @@
     "SP12501103329030",
     "SP12501103329031",
     "SP12501103329037",
+    "SP12501103647007",
     "SP12501105631026",
     "SP12501109335045",
     "SP12501109491035",
@@ -252,16 +253,28 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
-    "SP12501016728013"
+    "SP12501016728013",
+    "SP12501103647007"
   ],
   "skus_subidos_hoje": [
     "SP12501056347040",
     "SP12501056347041",
     "SP12501056347042",
+    "SP12501099763027",
+    "SP12501099780024",
+    "SP12501103280001",
     "SP12501103280010",
+    "SP12501103280011",
+    "SP12501103280012",
     "SP12501103280015",
+    "SP12501103280018",
     "SP12501103280020",
+    "SP12501103280024",
+    "SP12501103280026",
+    "SP12501103280036",
+    "SP12501103280048",
     "SP12501103280411",
+    "SP12501103280424",
     "SP12501103302024",
     "SP12501103302026",
     "SP12501103302027",
@@ -271,10 +284,21 @@
     "SP12501056347040",
     "SP12501056347041",
     "SP12501056347042",
+    "SP12501099763027",
+    "SP12501099780024",
+    "SP12501103280001",
     "SP12501103280010",
+    "SP12501103280011",
+    "SP12501103280012",
     "SP12501103280015",
+    "SP12501103280018",
     "SP12501103280020",
+    "SP12501103280024",
+    "SP12501103280026",
+    "SP12501103280036",
+    "SP12501103280048",
     "SP12501103280411",
+    "SP12501103280424",
     "SP12501103302024",
     "SP12501103302026",
     "SP12501103302027",
@@ -292,6 +316,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103647007",
+      "id_produto": "22506",
+      "nome": "CAPÔ",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     }
   ],
   "itens_subidos_hoje": [
@@ -332,9 +368,69 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501099763027",
+      "id_produto": "22484",
+      "nome": "PAINEL DE INSTRUMENTOS LAND ROVER FREELANDER2 I6 SE 3.2 2007",
+      "marca": "LAND ROVER",
+      "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501099780024",
+      "id_produto": "22486",
+      "nome": "MÓDULO DE INJEÇÃO FIAT STRADA RANCH 1.0 FLEX TURBO CD 2024",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103280001",
+      "id_produto": "22488",
+      "nome": "ALTERNADOR CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103280010",
       "id_produto": "22503",
       "nome": "CHAVE DE SETA CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103280011",
+      "id_produto": "22489",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CITROEN C3 YOU! 1.0 FLEX 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103280012",
+      "id_produto": "22490",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO CITROEN C3 YOU! 1.0 FLEX 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
       "status": "Habilitado",
@@ -356,6 +452,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103280018",
+      "id_produto": "22491",
+      "nome": "INTERCOOLER CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025/25",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103280020",
       "id_produto": "22505",
       "nome": "LANTERNA TRASEIRA ESQUERDA CITROEN C31.0 FLEX TURBO 2025",
@@ -368,6 +476,54 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501103280024",
+      "id_produto": "22492",
+      "nome": "MÓDULO DE INJEÇÃO CITROEN C3 YOU! 1.0 FLEX TURBO 200 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501103280026",
+      "id_produto": "22493",
+      "nome": "MOTOR DE PARTIDA CITROEN C3 YOU! 1.0 FLEX TURBO 200 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103280036",
+      "id_produto": "22494",
+      "nome": "RADIADOR CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103280048",
+      "id_produto": "22495",
+      "nome": "TURBINA CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025/2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501103280411",
       "id_produto": "22496",
       "nome": "ELETROVENTILADOR CITROEN C3 YOU! 1.0 FLEX TURBO 200 2025",
@@ -377,6 +533,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103280424",
+      "id_produto": "22497",
+      "nome": "MULTIMÍDIA CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025/2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
       "qtd_images": "7"
     },
     {
@@ -422,7 +590,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -456,11 +624,11 @@
     "SP12501099763027": {
       "sku": "SP12501099763027",
       "id_produto": "22484",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS LAND ROVER FREELANDER2 I6 SE 3.2 2007",
       "marca": "LAND ROVER",
       "modelo_do_veiculo": "FREELANDER2 I6 SE 3.2 232CV AUT. 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -492,11 +660,11 @@
     "SP12501103280011": {
       "sku": "SP12501103280011",
       "id_produto": "22489",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO CITROEN C3 YOU! 1.0 FLEX 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -528,11 +696,11 @@
     "SP12501103280001": {
       "sku": "SP12501103280001",
       "id_produto": "22488",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -936,11 +1104,11 @@
     "SP12501099780024": {
       "sku": "SP12501099780024",
       "id_produto": "22486",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FIAT STRADA RANCH 1.0 FLEX TURBO CD 2024",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1080,11 +1248,11 @@
     "SP12501103280036": {
       "sku": "SP12501103280036",
       "id_produto": "22494",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1176,11 +1344,11 @@
     "SP12501103280048": {
       "sku": "SP12501103280048",
       "id_produto": "22495",
-      "nome": "TURBINA",
+      "nome": "TURBINA CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025/2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1284,11 +1452,11 @@
     "SP12501103280026": {
       "sku": "SP12501103280026",
       "id_produto": "22493",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA CITROEN C3 YOU! 1.0 FLEX TURBO 200 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1332,11 +1500,11 @@
     "SP12501103280012": {
       "sku": "SP12501103280012",
       "id_produto": "22490",
-      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO CITROEN C3 YOU! 1.0 FLEX 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1392,11 +1560,11 @@
     "SP12501103280018": {
       "sku": "SP12501103280018",
       "id_produto": "22491",
-      "nome": "INTERCOOLER",
+      "nome": "INTERCOOLER CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025/25",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1636,7 +1804,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1764,11 +1932,11 @@
     "SP12501103280024": {
       "sku": "SP12501103280024",
       "id_produto": "22492",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO CITROEN C3 YOU! 1.0 FLEX TURBO 200 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1860,11 +2028,11 @@
     "SP12501103280424": {
       "sku": "SP12501103280424",
       "id_produto": "22497",
-      "nome": "MULTIMÍDIA",
+      "nome": "MULTIMÍDIA CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025/2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1880,6 +2048,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501103647007": {
+      "sku": "SP12501103647007",
+      "id_produto": "22506",
+      "nome": "CAPÔ",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     }
   }
 }
