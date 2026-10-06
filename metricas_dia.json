@@ -1,11 +1,11 @@
 {
   "data": "2026-10-06",
   "primeira_atualizacao": "06/10/2026 08:20:26",
-  "ultima_atualizacao": "06/10/2026 15:51:38",
+  "ultima_atualizacao": "06/10/2026 16:21:58",
   "total_base_dia": 120,
   "total_atual": 66,
-  "novos_produtos": 29,
-  "total_subidos": 83,
+  "novos_produtos": 33,
+  "total_subidos": 87,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -158,6 +158,7 @@
     "SP12501053747010",
     "SP12501053747026",
     "SP12501053747400",
+    "SP12501053755024",
     "SP12501053755029",
     "SP12501053755030",
     "SP12501053755031",
@@ -165,7 +166,9 @@
     "SP12501053755033",
     "SP12501053755034",
     "SP12501053755035",
+    "SP12501053755038",
     "SP12501053755045",
+    "SP12501053755411",
     "SP12501053879024",
     "SP12501054280034",
     "SP12501056207039",
@@ -254,6 +257,7 @@
     "SP12501103647035",
     "SP12501103647037",
     "SP12501103647038",
+    "SP12501103647411",
     "SP12501103647512",
     "SP12501105631026",
     "SP12501109335045",
@@ -283,6 +287,7 @@
     "SP12501016035014",
     "SP12501016728013",
     "SP12501053747400",
+    "SP12501053755024",
     "SP12501053755029",
     "SP12501053755030",
     "SP12501053755031",
@@ -290,7 +295,9 @@
     "SP12501053755033",
     "SP12501053755034",
     "SP12501053755035",
+    "SP12501053755038",
     "SP12501053755045",
+    "SP12501053755411",
     "SP12501102454004",
     "SP12501103280400",
     "SP12501103280437",
@@ -307,11 +314,14 @@
     "SP12501103647035",
     "SP12501103647037",
     "SP12501103647038",
+    "SP12501103647411",
     "SP12501103647512",
     "SP12501123486014"
   ],
   "skus_subidos_hoje": [
     "SP12501004649049",
+    "SP12501005173040",
+    "SP12501009942045",
     "SP12501015217011",
     "SP12501015314011",
     "SP12501015586400",
@@ -321,6 +331,7 @@
     "SP12501016817013",
     "SP12501053747010",
     "SP12501053747026",
+    "SP12501053747400",
     "SP12501053755029",
     "SP12501053755030",
     "SP12501053755031",
@@ -366,6 +377,7 @@
     "SP12501103280026",
     "SP12501103280036",
     "SP12501103280048",
+    "SP12501103280400",
     "SP12501103280411",
     "SP12501103280424",
     "SP12501103280483",
@@ -397,6 +409,8 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004649049",
+    "SP12501005173040",
+    "SP12501009942045",
     "SP12501015217011",
     "SP12501015314011",
     "SP12501015586400",
@@ -406,6 +420,7 @@
     "SP12501016817013",
     "SP12501053747010",
     "SP12501053747026",
+    "SP12501053747400",
     "SP12501053755029",
     "SP12501053755030",
     "SP12501053755031",
@@ -451,6 +466,7 @@
     "SP12501103280026",
     "SP12501103280036",
     "SP12501103280048",
+    "SP12501103280400",
     "SP12501103280411",
     "SP12501103280424",
     "SP12501103280483",
@@ -508,14 +524,26 @@
     {
       "sku": "SP12501053747400",
       "id_produto": "22533",
-      "nome": "MOTOR COMPLETO",
+      "nome": "Motor Gol Saveiro Parati Ap 1.6 Gasolina Inj. 1996 a 2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL SPECIAL 1.0 8V ALCOOL MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053755024",
+      "id_produto": "22542",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501053755029",
@@ -602,6 +630,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501053755038",
+      "id_produto": "22547",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501053755045",
       "id_produto": "22521",
       "nome": "TAMPA TRASEIRA VOLKSWAGEN FOX CITY 1.0 FLEX 8V 2005/2006",
@@ -612,6 +652,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501053755411",
+      "id_produto": "22548",
+      "nome": "ELETROVENTILADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501102454004",
@@ -628,11 +680,11 @@
     {
       "sku": "SP12501103280400",
       "id_produto": "22534",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -806,6 +858,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501103647411",
+      "id_produto": "22559",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103647512",
       "id_produto": "22531",
       "nome": "MACACO MECÂNICO FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
@@ -842,6 +906,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501005173040",
+      "id_produto": "10779",
+      "nome": "RODA LIGA LEVE ARO 17 4 FUROS DIAMANTADA NISSAN KICKS",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "3"
+    },
+    {
+      "sku": "SP12501009942045",
+      "id_produto": "8717",
+      "nome": "TAMPA TRASEIRA CHRYSLER PT CRUISER CLASSIC 2.4 2005/2006",
+      "marca": "CHRYSLER",
+      "modelo_do_veiculo": "PT CRUISER CLASSIC 2.4 16V 143CV 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "8",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501015217011",
@@ -949,6 +1037,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053747400",
+      "id_produto": "22533",
+      "nome": "Motor Gol Saveiro Parati Ap 1.6 Gasolina Inj. 1996 a 2005",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "GOL SPECIAL 1.0 8V ALCOOL MEC. 2P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -1492,6 +1592,18 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501103280400",
+      "id_produto": "22534",
+      "nome": "MOTOR COMPLETO CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501103280411",
       "id_produto": "22496",
       "nome": "ELETROVENTILADOR CITROEN C3 YOU! 1.0 FLEX TURBO 200 2025",
@@ -1617,9 +1729,9 @@
       "nome": "TAMPA TRASEIRA HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": "closed",
-      "quantidade": "-1",
+      "quantidade": "0",
       "classificacao": "08",
       "qtd_images": "7"
     },
@@ -2603,9 +2715,9 @@
       "nome": "TAMPA TRASEIRA HONDA CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Habilitado",
+      "status": "Desabilitado",
       "status_ml": "closed",
-      "quantidade": "-1",
+      "quantidade": "0",
       "classificacao": "08",
       "qtd_images": "7"
     },
@@ -2712,10 +2824,10 @@
       "marca": "CHRYSLER",
       "modelo_do_veiculo": "PT CRUISER CLASSIC 2.4 16V 143CV 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "8",
-      "qtd_images": "10"
+      "qtd_images": "6"
     },
     "SP32501000230115": {
       "sku": "SP32501000230115",
@@ -2904,7 +3016,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SL 1.6 16V FLEXSTAR 5P AUT",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "3"
@@ -3572,11 +3684,11 @@
     "SP12501053747400": {
       "sku": "SP12501053747400",
       "id_produto": "22533",
-      "nome": "MOTOR COMPLETO",
+      "nome": "Motor Gol Saveiro Parati Ap 1.6 Gasolina Inj. 1996 a 2005",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "GOL SPECIAL 1.0 8V ALCOOL MEC. 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3608,14 +3720,62 @@
     "SP12501103280400": {
       "sku": "SP12501103280400",
       "id_produto": "22534",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501103647411": {
+      "sku": "SP12501103647411",
+      "id_produto": "22559",
+      "nome": "ELETROVENTILADOR",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
-      "qtd_images": "10"
+      "qtd_images": "5"
+    },
+    "SP12501053755411": {
+      "sku": "SP12501053755411",
+      "id_produto": "22548",
+      "nome": "ELETROVENTILADOR",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501053755038": {
+      "sku": "SP12501053755038",
+      "id_produto": "22547",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    "SP12501053755024": {
+      "sku": "SP12501053755024",
+      "id_produto": "22542",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     }
   }
 }
