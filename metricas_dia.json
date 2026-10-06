@@ -1,11 +1,11 @@
 {
   "data": "2026-10-06",
   "primeira_atualizacao": "06/10/2026 08:20:26",
-  "ultima_atualizacao": "06/10/2026 12:22:21",
+  "ultima_atualizacao": "06/10/2026 12:51:17",
   "total_base_dia": 120,
   "total_atual": 76,
-  "novos_produtos": 21,
-  "total_subidos": 65,
+  "novos_produtos": 24,
+  "total_subidos": 68,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -239,6 +239,8 @@
     "SP12501103329031",
     "SP12501103329037",
     "SP12501103647007",
+    "SP12501103647024",
+    "SP12501103647027",
     "SP12501103647030",
     "SP12501103647031",
     "SP12501103647032",
@@ -247,6 +249,7 @@
     "SP12501103647035",
     "SP12501103647037",
     "SP12501103647038",
+    "SP12501103647512",
     "SP12501105631026",
     "SP12501109335045",
     "SP12501109491035",
@@ -284,6 +287,8 @@
     "SP12501053755045",
     "SP12501102454004",
     "SP12501103647007",
+    "SP12501103647024",
+    "SP12501103647027",
     "SP12501103647030",
     "SP12501103647031",
     "SP12501103647032",
@@ -292,6 +297,7 @@
     "SP12501103647035",
     "SP12501103647037",
     "SP12501103647038",
+    "SP12501103647512",
     "SP12501123486014"
   ],
   "skus_subidos_hoje": [
@@ -327,6 +333,7 @@
     "SP12501099763036",
     "SP12501099763480",
     "SP12501099780024",
+    "SP12501099780043",
     "SP12501102454004",
     "SP12501103280001",
     "SP12501103280010",
@@ -359,7 +366,9 @@
     "SP12501103647032",
     "SP12501103647033",
     "SP12501103647034",
-    "SP12501103647035"
+    "SP12501103647035",
+    "SP12501103647037",
+    "SP12501103647038"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004649049",
@@ -394,6 +403,7 @@
     "SP12501099763036",
     "SP12501099763480",
     "SP12501099780024",
+    "SP12501099780043",
     "SP12501102454004",
     "SP12501103280001",
     "SP12501103280010",
@@ -426,7 +436,9 @@
     "SP12501103647032",
     "SP12501103647033",
     "SP12501103647034",
-    "SP12501103647035"
+    "SP12501103647035",
+    "SP12501103647037",
+    "SP12501103647038"
   ],
   "itens_novos_hoje": [
     {
@@ -574,6 +586,30 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103647024",
+      "id_produto": "22527",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103647027",
+      "id_produto": "22528",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501103647030",
       "id_produto": "22508",
       "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA 1.0 8V FLEX 2008/09",
@@ -648,11 +684,11 @@
     {
       "sku": "SP12501103647037",
       "id_produto": "22529",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FORD FIESTA 1.0 8V FLEX MEC. HATCH 07/08",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -660,14 +696,26 @@
     {
       "sku": "SP12501103647038",
       "id_produto": "22530",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FORD FIESTA 1.0 8V FLEX MEC. HATCH 07/08",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103647512",
+      "id_produto": "22531",
+      "nome": "MACACO MECÂNICO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501123486014",
@@ -1068,6 +1116,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501099780043",
+      "id_produto": "22435",
+      "nome": "RODA ESTEPE 125/90 R15 96M FIAT STRADA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501102454004",
       "id_produto": "19576",
       "nome": "CÂMBIO AUTOMATICO JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021",
@@ -1462,6 +1522,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103647037",
+      "id_produto": "22529",
+      "nome": "RETROVISOR DIREITO FORD FIESTA 1.0 8V FLEX MEC. HATCH 07/08",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103647038",
+      "id_produto": "22530",
+      "nome": "RETROVISOR ESQUERDO FORD FIESTA 1.0 8V FLEX MEC. HATCH 07/08",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1684,11 +1768,11 @@
     "SP12501099780043": {
       "sku": "SP12501099780043",
       "id_produto": "22435",
-      "nome": "RODA SOBRES./ESTEPE",
+      "nome": "RODA ESTEPE 125/90 R15 96M FIAT STRADA",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "8"
@@ -3136,11 +3220,11 @@
     "SP12501103647037": {
       "sku": "SP12501103647037",
       "id_produto": "22529",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FORD FIESTA 1.0 8V FLEX MEC. HATCH 07/08",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -3148,14 +3232,50 @@
     "SP12501103647038": {
       "sku": "SP12501103647038",
       "id_produto": "22530",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FORD FIESTA 1.0 8V FLEX MEC. HATCH 07/08",
       "marca": "FORD",
-      "modelo_do_veiculo": null,
-      "status": "Desabilitado",
-      "status_ml": null,
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
+    },
+    "SP12501103647024": {
+      "sku": "SP12501103647024",
+      "id_produto": "22527",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    "SP12501103647027": {
+      "sku": "SP12501103647027",
+      "id_produto": "22528",
+      "nome": "PAINEL DE INSTRUMENTOS",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    "SP12501103647512": {
+      "sku": "SP12501103647512",
+      "id_produto": "22531",
+      "nome": "MACACO MECÂNICO",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     }
   }
 }
