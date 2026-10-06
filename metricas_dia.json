@@ -1,11 +1,11 @@
 {
   "data": "2026-10-06",
   "primeira_atualizacao": "06/10/2026 08:20:26",
-  "ultima_atualizacao": "06/10/2026 08:21:21",
+  "ultima_atualizacao": "06/10/2026 08:51:15",
   "total_base_dia": 120,
-  "total_atual": 120,
-  "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_atual": 118,
+  "novos_produtos": 1,
+  "total_subidos": 3,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -147,6 +147,7 @@
     "SP12501015608045",
     "SP12501015616048",
     "SP12501016701039",
+    "SP12501016728013",
     "SP12501016817013",
     "SP12501017449043",
     "SP12501040874034",
@@ -250,11 +251,71 @@
     "SP42501001064042",
     "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501016728013"
+  ],
+  "skus_subidos_hoje": [
+    "SP12501056347041",
+    "SP12501056347042",
+    "SP12501103302027"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501056347041",
+    "SP12501056347042",
+    "SP12501103302027"
+  ],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501016728013",
+      "id_produto": "18922",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    }
+  ],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501056347041",
+      "id_produto": "22417",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS FORD FIESTA HATCH",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056347042",
+      "id_produto": "22418",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS FORD FIESTA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103302027",
+      "id_produto": "22500",
+      "nome": "PAINEL DE INSTRUMENTOS HONDA CIVIC SEDAN LXS 1.8 FLEX 2008",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501099763036": {
       "sku": "SP12501099763036",
@@ -787,11 +848,11 @@
     "SP12501056347042": {
       "sku": "SP12501056347042",
       "id_produto": "22418",
-      "nome": "RODA TRASEIRA ESQUERDA",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS FORD FIESTA",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -883,11 +944,11 @@
     "SP12501056347041": {
       "sku": "SP12501056347041",
       "id_produto": "22417",
-      "nome": "RODA TRASEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS FORD FIESTA HATCH",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1627,11 +1688,11 @@
     "SP12501103302027": {
       "sku": "SP12501103302027",
       "id_produto": "22500",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS HONDA CIVIC SEDAN LXS 1.8 FLEX 2008",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1695,6 +1756,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    "SP12501016728013": {
+      "sku": "SP12501016728013",
+      "id_produto": "18922",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
