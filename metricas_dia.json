@@ -1,11 +1,11 @@
 {
   "data": "2026-10-06",
   "primeira_atualizacao": "06/10/2026 08:20:26",
-  "ultima_atualizacao": "06/10/2026 08:51:15",
+  "ultima_atualizacao": "06/10/2026 09:21:06",
   "total_base_dia": 120,
-  "total_atual": 118,
+  "total_atual": 110,
   "novos_produtos": 1,
-  "total_subidos": 3,
+  "total_subidos": 11,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -255,14 +255,30 @@
     "SP12501016728013"
   ],
   "skus_subidos_hoje": [
+    "SP12501056347040",
     "SP12501056347041",
     "SP12501056347042",
-    "SP12501103302027"
+    "SP12501103280010",
+    "SP12501103280015",
+    "SP12501103280020",
+    "SP12501103280411",
+    "SP12501103302024",
+    "SP12501103302026",
+    "SP12501103302027",
+    "SP12501103329027"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501056347040",
     "SP12501056347041",
     "SP12501056347042",
-    "SP12501103302027"
+    "SP12501103280010",
+    "SP12501103280015",
+    "SP12501103280020",
+    "SP12501103280411",
+    "SP12501103302024",
+    "SP12501103302026",
+    "SP12501103302027",
+    "SP12501103329027"
   ],
   "itens_novos_hoje": [
     {
@@ -280,13 +296,25 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501056347040",
+      "id_produto": "22416",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS FORD FIESTA HATCH",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501056347041",
       "id_produto": "22417",
       "nome": "RODA LIGA LEVE ARO 15 4 FUROS FORD FIESTA HATCH",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -304,6 +332,78 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103280010",
+      "id_produto": "22503",
+      "nome": "CHAVE DE SETA CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103280015",
+      "id_produto": "22504",
+      "nome": "FAROL DIREITO CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103280020",
+      "id_produto": "22505",
+      "nome": "LANTERNA TRASEIRA ESQUERDA CITROEN C31.0 FLEX TURBO 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103280411",
+      "id_produto": "22496",
+      "nome": "ELETROVENTILADOR CITROEN C3 YOU! 1.0 FLEX TURBO 200 2025",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103302024",
+      "id_produto": "22498",
+      "nome": "MÓDULO DE INJEÇÃO HONDA CIVIC SEDAN LXS 1.8 FLEX 16V 07/08",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103302026",
+      "id_produto": "22499",
+      "nome": "MOTOR DE PARTIDA HONDA CIVIC SEDAN LXS 1.8 FLEX 16V 07/08",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501103302027",
       "id_produto": "22500",
       "nome": "PAINEL DE INSTRUMENTOS HONDA CIVIC SEDAN LXS 1.8 FLEX 2008",
@@ -314,6 +414,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103329027",
+      "id_produto": "22502",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT PALIO EX 1.0 MPI FIRE FLEX 2001",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -392,11 +504,11 @@
     "SP12501103280015": {
       "sku": "SP12501103280015",
       "id_produto": "22504",
-      "nome": "FAROL DIREITO",
+      "nome": "FAROL DIREITO CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -608,11 +720,11 @@
     "SP12501103302026": {
       "sku": "SP12501103302026",
       "id_produto": "22499",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA HONDA CIVIC SEDAN LXS 1.8 FLEX 16V 07/08",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "8"
@@ -948,7 +1060,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -992,11 +1104,11 @@
     "SP12501103280020": {
       "sku": "SP12501103280020",
       "id_produto": "22505",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA CITROEN C31.0 FLEX TURBO 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1112,11 +1224,11 @@
     "SP12501103280411": {
       "sku": "SP12501103280411",
       "id_produto": "22496",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR CITROEN C3 YOU! 1.0 FLEX TURBO 200 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1304,11 +1416,11 @@
     "SP12501103302024": {
       "sku": "SP12501103302024",
       "id_produto": "22498",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO HONDA CIVIC SEDAN LXS 1.8 FLEX 16V 07/08",
       "marca": "HONDA",
       "modelo_do_veiculo": "CIVIC SEDAN LXS 1.8 FLEX 16V MEC. 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1436,11 +1548,11 @@
     "SP12501056347040": {
       "sku": "SP12501056347040",
       "id_produto": "22416",
-      "nome": "RODA DIANTEIRA ESQUERDA",
+      "nome": "RODA LIGA LEVE ARO 15 4 FUROS FORD FIESTA HATCH",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.5L 16V SE MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1520,11 +1632,11 @@
     "SP12501103329027": {
       "sku": "SP12501103329027",
       "id_produto": "22502",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FIAT PALIO EX 1.0 MPI FIRE FLEX 2001",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO EX 1.0 MPI FIRE FLEX 8V 2P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -1544,11 +1656,11 @@
     "SP12501103280010": {
       "sku": "SP12501103280010",
       "id_produto": "22503",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CITROEN C3 YOU! 1.0 FLEX TURBO 200 AUT. 2025",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 YOU! 1.0 FLEX TURBO 200 AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
