@@ -1,11 +1,11 @@
 {
   "data": "2026-10-06",
   "primeira_atualizacao": "06/10/2026 08:20:26",
-  "ultima_atualizacao": "06/10/2026 12:51:17",
+  "ultima_atualizacao": "06/10/2026 13:18:32",
   "total_base_dia": 120,
-  "total_atual": 76,
+  "total_atual": 70,
   "novos_produtos": 24,
-  "total_subidos": 68,
+  "total_subidos": 74,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -333,8 +333,10 @@
     "SP12501099763036",
     "SP12501099763480",
     "SP12501099780024",
+    "SP12501099780035",
     "SP12501099780043",
     "SP12501102454004",
+    "SP12501103248034",
     "SP12501103280001",
     "SP12501103280010",
     "SP12501103280011",
@@ -361,6 +363,8 @@
     "SP12501103329031",
     "SP12501103329037",
     "SP12501103647007",
+    "SP12501103647024",
+    "SP12501103647027",
     "SP12501103647030",
     "SP12501103647031",
     "SP12501103647032",
@@ -368,7 +372,9 @@
     "SP12501103647034",
     "SP12501103647035",
     "SP12501103647037",
-    "SP12501103647038"
+    "SP12501103647038",
+    "SP12501103647512",
+    "SP32501000230115"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501004649049",
@@ -403,8 +409,10 @@
     "SP12501099763036",
     "SP12501099763480",
     "SP12501099780024",
+    "SP12501099780035",
     "SP12501099780043",
     "SP12501102454004",
+    "SP12501103248034",
     "SP12501103280001",
     "SP12501103280010",
     "SP12501103280011",
@@ -431,6 +439,8 @@
     "SP12501103329031",
     "SP12501103329037",
     "SP12501103647007",
+    "SP12501103647024",
+    "SP12501103647027",
     "SP12501103647030",
     "SP12501103647031",
     "SP12501103647032",
@@ -438,7 +448,9 @@
     "SP12501103647034",
     "SP12501103647035",
     "SP12501103647037",
-    "SP12501103647038"
+    "SP12501103647038",
+    "SP12501103647512",
+    "SP32501000230115"
   ],
   "itens_novos_hoje": [
     {
@@ -588,11 +600,11 @@
     {
       "sku": "SP12501103647024",
       "id_produto": "22527",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA 1.0 8V FLEX 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -600,11 +612,11 @@
     {
       "sku": "SP12501103647027",
       "id_produto": "22528",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FORD FIESTA 1.0 8V FLEX 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -708,11 +720,11 @@
     {
       "sku": "SP12501103647512",
       "id_produto": "22531",
-      "nome": "MACACO MECÂNICO",
+      "nome": "MACACO MECÂNICO FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1116,6 +1128,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501099780035",
+      "id_produto": "22023",
+      "nome": "PORTA TRASEIRA ESQUERDA FIAT STRADA RANCH 1.0 FLEX TURBO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501099780043",
       "id_produto": "22435",
       "nome": "RODA ESTEPE 125/90 R15 96M FIAT STRADA",
@@ -1137,6 +1161,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103248034",
+      "id_produto": "22014",
+      "nome": "PORTA TRASEIRA DIREITA CHEVROLET CLASSIC LS 1.0 VHC FLEXP.",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -1452,6 +1488,30 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501103647024",
+      "id_produto": "22527",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA 1.0 8V FLEX 2007/2008",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103647027",
+      "id_produto": "22528",
+      "nome": "PAINEL DE INSTRUMENTOS FORD FIESTA 1.0 8V FLEX 2007/2008",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501103647030",
       "id_produto": "22508",
       "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA 1.0 8V FLEX 2008/09",
@@ -1546,6 +1606,30 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103647512",
+      "id_produto": "22531",
+      "nome": "MACACO MECÂNICO FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP32501000230115",
+      "id_produto": "21921",
+      "nome": "TANQUE DE COMBUTÍVEL 1 RAM 3500 LIMITED LONGHORN 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -2443,8 +2527,8 @@
       "nome": "TANQUE DE COMBUTÍVEL 1 RAM 3500 LIMITED LONGHORN 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -2468,7 +2552,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA RANCH 1.0 FLEX TURBO CD AUT.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -2948,7 +3032,7 @@
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CLASSIC LS 1.0 VHC FLEXP. 4P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3244,11 +3328,11 @@
     "SP12501103647024": {
       "sku": "SP12501103647024",
       "id_produto": "22527",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA 1.0 8V FLEX 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -3256,11 +3340,11 @@
     "SP12501103647027": {
       "sku": "SP12501103647027",
       "id_produto": "22528",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FORD FIESTA 1.0 8V FLEX 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -3268,11 +3352,11 @@
     "SP12501103647512": {
       "sku": "SP12501103647512",
       "id_produto": "22531",
-      "nome": "MACACO MECÂNICO",
+      "nome": "MACACO MECÂNICO FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
