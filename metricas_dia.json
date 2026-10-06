@@ -1,11 +1,11 @@
 {
   "data": "2026-10-06",
   "primeira_atualizacao": "06/10/2026 08:20:26",
-  "ultima_atualizacao": "06/10/2026 11:20:59",
+  "ultima_atualizacao": "06/10/2026 11:32:36",
   "total_base_dia": 120,
-  "total_atual": 84,
-  "novos_produtos": 14,
-  "total_subidos": 50,
+  "total_atual": 79,
+  "novos_produtos": 17,
+  "total_subidos": 58,
   "skus_base_dia": [
     "SP12501004649049",
     "SP12501004665045",
@@ -157,9 +157,12 @@
     "SP12501052996034",
     "SP12501053747010",
     "SP12501053747026",
+    "SP12501053755029",
     "SP12501053755030",
     "SP12501053755032",
     "SP12501053755033",
+    "SP12501053755035",
+    "SP12501053755045",
     "SP12501053879024",
     "SP12501054280034",
     "SP12501056207039",
@@ -267,9 +270,12 @@
   "skus_novos_hoje": [
     "SP12501016035014",
     "SP12501016728013",
+    "SP12501053755029",
     "SP12501053755030",
     "SP12501053755032",
     "SP12501053755033",
+    "SP12501053755035",
+    "SP12501053755045",
     "SP12501102454004",
     "SP12501103647007",
     "SP12501103647030",
@@ -284,8 +290,11 @@
     "SP12501004649049",
     "SP12501015217011",
     "SP12501015314011",
+    "SP12501016035014",
+    "SP12501016728013",
     "SP12501053747010",
     "SP12501053747026",
+    "SP12501053755032",
     "SP12501053879024",
     "SP12501056347031",
     "SP12501056347040",
@@ -303,6 +312,7 @@
     "SP12501099763036",
     "SP12501099763480",
     "SP12501099780024",
+    "SP12501102454004",
     "SP12501103280001",
     "SP12501103280010",
     "SP12501103280011",
@@ -328,7 +338,11 @@
     "SP12501103329030",
     "SP12501103329031",
     "SP12501103329037",
+    "SP12501103647007",
+    "SP12501103647030",
     "SP12501103647031",
+    "SP12501103647032",
+    "SP12501103647033",
     "SP12501103647034",
     "SP12501103647035"
   ],
@@ -336,8 +350,11 @@
     "SP12501004649049",
     "SP12501015217011",
     "SP12501015314011",
+    "SP12501016035014",
+    "SP12501016728013",
     "SP12501053747010",
     "SP12501053747026",
+    "SP12501053755032",
     "SP12501053879024",
     "SP12501056347031",
     "SP12501056347040",
@@ -355,6 +372,7 @@
     "SP12501099763036",
     "SP12501099763480",
     "SP12501099780024",
+    "SP12501102454004",
     "SP12501103280001",
     "SP12501103280010",
     "SP12501103280011",
@@ -380,7 +398,11 @@
     "SP12501103329030",
     "SP12501103329031",
     "SP12501103329037",
+    "SP12501103647007",
+    "SP12501103647030",
     "SP12501103647031",
+    "SP12501103647032",
+    "SP12501103647033",
     "SP12501103647034",
     "SP12501103647035"
   ],
@@ -388,11 +410,11 @@
     {
       "sku": "SP12501016035014",
       "id_produto": "19040",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP COMMANDER OVERL TD380 2.0 22",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMMANDER OVERL TD380 2.0 4X4 DIESEL AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -400,13 +422,25 @@
     {
       "sku": "SP12501016728013",
       "id_produto": "18922",
-      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP COMMANDER LIMITED TD380 2.0",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053755029",
+      "id_produto": "22515",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
-      "classificacao": "07",
+      "classificacao": "09",
       "qtd_images": "10"
     },
     {
@@ -424,11 +458,11 @@
     {
       "sku": "SP12501053755032",
       "id_produto": "22507",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA VOLKSWAGEN FOX 1.0MI 8V 2005/2006",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -446,13 +480,37 @@
       "qtd_images": "10"
     },
     {
-      "sku": "SP12501102454004",
-      "id_produto": "19576",
-      "nome": "CÂMBIO AUTOMATICO",
-      "marca": "JEEP",
-      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "sku": "SP12501053755035",
+      "id_produto": "22520",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053755045",
+      "id_produto": "22521",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501102454004",
+      "id_produto": "19576",
+      "nome": "CÂMBIO AUTOMATICO JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -460,11 +518,11 @@
     {
       "sku": "SP12501103647007",
       "id_produto": "22506",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -472,11 +530,11 @@
     {
       "sku": "SP12501103647030",
       "id_produto": "22508",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA 1.0 8V FLEX 2008/09",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -496,11 +554,11 @@
     {
       "sku": "SP12501103647032",
       "id_produto": "22510",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FORD FIESTA 1.0 8V FLEX 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -508,11 +566,11 @@
     {
       "sku": "SP12501103647033",
       "id_produto": "22511",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD FIESTA 1.0 8V FLEX 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -592,6 +650,30 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501016035014",
+      "id_produto": "19040",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP COMMANDER OVERL TD380 2.0 22",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER OVERL TD380 2.0 4X4 DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501016728013",
+      "id_produto": "18922",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP COMMANDER LIMITED TD380 2.0",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501053747010",
       "id_produto": "22478",
       "nome": "CHAVE DE SETA VOLKSWAGEN GOL SPECIAL 1.0 8V ALCOOL MEC. 2003",
@@ -613,6 +695,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053755032",
+      "id_produto": "22507",
+      "nome": "PORTA DIANTEIRA DIREITA VOLKSWAGEN FOX 1.0MI 8V 2005/2006",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
       "qtd_images": "10"
     },
     {
@@ -818,6 +912,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501102454004",
+      "id_produto": "19576",
+      "nome": "CÂMBIO AUTOMATICO JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103280001",
@@ -1120,6 +1226,30 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501103647007",
+      "id_produto": "22506",
+      "nome": "CAPÔ FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103647030",
+      "id_produto": "22508",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA 1.0 8V FLEX 2008/09",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501103647031",
       "id_produto": "22509",
       "nome": "PARA-LAMA DIANTEIRO ESQUERDO FORD FIESTA 1.0 8V FLEX 2007/08",
@@ -1130,6 +1260,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103647032",
+      "id_produto": "22510",
+      "nome": "PORTA DIANTEIRA DIREITA FORD FIESTA 1.0 8V FLEX 2007/2008",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501103647033",
+      "id_produto": "22511",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD FIESTA 1.0 8V FLEX 2007/2008",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103647034",
@@ -2600,11 +2754,11 @@
     "SP12501016728013": {
       "sku": "SP12501016728013",
       "id_produto": "18922",
-      "nome": "DIFERENCIAL EIXO DIANTEIRO",
+      "nome": "DIFERENCIAL EIXO DIANTEIRO JEEP COMMANDER LIMITED TD380 2.0",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMMANDER LIMITED TD380 2.0 4X4 DIE AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -2612,11 +2766,11 @@
     "SP12501103647007": {
       "sku": "SP12501103647007",
       "id_produto": "22506",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FORD FIESTA 1.0 8V FLEX MEC. HATCH 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -2636,11 +2790,11 @@
     "SP12501102454004": {
       "sku": "SP12501102454004",
       "id_produto": "19576",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO JEEP RENEGADE SPORT 1.8 4X2 FLEX 16V 2021",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE SPORT 1.8 4X2 FLEX 16V AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2660,11 +2814,11 @@
     "SP12501103647030": {
       "sku": "SP12501103647030",
       "id_produto": "22508",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA 1.0 8V FLEX 2008/09",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -2684,11 +2838,11 @@
     "SP12501103647033": {
       "sku": "SP12501103647033",
       "id_produto": "22511",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD FIESTA 1.0 8V FLEX 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -2708,11 +2862,11 @@
     "SP12501053755032": {
       "sku": "SP12501053755032",
       "id_produto": "22507",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA VOLKSWAGEN FOX 1.0MI 8V 2005/2006",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -2720,11 +2874,11 @@
     "SP12501103647032": {
       "sku": "SP12501103647032",
       "id_produto": "22510",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FORD FIESTA 1.0 8V FLEX 2007/2008",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.0 8V FLEX MEC. HATCH",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -2732,11 +2886,11 @@
     "SP12501016035014": {
       "sku": "SP12501016035014",
       "id_produto": "19040",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP COMMANDER OVERL TD380 2.0 22",
       "marca": "JEEP",
       "modelo_do_veiculo": "COMMANDER OVERL TD380 2.0 4X4 DIESEL AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "10"
@@ -2764,6 +2918,42 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
+    },
+    "SP12501053755029": {
+      "sku": "SP12501053755029",
+      "id_produto": "22515",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    "SP12501053755045": {
+      "sku": "SP12501053755045",
+      "id_produto": "22521",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501053755035": {
+      "sku": "SP12501053755035",
+      "id_produto": "22520",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
     }
   }
 }
