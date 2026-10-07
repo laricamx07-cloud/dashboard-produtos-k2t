@@ -1,11 +1,11 @@
 {
   "data": "2026-10-07",
   "primeira_atualizacao": "07/10/2026 08:11:23",
-  "ultima_atualizacao": "07/10/2026 10:52:04",
+  "ultima_atualizacao": "07/10/2026 11:21:32",
   "total_base_dia": 75,
-  "total_atual": 85,
+  "total_atual": 84,
   "novos_produtos": 27,
-  "total_subidos": 17,
+  "total_subidos": 18,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173484",
@@ -221,6 +221,7 @@
     "SP12501053755028",
     "SP12501056010010",
     "SP12501056010045",
+    "SP12501056010400",
     "SP12501056029010",
     "SP12501056029028",
     "SP12501056029030",
@@ -240,6 +241,7 @@
     "SP12501053755028",
     "SP12501056010010",
     "SP12501056010045",
+    "SP12501056010400",
     "SP12501056029010",
     "SP12501056029028",
     "SP12501056029030",
@@ -306,11 +308,11 @@
     {
       "sku": "SP12501056010400",
       "id_produto": "22598",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -628,6 +630,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056010400",
+      "id_produto": "22598",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501056029010",
@@ -2002,11 +2016,11 @@
     "SP12501056010400": {
       "sku": "SP12501056010400",
       "id_produto": "22598",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO CHEVROLET CELTA 1.0 MPFI VHC 8V 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
