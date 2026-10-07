@@ -1,10 +1,10 @@
 {
   "data": "2026-10-07",
   "primeira_atualizacao": "07/10/2026 08:11:23",
-  "ultima_atualizacao": "07/10/2026 17:21:23",
+  "ultima_atualizacao": "07/10/2026 17:51:13",
   "total_base_dia": 75,
-  "total_atual": 108,
-  "novos_produtos": 55,
+  "total_atual": 111,
+  "novos_produtos": 58,
   "total_subidos": 22,
   "skus_base_dia": [
     "SP12501004665045",
@@ -100,6 +100,7 @@
     "SP12501016701039",
     "SP12501017309014",
     "SP12501017449043",
+    "SP12501040858001",
     "SP12501040874034",
     "SP12501041579437",
     "SP12501041749400",
@@ -169,6 +170,7 @@
     "SP12501056274437",
     "SP12501056274483",
     "SP12501056274484",
+    "SP12501056304035",
     "SP12501056339039",
     "SP12501056339040",
     "SP12501056339041",
@@ -177,6 +179,7 @@
     "SP12501080469001",
     "SP12501083964039",
     "SP12501084162032",
+    "SP12501084723033",
     "SP12501084766035",
     "SP12501099780039",
     "SP12501099780040",
@@ -220,6 +223,7 @@
     "SP12501014938001",
     "SP12501015357001",
     "SP12501017309014",
+    "SP12501040858001",
     "SP12501041579437",
     "SP12501053755004",
     "SP12501053755400",
@@ -266,6 +270,8 @@
     "SP12501056274437",
     "SP12501056274483",
     "SP12501056274484",
+    "SP12501056304035",
+    "SP12501084723033",
     "SP12501103647004",
     "SP12501103647026",
     "SP12501103647400",
@@ -368,6 +374,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501040858001",
+      "id_produto": "19889",
+      "nome": "ALTERNADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO CELEBRATION 1.0 FIRE FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     },
     {
       "sku": "SP12501041579437",
@@ -920,6 +938,30 @@
       "quantidade": "0",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501056304035",
+      "id_produto": "22626",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501084723033",
+      "id_produto": "21410",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501103647004",
@@ -1943,7 +1985,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "4"
+      "qtd_images": "6"
     },
     "SP12501102519045": {
       "sku": "SP12501102519045",
@@ -2808,6 +2850,42 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501040858001": {
+      "sku": "SP12501040858001",
+      "id_produto": "19889",
+      "nome": "ALTERNADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO CELEBRATION 1.0 FIRE FLEX 8V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    "SP12501056304035": {
+      "sku": "SP12501056304035",
+      "id_produto": "22626",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501084723033": {
+      "sku": "SP12501084723033",
+      "id_produto": "21410",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     }
   }
 }
