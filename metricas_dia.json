@@ -1,11 +1,11 @@
 {
   "data": "2026-10-07",
   "primeira_atualizacao": "07/10/2026 08:11:23",
-  "ultima_atualizacao": "07/10/2026 09:51:48",
+  "ultima_atualizacao": "07/10/2026 10:21:07",
   "total_base_dia": 75,
-  "total_atual": 101,
-  "novos_produtos": 26,
-  "total_subidos": 0,
+  "total_atual": 85,
+  "novos_produtos": 27,
+  "total_subidos": 17,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173484",
@@ -109,6 +109,7 @@
     "SP12501056010024",
     "SP12501056010026",
     "SP12501056010045",
+    "SP12501056010400",
     "SP12501056010448",
     "SP12501056010449",
     "SP12501056010480",
@@ -191,6 +192,7 @@
     "SP12501053755400",
     "SP12501056010024",
     "SP12501056010026",
+    "SP12501056010400",
     "SP12501056010448",
     "SP12501056010449",
     "SP12501056010480",
@@ -214,8 +216,44 @@
     "SP12501103647026",
     "SP12501103647400"
   ],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
+  "skus_subidos_hoje": [
+    "SP12501053755020",
+    "SP12501053755028",
+    "SP12501056010010",
+    "SP12501056010045",
+    "SP12501056029010",
+    "SP12501056029028",
+    "SP12501056029030",
+    "SP12501056029031",
+    "SP12501056029032",
+    "SP12501056029033",
+    "SP12501056029034",
+    "SP12501056029035",
+    "SP12501056029037",
+    "SP12501056029038",
+    "SP12501056274437",
+    "SP12501056274483",
+    "SP12501056274484"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501053755020",
+    "SP12501053755028",
+    "SP12501056010010",
+    "SP12501056010045",
+    "SP12501056029010",
+    "SP12501056029028",
+    "SP12501056029030",
+    "SP12501056029031",
+    "SP12501056029032",
+    "SP12501056029033",
+    "SP12501056029034",
+    "SP12501056029035",
+    "SP12501056029037",
+    "SP12501056029038",
+    "SP12501056274437",
+    "SP12501056274483",
+    "SP12501056274484"
+  ],
   "itens_novos_hoje": [
     {
       "sku": "SP12501053755004",
@@ -263,6 +301,18 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056010400",
+      "id_produto": "22598",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "10"
     },
     {
@@ -460,11 +510,11 @@
     {
       "sku": "SP12501056274437",
       "id_produto": "21234",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 175/65 R14 82T DUNLOP SP TOURING R1",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ELX 1.3 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -472,11 +522,11 @@
     {
       "sku": "SP12501056274483",
       "id_produto": "21235",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "NEU 175/65 R14 82T DUNLOP SP TOURING R1",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ELX 1.3 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -484,11 +534,11 @@
     {
       "sku": "SP12501056274484",
       "id_produto": "21236",
-      "nome": "PNEU TRASEIRO DIREITO",
+      "nome": "PNEU 175/65 R14 82T DUNLOP SP TOURING R1",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ELX 1.3 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -530,7 +580,212 @@
       "qtd_images": "10"
     }
   ],
-  "itens_subidos_hoje": [],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501053755020",
+      "id_produto": "22541",
+      "nome": "LANTERNA TRASEIRA ESQUERDA VOLKSWAGEN FOX 1.0 8V 5P 2005/06",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501053755028",
+      "id_produto": "22561",
+      "nome": "PARA-CHOQUE DIANTEIRO VOLKSWAGEN FOX CITY 1.0 8V 5P 2005/06",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056010010",
+      "id_produto": "22572",
+      "nome": "CHAVE DE SETA CHEVROLET CELTA 1.0 MPFI VHC 8V 3P 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056010045",
+      "id_produto": "22562",
+      "nome": "TAMPA TRASEIRA CHEVROLET CELTA 1.0 MPFI VHC 8V 3P 2003",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056029010",
+      "id_produto": "22574",
+      "nome": "CHAVE DE SETA RENAULT KWID 1.0 FLEX 12V 5P MEC. 2021/2022",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056029028",
+      "id_produto": "22564",
+      "nome": "PARA-CHOQUE DIANTEIRO RENAULT KWID ZEN 1.0 FLEX 12V 2021/22",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501056029030",
+      "id_produto": "22565",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO RENAULT KWID ZEN 1.0 FLEX 12V 22",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056029031",
+      "id_produto": "22566",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO RENAULT KWID ZEN 1.0 FLEX 12V",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056029032",
+      "id_produto": "22567",
+      "nome": "PORTA DIANTEIRA DIREITA RENAULT KWID ZEN 1.0 FLEX 12V 2022",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056029033",
+      "id_produto": "22568",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT KWID ZEN 1.0 FLEX 12V 21/22",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056029034",
+      "id_produto": "22569",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT KWID ZEN 1.0 FLEX 12V 21/22",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056029035",
+      "id_produto": "22570",
+      "nome": "PORTA TRASEIRA ESQUERDA RENAULT KWID 1.0 FLEX 12V 5P 2021/22",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056029037",
+      "id_produto": "22575",
+      "nome": "RETROVISOR DIREITO RENAULT KWID ZEN 1.0 12V 5P 2021/2022",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056029038",
+      "id_produto": "22576",
+      "nome": "RETROVISOR ESQUERDO RENAULT KWID 1.0 FLEX 12V 2021/2022",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056274437",
+      "id_produto": "21234",
+      "nome": "PNEU 175/65 R14 82T DUNLOP SP TOURING R1",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO ELX 1.3 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501056274483",
+      "id_produto": "21235",
+      "nome": "NEU 175/65 R14 82T DUNLOP SP TOURING R1",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO ELX 1.3 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501056274484",
+      "id_produto": "21236",
+      "nome": "PNEU 175/65 R14 82T DUNLOP SP TOURING R1",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO ELX 1.3 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501056339039": {
       "sku": "SP12501056339039",
@@ -547,11 +802,11 @@
     "SP12501056029037": {
       "sku": "SP12501056029037",
       "id_produto": "22575",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO RENAULT KWID ZEN 1.0 12V 5P 2021/2022",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -655,11 +910,11 @@
     "SP12501056029030": {
       "sku": "SP12501056029030",
       "id_produto": "22565",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO RENAULT KWID ZEN 1.0 FLEX 12V 22",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -691,11 +946,11 @@
     "SP12501056029032": {
       "sku": "SP12501056029032",
       "id_produto": "22567",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA RENAULT KWID ZEN 1.0 FLEX 12V 2022",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -739,11 +994,11 @@
     "SP12501053755020": {
       "sku": "SP12501053755020",
       "id_produto": "22541",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA VOLKSWAGEN FOX 1.0 8V 5P 2005/06",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -775,11 +1030,11 @@
     "SP12501056029034": {
       "sku": "SP12501056029034",
       "id_produto": "22569",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT KWID ZEN 1.0 FLEX 12V 21/22",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -787,11 +1042,11 @@
     "SP12501056029028": {
       "sku": "SP12501056029028",
       "id_produto": "22564",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO RENAULT KWID ZEN 1.0 FLEX 12V 2021/22",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "9"
@@ -799,11 +1054,11 @@
     "SP12501056029035": {
       "sku": "SP12501056029035",
       "id_produto": "22570",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA RENAULT KWID 1.0 FLEX 12V 5P 2021/22",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -919,11 +1174,11 @@
     "SP12501056029031": {
       "sku": "SP12501056029031",
       "id_produto": "22566",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO RENAULT KWID ZEN 1.0 FLEX 12V",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1003,11 +1258,11 @@
     "SP12501056010010": {
       "sku": "SP12501056010010",
       "id_produto": "22572",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA CHEVROLET CELTA 1.0 MPFI VHC 8V 3P 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1015,11 +1270,11 @@
     "SP12501056029038": {
       "sku": "SP12501056029038",
       "id_produto": "22576",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO RENAULT KWID 1.0 FLEX 12V 2021/2022",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1051,11 +1306,11 @@
     "SP12501056029010": {
       "sku": "SP12501056029010",
       "id_produto": "22574",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA RENAULT KWID 1.0 FLEX 12V 5P MEC. 2021/2022",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1075,11 +1330,11 @@
     "SP12501056010045": {
       "sku": "SP12501056010045",
       "id_produto": "22562",
-      "nome": "TAMPA TRASEIRA",
+      "nome": "TAMPA TRASEIRA CHEVROLET CELTA 1.0 MPFI VHC 8V 3P 2003",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "CELTA 1.0 MPFI VHC 8V 3P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -1267,11 +1522,11 @@
     "SP12501056029033": {
       "sku": "SP12501056029033",
       "id_produto": "22568",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA RENAULT KWID ZEN 1.0 FLEX 12V 21/22",
       "marca": "RENAULT",
       "modelo_do_veiculo": "KWID ZEN 1.0 FLEX 12V 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1315,11 +1570,11 @@
     "SP12501053755028": {
       "sku": "SP12501053755028",
       "id_produto": "22561",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO VOLKSWAGEN FOX CITY 1.0 8V 5P 2005/06",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "FOX CITY 1.0 MI/ 1.0MI TOTAL FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1519,11 +1774,11 @@
     "SP12501056274437": {
       "sku": "SP12501056274437",
       "id_produto": "21234",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 175/65 R14 82T DUNLOP SP TOURING R1",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ELX 1.3 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1543,11 +1798,11 @@
     "SP12501056274483": {
       "sku": "SP12501056274483",
       "id_produto": "21235",
-      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "nome": "NEU 175/65 R14 82T DUNLOP SP TOURING R1",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ELX 1.3 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1591,11 +1846,11 @@
     "SP12501056274484": {
       "sku": "SP12501056274484",
       "id_produto": "21236",
-      "nome": "PNEU TRASEIRO DIREITO",
+      "nome": "PNEU 175/65 R14 82T DUNLOP SP TOURING R1",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO ELX 1.3 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -1743,6 +1998,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    "SP12501056010400": {
+      "sku": "SP12501056010400",
+      "id_produto": "22598",
+      "nome": "MOTOR COMPLETO",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
