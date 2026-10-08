@@ -1,11 +1,11 @@
 {
   "data": "2026-10-08",
   "primeira_atualizacao": "08/10/2026 08:21:59",
-  "ultima_atualizacao": "08/10/2026 10:21:05",
+  "ultima_atualizacao": "08/10/2026 10:43:47",
   "total_base_dia": 114,
-  "total_atual": 109,
-  "novos_produtos": 21,
-  "total_subidos": 26,
+  "total_atual": 113,
+  "novos_produtos": 28,
+  "total_subidos": 29,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173484",
@@ -123,6 +123,9 @@
     "SP42501003164947"
   ],
   "skus_vistos_hoje": [
+    "SP12401016450039",
+    "SP12401016450040",
+    "SP12401016450042",
     "SP12501004665045",
     "SP12501005173484",
     "SP12501005394033",
@@ -211,6 +214,7 @@
     "SP12501056339040",
     "SP12501056339041",
     "SP12501056339042",
+    "SP12501056355038",
     "SP12501057807040",
     "SP12501079959400",
     "SP12501080469001",
@@ -250,7 +254,10 @@
     "SP12501123486014",
     "SP12501123583034",
     "SP32501000230877",
+    "SP32501000230889",
     "SP32501000230890",
+    "SP32501000230891",
+    "SP32501000230892",
     "SP32501000230896",
     "SP32501000230975",
     "SP32501000230976",
@@ -260,6 +267,9 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12401016450039",
+    "SP12401016450040",
+    "SP12401016450042",
     "SP12501010177045",
     "SP12501015748039",
     "SP12501015748040",
@@ -276,14 +286,19 @@
     "SP12501054450030",
     "SP12501054468031",
     "SP12501056312509",
+    "SP12501056355038",
     "SP12501057807040",
     "SP12501088176039",
     "SP12501103310466",
     "SP12501116749035",
-    "SP32501000230890"
+    "SP32501000230889",
+    "SP32501000230890",
+    "SP32501000230891",
+    "SP32501000230892"
   ],
   "skus_subidos_hoje": [
     "SP12501053941400",
+    "SP12501053941596",
     "SP12501054450030",
     "SP12501054468030",
     "SP12501054468031",
@@ -308,10 +323,13 @@
     "SP12501056002480",
     "SP12501056010029",
     "SP12501056304035",
+    "SP12501056312509",
+    "SP12501103310466",
     "SP12501116749035"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501053941400",
+    "SP12501053941596",
     "SP12501054450030",
     "SP12501054468030",
     "SP12501054468031",
@@ -336,9 +354,47 @@
     "SP12501056002480",
     "SP12501056010029",
     "SP12501056304035",
+    "SP12501056312509",
+    "SP12501103310466",
     "SP12501116749035"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12401016450039",
+      "id_produto": "19061",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12401016450040",
+      "id_produto": "19062",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12401016450042",
+      "id_produto": "19064",
+      "nome": "RODA TRASEIRA ESQUERDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
     {
       "sku": "SP12501010177045",
       "id_produto": "5153",
@@ -486,11 +542,11 @@
     {
       "sku": "SP12501053941596",
       "id_produto": "22095",
-      "nome": "TAMPÃO DO BAGAGITO",
+      "nome": "TAMPÃO DO BAGAGITO NISSAN KICKS ADVANCE 1.6 16V FLEX 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -522,13 +578,25 @@
     {
       "sku": "SP12501056312509",
       "id_produto": "22122",
-      "nome": "MÁQUINA DO VIDRO DA PORTA TRAS ESQ",
+      "nome": "MÁQUINA DO VIDRO DA PORTA TRAS ESQ HYUNDAI CRETA 1.6 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056355038",
+      "id_produto": "22337",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
-      "classificacao": "09",
+      "classificacao": "07",
       "qtd_images": "5"
     },
     {
@@ -558,11 +626,11 @@
     {
       "sku": "SP12501103310466",
       "id_produto": "22185",
-      "nome": "INTERRUPTOR DE LUZ FAROL",
+      "nome": "INTERRUPTOR DE LUZ FAROL VOLKSWAGEN SANTANA 2.0 MI 2000",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SANTANA 2.0 MI",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -580,9 +648,45 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP32501000230889",
+      "id_produto": "21891",
+      "nome": "ALTO FALANTE PORTA DIANTEIRA DIREITA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP32501000230890",
       "id_produto": "21892",
       "nome": "ALTO FALANTE PORTA DIANTEIRA ESQUERDA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP32501000230891",
+      "id_produto": "21893",
+      "nome": "ALTO FALANTE PORTA TRASEIRA DIREITA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP32501000230892",
+      "id_produto": "21894",
+      "nome": "ALTO FALANTE PORTA TRASEIRA ESQUERDA",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Desabilitado",
@@ -604,6 +708,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501053941596",
+      "id_produto": "22095",
+      "nome": "TAMPÃO DO BAGAGITO NISSAN KICKS ADVANCE 1.6 16V FLEX 2023",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501054450030",
@@ -892,6 +1008,30 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056312509",
+      "id_produto": "22122",
+      "nome": "MÁQUINA DO VIDRO DA PORTA TRAS ESQ HYUNDAI CRETA 1.6 2021",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103310466",
+      "id_produto": "22185",
+      "nome": "INTERRUPTOR DE LUZ FAROL VOLKSWAGEN SANTANA 2.0 MI 2000",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "SANTANA 2.0 MI",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501116749035",
@@ -2446,11 +2586,11 @@
     "SP12501053941596": {
       "sku": "SP12501053941596",
       "id_produto": "22095",
-      "nome": "TAMPÃO DO BAGAGITO",
+      "nome": "TAMPÃO DO BAGAGITO NISSAN KICKS ADVANCE 1.6 16V FLEX 2023",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2482,11 +2622,11 @@
     "SP12501103310466": {
       "sku": "SP12501103310466",
       "id_produto": "22185",
-      "nome": "INTERRUPTOR DE LUZ FAROL",
+      "nome": "INTERRUPTOR DE LUZ FAROL VOLKSWAGEN SANTANA 2.0 MI 2000",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "SANTANA 2.0 MI",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "6"
@@ -2506,11 +2646,11 @@
     "SP12501056312509": {
       "sku": "SP12501056312509",
       "id_produto": "22122",
-      "nome": "MÁQUINA DO VIDRO DA PORTA TRAS ESQ",
+      "nome": "MÁQUINA DO VIDRO DA PORTA TRAS ESQ HYUNDAI CRETA 1.6 2021",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA ATTITUDE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -2525,6 +2665,90 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "7",
+      "qtd_images": "5"
+    },
+    "SP32501000230891": {
+      "sku": "SP32501000230891",
+      "id_produto": "21893",
+      "nome": "ALTO FALANTE PORTA TRASEIRA DIREITA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12501056355038": {
+      "sku": "SP12501056355038",
+      "id_produto": "22337",
+      "nome": "RETROVISOR ESQUERDO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12401016450039": {
+      "sku": "SP12401016450039",
+      "id_produto": "19061",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP12401016450042": {
+      "sku": "SP12401016450042",
+      "id_produto": "19064",
+      "nome": "RODA TRASEIRA ESQUERDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP32501000230889": {
+      "sku": "SP32501000230889",
+      "id_produto": "21891",
+      "nome": "ALTO FALANTE PORTA DIANTEIRA DIREITA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP32501000230892": {
+      "sku": "SP32501000230892",
+      "id_produto": "21894",
+      "nome": "ALTO FALANTE PORTA TRASEIRA ESQUERDA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    "SP12401016450040": {
+      "sku": "SP12401016450040",
+      "id_produto": "19062",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
       "qtd_images": "5"
     }
   }
