@@ -1,11 +1,11 @@
 {
   "data": "2026-10-08",
   "primeira_atualizacao": "08/10/2026 08:21:59",
-  "ultima_atualizacao": "08/10/2026 12:51:27",
+  "ultima_atualizacao": "08/10/2026 13:22:00",
   "total_base_dia": 114,
-  "total_atual": 113,
-  "novos_produtos": 40,
-  "total_subidos": 41,
+  "total_atual": 115,
+  "novos_produtos": 43,
+  "total_subidos": 42,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173484",
@@ -155,6 +155,7 @@
     "SP12501017449043",
     "SP12501040858001",
     "SP12501040874034",
+    "SP12501041170026",
     "SP12501041579437",
     "SP12501041749400",
     "SP12501041749437",
@@ -228,10 +229,12 @@
     "SP12501099780039",
     "SP12501099780040",
     "SP12501099798007",
+    "SP12501099798012",
     "SP12501099798030",
     "SP12501099798032",
     "SP12501099798033",
     "SP12501099798035",
+    "SP12501099798584",
     "SP12501100842007",
     "SP12501102470030",
     "SP12501102470045",
@@ -294,6 +297,7 @@
     "SP12501017066039",
     "SP12501017341039",
     "SP12501017341040",
+    "SP12501041170026",
     "SP12501041749437",
     "SP12501053941400",
     "SP12501053941596",
@@ -304,10 +308,12 @@
     "SP12501057807040",
     "SP12501088176039",
     "SP12501099798007",
+    "SP12501099798012",
     "SP12501099798030",
     "SP12501099798032",
     "SP12501099798033",
     "SP12501099798035",
+    "SP12501099798584",
     "SP12501103310466",
     "SP12501116749035",
     "SP12501116790483",
@@ -361,6 +367,7 @@
     "SP12501116790483",
     "SP32501000230889",
     "SP32501000230890",
+    "SP32501000230891",
     "SP32501000230892"
   ],
   "skus_subidos_status_ml_hoje": [
@@ -404,6 +411,7 @@
     "SP12501116790483",
     "SP32501000230889",
     "SP32501000230890",
+    "SP32501000230891",
     "SP32501000230892"
   ],
   "itens_novos_hoje": [
@@ -588,6 +596,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501041170026",
+      "id_produto": "20075",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA SEDAN. 1.6 8V FLEX 4PORTAS",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
+    },
+    {
       "sku": "SP12501041749437",
       "id_produto": "18906",
       "nome": "PNEU 185/65 R15 88H WESTLAKE",
@@ -708,6 +728,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501099798012",
+      "id_produto": "22636",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501099798030",
       "id_produto": "22631",
       "nome": "PARA-LAMA DIANTEIRO DIREITO FORD KA SE 1.0 12V HATCH B FLEX",
@@ -754,6 +786,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501099798584",
+      "id_produto": "22641",
+      "nome": "ALAVANCA DE MARCHA MANUAL",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501103310466",
@@ -818,11 +862,11 @@
     {
       "sku": "SP32501000230891",
       "id_produto": "21893",
-      "nome": "ALTO FALANTE PORTA TRASEIRA DIREITA",
+      "nome": "ALTO FALANTE PORTA TRASEIRA DIREITA RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -834,7 +878,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -1370,13 +1414,25 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP32501000230891",
+      "id_produto": "21893",
+      "nome": "ALTO FALANTE PORTA TRASEIRA DIREITA RAM 3500 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP32501000230892",
       "id_produto": "21894",
       "nome": "ALTO FALANTE PORTA TRASEIRA ESQUERDA RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3006,11 +3062,11 @@
     "SP32501000230891": {
       "sku": "SP32501000230891",
       "id_produto": "21893",
-      "nome": "ALTO FALANTE PORTA TRASEIRA DIREITA",
+      "nome": "ALTO FALANTE PORTA TRASEIRA DIREITA RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3070,7 +3126,7 @@
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3230,6 +3286,42 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    "SP12501099798584": {
+      "sku": "SP12501099798584",
+      "id_produto": "22641",
+      "nome": "ALAVANCA DE MARCHA MANUAL",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP12501099798012": {
+      "sku": "SP12501099798012",
+      "id_produto": "22636",
+      "nome": "CONDENSADOR DO AR-CONDICIONADO",
+      "marca": "FORD",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    "SP12501041170026": {
+      "sku": "SP12501041170026",
+      "id_produto": "20075",
+      "nome": "MOTOR DE PARTIDA",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA SEDAN. 1.6 8V FLEX 4PORTAS",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "9"
     }
   }
 }
