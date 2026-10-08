@@ -1,11 +1,11 @@
 {
   "data": "2026-10-08",
   "primeira_atualizacao": "08/10/2026 08:21:59",
-  "ultima_atualizacao": "08/10/2026 12:21:07",
+  "ultima_atualizacao": "08/10/2026 12:51:27",
   "total_base_dia": 114,
-  "total_atual": 117,
+  "total_atual": 113,
   "novos_produtos": 40,
-  "total_subidos": 37,
+  "total_subidos": 41,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173484",
@@ -322,6 +322,7 @@
   ],
   "skus_subidos_hoje": [
     "SP12501010177045",
+    "SP12501041749437",
     "SP12501053941400",
     "SP12501053941596",
     "SP12501054450030",
@@ -350,6 +351,7 @@
     "SP12501056304035",
     "SP12501056312509",
     "SP12501056355038",
+    "SP12501099798007",
     "SP12501099798030",
     "SP12501099798032",
     "SP12501099798033",
@@ -357,10 +359,13 @@
     "SP12501103310466",
     "SP12501116749035",
     "SP12501116790483",
-    "SP32501000230890"
+    "SP32501000230889",
+    "SP32501000230890",
+    "SP32501000230892"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501010177045",
+    "SP12501041749437",
     "SP12501053941400",
     "SP12501053941596",
     "SP12501054450030",
@@ -389,6 +394,7 @@
     "SP12501056304035",
     "SP12501056312509",
     "SP12501056355038",
+    "SP12501099798007",
     "SP12501099798030",
     "SP12501099798032",
     "SP12501099798033",
@@ -396,7 +402,9 @@
     "SP12501103310466",
     "SP12501116749035",
     "SP12501116790483",
-    "SP32501000230890"
+    "SP32501000230889",
+    "SP32501000230890",
+    "SP32501000230892"
   ],
   "itens_novos_hoje": [
     {
@@ -582,11 +590,11 @@
     {
       "sku": "SP12501041749437",
       "id_produto": "18906",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 185/65 R15 88H WESTLAKE",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -690,11 +698,11 @@
     {
       "sku": "SP12501099798007",
       "id_produto": "22630",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FORD KA SE 1.0 12V HATCH B FLEX MEC. 2016/2017",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -786,11 +794,11 @@
     {
       "sku": "SP32501000230889",
       "id_produto": "21891",
-      "nome": "ALTO FALANTE PORTA DIANTEIRA DIREITA",
+      "nome": "ALTO FALANTE PORTA DIANTEIRA DIREITA RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -822,11 +830,11 @@
     {
       "sku": "SP32501000230892",
       "id_produto": "21894",
-      "nome": "ALTO FALANTE PORTA TRASEIRA ESQUERDA",
+      "nome": "ALTO FALANTE PORTA TRASEIRA ESQUERDA RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -892,6 +900,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501041749437",
+      "id_produto": "18906",
+      "nome": "PNEU 185/65 R15 88H WESTLAKE",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501053941400",
@@ -1230,6 +1250,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501099798007",
+      "id_produto": "22630",
+      "nome": "CAPÔ FORD KA SE 1.0 12V HATCH B FLEX MEC. 2016/2017",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501099798030",
       "id_produto": "22631",
       "nome": "PARA-LAMA DIANTEIRO DIREITO FORD KA SE 1.0 12V HATCH B FLEX",
@@ -1314,6 +1346,18 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP32501000230889",
+      "id_produto": "21891",
+      "nome": "ALTO FALANTE PORTA DIANTEIRA DIREITA RAM 3500 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP32501000230890",
       "id_produto": "21892",
       "nome": "ALTO FALANTE PORTA DIANTEIRA ESQUERDA RAM 3500 6.7 2022",
@@ -1321,6 +1365,18 @@
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
       "status": "Habilitado",
       "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP32501000230892",
+      "id_produto": "21894",
+      "nome": "ALTO FALANTE PORTA TRASEIRA ESQUERDA RAM 3500 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2998,11 +3054,11 @@
     "SP32501000230889": {
       "sku": "SP32501000230889",
       "id_produto": "21891",
-      "nome": "ALTO FALANTE PORTA DIANTEIRA DIREITA",
+      "nome": "ALTO FALANTE PORTA DIANTEIRA DIREITA RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3010,11 +3066,11 @@
     "SP32501000230892": {
       "sku": "SP32501000230892",
       "id_produto": "21894",
-      "nome": "ALTO FALANTE PORTA TRASEIRA ESQUERDA",
+      "nome": "ALTO FALANTE PORTA TRASEIRA ESQUERDA RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3070,11 +3126,11 @@
     "SP12501041749437": {
       "sku": "SP12501041749437",
       "id_produto": "18906",
-      "nome": "PNEU DIANTEIRO DIREITO",
+      "nome": "PNEU 185/65 R15 88H WESTLAKE",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -3166,11 +3222,11 @@
     "SP12501099798007": {
       "sku": "SP12501099798007",
       "id_produto": "22630",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FORD KA SE 1.0 12V HATCH B FLEX MEC. 2016/2017",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
