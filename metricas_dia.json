@@ -1,10 +1,10 @@
 {
   "data": "2026-10-08",
   "primeira_atualizacao": "08/10/2026 08:21:59",
-  "ultima_atualizacao": "08/10/2026 10:43:47",
+  "ultima_atualizacao": "08/10/2026 10:50:57",
   "total_base_dia": 114,
-  "total_atual": 113,
-  "novos_produtos": 28,
+  "total_atual": 114,
+  "novos_produtos": 29,
   "total_subidos": 29,
   "skus_base_dia": [
     "SP12501004665045",
@@ -249,6 +249,7 @@
     "SP12501111607042",
     "SP12501114282035",
     "SP12501116749035",
+    "SP12501116790483",
     "SP12501122129035",
     "SP12501123451042",
     "SP12501123486014",
@@ -291,6 +292,7 @@
     "SP12501088176039",
     "SP12501103310466",
     "SP12501116749035",
+    "SP12501116790483",
     "SP32501000230889",
     "SP32501000230890",
     "SP32501000230891",
@@ -546,7 +548,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -648,6 +650,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501116790483",
+      "id_produto": "19229",
+      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "BORA 2.0 FLEX 8V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP32501000230889",
       "id_produto": "21891",
       "nome": "ALTO FALANTE PORTA DIANTEIRA DIREITA",
@@ -716,7 +730,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2590,7 +2604,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2750,6 +2764,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    "SP12501116790483": {
+      "sku": "SP12501116790483",
+      "id_produto": "19229",
+      "nome": "PNEU DIANTEIRO ESQUERDO",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "BORA 2.0 FLEX 8V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     }
   }
 }
