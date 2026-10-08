@@ -1,11 +1,11 @@
 {
   "data": "2026-10-08",
   "primeira_atualizacao": "08/10/2026 08:21:59",
-  "ultima_atualizacao": "08/10/2026 09:21:22",
+  "ultima_atualizacao": "08/10/2026 09:51:19",
   "total_base_dia": 114,
-  "total_atual": 106,
-  "novos_produtos": 5,
-  "total_subidos": 13,
+  "total_atual": 110,
+  "novos_produtos": 13,
+  "total_subidos": 17,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173484",
@@ -129,14 +129,21 @@
     "SP12501005408034",
     "SP12501009772033",
     "SP12501009870035",
+    "SP12501010177045",
     "SP12501010835033",
     "SP12501010835035",
     "SP12501014806042",
     "SP12501015560033",
     "SP12501015608045",
     "SP12501015640048",
+    "SP12501015748039",
+    "SP12501015748040",
+    "SP12501015748041",
+    "SP12501015748042",
     "SP12501016701039",
     "SP12501017309014",
+    "SP12501017341039",
+    "SP12501017341040",
     "SP12501017449043",
     "SP12501040858001",
     "SP12501040874034",
@@ -230,6 +237,7 @@
     "SP12501111607041",
     "SP12501111607042",
     "SP12501114282035",
+    "SP12501116749035",
     "SP12501122129035",
     "SP12501123451042",
     "SP12501123486014",
@@ -244,17 +252,29 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501010177045",
+    "SP12501015748039",
+    "SP12501015748040",
+    "SP12501015748041",
+    "SP12501015748042",
+    "SP12501017341039",
+    "SP12501017341040",
     "SP12501053941400",
     "SP12501054450030",
     "SP12501054468031",
     "SP12501057807040",
-    "SP12501088176039"
+    "SP12501088176039",
+    "SP12501116749035"
   ],
   "skus_subidos_hoje": [
     "SP12501054468030",
+    "SP12501056002001",
+    "SP12501056002004",
     "SP12501056002007",
     "SP12501056002010",
+    "SP12501056002015",
     "SP12501056002024",
+    "SP12501056002026",
     "SP12501056002027",
     "SP12501056002030",
     "SP12501056002031",
@@ -267,9 +287,13 @@
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501054468030",
+    "SP12501056002001",
+    "SP12501056002004",
     "SP12501056002007",
     "SP12501056002010",
+    "SP12501056002015",
     "SP12501056002024",
+    "SP12501056002026",
     "SP12501056002027",
     "SP12501056002030",
     "SP12501056002031",
@@ -281,6 +305,90 @@
     "SP12501056304035"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501010177045",
+      "id_produto": "5153",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "GRAND SIENA ATTRAC. 1.4 EVO F.FLEX 8V",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501015748039",
+      "id_produto": "19065",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501015748040",
+      "id_produto": "19066",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501015748041",
+      "id_produto": "19067",
+      "nome": "RODA TRASEIRA DIREITA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501015748042",
+      "id_produto": "19068",
+      "nome": "RODA TRASEIRA ESQUERDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501017341039",
+      "id_produto": "19070",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FREEMONT EMOT./PRECISION 2.4 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501017341040",
+      "id_produto": "19071",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FREEMONT EMOT./PRECISION 2.4 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
     {
       "sku": "SP12501053941400",
       "id_produto": "21462",
@@ -340,6 +448,18 @@
       "quantidade": "1",
       "classificacao": "6",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501116749035",
+      "id_produto": "21511",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
@@ -354,6 +474,30 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056002001",
+      "id_produto": "22610",
+      "nome": "ALTERNADOR FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004/2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056002004",
+      "id_produto": "22611",
+      "nome": "CÂMBIO MANUAL FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501056002007",
@@ -380,6 +524,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501056002015",
+      "id_produto": "22612",
+      "nome": "FAROL DIREITO FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501056002024",
       "id_produto": "22613",
       "nome": "MÓDULO DE INJEÇÃO FORD FIESTA HATCH 1.6 8V GASOLINA 2004",
@@ -390,6 +546,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056002026",
+      "id_produto": "22614",
+      "nome": "MOTOR DE PARTIDA FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501056002027",
@@ -434,7 +602,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1068,11 +1236,11 @@
     "SP12501056002015": {
       "sku": "SP12501056002015",
       "id_produto": "22612",
-      "nome": "FAROL DIREITO",
+      "nome": "FAROL DIREITO FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -1248,11 +1416,11 @@
     "SP12501056002004": {
       "sku": "SP12501056002004",
       "id_produto": "22611",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1284,11 +1452,11 @@
     "SP12501056002001": {
       "sku": "SP12501056002001",
       "id_produto": "22610",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004/2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1564,7 +1732,7 @@
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1824,11 +1992,11 @@
     "SP12501056002026": {
       "sku": "SP12501056002026",
       "id_produto": "22614",
-      "nome": "MOTOR DE PARTIDA",
+      "nome": "MOTOR DE PARTIDA FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -1928,6 +2096,102 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    "SP12501116749035": {
+      "sku": "SP12501116749035",
+      "id_produto": "21511",
+      "nome": "PORTA TRASEIRA ESQUERDA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER DYNAMIQUE 2.0 FLEX 16V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    "SP12501017341039": {
+      "sku": "SP12501017341039",
+      "id_produto": "19070",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FREEMONT EMOT./PRECISION 2.4 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP12501015748041": {
+      "sku": "SP12501015748041",
+      "id_produto": "19067",
+      "nome": "RODA TRASEIRA DIREITA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP12501015748039": {
+      "sku": "SP12501015748039",
+      "id_produto": "19065",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP12501015748040": {
+      "sku": "SP12501015748040",
+      "id_produto": "19066",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP12501015748042": {
+      "sku": "SP12501015748042",
+      "id_produto": "19068",
+      "nome": "RODA TRASEIRA ESQUERDA",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.6 4X4 V6 AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP12501017341040": {
+      "sku": "SP12501017341040",
+      "id_produto": "19071",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "FREEMONT EMOT./PRECISION 2.4 16V 5P AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP12501010177045": {
+      "sku": "SP12501010177045",
+      "id_produto": "5153",
+      "nome": "TAMPA TRASEIRA",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "GRAND SIENA ATTRAC. 1.4 EVO F.FLEX 8V",
+      "status": "Habilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "7"
     }
   }
 }
