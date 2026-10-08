@@ -1,11 +1,11 @@
 {
   "data": "2026-10-08",
   "primeira_atualizacao": "08/10/2026 08:21:59",
-  "ultima_atualizacao": "08/10/2026 11:50:55",
+  "ultima_atualizacao": "08/10/2026 12:21:07",
   "total_base_dia": 114,
-  "total_atual": 121,
+  "total_atual": 117,
   "novos_produtos": 40,
-  "total_subidos": 33,
+  "total_subidos": 37,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173484",
@@ -350,6 +350,10 @@
     "SP12501056304035",
     "SP12501056312509",
     "SP12501056355038",
+    "SP12501099798030",
+    "SP12501099798032",
+    "SP12501099798033",
+    "SP12501099798035",
     "SP12501103310466",
     "SP12501116749035",
     "SP12501116790483",
@@ -385,6 +389,10 @@
     "SP12501056304035",
     "SP12501056312509",
     "SP12501056355038",
+    "SP12501099798030",
+    "SP12501099798032",
+    "SP12501099798033",
+    "SP12501099798035",
     "SP12501103310466",
     "SP12501116749035",
     "SP12501116790483",
@@ -694,11 +702,11 @@
     {
       "sku": "SP12501099798030",
       "id_produto": "22631",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD KA SE 1.0 12V HATCH B FLEX",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -706,11 +714,11 @@
     {
       "sku": "SP12501099798032",
       "id_produto": "22632",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FORD KA SE 1.0 12V HATCH B FLEX 2017",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -718,11 +726,11 @@
     {
       "sku": "SP12501099798033",
       "id_produto": "22633",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD KA SE 1.0 12V HATCH B FLEX 17",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -730,11 +738,11 @@
     {
       "sku": "SP12501099798035",
       "id_produto": "22634",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA FORD KA SE 1.0 12V HATCH B FLEX 2017",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -1220,6 +1228,54 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501099798030",
+      "id_produto": "22631",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD KA SE 1.0 12V HATCH B FLEX",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501099798032",
+      "id_produto": "22632",
+      "nome": "PORTA DIANTEIRA DIREITA FORD KA SE 1.0 12V HATCH B FLEX 2017",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501099798033",
+      "id_produto": "22633",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD KA SE 1.0 12V HATCH B FLEX 17",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501099798035",
+      "id_produto": "22634",
+      "nome": "PORTA TRASEIRA ESQUERDA FORD KA SE 1.0 12V HATCH B FLEX 2017",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501103310466",
@@ -1737,7 +1793,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "9",
-      "qtd_images": "8"
+      "qtd_images": "7"
     },
     "SP12501102470045": {
       "sku": "SP12501102470045",
@@ -1773,7 +1829,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "9",
-      "qtd_images": "6"
+      "qtd_images": "7"
     },
     "SP12501009772033": {
       "sku": "SP12501009772033",
@@ -3062,11 +3118,11 @@
     "SP12501099798035": {
       "sku": "SP12501099798035",
       "id_produto": "22634",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA FORD KA SE 1.0 12V HATCH B FLEX 2017",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
@@ -3074,11 +3130,11 @@
     "SP12501099798030": {
       "sku": "SP12501099798030",
       "id_produto": "22631",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD KA SE 1.0 12V HATCH B FLEX",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -3086,11 +3142,11 @@
     "SP12501099798032": {
       "sku": "SP12501099798032",
       "id_produto": "22632",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FORD KA SE 1.0 12V HATCH B FLEX 2017",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -3098,11 +3154,11 @@
     "SP12501099798033": {
       "sku": "SP12501099798033",
       "id_produto": "22633",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD KA SE 1.0 12V HATCH B FLEX 17",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE 1.0 12V HATCH B FLEX MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "10"
