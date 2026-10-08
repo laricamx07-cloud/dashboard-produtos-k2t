@@ -1,11 +1,11 @@
 {
   "data": "2026-10-08",
   "primeira_atualizacao": "08/10/2026 08:21:59",
-  "ultima_atualizacao": "08/10/2026 10:50:57",
+  "ultima_atualizacao": "08/10/2026 11:21:01",
   "total_base_dia": 114,
-  "total_atual": 114,
-  "novos_produtos": 29,
-  "total_subidos": 29,
+  "total_atual": 118,
+  "novos_produtos": 35,
+  "total_subidos": 31,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173484",
@@ -135,6 +135,7 @@
     "SP12501010177045",
     "SP12501010835033",
     "SP12501010835035",
+    "SP12501014717041",
     "SP12501014806042",
     "SP12501015560033",
     "SP12501015608045",
@@ -156,6 +157,7 @@
     "SP12501040874034",
     "SP12501041579437",
     "SP12501041749400",
+    "SP12501041749437",
     "SP12501041919037",
     "SP12501052996034",
     "SP12501053755004",
@@ -263,6 +265,10 @@
     "SP32501000230975",
     "SP32501000230976",
     "SP32501000400121",
+    "SP32501002896094",
+    "SP32501002896095",
+    "SP32501002896096",
+    "SP32501002896097",
     "SP32501002900121",
     "SP42501001064042",
     "SP42501003164947"
@@ -272,6 +278,7 @@
     "SP12401016450040",
     "SP12401016450042",
     "SP12501010177045",
+    "SP12501014717041",
     "SP12501015748039",
     "SP12501015748040",
     "SP12501015748041",
@@ -282,6 +289,7 @@
     "SP12501017066039",
     "SP12501017341039",
     "SP12501017341040",
+    "SP12501041749437",
     "SP12501053941400",
     "SP12501053941596",
     "SP12501054450030",
@@ -296,7 +304,11 @@
     "SP32501000230889",
     "SP32501000230890",
     "SP32501000230891",
-    "SP32501000230892"
+    "SP32501000230892",
+    "SP32501002896094",
+    "SP32501002896095",
+    "SP32501002896096",
+    "SP32501002896097"
   ],
   "skus_subidos_hoje": [
     "SP12501053941400",
@@ -326,8 +338,10 @@
     "SP12501056010029",
     "SP12501056304035",
     "SP12501056312509",
+    "SP12501056355038",
     "SP12501103310466",
-    "SP12501116749035"
+    "SP12501116749035",
+    "SP32501000230890"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501053941400",
@@ -357,8 +371,10 @@
     "SP12501056010029",
     "SP12501056304035",
     "SP12501056312509",
+    "SP12501056355038",
     "SP12501103310466",
-    "SP12501116749035"
+    "SP12501116749035",
+    "SP32501000230890"
   ],
   "itens_novos_hoje": [
     {
@@ -408,6 +424,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501014717041",
+      "id_produto": "19206",
+      "nome": "RODA TRASEIRA DIREITA",
+      "marca": "PGT",
+      "modelo_do_veiculo": "208 STYLE 1.0 FLEX 6V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501015748039",
@@ -530,6 +558,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501041749437",
+      "id_produto": "18906",
+      "nome": "PNEU DIANTEIRO DIREITO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501053941400",
       "id_produto": "21462",
       "nome": "MOTOR COMPLETO NISSAN KICKS ADVANCE 1.6 16V FLEX AUT. 2023",
@@ -592,11 +632,11 @@
     {
       "sku": "SP12501056355038",
       "id_produto": "22337",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -676,11 +716,11 @@
     {
       "sku": "SP32501000230890",
       "id_produto": "21892",
-      "nome": "ALTO FALANTE PORTA DIANTEIRA ESQUERDA",
+      "nome": "ALTO FALANTE PORTA DIANTEIRA ESQUERDA RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -707,6 +747,54 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP32501002896094",
+      "id_produto": "19911",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP32501002896095",
+      "id_produto": "19912",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP32501002896096",
+      "id_produto": "19913",
+      "nome": "RODA TRASEIRA DIREITA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP32501002896097",
+      "id_produto": "19914",
+      "nome": "RODA TRASEIRA ESQUERDA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "5"
     }
   ],
@@ -1036,6 +1124,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501056355038",
+      "id_produto": "22337",
+      "nome": "RETROVISOR ESQUERDO FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501103310466",
       "id_produto": "22185",
       "nome": "INTERRUPTOR DE LUZ FAROL VOLKSWAGEN SANTANA 2.0 MI 2000",
@@ -1058,6 +1158,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP32501000230890",
+      "id_produto": "21892",
+      "nome": "ALTO FALANTE PORTA DIANTEIRA ESQUERDA RAM 3500 6.7 2022",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -2648,11 +2760,11 @@
     "SP32501000230890": {
       "sku": "SP32501000230890",
       "id_produto": "21892",
-      "nome": "ALTO FALANTE PORTA DIANTEIRA ESQUERDA",
+      "nome": "ALTO FALANTE PORTA DIANTEIRA ESQUERDA RAM 3500 6.7 2022",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2696,11 +2808,11 @@
     "SP12501056355038": {
       "sku": "SP12501056355038",
       "id_produto": "22337",
-      "nome": "RETROVISOR ESQUERDO",
+      "nome": "RETROVISOR ESQUERDO FIAT PALIO 1.0 FIRE FLEX 4P 2006/2007",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO 1.0 FIRE FLEX 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -2771,6 +2883,78 @@
       "nome": "PNEU DIANTEIRO ESQUERDO",
       "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "BORA 2.0 FLEX 8V AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
+    },
+    "SP32501002896096": {
+      "sku": "SP32501002896096",
+      "id_produto": "19913",
+      "nome": "RODA TRASEIRA DIREITA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    "SP12501014717041": {
+      "sku": "SP12501014717041",
+      "id_produto": "19206",
+      "nome": "RODA TRASEIRA DIREITA",
+      "marca": "PGT",
+      "modelo_do_veiculo": "208 STYLE 1.0 FLEX 6V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP12501041749437": {
+      "sku": "SP12501041749437",
+      "id_produto": "18906",
+      "nome": "PNEU DIANTEIRO DIREITO",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    "SP32501002896097": {
+      "sku": "SP32501002896097",
+      "id_produto": "19914",
+      "nome": "RODA TRASEIRA ESQUERDA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    "SP32501002896094": {
+      "sku": "SP32501002896094",
+      "id_produto": "19911",
+      "nome": "RODA DIANTEIRA DIREITA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "5"
+    },
+    "SP32501002896095": {
+      "sku": "SP32501002896095",
+      "id_produto": "19912",
+      "nome": "RODA DIANTEIRA ESQUERDA",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
       "status": "Desabilitado",
       "status_ml": null,
       "quantidade": "1",
