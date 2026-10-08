@@ -1,11 +1,11 @@
 {
   "data": "2026-10-08",
   "primeira_atualizacao": "08/10/2026 08:21:59",
-  "ultima_atualizacao": "08/10/2026 08:51:18",
+  "ultima_atualizacao": "08/10/2026 09:21:22",
   "total_base_dia": 114,
-  "total_atual": 117,
-  "novos_produtos": 4,
-  "total_subidos": 1,
+  "total_atual": 106,
+  "novos_produtos": 5,
+  "total_subidos": 13,
   "skus_base_dia": [
     "SP12501004665045",
     "SP12501005173484",
@@ -146,6 +146,7 @@
     "SP12501052996034",
     "SP12501053755004",
     "SP12501053755400",
+    "SP12501053941400",
     "SP12501054280034",
     "SP12501054450030",
     "SP12501054468030",
@@ -243,18 +244,55 @@
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501053941400",
     "SP12501054450030",
     "SP12501054468031",
     "SP12501057807040",
     "SP12501088176039"
   ],
   "skus_subidos_hoje": [
-    "SP12501056002480"
+    "SP12501054468030",
+    "SP12501056002007",
+    "SP12501056002010",
+    "SP12501056002024",
+    "SP12501056002027",
+    "SP12501056002030",
+    "SP12501056002031",
+    "SP12501056002032",
+    "SP12501056002036",
+    "SP12501056002400",
+    "SP12501056002411",
+    "SP12501056002480",
+    "SP12501056304035"
   ],
   "skus_subidos_status_ml_hoje": [
-    "SP12501056002480"
+    "SP12501054468030",
+    "SP12501056002007",
+    "SP12501056002010",
+    "SP12501056002024",
+    "SP12501056002027",
+    "SP12501056002030",
+    "SP12501056002031",
+    "SP12501056002032",
+    "SP12501056002036",
+    "SP12501056002400",
+    "SP12501056002411",
+    "SP12501056002480",
+    "SP12501056304035"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501053941400",
+      "id_produto": "21462",
+      "nome": "MOTOR COMPLETO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
     {
       "sku": "SP12501054450030",
       "id_produto": "21628",
@@ -306,6 +344,138 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501054468030",
+      "id_produto": "21629",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA 1.6 8V FLEX 2004/05",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.6 8V FLEX/CLASS 1.6 8V FLEX 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056002007",
+      "id_produto": "22600",
+      "nome": "CAPÔ FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056002010",
+      "id_produto": "22601",
+      "nome": "CHAVE DE SETA FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "under_review",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056002024",
+      "id_produto": "22613",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA HATCH 1.6 8V GASOLINA 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056002027",
+      "id_produto": "22615",
+      "nome": "PAINEL DE INSTRUMENTOS FORD FIESTA HATCH 1.6 8V 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501056002030",
+      "id_produto": "22602",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA HATCH 1.6 8V 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056002031",
+      "id_produto": "22603",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FORD FIESTA HATCH 1.6 8V 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501056002032",
+      "id_produto": "22604",
+      "nome": "PORTA DIANTEIRA DIREITA FORD FIESTA HATCH 1.6 8V 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056002036",
+      "id_produto": "22616",
+      "nome": "RADIADOR FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004/2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056002400",
+      "id_produto": "22619",
+      "nome": "MOTOR COMPLETO FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501056002411",
+      "id_produto": "22620",
+      "nome": "ELETROVENTILADOR FORD FIESTA HATCH 1.6 8V GASOLINA 2004",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501056002480",
       "id_produto": "22621",
       "nome": "PORTINHOLA DO TANQUE FORD FIESTA HATCH 1.6 8V 2004",
@@ -316,6 +486,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501056304035",
+      "id_produto": "22626",
+      "nome": "PORTA TRASEIRA ESQUERDA FIAT PALIO STILE 1.6 MPI 16V 2000/01",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -514,11 +696,11 @@
     "SP12501054468030": {
       "sku": "SP12501054468030",
       "id_produto": "21629",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA 1.6 8V FLEX 2004/05",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.6 8V FLEX/CLASS 1.6 8V FLEX 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -526,11 +708,11 @@
     "SP12501056304035": {
       "sku": "SP12501056304035",
       "id_produto": "22626",
-      "nome": "PORTA TRASEIRA ESQUERDA",
+      "nome": "PORTA TRASEIRA ESQUERDA FIAT PALIO STILE 1.6 MPI 16V 2000/01",
       "marca": "FIAT",
       "modelo_do_veiculo": "PALIO STILE 1.6 MPI 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -538,11 +720,11 @@
     "SP12501056002027": {
       "sku": "SP12501056002027",
       "id_produto": "22615",
-      "nome": "PAINEL DE INSTRUMENTOS",
+      "nome": "PAINEL DE INSTRUMENTOS FORD FIESTA HATCH 1.6 8V 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -550,11 +732,11 @@
     "SP12501056002036": {
       "sku": "SP12501056002036",
       "id_produto": "22616",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004/2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -670,11 +852,11 @@
     "SP12501056002010": {
       "sku": "SP12501056002010",
       "id_produto": "22601",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "under_review",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -742,11 +924,11 @@
     "SP12501056002007": {
       "sku": "SP12501056002007",
       "id_produto": "22600",
-      "nome": "CAPÔ",
+      "nome": "CAPÔ FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -850,11 +1032,11 @@
     "SP12501056002031": {
       "sku": "SP12501056002031",
       "id_produto": "22603",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO FORD FIESTA HATCH 1.6 8V 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -874,11 +1056,11 @@
     "SP12501056002030": {
       "sku": "SP12501056002030",
       "id_produto": "22602",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO FORD FIESTA HATCH 1.6 8V 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -910,11 +1092,11 @@
     "SP12501056002411": {
       "sku": "SP12501056002411",
       "id_produto": "22620",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR FORD FIESTA HATCH 1.6 8V GASOLINA 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1078,11 +1260,11 @@
     "SP12501056002024": {
       "sku": "SP12501056002024",
       "id_produto": "22613",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO FORD FIESTA HATCH 1.6 8V GASOLINA 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1378,11 +1560,11 @@
     "SP12501056002032": {
       "sku": "SP12501056002032",
       "id_produto": "22604",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FORD FIESTA HATCH 1.6 8V 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "10"
@@ -1474,11 +1656,11 @@
     "SP12501056002400": {
       "sku": "SP12501056002400",
       "id_produto": "22619",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO FORD FIESTA HATCH 1.6 8V GASOLINA MEC. 2004",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA HATCH 1.6 8V GASOLINA MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -1734,6 +1916,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    "SP12501053941400": {
+      "sku": "SP12501053941400",
+      "id_produto": "21462",
+      "nome": "MOTOR COMPLETO",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS ADVANCE 1.6 16V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     }
   }
 }
