@@ -1,11 +1,11 @@
 {
   "data": "2026-10-09",
   "primeira_atualizacao": "09/10/2026 08:21:05",
-  "ultima_atualizacao": "09/10/2026 10:51:25",
+  "ultima_atualizacao": "09/10/2026 11:21:18",
   "total_base_dia": 139,
-  "total_atual": 138,
+  "total_atual": 131,
   "novos_produtos": 12,
-  "total_subidos": 13,
+  "total_subidos": 20,
   "skus_base_dia": [
     "SP12401016450039",
     "SP12401016450040",
@@ -315,44 +315,58 @@
     "SP32501002594842"
   ],
   "skus_subidos_hoje": [
+    "SP12501009861029",
     "SP12501010835033",
     "SP12501014040032",
     "SP12501017309014",
     "SP12501040858001",
+    "SP12501041749400",
+    "SP12501041919037",
+    "SP12501042141020",
     "SP12501055995004",
     "SP12501055995030",
     "SP12501055995031",
+    "SP12501080507004",
     "SP12501080760004",
     "SP12501084723033",
     "SP12501084766035",
+    "SP12501121858041",
     "SP12501122129035",
     "SP12501123583034",
-    "SP32501000230956"
+    "SP32501000230956",
+    "SP32501000400121"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501009861029",
     "SP12501010835033",
     "SP12501014040032",
     "SP12501017309014",
     "SP12501040858001",
+    "SP12501041749400",
+    "SP12501041919037",
+    "SP12501042141020",
     "SP12501055995004",
     "SP12501055995030",
     "SP12501055995031",
+    "SP12501080507004",
     "SP12501080760004",
     "SP12501084723033",
     "SP12501084766035",
+    "SP12501121858041",
     "SP12501122129035",
     "SP12501123583034",
-    "SP32501000230956"
+    "SP32501000230956",
+    "SP32501000400121"
   ],
   "itens_novos_hoje": [
     {
       "sku": "SP12501009861029",
       "id_produto": "21704",
-      "nome": "PARA-CHOQUE TRASEIRO",
-      "marca": "VW",
+      "nome": "PARA-CHOQUE TRASEIRO VW UP TRACK 1.0 TOTAL FLEX 12V 5P 2017",
+      "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -456,11 +470,11 @@
     {
       "sku": "SP12501042141020",
       "id_produto": "21668",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA CHEVROLET TRACKER 1.2 12V 2020/21",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER LTZ 1.2 TURBO 12V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -468,11 +482,11 @@
     {
       "sku": "SP12501080507004",
       "id_produto": "21760",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO TOYOTA ETIOS XS 1.5 FLEX 16V 5P AUT. 2018",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XS 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -491,6 +505,18 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501009861029",
+      "id_produto": "21704",
+      "nome": "PARA-CHOQUE TRASEIRO VW UP TRACK 1.0 TOTAL FLEX 12V 5P 2017",
+      "marca": "VOLKSWAGEN",
+      "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
     {
       "sku": "SP12501010835033",
       "id_produto": "8719",
@@ -540,6 +566,42 @@
       "qtd_images": "9"
     },
     {
+      "sku": "SP12501041749400",
+      "id_produto": "14564",
+      "nome": "MOTOR COMPLETO HYUNDAI IX35 GLS 2.0 16V 2WD FLEX 2014/2015",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "05",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501041919037",
+      "id_produto": "15932",
+      "nome": "RETROVISOR DIREITO FIAT UNO ATTRACTIVE 1.0 FIRE FLEX 2020/21",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "UNO ATTRACTIVE 1.0 FIRE FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501042141020",
+      "id_produto": "21668",
+      "nome": "LANTERNA TRASEIRA ESQUERDA CHEVROLET TRACKER 1.2 12V 2020/21",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER LTZ 1.2 TURBO 12V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501055995004",
       "id_produto": "22665",
       "nome": "CÂMBIO MANUAL RENAULT LOGAN PRIVILÈGE HI-FLEX 1.6 16V 2010",
@@ -574,6 +636,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501080507004",
+      "id_produto": "21760",
+      "nome": "CÂMBIO AUTOMATICO TOYOTA ETIOS XS 1.5 FLEX 16V 5P AUT. 2018",
+      "marca": "TOYOTA",
+      "modelo_do_veiculo": "ETIOS XS 1.5 FLEX 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
     },
     {
       "sku": "SP12501080760004",
@@ -612,6 +686,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501121858041",
+      "id_produto": "15748",
+      "nome": "RODA LIGA LEVE ARO 17 5 FUROS HYUNDAI CRETA",
+      "marca": "HYUNDAI",
+      "modelo_do_veiculo": "CRETA PULSE 1.6 16V FLEX AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501122129035",
       "id_produto": "9006",
       "nome": "PORTA TRASEIRA ESQ. PRATA PEUGEOT 207 SW XR 1.4 FLEX 2010/11",
@@ -646,6 +732,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP32501000400121",
+      "id_produto": "17711",
+      "nome": "Turbina 1 RAM 2500 LARAMIE TROPIV. 6.7 4X4 DIESEL 2012/2012",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE TROPIV. 6.7 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "9"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -832,11 +930,11 @@
     "SP32501000400121": {
       "sku": "SP32501000400121",
       "id_produto": "17711",
-      "nome": "Turbina 1",
+      "nome": "Turbina 1 RAM 2500 LARAMIE TROPIV. 6.7 4X4 DIESEL 2012/2012",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE TROPIV. 6.7 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
@@ -1096,11 +1194,11 @@
     "SP12501041749400": {
       "sku": "SP12501041749400",
       "id_produto": "14564",
-      "nome": "MOTOR COMPLETO",
+      "nome": "MOTOR COMPLETO HYUNDAI IX35 GLS 2.0 16V 2WD FLEX 2014/2015",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "IX35 GLS 2.0 16V 2WD FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "05",
       "qtd_images": "10"
@@ -1204,11 +1302,11 @@
     "SP12501041919037": {
       "sku": "SP12501041919037",
       "id_produto": "15932",
-      "nome": "RETROVISOR DIREITO",
+      "nome": "RETROVISOR DIREITO FIAT UNO ATTRACTIVE 1.0 FIRE FLEX 2020/21",
       "marca": "FIAT",
       "modelo_do_veiculo": "UNO ATTRACTIVE 1.0 FIRE FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2032,11 +2130,11 @@
     "SP12501121858041": {
       "sku": "SP12501121858041",
       "id_produto": "15748",
-      "nome": "RODA TRASEIRA DIREITA",
+      "nome": "RODA LIGA LEVE ARO 17 5 FUROS HYUNDAI CRETA",
       "marca": "HYUNDAI",
       "modelo_do_veiculo": "CRETA PULSE 1.6 16V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
@@ -2320,11 +2418,11 @@
     "SP12501009861029": {
       "sku": "SP12501009861029",
       "id_produto": "21704",
-      "nome": "PARA-CHOQUE TRASEIRO",
-      "marca": "VW",
+      "nome": "PARA-CHOQUE TRASEIRO VW UP TRACK 1.0 TOTAL FLEX 12V 5P 2017",
+      "marca": "VOLKSWAGEN",
       "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
@@ -2344,11 +2442,11 @@
     "SP12501080507004": {
       "sku": "SP12501080507004",
       "id_produto": "21760",
-      "nome": "CÂMBIO AUTOMATICO",
+      "nome": "CÂMBIO AUTOMATICO TOYOTA ETIOS XS 1.5 FLEX 16V 5P AUT. 2018",
       "marca": "TOYOTA",
       "modelo_do_veiculo": "ETIOS XS 1.5 FLEX 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2452,11 +2550,11 @@
     "SP12501042141020": {
       "sku": "SP12501042141020",
       "id_produto": "21668",
-      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "nome": "LANTERNA TRASEIRA ESQUERDA CHEVROLET TRACKER 1.2 12V 2020/21",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "TRACKER LTZ 1.2 TURBO 12V FLEX AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
