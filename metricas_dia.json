@@ -1,11 +1,11 @@
 {
   "data": "2026-10-09",
   "primeira_atualizacao": "09/10/2026 08:21:05",
-  "ultima_atualizacao": "09/10/2026 12:21:21",
+  "ultima_atualizacao": "09/10/2026 12:51:11",
   "total_base_dia": 139,
-  "total_atual": 125,
+  "total_atual": 123,
   "novos_produtos": 12,
-  "total_subidos": 26,
+  "total_subidos": 28,
   "skus_base_dia": [
     "SP12401016450039",
     "SP12401016450040",
@@ -323,6 +323,8 @@
     "SP12501016043001",
     "SP12501016116002",
     "SP12501016558002",
+    "SP12501016566003",
+    "SP12501016620014",
     "SP12501017309014",
     "SP12501040858001",
     "SP12501041749400",
@@ -351,6 +353,8 @@
     "SP12501016043001",
     "SP12501016116002",
     "SP12501016558002",
+    "SP12501016566003",
+    "SP12501016620014",
     "SP12501017309014",
     "SP12501040858001",
     "SP12501041749400",
@@ -434,11 +438,11 @@
     {
       "sku": "SP12501016566003",
       "id_produto": "1387",
-      "nome": "CABEÇOTE COM VÁLVULAS",
-      "marca": "PSA",
+      "nome": "CABEÇOTE COM VÁLVULAS C3 PICASSO  GLX 1.6 FLEX 16V 5P 2011",
+      "marca": "CITROEN",
       "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
@@ -458,11 +462,11 @@
     {
       "sku": "SP12501016620014",
       "id_produto": "2014",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP GRAND CHEROKEE 3.0 2014/2015",
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -612,6 +616,30 @@
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501016566003",
+      "id_produto": "1387",
+      "nome": "CABEÇOTE COM VÁLVULAS C3 PICASSO  GLX 1.6 FLEX 16V 5P 2011",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501016620014",
+      "id_produto": "2014",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP GRAND CHEROKEE 3.0 2014/2015",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501017309014",
@@ -1813,7 +1841,7 @@
       "status_ml": null,
       "quantidade": "1",
       "classificacao": "08",
-      "qtd_images": "9"
+      "qtd_images": "7"
     },
     "SP32501000230975": {
       "sku": "SP32501000230975",
@@ -2574,11 +2602,11 @@
     "SP12501016566003": {
       "sku": "SP12501016566003",
       "id_produto": "1387",
-      "nome": "CABEÇOTE COM VÁLVULAS",
-      "marca": "PSA",
+      "nome": "CABEÇOTE COM VÁLVULAS C3 PICASSO  GLX 1.6 FLEX 16V 5P 2011",
+      "marca": "CITROEN",
       "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
@@ -2622,11 +2650,11 @@
     "SP12501016620014": {
       "sku": "SP12501016620014",
       "id_produto": "2014",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP GRAND CHEROKEE 3.0 2014/2015",
       "marca": "JEEP",
       "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
