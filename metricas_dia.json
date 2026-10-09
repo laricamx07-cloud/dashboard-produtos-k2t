@@ -1,11 +1,11 @@
 {
   "data": "2026-10-09",
   "primeira_atualizacao": "09/10/2026 08:21:05",
-  "ultima_atualizacao": "09/10/2026 17:21:22",
+  "ultima_atualizacao": "09/10/2026 17:51:18",
   "total_base_dia": 139,
-  "total_atual": 129,
+  "total_atual": 127,
   "novos_produtos": 44,
-  "total_subidos": 54,
+  "total_subidos": 56,
   "skus_base_dia": [
     "SP12401016450039",
     "SP12401016450040",
@@ -383,7 +383,9 @@
     "SP12501009861029",
     "SP12501010835033",
     "SP12501014040032",
+    "SP12501014083010",
     "SP12501014121029",
+    "SP12501015152011",
     "SP12501015276001",
     "SP12501015608024",
     "SP12501015616011",
@@ -439,7 +441,9 @@
     "SP12501009861029",
     "SP12501010835033",
     "SP12501014040032",
+    "SP12501014083010",
     "SP12501014121029",
+    "SP12501015152011",
     "SP12501015276001",
     "SP12501015608024",
     "SP12501015616011",
@@ -518,11 +522,11 @@
     {
       "sku": "SP12501014083010",
       "id_produto": "18902",
-      "nome": "CHAVE DE SETA",
-      "marca": "GM",
+      "nome": "CHAVE DE SETA CHEVROLET PRISMA LS 1.0 8V FLEXPOW 4P 2018",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -530,11 +534,11 @@
     {
       "sku": "SP12501015152011",
       "id_produto": "19162",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FORD KA SE AT 1.5 SD 2019",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE AT 1.5 SD C",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -966,7 +970,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1070,6 +1074,18 @@
       "qtd_images": "8"
     },
     {
+      "sku": "SP12501014083010",
+      "id_produto": "18902",
+      "nome": "CHAVE DE SETA CHEVROLET PRISMA LS 1.0 8V FLEXPOW 4P 2018",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501014121029",
       "id_produto": "21731",
       "nome": "PARA-CHOQUE TRASEIRO CITROEN C3 PICASSO GLX 1.6 FLEX 16V 14",
@@ -1080,6 +1096,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501015152011",
+      "id_produto": "19162",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FORD KA SE AT 1.5 SD 2019",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA SE AT 1.5 SD C",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501015276001",
@@ -1556,7 +1584,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -3726,11 +3754,11 @@
     "SP12501014083010": {
       "sku": "SP12501014083010",
       "id_produto": "18902",
-      "nome": "CHAVE DE SETA",
-      "marca": "GM",
+      "nome": "CHAVE DE SETA CHEVROLET PRISMA LS 1.0 8V FLEXPOW 4P 2018",
+      "marca": "CHEVROLET",
       "modelo_do_veiculo": "PRISMA SED. JOY/ LS 1.0 8V FLEXPOWER 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "8"
@@ -3810,11 +3838,11 @@
     "SP12501015152011": {
       "sku": "SP12501015152011",
       "id_produto": "19162",
-      "nome": "COMPRESSOR DO AR-CONDICIONADO",
+      "nome": "COMPRESSOR DO AR-CONDICIONADO FORD KA SE AT 1.5 SD 2019",
       "marca": "FORD",
       "modelo_do_veiculo": "KA SE AT 1.5 SD C",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "10"
@@ -3862,7 +3890,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
