@@ -1,11 +1,11 @@
 {
   "data": "2026-10-09",
   "primeira_atualizacao": "09/10/2026 08:21:05",
-  "ultima_atualizacao": "09/10/2026 08:21:05",
+  "ultima_atualizacao": "09/10/2026 08:50:57",
   "total_base_dia": 139,
-  "total_atual": 139,
-  "novos_produtos": 0,
-  "total_subidos": 0,
+  "total_atual": 138,
+  "novos_produtos": 1,
+  "total_subidos": 2,
   "skus_base_dia": [
     "SP12401016450039",
     "SP12401016450040",
@@ -159,6 +159,7 @@
     "SP12501009713028",
     "SP12501009772033",
     "SP12501009829029",
+    "SP12501009861029",
     "SP12501009870035",
     "SP12501010835033",
     "SP12501010835035",
@@ -288,11 +289,57 @@
     "SP42501001064042",
     "SP42501003164947"
   ],
-  "skus_novos_hoje": [],
-  "skus_subidos_hoje": [],
-  "skus_subidos_status_ml_hoje": [],
-  "itens_novos_hoje": [],
-  "itens_subidos_hoje": [],
+  "skus_novos_hoje": [
+    "SP12501009861029"
+  ],
+  "skus_subidos_hoje": [
+    "SP12501055995030",
+    "SP12501055995031"
+  ],
+  "skus_subidos_status_ml_hoje": [
+    "SP12501055995030",
+    "SP12501055995031"
+  ],
+  "itens_novos_hoje": [
+    {
+      "sku": "SP12501009861029",
+      "id_produto": "21704",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "VW",
+      "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
+    }
+  ],
+  "itens_subidos_hoje": [
+    {
+      "sku": "SP12501055995030",
+      "id_produto": "22655",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO RENAULT LOGAN PRIVILÈGE 1.6",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN PRIVILÈGE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501055995031",
+      "id_produto": "22656",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO RENAULT LOGAN PRIVILÈGE 1.6 10",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN PRIVILÈGE HI-FLEX 1.6 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    }
+  ],
   "detalhes_skus_vistos_hoje": {
     "SP12501111593041": {
       "sku": "SP12501111593041",
@@ -1629,11 +1676,11 @@
     "SP12501055995031": {
       "sku": "SP12501055995031",
       "id_produto": "22656",
-      "nome": "PARA-LAMA DIANTEIRO ESQUERDO",
+      "nome": "PARA-LAMA DIANTEIRO ESQUERDO RENAULT LOGAN PRIVILÈGE 1.6 10",
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN PRIVILÈGE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1773,11 +1820,11 @@
     "SP12501055995030": {
       "sku": "SP12501055995030",
       "id_produto": "22655",
-      "nome": "PARA-LAMA DIANTEIRO DIREITO",
+      "nome": "PARA-LAMA DIANTEIRO DIREITO RENAULT LOGAN PRIVILÈGE 1.6",
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN PRIVILÈGE HI-FLEX 1.6 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1961,6 +2008,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "5"
+    },
+    "SP12501009861029": {
+      "sku": "SP12501009861029",
+      "id_produto": "21704",
+      "nome": "PARA-CHOQUE TRASEIRO",
+      "marca": "VW",
+      "modelo_do_veiculo": "UP TRACK 1.0 TOTAL FLEX 12V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     }
   }
 }
