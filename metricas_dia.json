@@ -1,11 +1,11 @@
 {
   "data": "2026-10-09",
   "primeira_atualizacao": "09/10/2026 08:21:05",
-  "ultima_atualizacao": "09/10/2026 12:51:11",
+  "ultima_atualizacao": "09/10/2026 13:21:13",
   "total_base_dia": 139,
-  "total_atual": 123,
+  "total_atual": 117,
   "novos_produtos": 12,
-  "total_subidos": 28,
+  "total_subidos": 34,
   "skus_base_dia": [
     "SP12401016450039",
     "SP12401016450040",
@@ -315,9 +315,11 @@
     "SP32501002594842"
   ],
   "skus_subidos_hoje": [
+    "SP12501009713028",
     "SP12501009861029",
     "SP12501010835033",
     "SP12501014040032",
+    "SP12501014121029",
     "SP12501015616011",
     "SP12501015640048",
     "SP12501016043001",
@@ -326,10 +328,13 @@
     "SP12501016566003",
     "SP12501016620014",
     "SP12501017309014",
+    "SP12501017449043",
     "SP12501040858001",
+    "SP12501040874034",
     "SP12501041749400",
     "SP12501041919037",
     "SP12501042141020",
+    "SP12501054468028",
     "SP12501055995004",
     "SP12501055995030",
     "SP12501055995031",
@@ -342,12 +347,15 @@
     "SP12501123583034",
     "SP32501000230956",
     "SP32501000400121",
+    "SP32501002594842",
     "SP32501002900121"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501009713028",
     "SP12501009861029",
     "SP12501010835033",
     "SP12501014040032",
+    "SP12501014121029",
     "SP12501015616011",
     "SP12501015640048",
     "SP12501016043001",
@@ -356,10 +364,13 @@
     "SP12501016566003",
     "SP12501016620014",
     "SP12501017309014",
+    "SP12501017449043",
     "SP12501040858001",
+    "SP12501040874034",
     "SP12501041749400",
     "SP12501041919037",
     "SP12501042141020",
+    "SP12501054468028",
     "SP12501055995004",
     "SP12501055995030",
     "SP12501055995031",
@@ -372,6 +383,7 @@
     "SP12501123583034",
     "SP32501000230956",
     "SP32501000400121",
+    "SP32501002594842",
     "SP32501002900121"
   ],
   "itens_novos_hoje": [
@@ -510,17 +522,29 @@
     {
       "sku": "SP32501002594842",
       "id_produto": "4407",
-      "nome": "PORTA TRASEIRA ESQUERDA",
-      "marca": "RAM",
+      "nome": "PORTA TRASEIRA ESQUERDA DODGE RAM 2500 H.DUTY 5.9 24V 2009",
+      "marca": "DODGE",
       "modelo_do_veiculo": "RAM 2500 H.DUTY 5.9 SLT 24V CD 4X4 DIE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501009713028",
+      "id_produto": "21698",
+      "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT EX/S 1.5 FLEX/FLEXONE 16V 18",
+      "marca": "HONDA",
+      "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501009861029",
       "id_produto": "21704",
@@ -556,6 +580,18 @@
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501014121029",
+      "id_produto": "21731",
+      "nome": "PARA-CHOQUE TRASEIRO CITROEN C3 PICASSO GLX 1.6 FLEX 16V 14",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501015616011",
@@ -654,6 +690,18 @@
       "qtd_images": "7"
     },
     {
+      "sku": "SP12501017449043",
+      "id_produto": "19901",
+      "nome": "RODA ESTEPE 125/90 D15 96 NISSAN KICKS",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SENSE 1.6 16V FLEX AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "6"
+    },
+    {
       "sku": "SP12501040858001",
       "id_produto": "19889",
       "nome": "ALTERNADOR FIAT PALIO CELEBRATION 1.0 FIRE FLEX 8V 2007/2008",
@@ -664,6 +712,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501040874034",
+      "id_produto": "21409",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT LOGAN DYNA. EASYR HI-FLEX 1.6",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "LOGAN DYNA. EASYR HI-FLEX 1.6 8V",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501041749400",
@@ -700,6 +760,18 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501054468028",
+      "id_produto": "21646",
+      "nome": "PARA-CHOQUE DIANTEIRO FORD FIESTA 1.6 8V FLEX/CLASS 1.6 8V",
+      "marca": "FORD",
+      "modelo_do_veiculo": "FIESTA 1.6 8V FLEX/CLASS 1.6 8V FLEX 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501055995004",
@@ -844,6 +916,18 @@
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP32501002594842",
+      "id_produto": "4407",
+      "nome": "PORTA TRASEIRA ESQUERDA DODGE RAM 2500 H.DUTY 5.9 24V 2009",
+      "marca": "DODGE",
+      "modelo_do_veiculo": "RAM 2500 H.DUTY 5.9 SLT 24V CD 4X4 DIE",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
     },
     {
       "sku": "SP32501002900121",
@@ -1006,11 +1090,11 @@
     "SP12501017449043": {
       "sku": "SP12501017449043",
       "id_produto": "19901",
-      "nome": "RODA SOBRES./ESTEPE",
+      "nome": "RODA ESTEPE 125/90 D15 96 NISSAN KICKS",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SENSE 1.6 16V FLEX AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "6"
@@ -1198,11 +1282,11 @@
     "SP12501054468028": {
       "sku": "SP12501054468028",
       "id_produto": "21646",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO FORD FIESTA 1.6 8V FLEX/CLASS 1.6 8V",
       "marca": "FORD",
       "modelo_do_veiculo": "FIESTA 1.6 8V FLEX/CLASS 1.6 8V FLEX 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1834,11 +1918,11 @@
     "SP12501040874034": {
       "sku": "SP12501040874034",
       "id_produto": "21409",
-      "nome": "PORTA TRASEIRA DIREITA",
+      "nome": "PORTA TRASEIRA DIREITA RENAULT LOGAN DYNA. EASYR HI-FLEX 1.6",
       "marca": "RENAULT",
       "modelo_do_veiculo": "LOGAN DYNA. EASYR HI-FLEX 1.6 8V",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -1870,11 +1954,11 @@
     "SP12501014121029": {
       "sku": "SP12501014121029",
       "id_produto": "21731",
-      "nome": "PARA-CHOQUE TRASEIRO",
-      "marca": "CTR",
+      "nome": "PARA-CHOQUE TRASEIRO CITROEN C3 PICASSO GLX 1.6 FLEX 16V 14",
+      "marca": "CITROEN",
       "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -2506,11 +2590,11 @@
     "SP12501009713028": {
       "sku": "SP12501009713028",
       "id_produto": "21698",
-      "nome": "PARA-CHOQUE DIANTEIRO",
+      "nome": "PARA-CHOQUE DIANTEIRO HONDA FIT EX/S 1.5 FLEX/FLEXONE 16V 18",
       "marca": "HONDA",
       "modelo_do_veiculo": "FIT EX/S 1.5 FLEX/FLEXONE 16V 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "7"
@@ -2578,11 +2662,11 @@
     "SP32501002594842": {
       "sku": "SP32501002594842",
       "id_produto": "4407",
-      "nome": "PORTA TRASEIRA ESQUERDA",
-      "marca": "RAM",
+      "nome": "PORTA TRASEIRA ESQUERDA DODGE RAM 2500 H.DUTY 5.9 24V 2009",
+      "marca": "DODGE",
       "modelo_do_veiculo": "RAM 2500 H.DUTY 5.9 SLT 24V CD 4X4 DIE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
