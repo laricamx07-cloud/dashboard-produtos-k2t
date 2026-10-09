@@ -1,11 +1,11 @@
 {
   "data": "2026-10-09",
   "primeira_atualizacao": "09/10/2026 08:21:05",
-  "ultima_atualizacao": "09/10/2026 15:53:28",
+  "ultima_atualizacao": "09/10/2026 16:22:29",
   "total_base_dia": 139,
-  "total_atual": 125,
-  "novos_produtos": 26,
-  "total_subidos": 40,
+  "total_atual": 124,
+  "novos_produtos": 30,
+  "total_subidos": 45,
   "skus_base_dia": [
     "SP12401016450039",
     "SP12401016450040",
@@ -155,6 +155,7 @@
     "SP12501005084001",
     "SP12501005173484",
     "SP12501005394033",
+    "SP12501005408024",
     "SP12501005408034",
     "SP12501009713028",
     "SP12501009772033",
@@ -262,6 +263,7 @@
     "SP12501099771012",
     "SP12501099771015",
     "SP12501099771030",
+    "SP12501099771034",
     "SP12501099771036",
     "SP12501099771037",
     "SP12501099771038",
@@ -275,6 +277,7 @@
     "SP12501102527032",
     "SP12501103159024",
     "SP12501103159025",
+    "SP12501103159033",
     "SP12501103159480",
     "SP12501103248032",
     "SP12501103302040",
@@ -312,9 +315,11 @@
     "SP32501002896097",
     "SP32501002900121",
     "SP42501001064042",
+    "SP42501003148075",
     "SP42501003164947"
   ],
   "skus_novos_hoje": [
+    "SP12501005408024",
     "SP12501009861029",
     "SP12501015276001",
     "SP12501015608024",
@@ -333,14 +338,17 @@
     "SP12501099771012",
     "SP12501099771015",
     "SP12501099771030",
+    "SP12501099771034",
     "SP12501099771036",
     "SP12501099771037",
     "SP12501099771038",
     "SP12501099771411",
     "SP12501103159024",
     "SP12501103159025",
+    "SP12501103159033",
     "SP12501103159480",
-    "SP32501002594842"
+    "SP32501002594842",
+    "SP42501003148075"
   ],
   "skus_subidos_hoje": [
     "SP12501009713028",
@@ -374,8 +382,13 @@
     "SP12501084766035",
     "SP12501099771010",
     "SP12501099771030",
+    "SP12501099771036",
     "SP12501099771037",
     "SP12501099771038",
+    "SP12501099771411",
+    "SP12501103159024",
+    "SP12501103159025",
+    "SP12501103159480",
     "SP12501121858041",
     "SP12501122129035",
     "SP12501123583034",
@@ -416,8 +429,13 @@
     "SP12501084766035",
     "SP12501099771010",
     "SP12501099771030",
+    "SP12501099771036",
     "SP12501099771037",
     "SP12501099771038",
+    "SP12501099771411",
+    "SP12501103159024",
+    "SP12501103159025",
+    "SP12501103159480",
     "SP12501121858041",
     "SP12501122129035",
     "SP12501123583034",
@@ -427,6 +445,18 @@
     "SP32501002900121"
   ],
   "itens_novos_hoje": [
+    {
+      "sku": "SP12501005408024",
+      "id_produto": "21017",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO TREKKING 1.3 8V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
     {
       "sku": "SP12501009861029",
       "id_produto": "21704",
@@ -644,13 +674,25 @@
       "qtd_images": "5"
     },
     {
-      "sku": "SP12501099771036",
-      "id_produto": "22684",
-      "nome": "RADIADOR",
+      "sku": "SP12501099771034",
+      "id_produto": "22691",
+      "nome": "PORTA TRASEIRA DIREITA",
       "marca": "RENAULT",
-      "modelo_do_veiculo": "DUSTER OROCH DYNA. 1.6 FLEX 16V MEC.",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501099771036",
+      "id_produto": "22684",
+      "nome": "RADIADOR RENAULT DUSTER OROCH DYNA. 1.6 FLEX 16V MEC. 2017",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER OROCH DYNA. 1.6 FLEX 16V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -682,11 +724,11 @@
     {
       "sku": "SP12501099771411",
       "id_produto": "22685",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR RENAULT DUSTER OROCH 1.6 FLEX 16V 2017",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER OROCH DYNA. 1.6 FLEX 16V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -694,11 +736,11 @@
     {
       "sku": "SP12501103159024",
       "id_produto": "22686",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO NISSAN KICKS SV 1.6 16V FLEXSTAR 2020/2021",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -706,23 +748,35 @@
     {
       "sku": "SP12501103159025",
       "id_produto": "22687",
-      "nome": "MÓDULO DO CÂMBIO",
+      "nome": "MÓDULO DO CÂMBIO NISSAN KICKS SV 1.6 16V FLEXSTAR 2020/2021",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
     },
     {
-      "sku": "SP12501103159480",
-      "id_produto": "22688",
-      "nome": "PORTINHOLA DO TANQUE",
+      "sku": "SP12501103159033",
+      "id_produto": "22699",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
       "marca": "NISSAN",
-      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
+      "modelo_do_veiculo": null,
       "status": "Desabilitado",
       "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103159480",
+      "id_produto": "22688",
+      "nome": "PORTINHOLA DO TANQUE NISSAN KICKS SV 1.6 16V 2020/2021",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -738,6 +792,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
+    },
+    {
+      "sku": "SP42501003148075",
+      "id_produto": "20073",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "DUCATO MINIBUS 2.3 ME DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     }
   ],
   "itens_subidos_hoje": [
@@ -1114,6 +1180,18 @@
       "qtd_images": "5"
     },
     {
+      "sku": "SP12501099771036",
+      "id_produto": "22684",
+      "nome": "RADIADOR RENAULT DUSTER OROCH DYNA. 1.6 FLEX 16V MEC. 2017",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER OROCH DYNA. 1.6 FLEX 16V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
       "sku": "SP12501099771037",
       "id_produto": "22678",
       "nome": "RETROVISOR DIREITO RENAULT DUSTER OROCH 1.6 FLEX 16V 2017",
@@ -1136,6 +1214,54 @@
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501099771411",
+      "id_produto": "22685",
+      "nome": "ELETROVENTILADOR RENAULT DUSTER OROCH 1.6 FLEX 16V 2017",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER OROCH DYNA. 1.6 FLEX 16V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
+    },
+    {
+      "sku": "SP12501103159024",
+      "id_produto": "22686",
+      "nome": "MÓDULO DE INJEÇÃO NISSAN KICKS SV 1.6 16V FLEXSTAR 2020/2021",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501103159025",
+      "id_produto": "22687",
+      "nome": "MÓDULO DO CÂMBIO NISSAN KICKS SV 1.6 16V FLEXSTAR 2020/2021",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501103159480",
+      "id_produto": "22688",
+      "nome": "PORTINHOLA DO TANQUE NISSAN KICKS SV 1.6 16V 2020/2021",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501121858041",
@@ -3098,11 +3224,11 @@
     "SP12501103159025": {
       "sku": "SP12501103159025",
       "id_produto": "22687",
-      "nome": "MÓDULO DO CÂMBIO",
+      "nome": "MÓDULO DO CÂMBIO NISSAN KICKS SV 1.6 16V FLEXSTAR 2020/2021",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "7"
@@ -3122,11 +3248,11 @@
     "SP12501103159024": {
       "sku": "SP12501103159024",
       "id_produto": "22686",
-      "nome": "MÓDULO DE INJEÇÃO",
+      "nome": "MÓDULO DE INJEÇÃO NISSAN KICKS SV 1.6 16V FLEXSTAR 2020/2021",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "6"
@@ -3158,11 +3284,11 @@
     "SP12501099771036": {
       "sku": "SP12501099771036",
       "id_produto": "22684",
-      "nome": "RADIADOR",
+      "nome": "RADIADOR RENAULT DUSTER OROCH DYNA. 1.6 FLEX 16V MEC. 2017",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER OROCH DYNA. 1.6 FLEX 16V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -3170,11 +3296,11 @@
     "SP12501099771411": {
       "sku": "SP12501099771411",
       "id_produto": "22685",
-      "nome": "ELETROVENTILADOR",
+      "nome": "ELETROVENTILADOR RENAULT DUSTER OROCH 1.6 FLEX 16V 2017",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER OROCH DYNA. 1.6 FLEX 16V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -3182,11 +3308,11 @@
     "SP12501103159480": {
       "sku": "SP12501103159480",
       "id_produto": "22688",
-      "nome": "PORTINHOLA DO TANQUE",
+      "nome": "PORTINHOLA DO TANQUE NISSAN KICKS SV 1.6 16V 2020/2021",
       "marca": "NISSAN",
       "modelo_do_veiculo": "KICKS SV 1.6 16V FLEXSTAR 5P AUT.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "08",
       "qtd_images": "5"
@@ -3202,6 +3328,54 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "5"
+    },
+    "SP12501099771034": {
+      "sku": "SP12501099771034",
+      "id_produto": "22691",
+      "nome": "PORTA TRASEIRA DIREITA",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "7"
+    },
+    "SP12501103159033": {
+      "sku": "SP12501103159033",
+      "id_produto": "22699",
+      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": null,
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    "SP12501005408024": {
+      "sku": "SP12501005408024",
+      "id_produto": "21017",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "ARGO TREKKING 1.3 8V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "7"
+    },
+    "SP42501003148075": {
+      "sku": "SP42501003148075",
+      "id_produto": "20073",
+      "nome": "MÓDULO DE INJEÇÃO",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "DUCATO MINIBUS 2.3 ME DIESEL",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "6"
     }
   }
 }
