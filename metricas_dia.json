@@ -1,11 +1,11 @@
 {
   "data": "2026-10-09",
   "primeira_atualizacao": "09/10/2026 08:21:05",
-  "ultima_atualizacao": "09/10/2026 11:51:14",
+  "ultima_atualizacao": "09/10/2026 12:21:21",
   "total_base_dia": 139,
-  "total_atual": 127,
+  "total_atual": 125,
   "novos_produtos": 12,
-  "total_subidos": 24,
+  "total_subidos": 26,
   "skus_base_dia": [
     "SP12401016450039",
     "SP12401016450040",
@@ -320,6 +320,7 @@
     "SP12501014040032",
     "SP12501015616011",
     "SP12501015640048",
+    "SP12501016043001",
     "SP12501016116002",
     "SP12501016558002",
     "SP12501017309014",
@@ -338,7 +339,8 @@
     "SP12501122129035",
     "SP12501123583034",
     "SP32501000230956",
-    "SP32501000400121"
+    "SP32501000400121",
+    "SP32501002900121"
   ],
   "skus_subidos_status_ml_hoje": [
     "SP12501009861029",
@@ -346,6 +348,7 @@
     "SP12501014040032",
     "SP12501015616011",
     "SP12501015640048",
+    "SP12501016043001",
     "SP12501016116002",
     "SP12501016558002",
     "SP12501017309014",
@@ -364,7 +367,8 @@
     "SP12501122129035",
     "SP12501123583034",
     "SP32501000230956",
-    "SP32501000400121"
+    "SP32501000400121",
+    "SP32501002900121"
   ],
   "itens_novos_hoje": [
     {
@@ -382,11 +386,11 @@
     {
       "sku": "SP12501016043001",
       "id_produto": "3852",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR PUNTO ATTRACTIVE 1.4 FIRE FLEX 8V 5P 2011/2012",
       "marca": "FIAT",
       "modelo_do_veiculo": "PUNTO ATTRACTIVE 1.4 FIRE FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
@@ -571,6 +575,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501016043001",
+      "id_produto": "3852",
+      "nome": "ALTERNADOR PUNTO ATTRACTIVE 1.4 FIRE FLEX 8V 5P 2011/2012",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PUNTO ATTRACTIVE 1.4 FIRE FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
       "qtd_images": "8"
     },
     {
@@ -799,6 +815,18 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
+      "qtd_images": "9"
+    },
+    {
+      "sku": "SP32501002900121",
+      "id_produto": "19236",
+      "nome": "TURBINA RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 2020/2020",
+      "marca": "RAM",
+      "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
       "qtd_images": "9"
     }
   ],
@@ -1706,11 +1734,11 @@
     "SP32501002900121": {
       "sku": "SP32501002900121",
       "id_produto": "19236",
-      "nome": "TURBINA",
+      "nome": "TURBINA RAM 2500 LARAMIE 6.7 TDI CD 4X4 DIESEL 2020/2020",
       "marca": "RAM",
       "modelo_do_veiculo": "2500 LARAMIE 6.7 TDI CD 4X4 DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2582,11 +2610,11 @@
     "SP12501016043001": {
       "sku": "SP12501016043001",
       "id_produto": "3852",
-      "nome": "ALTERNADOR",
+      "nome": "ALTERNADOR PUNTO ATTRACTIVE 1.4 FIRE FLEX 8V 5P 2011/2012",
       "marca": "FIAT",
       "modelo_do_veiculo": "PUNTO ATTRACTIVE 1.4 FIRE FLEX 8V 5P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "8"
