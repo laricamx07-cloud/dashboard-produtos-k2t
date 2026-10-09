@@ -1,11 +1,11 @@
 {
   "data": "2026-10-09",
   "primeira_atualizacao": "09/10/2026 08:21:05",
-  "ultima_atualizacao": "09/10/2026 09:51:02",
+  "ultima_atualizacao": "09/10/2026 10:21:27",
   "total_base_dia": 139,
-  "total_atual": 139,
-  "novos_produtos": 5,
-  "total_subidos": 5,
+  "total_atual": 144,
+  "novos_produtos": 12,
+  "total_subidos": 7,
   "skus_base_dia": [
     "SP12401016450039",
     "SP12401016450040",
@@ -179,7 +179,13 @@
     "SP12501015900040",
     "SP12501015900041",
     "SP12501015900042",
+    "SP12501016043001",
+    "SP12501016116002",
     "SP12501016558002",
+    "SP12501016566002",
+    "SP12501016566003",
+    "SP12501016574002",
+    "SP12501016620014",
     "SP12501016620039",
     "SP12501016620040",
     "SP12501016620041",
@@ -201,6 +207,7 @@
     "SP12501041749400",
     "SP12501041919037",
     "SP12501041986040",
+    "SP12501042141020",
     "SP12501042346039",
     "SP12501042346040",
     "SP12501042346041",
@@ -295,24 +302,35 @@
   ],
   "skus_novos_hoje": [
     "SP12501009861029",
+    "SP12501016043001",
+    "SP12501016116002",
     "SP12501016558002",
+    "SP12501016566002",
+    "SP12501016566003",
+    "SP12501016574002",
+    "SP12501016620014",
     "SP12501016710014",
+    "SP12501042141020",
     "SP12501080507004",
     "SP32501002594842"
   ],
   "skus_subidos_hoje": [
+    "SP12501014040032",
     "SP12501017309014",
     "SP12501040858001",
     "SP12501055995004",
     "SP12501055995030",
-    "SP12501055995031"
+    "SP12501055995031",
+    "SP12501080760004"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501014040032",
     "SP12501017309014",
     "SP12501040858001",
     "SP12501055995004",
     "SP12501055995030",
-    "SP12501055995031"
+    "SP12501055995031",
+    "SP12501080760004"
   ],
   "itens_novos_hoje": [
     {
@@ -328,6 +346,30 @@
       "qtd_images": "6"
     },
     {
+      "sku": "SP12501016043001",
+      "id_produto": "3852",
+      "nome": "ALTERNADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PUNTO ATTRACTIVE 1.4 FIRE FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    {
+      "sku": "SP12501016116002",
+      "id_produto": "3862",
+      "nome": "BLOCO DO MOTOR",
+      "marca": "PSA",
+      "modelo_do_veiculo": "C3 GLX 1.4 GLX SONORA 1.4 FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "5",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501016558002",
       "id_produto": "3882",
       "nome": "BLOCO DO MOTOR",
@@ -340,6 +382,54 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501016566002",
+      "id_produto": "2815",
+      "nome": "BLOCO DO MOTOR",
+      "marca": "PSA",
+      "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501016566003",
+      "id_produto": "1387",
+      "nome": "CABEÇOTE COM VÁLVULAS",
+      "marca": "PSA",
+      "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501016574002",
+      "id_produto": "2817",
+      "nome": "BLOCO DO MOTOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "LINEA ESSENCE DUALOGIC 1.8 FLEX 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "5",
+      "qtd_images": "10"
+    },
+    {
+      "sku": "SP12501016620014",
+      "id_produto": "2014",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501016710014",
       "id_produto": "2841",
       "nome": "DIFERENCIAL EIXO TRASEIRO",
@@ -350,6 +440,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501042141020",
+      "id_produto": "21668",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER LTZ 1.2 TURBO 12V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     },
     {
       "sku": "SP12501080507004",
@@ -378,6 +480,18 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501014040032",
+      "id_produto": "21358",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT STRADA WORKING HARD 1.4 8V 2019",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CE",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "06",
+      "qtd_images": "8"
+    },
+    {
       "sku": "SP12501017309014",
       "id_produto": "2873",
       "nome": "DIFERENCIAL EIXO TRASEIRO JEEP RENEGADE LONGITUDE 2.0 15/16",
@@ -387,7 +501,7 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "6"
+      "qtd_images": "7"
     },
     {
       "sku": "SP12501040858001",
@@ -436,6 +550,18 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501080760004",
+      "id_produto": "20399",
+      "nome": "CÂMBIO MANUAL CHEVROLET ONIX HATCH LT 1.4 8V FLEXPOWER 2019",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "9"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -761,7 +887,7 @@
       "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
-      "qtd_images": "6"
+      "qtd_images": "7"
     },
     "SP12501017341039": {
       "sku": "SP12501017341039",
@@ -1126,11 +1252,11 @@
     "SP12501080760004": {
       "sku": "SP12501080760004",
       "id_produto": "20399",
-      "nome": "CÂMBIO MANUAL",
+      "nome": "CÂMBIO MANUAL CHEVROLET ONIX HATCH LT 1.4 8V FLEXPOWER 2019",
       "marca": "CHEVROLET",
       "modelo_do_veiculo": "ONIX HATCH LT 1.4 8V FLEXPOWER 5P MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
@@ -2062,11 +2188,11 @@
     "SP12501014040032": {
       "sku": "SP12501014040032",
       "id_produto": "21358",
-      "nome": "PORTA DIANTEIRA DIREITA",
+      "nome": "PORTA DIANTEIRA DIREITA FIAT STRADA WORKING HARD 1.4 8V 2019",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CE",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -2166,6 +2292,90 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
+    },
+    "SP12501016574002": {
+      "sku": "SP12501016574002",
+      "id_produto": "2817",
+      "nome": "BLOCO DO MOTOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "LINEA ESSENCE DUALOGIC 1.8 FLEX 16V 4P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "5",
+      "qtd_images": "10"
+    },
+    "SP12501016566003": {
+      "sku": "SP12501016566003",
+      "id_produto": "1387",
+      "nome": "CABEÇOTE COM VÁLVULAS",
+      "marca": "PSA",
+      "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
+    },
+    "SP12501016116002": {
+      "sku": "SP12501016116002",
+      "id_produto": "3862",
+      "nome": "BLOCO DO MOTOR",
+      "marca": "PSA",
+      "modelo_do_veiculo": "C3 GLX 1.4 GLX SONORA 1.4 FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "5",
+      "qtd_images": "10"
+    },
+    "SP12501016566002": {
+      "sku": "SP12501016566002",
+      "id_produto": "2815",
+      "nome": "BLOCO DO MOTOR",
+      "marca": "PSA",
+      "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P MEC",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    "SP12501016043001": {
+      "sku": "SP12501016043001",
+      "id_produto": "3852",
+      "nome": "ALTERNADOR",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "PUNTO ATTRACTIVE 1.4 FIRE FLEX 8V 5P",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "8"
+    },
+    "SP12501016620014": {
+      "sku": "SP12501016620014",
+      "id_produto": "2014",
+      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "GRAND CHEROKEE LIMITED 3.0 TB DIES. AUT",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    "SP12501042141020": {
+      "sku": "SP12501042141020",
+      "id_produto": "21668",
+      "nome": "LANTERNA TRASEIRA ESQUERDA",
+      "marca": "CHEVROLET",
+      "modelo_do_veiculo": "TRACKER LTZ 1.2 TURBO 12V FLEX AUT.",
+      "status": "Desabilitado",
+      "status_ml": null,
+      "quantidade": "1",
+      "classificacao": "08",
+      "qtd_images": "6"
     }
   }
 }
