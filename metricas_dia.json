@@ -1,11 +1,11 @@
 {
   "data": "2026-10-09",
   "primeira_atualizacao": "09/10/2026 08:21:05",
-  "ultima_atualizacao": "09/10/2026 13:51:12",
+  "ultima_atualizacao": "09/10/2026 14:03:40",
   "total_base_dia": 139,
-  "total_atual": 121,
+  "total_atual": 118,
   "novos_produtos": 16,
-  "total_subidos": 34,
+  "total_subidos": 37,
   "skus_base_dia": [
     "SP12401016450039",
     "SP12401016450040",
@@ -333,7 +333,9 @@
     "SP12501016043001",
     "SP12501016116002",
     "SP12501016558002",
+    "SP12501016566002",
     "SP12501016566003",
+    "SP12501016574002",
     "SP12501016620014",
     "SP12501017309014",
     "SP12501017449043",
@@ -350,6 +352,7 @@
     "SP12501080760004",
     "SP12501084723033",
     "SP12501084766035",
+    "SP12501099771010",
     "SP12501121858041",
     "SP12501122129035",
     "SP12501123583034",
@@ -369,7 +372,9 @@
     "SP12501016043001",
     "SP12501016116002",
     "SP12501016558002",
+    "SP12501016566002",
     "SP12501016566003",
+    "SP12501016574002",
     "SP12501016620014",
     "SP12501017309014",
     "SP12501017449043",
@@ -386,6 +391,7 @@
     "SP12501080760004",
     "SP12501084723033",
     "SP12501084766035",
+    "SP12501099771010",
     "SP12501121858041",
     "SP12501122129035",
     "SP12501123583034",
@@ -449,8 +455,8 @@
       "nome": "BLOCO DO MOTOR CITROEN C3 GLX 1.6 FLEX 2011/2012",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -470,11 +476,11 @@
     {
       "sku": "SP12501016574002",
       "id_produto": "2817",
-      "nome": "BLOCO DO MOTOR",
+      "nome": "BLOCO DO MOTOR FIAT LINEA ESSENCE DUALOGIC 1.8 2012/2013",
       "marca": "FIAT",
       "modelo_do_veiculo": "LINEA ESSENCE DUALOGIC 1.8 FLEX 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "10"
@@ -530,11 +536,11 @@
     {
       "sku": "SP12501099771010",
       "id_produto": "22676",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA RENAULT DUSTER OROCH DYNA. 1.6 FLEX 16V 2017",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER OROCH DYNA. 1.6 FLEX 16V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -710,6 +716,18 @@
       "qtd_images": "10"
     },
     {
+      "sku": "SP12501016566002",
+      "id_produto": "2815",
+      "nome": "BLOCO DO MOTOR CITROEN C3 GLX 1.6 FLEX 2011/2012",
+      "marca": "CITROEN",
+      "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P MEC",
+      "status": "Habilitado",
+      "status_ml": "paused",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "10"
+    },
+    {
       "sku": "SP12501016566003",
       "id_produto": "1387",
       "nome": "CABEÇOTE COM VÁLVULAS C3 PICASSO  GLX 1.6 FLEX 16V 5P 2011",
@@ -720,6 +738,18 @@
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
+    },
+    {
+      "sku": "SP12501016574002",
+      "id_produto": "2817",
+      "nome": "BLOCO DO MOTOR FIAT LINEA ESSENCE DUALOGIC 1.8 2012/2013",
+      "marca": "FIAT",
+      "modelo_do_veiculo": "LINEA ESSENCE DUALOGIC 1.8 FLEX 16V 4P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "5",
+      "qtd_images": "10"
     },
     {
       "sku": "SP12501016620014",
@@ -912,6 +942,18 @@
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501099771010",
+      "id_produto": "22676",
+      "nome": "CHAVE DE SETA RENAULT DUSTER OROCH DYNA. 1.6 FLEX 16V 2017",
+      "marca": "RENAULT",
+      "modelo_do_veiculo": "DUSTER OROCH DYNA. 1.6 FLEX 16V MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     },
     {
       "sku": "SP12501121858041",
@@ -2730,11 +2772,11 @@
     "SP12501016574002": {
       "sku": "SP12501016574002",
       "id_produto": "2817",
-      "nome": "BLOCO DO MOTOR",
+      "nome": "BLOCO DO MOTOR FIAT LINEA ESSENCE DUALOGIC 1.8 2012/2013",
       "marca": "FIAT",
       "modelo_do_veiculo": "LINEA ESSENCE DUALOGIC 1.8 FLEX 16V 4P",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "5",
       "qtd_images": "10"
@@ -2769,8 +2811,8 @@
       "nome": "BLOCO DO MOTOR CITROEN C3 GLX 1.6 FLEX 2011/2012",
       "marca": "CITROEN",
       "modelo_do_veiculo": "C3 PICASSO GLX 1.6 FLEX 16V 5P MEC",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "paused",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "10"
@@ -2838,11 +2880,11 @@
     "SP12501099771010": {
       "sku": "SP12501099771010",
       "id_produto": "22676",
-      "nome": "CHAVE DE SETA",
+      "nome": "CHAVE DE SETA RENAULT DUSTER OROCH DYNA. 1.6 FLEX 16V 2017",
       "marca": "RENAULT",
       "modelo_do_veiculo": "DUSTER OROCH DYNA. 1.6 FLEX 16V MEC.",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
