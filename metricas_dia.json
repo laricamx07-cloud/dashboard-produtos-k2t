@@ -1,11 +1,11 @@
 {
   "data": "2026-10-09",
   "primeira_atualizacao": "09/10/2026 08:21:05",
-  "ultima_atualizacao": "09/10/2026 08:50:57",
+  "ultima_atualizacao": "09/10/2026 09:21:05",
   "total_base_dia": 139,
-  "total_atual": 138,
+  "total_atual": 137,
   "novos_produtos": 1,
-  "total_subidos": 2,
+  "total_subidos": 3,
   "skus_base_dia": [
     "SP12401016450039",
     "SP12401016450040",
@@ -293,10 +293,12 @@
     "SP12501009861029"
   ],
   "skus_subidos_hoje": [
+    "SP12501017309014",
     "SP12501055995030",
     "SP12501055995031"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501017309014",
     "SP12501055995030",
     "SP12501055995031"
   ],
@@ -315,6 +317,18 @@
     }
   ],
   "itens_subidos_hoje": [
+    {
+      "sku": "SP12501017309014",
+      "id_produto": "2873",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP RENEGADE LONGITUDE 2.0 15/16",
+      "marca": "JEEP",
+      "modelo_do_veiculo": "RENEGADE LONGITUDE 2.0 4X4 TB DIESEL AUT",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "7",
+      "qtd_images": "6"
+    },
     {
       "sku": "SP12501055995030",
       "id_produto": "22655",
@@ -656,11 +670,11 @@
     "SP12501017309014": {
       "sku": "SP12501017309014",
       "id_produto": "2873",
-      "nome": "DIFERENCIAL EIXO TRASEIRO",
+      "nome": "DIFERENCIAL EIXO TRASEIRO JEEP RENEGADE LONGITUDE 2.0 15/16",
       "marca": "JEEP",
       "modelo_do_veiculo": "RENEGADE LONGITUDE 2.0 4X4 TB DIESEL AUT",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "7",
       "qtd_images": "6"
