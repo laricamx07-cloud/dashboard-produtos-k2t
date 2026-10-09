@@ -1,11 +1,11 @@
 {
   "data": "2026-10-09",
   "primeira_atualizacao": "09/10/2026 08:21:05",
-  "ultima_atualizacao": "09/10/2026 10:21:27",
+  "ultima_atualizacao": "09/10/2026 10:51:25",
   "total_base_dia": 139,
-  "total_atual": 144,
+  "total_atual": 138,
   "novos_produtos": 12,
-  "total_subidos": 7,
+  "total_subidos": 13,
   "skus_base_dia": [
     "SP12401016450039",
     "SP12401016450040",
@@ -315,22 +315,34 @@
     "SP32501002594842"
   ],
   "skus_subidos_hoje": [
+    "SP12501010835033",
     "SP12501014040032",
     "SP12501017309014",
     "SP12501040858001",
     "SP12501055995004",
     "SP12501055995030",
     "SP12501055995031",
-    "SP12501080760004"
+    "SP12501080760004",
+    "SP12501084723033",
+    "SP12501084766035",
+    "SP12501122129035",
+    "SP12501123583034",
+    "SP32501000230956"
   ],
   "skus_subidos_status_ml_hoje": [
+    "SP12501010835033",
     "SP12501014040032",
     "SP12501017309014",
     "SP12501040858001",
     "SP12501055995004",
     "SP12501055995030",
     "SP12501055995031",
-    "SP12501080760004"
+    "SP12501080760004",
+    "SP12501084723033",
+    "SP12501084766035",
+    "SP12501122129035",
+    "SP12501123583034",
+    "SP32501000230956"
   ],
   "itens_novos_hoje": [
     {
@@ -480,13 +492,25 @@
   ],
   "itens_subidos_hoje": [
     {
+      "sku": "SP12501010835033",
+      "id_produto": "8719",
+      "nome": "PORTA DIAN ESQUERDA NISSAN VERSA SV 1.6 16V FLEX 2015/2016",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "VERSA SV 1.6 16V FLEX FUEL 4P MEC.",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    {
       "sku": "SP12501014040032",
       "id_produto": "21358",
       "nome": "PORTA DIANTEIRA DIREITA FIAT STRADA WORKING HARD 1.4 8V 2019",
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CE",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
@@ -562,6 +586,66 @@
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "9"
+    },
+    {
+      "sku": "SP12501084723033",
+      "id_produto": "21410",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD KA GL 1.0I ZETEC ROCAM 2005/06",
+      "marca": "FORD",
+      "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "07",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501084766035",
+      "id_produto": "8656",
+      "nome": "PORTA TRASEIRA ESQUERDA PRETA NISSAN VERSA SL 1.6 2013/14",
+      "marca": "NISSAN",
+      "modelo_do_veiculo": "VERSA SL 1.6 16V FLEX FUEL 4P MEC",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501122129035",
+      "id_produto": "9006",
+      "nome": "PORTA TRASEIRA ESQ. PRATA PEUGEOT 207 SW XR 1.4 FLEX 2010/11",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "207 SW XR 1.4 FLEX 8V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "7"
+    },
+    {
+      "sku": "SP12501123583034",
+      "id_produto": "9492",
+      "nome": "PORTA TRASEIRA DIREITA PEUGEOT PARTNER ESCAPADE 1.6 2011",
+      "marca": "PEUGEOT",
+      "modelo_do_veiculo": "PARTNER ESCAPADE 1.6 FLEX 16V 5P",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "9",
+      "qtd_images": "6"
+    },
+    {
+      "sku": "SP32501000230956",
+      "id_produto": "21952",
+      "nome": "MOLDURA DA SOLEIRA PORTA TRASEIRA ESQUER RAM 3500 LIMITED",
+      "marca": "RAM",
+      "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
+      "status": "Habilitado",
+      "status_ml": "active",
+      "quantidade": "1",
+      "classificacao": "09",
+      "qtd_images": "5"
     }
   ],
   "detalhes_skus_vistos_hoje": {
@@ -1132,11 +1216,11 @@
     "SP32501000230956": {
       "sku": "SP32501000230956",
       "id_produto": "21952",
-      "nome": "MOLDURA DA SOLEIRA PORTA TRASEIRA ESQUER",
+      "nome": "MOLDURA DA SOLEIRA PORTA TRASEIRA ESQUER RAM 3500 LIMITED",
       "marca": "RAM",
       "modelo_do_veiculo": "3500 LIMITED LONGHORN 6.7 TB CD DIESEL",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "09",
       "qtd_images": "5"
@@ -1148,7 +1232,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "PARTNER ESCAPADE 1.6 FLEX 16V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "6"
@@ -1232,7 +1316,7 @@
       "marca": "NISSAN",
       "modelo_do_veiculo": "VERSA SL 1.6 16V FLEX FUEL 4P MEC",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -1432,11 +1516,11 @@
     "SP12501084723033": {
       "sku": "SP12501084723033",
       "id_produto": "21410",
-      "nome": "PORTA DIANTEIRA ESQUERDA",
+      "nome": "PORTA DIANTEIRA ESQUERDA FORD KA GL 1.0I ZETEC ROCAM 2005/06",
       "marca": "FORD",
       "modelo_do_veiculo": "KA GL 1.0I ZETEC ROCAM",
-      "status": "Desabilitado",
-      "status_ml": null,
+      "status": "Habilitado",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "07",
       "qtd_images": "7"
@@ -1700,7 +1784,7 @@
       "marca": "PEUGEOT",
       "modelo_do_veiculo": "207 SW XR 1.4 FLEX 8V 5P",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -2152,11 +2236,11 @@
     "SP12501010835033": {
       "sku": "SP12501010835033",
       "id_produto": "8719",
-      "nome": "PORTA DE NISSAN VERSA SV 1.6 16V FLEX 2015/2016",
+      "nome": "PORTA DIAN ESQUERDA NISSAN VERSA SV 1.6 16V FLEX 2015/2016",
       "marca": "NISSAN",
       "modelo_do_veiculo": "VERSA SV 1.6 16V FLEX FUEL 4P MEC.",
       "status": "Habilitado",
-      "status_ml": null,
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "9",
       "qtd_images": "7"
@@ -2192,7 +2276,7 @@
       "marca": "FIAT",
       "modelo_do_veiculo": "STRADA WORKING HARD 1.4 FIRE FLEX 8V CE",
       "status": "Habilitado",
-      "status_ml": "paused",
+      "status_ml": "active",
       "quantidade": "1",
       "classificacao": "06",
       "qtd_images": "8"
